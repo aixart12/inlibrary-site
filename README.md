@@ -88,6 +88,9 @@ Replace `<site>` with your live URL, for example `https://<your-username>.github
 | App content → Data safety → Delete account URL | `<site>/delete-account.html` |
 | Store listing → Website (optional) | `<site>/` |
 
+Google checks that the policy names the same developer as your Play listing. If your Play
+Console developer name is not `Dhruv Kumar`, change the publisher name in the pages to match it.
+
 Terms (`<site>/terms.html`) are not a Play Console field. Link them from the app or the store
 description if you want.
 
