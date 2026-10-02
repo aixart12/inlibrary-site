@@ -4,24 +4,35 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Page not found — InLibrary</title>
-    <meta name="color-scheme" content="light dark">
     <meta name="robots" content="noindex">
+    <meta name="theme-color" content="#fff3dc">
+    <link rel="icon" href="images/favicon.png" type="image/png">
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <header class="site-header">
-      <a class="brand" href="index.html">InLibrary</a>
+      <div class="container">
+        <a class="brand" href="index.html">
+          <span class="brand-mark">
+            <svg viewBox="0 0 100 100" aria-hidden="true"><path class="logo-book" d="M50 78 C41 70 28 68 16 70 V88 C28 86 41 88 50 94 Z"/><path class="logo-book" d="M50 78 C59 70 72 68 84 70 V88 C72 86 59 88 50 94 Z"/><path d="M50 14 C57 30 68 37 68 49 A18 18 0 0 1 32 49 C32 37 43 30 50 14 Z" fill="#FF6A00"/></svg>
+          </span>
+          InLibrary
+        </a>
+      </div>
     </header>
 
-    <main>
-      <h1>Page not found</h1>
-      <p>The page you are looking for doesn’t exist.</p>
-      <p>
-        <a href="index.html">Go to the home page</a> ·
-        <a href="privacy.html">Privacy Policy</a> ·
-        <a href="terms.html">Terms</a> ·
-        <a href="delete-account.html">Delete account</a>
-      </p>
+    <main class="not-found">
+      <div class="container">
+        <p class="big">404</p>
+        <h1>This page has gone dark.</h1>
+        <p>The page you are looking for doesn’t exist or has moved.</p>
+        <div class="button-row">
+          <a class="btn btn-primary" href="index.html">Go to the home page</a>
+          <a class="btn btn-ghost" href="privacy.html">Privacy policy</a>
+          <a class="btn btn-ghost" href="terms.html">Terms</a>
+          <a class="btn btn-ghost" href="delete-account.html">Delete account</a>
+        </div>
+      </div>
     </main>
   </body>
 </html>

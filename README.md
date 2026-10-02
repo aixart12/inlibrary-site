@@ -1,20 +1,46 @@
-# InLibrary legal site
+# InLibrary website
 
-The public website for the InLibrary Android app: privacy policy, terms and conditions, and
-the account deletion page that Google Play needs.
+The public website for the InLibrary Android app: a product landing page, plus the privacy
+policy, terms and conditions, and account deletion page that Google Play needs.
 
-It is plain HTML and CSS: no build step, no dependencies, no JavaScript. Edit a file, push it,
-and the host serves it as-is. Nothing here depends on the app's code.
+It is plain HTML and CSS: no build step, no dependencies, no JavaScript and no third-party
+requests (fonts and images are self-hosted). Edit a file, push it, and the host serves it as-is.
+Nothing here depends on the app's code.
 
 | File | What it is |
 |---|---|
-| `index.html` | Home page with links to the policies |
+| `index.html` | Landing page: hero, features, screenshots, privacy summary, policies, contact |
 | `privacy.html` | Privacy Policy (includes the India DPDP Act section and grievance officer) |
 | `terms.html` | Terms and Conditions (Indian law, users 13+) |
 | `delete-account.html` | How to delete an account and data, in the app or by email |
 | `404.html` | "Page not found" |
-| `style.css` | All styling, with light and dark mode. Colours are at the top. |
+| `style.css` | All styling, with light and dark mode. Brand colours are in `:root` at the top. |
+| `fonts/` | Plus Jakarta Sans, the app's font (SIL Open Font License, see `fonts/OFL.txt`) |
+| `images/` | App screenshots (`1-timer.webp` … `6-notes.webp`), favicon and touch icon |
 | `.nojekyll` | Tells GitHub Pages to serve the files as they are |
+
+## Common edits
+
+**Turn on the Google Play button after launch.** In `index.html`, replace the
+`<span class="store-pill">…</span>` block with a link using the same class:
+
+```html
+<a class="store-pill" href="https://play.google.com/store/apps/details?id=com.dhruv.inlibrary">
+  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3.5v17l14-8.5z" fill="#FF6A00"/></svg>
+  <span><small>Get it on</small><strong>Google Play</strong></span>
+</a>
+```
+
+**Replace screenshots.** Export new 1080×1920 PNGs, convert them to 540px-wide WebP, and keep
+the same file names (or update the `<img>` tags and their `alt` text in `index.html`):
+
+```bash
+npx --yes sharp-cli -i 1-timer.png -o images/1-timer.webp -f webp -q 80 resize 540
+```
+
+**Change features or marketing copy.** Edit the feature cards in `index.html`. Keep claims in
+line with `privacy.html`; for example, don't promise "nothing leaves your phone", because library
+features share a weekly total.
 
 ## Values to keep up to date
 
@@ -37,6 +63,9 @@ use find-and-replace across all `*.html` files.
 3. If the app starts collecting new data (for example analytics, crash reporting, payments or a new
    permission), update `privacy.html` **and** the Data safety form in Play Console. They must match.
 4. Commit and push. The host redeploys automatically.
+
+Each policy section's `<h2>` has an `id`, and the "On this page" list links to those ids. If
+you add or rename a section, update that list too.
 
 The header and footer are repeated in every page. If you add a page, copy an existing one and add
 links to it in the other pages' `<nav>` and footer.

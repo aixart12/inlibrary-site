@@ -3,60 +3,262 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>InLibrary — Study timer</title>
-    <meta name="description" content="InLibrary is a study timer for exam aspirants. Privacy policy, terms and account deletion.">
-    <meta name="color-scheme" content="light dark">
+    <title>InLibrary — Count the hours you actually studied</title>
+    <meta name="description" content="InLibrary is a study timer for exam aspirants: focus timer, syllabus planner, notes, streaks and study groups. Your study data stays on your phone.">
+    <meta name="theme-color" content="#fff3dc">
+    <meta property="og:title" content="InLibrary — Count the hours you actually studied">
+    <meta property="og:description" content="A study timer for exam aspirants: focus timer, planner, notes, streaks and study groups.">
+    <meta property="og:type" content="website">
+    <link rel="icon" href="images/favicon.png" type="image/png">
+    <link rel="apple-touch-icon" href="images/icon-180.png">
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
     <header class="site-header">
-      <a class="brand" href="index.html">InLibrary</a>
-      <nav aria-label="Site">
-        <a href="privacy.html">Privacy</a>
-        <a href="terms.html">Terms</a>
-        <a href="delete-account.html">Delete account</a>
-      </nav>
+      <div class="container">
+        <a class="brand" href="index.html">
+          <span class="brand-mark">
+            <svg viewBox="0 0 100 100" aria-hidden="true"><path class="logo-book" d="M50 78 C41 70 28 68 16 70 V88 C28 86 41 88 50 94 Z"/><path class="logo-book" d="M50 78 C59 70 72 68 84 70 V88 C72 86 59 88 50 94 Z"/><path d="M50 14 C57 30 68 37 68 49 A18 18 0 0 1 32 49 C32 37 43 30 50 14 Z" fill="#FF6A00"/></svg>
+          </span>
+          InLibrary
+        </a>
+        <nav class="site-nav" aria-label="Main">
+          <a href="#features">Features</a>
+          <a href="privacy.html">Privacy</a>
+          <a href="terms.html">Terms</a>
+          <a href="delete-account.html">Delete account</a>
+        </nav>
+      </div>
     </header>
 
-    <main>
-      <h1>InLibrary</h1>
-      <p class="updated">A study timer for exam aspirants</p>
+    <main id="main">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="container">
+          <div>
+            <p class="eyebrow">Study timer for exam aspirants</p>
+            <h1 id="hero-title">Count the hours you <em>actually</em> studied.</h1>
+            <p class="lead">
+              Plan your syllabus, run focused sessions against a daily goal, and watch Diya the
+              lamp glow brighter as you make real progress.
+            </p>
+            <div class="hero-actions">
+              <span class="store-pill">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3.5v17l14-8.5z" fill="#FF6A00"/></svg>
+                <span><small>Coming soon to</small><strong>Google Play</strong></span>
+              </span>
+              <a class="btn btn-ghost" href="#features">See features</a>
+            </div>
+            <div class="tags">
+              <span class="tag">Focus timer</span>
+              <span class="tag">Planner</span>
+              <span class="tag">Study groups</span>
+            </div>
+          </div>
 
-      <p>
-        InLibrary helps you count the hours you actually study. Plan your subjects and topics, run
-        focused study sessions against a daily goal, keep notes, look back at your history, and
-        study alongside friends in shared libraries.
-      </p>
-      <p>
-        Your sessions, planner and notes stay on your phone. Signing in and the Library tab are
-        optional.
-      </p>
+          <div class="hero-visual" aria-hidden="true">
+            <span class="float float-top"><span class="dot"></span>Physics <span class="muted">· running</span></span>
+            <div class="timer-card">
+              <svg viewBox="0 0 170 170">
+                <defs>
+                  <linearGradient id="flame" x1="0" y1="0" x2="0" y2="1">
+                    <stop offset="0" stop-color="#FFF4A8"/>
+                    <stop offset=".45" stop-color="#FFC93F"/>
+                    <stop offset="1" stop-color="#FF6A00"/>
+                  </linearGradient>
+                </defs>
+                <circle class="ring-track" cx="85" cy="85" r="74" fill="none" stroke-width="12"/>
+                <circle cx="85" cy="85" r="74" fill="none" stroke="#FF6A00" stroke-width="12" stroke-linecap="round" stroke-dasharray="465" stroke-dashoffset="98" transform="rotate(-90 85 85)"/>
+                <g transform="translate(35 22)">
+                  <path d="M50 14 C57 30 68 37 68 49 A18 18 0 0 1 32 49 C32 37 43 30 50 14 Z" transform="translate(-25 -10) scale(1.5)" fill="url(#flame)"/>
+                  <path class="logo-book" d="M50 78 C41 70 28 68 16 70 V88 C28 86 41 88 50 94 Z" transform="translate(0 4)"/>
+                  <path class="logo-book" d="M50 78 C59 70 72 68 84 70 V88 C72 86 59 88 50 94 Z" transform="translate(0 4)"/>
+                </g>
+              </svg>
+              <p class="eyebrow">Today</p>
+              <div class="time">1h 34m</div>
+              <div class="sub">of your 2h goal</div>
+            </div>
+            <span class="float float-bottom">
+              <svg viewBox="0 0 100 100" width="16" height="16"><path d="M50 8 C60 30 76 40 76 58 A26 26 0 0 1 24 58 C24 40 40 30 50 8 Z" fill="#FF6A00"/></svg>
+              17 day streak
+            </span>
+          </div>
+        </div>
+      </section>
 
-      <h2>Policies</h2>
-      <ul class="cards">
-        <li>
-          <a href="privacy.html"><strong>Privacy policy</strong><br>What data the app uses, where it is kept, and your rights.</a>
-        </li>
-        <li>
-          <a href="terms.html"><strong>Terms and conditions</strong><br>The rules for using InLibrary.</a>
-        </li>
-        <li>
-          <a href="delete-account.html"><strong>Delete your account</strong><br>How to delete your account and data, with or without the app.</a>
-        </li>
-      </ul>
+      <section class="section" id="features" aria-labelledby="features-title">
+        <div class="container">
+          <div class="section-head">
+            <p class="eyebrow">Features</p>
+            <h2 id="features-title">Everything you need for exam prep, in one quiet app.</h2>
+            <p>No feeds, no distractions. Just your plan, your timer and an honest record of the work you put in.</p>
+          </div>
+          <ul class="feature-grid">
+            <li class="feature">
+              <span class="icon"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2.5M9 2h6"/></svg></span>
+              <h3>Focus timer</h3>
+              <p>Only real study time counts. A focus timer with a gentle break buzz every 25 minutes, with Diya keeping you company.</p>
+            </li>
+            <li class="feature">
+              <span class="icon"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="17" rx="3"/><path d="M3 9h18M8 2v4M16 2v4M8 14l2.5 2.5L16 12"/></svg></span>
+              <h3>Syllabus planner</h3>
+              <p>Plan subjects and topics against an exam-day countdown, with today’s plan right on your home screen.</p>
+            </li>
+            <li class="feature">
+              <span class="icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3H7a3 3 0 0 0-3 3v12a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V9z"/><path d="M14 3v6h6M8 13h8M8 17h5"/></svg></span>
+              <h3>Notes for every subject</h3>
+              <p>Write quick notes, scan a page with your camera, or attach a photo, all tagged to the subject it belongs to.</p>
+            </li>
+            <li class="feature">
+              <span class="icon"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="5" height="5" rx="1"/><rect x="10" y="3" width="5" height="5" rx="1"/><rect x="17" y="3" width="4" height="5" rx="1"/><rect x="3" y="10" width="5" height="5" rx="1"/><rect x="10" y="10" width="5" height="5" rx="1"/><rect x="3" y="17" width="5" height="4" rx="1"/></svg></span>
+              <h3>History and streaks</h3>
+              <p>See every day you showed up on a heatmap, keep your streak alive, and check your hours by subject.</p>
+            </li>
+            <li class="feature">
+              <span class="icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2c2 4 6 6 6 11a6 6 0 0 1-12 0c0-5 4-7 6-11z"/><path d="M10 17h4"/></svg></span>
+              <h3>Diya’s lamp</h3>
+              <p>Earn oil for showing up, hitting your goal and finishing topics, then spend it to protect your streak on a missed day.</p>
+            </li>
+            <li class="feature">
+              <span class="icon"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20a6.5 6.5 0 0 1 13 0"/><path d="M16 4.5a3.5 3.5 0 0 1 0 7M18 14a6.5 6.5 0 0 1 3.5 6"/></svg></span>
+              <h3>Study with friends</h3>
+              <p>Create or join a library, see who is studying right now, and compare this week’s hours, if you want to.</p>
+            </li>
+          </ul>
+        </div>
+      </section>
 
-      <h2>Contact</h2>
-      <p>
-        InLibrary is developed by Dhruv Kumar. Questions or support:
-        <a href="mailto:yehdhruvkr@gmail.com">yehdhruvkr@gmail.com</a>
-      </p>
+      <section class="section" id="screenshots" aria-labelledby="shots-title">
+        <div class="container">
+          <div class="section-head">
+            <p class="eyebrow">A look inside</p>
+            <h2 id="shots-title">Warm, calm and built for long study days.</h2>
+          </div>
+        </div>
+        <ul class="gallery">
+          <li><img src="images/1-timer.webp" width="540" height="960" loading="lazy" alt="Focus timer at 18:47 with Diya the flame inside the progress ring. Only real study time counts."></li>
+          <li><img src="images/2-home.webp" width="540" height="960" loading="lazy" alt="Home screen with the exam countdown, today’s plan and hours per subject this week."></li>
+          <li><img src="images/3-planner.webp" width="540" height="960" loading="lazy" alt="Planner with a D-216 exam countdown, today’s topics and subject progress."></li>
+          <li><img src="images/4-history.webp" width="540" height="960" loading="lazy" alt="History screen with a 17-day streak, a 13-week heatmap and hours by subject."></li>
+          <li><img src="images/5-lamp.webp" width="540" height="960" loading="lazy" alt="Diya’s lamp: oil earned today, a 17-day streak, and a wick saver to spend oil on."></li>
+          <li><img src="images/6-notes.webp" width="540" height="960" loading="lazy" alt="Notes list with notes tagged Physics, Chemistry and Biology, and a search bar."></li>
+        </ul>
+        <div class="container">
+          <p class="hint">Swipe or scroll sideways to see more.</p>
+        </div>
+      </section>
+
+      <section class="section" id="privacy-first" aria-labelledby="privacy-title">
+        <div class="container">
+          <div class="band">
+            <div>
+              <p class="eyebrow">Private by default</p>
+              <h2 id="privacy-title">Your study data stays on your phone.</h2>
+              <p>
+                Sessions, plans, notes and photos are stored on your device. Signing in and
+                study groups are optional.
+              </p>
+              <a href="privacy.html">Read the privacy policy →</a>
+            </div>
+            <ul class="checks">
+              <li>
+                <svg viewBox="0 0 28 28" aria-hidden="true"><circle cx="14" cy="14" r="14" fill="#FF6A00"/><path d="M8 14.5l4 4 8-8.5" fill="none" stroke="#2B1608" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                <div><strong>Works without an account</strong><span>Timer, planner, notes and history all work offline.</span></div>
+              </li>
+              <li>
+                <svg viewBox="0 0 28 28" aria-hidden="true"><circle cx="14" cy="14" r="14" fill="#FF6A00"/><path d="M8 14.5l4 4 8-8.5" fill="none" stroke="#2B1608" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                <div><strong>No ads, no analytics, no tracking</strong><span>We never sell or rent your data.</span></div>
+              </li>
+              <li>
+                <svg viewBox="0 0 28 28" aria-hidden="true"><circle cx="14" cy="14" r="14" fill="#FF6A00"/><path d="M8 14.5l4 4 8-8.5" fill="none" stroke="#2B1608" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                <div><strong>Delete everything, any time</strong><span>Delete your account and data in the app or by email.</span></div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="policies" aria-labelledby="policies-title">
+        <div class="container">
+          <div class="section-head">
+            <p class="eyebrow">Legal</p>
+            <h2 id="policies-title">Policies, in plain language.</h2>
+          </div>
+          <ul class="card-grid">
+            <li>
+              <a class="link-card" href="privacy.html">
+                <strong>Privacy policy</strong>
+                <span>What data the app uses, where it is kept, and your rights.</span>
+                <span class="arrow">Read →</span>
+              </a>
+            </li>
+            <li>
+              <a class="link-card" href="terms.html">
+                <strong>Terms and conditions</strong>
+                <span>The rules for using InLibrary.</span>
+                <span class="arrow">Read →</span>
+              </a>
+            </li>
+            <li>
+              <a class="link-card" href="delete-account.html">
+                <strong>Delete your account</strong>
+                <span>How to delete your account and data, with or without the app.</span>
+                <span class="arrow">Read →</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="contact" aria-labelledby="contact-title">
+        <div class="container">
+          <h2 id="contact-title">Questions or feedback?</h2>
+          <p>InLibrary is built by Dhruv Kumar. Write in with questions, feedback or data requests.</p>
+          <a class="btn btn-primary" href="mailto:yehdhruvkr@gmail.com">yehdhruvkr@gmail.com</a>
+        </div>
+      </section>
     </main>
 
     <footer class="site-footer">
-      © 2026 Dhruv Kumar ·
-      <a href="privacy.html">Privacy</a> ·
-      <a href="terms.html">Terms</a> ·
-      <a href="delete-account.html">Delete account</a>
+      <div class="container">
+        <div class="footer-grid">
+          <div>
+            <a class="brand" href="index.html">
+              <span class="brand-mark">
+                <svg viewBox="0 0 100 100" aria-hidden="true"><path class="logo-book" d="M50 78 C41 70 28 68 16 70 V88 C28 86 41 88 50 94 Z"/><path class="logo-book" d="M50 78 C59 70 72 68 84 70 V88 C72 86 59 88 50 94 Z"/><path d="M50 14 C57 30 68 37 68 49 A18 18 0 0 1 32 49 C32 37 43 30 50 14 Z" fill="#FF6A00"/></svg>
+              </span>
+              InLibrary
+            </a>
+            <p>A study timer for exam aspirants. Count the hours you actually studied.</p>
+          </div>
+          <nav aria-label="Product">
+            <h2>Product</h2>
+            <ul>
+              <li><a href="index.html#features">Features</a></li>
+              <li><a href="index.html#screenshots">Screenshots</a></li>
+              <li><a href="index.html#privacy-first">Your privacy</a></li>
+            </ul>
+          </nav>
+          <nav aria-label="Legal">
+            <h2>Legal</h2>
+            <ul>
+              <li><a href="privacy.html">Privacy policy</a></li>
+              <li><a href="terms.html">Terms and conditions</a></li>
+              <li><a href="delete-account.html">Delete account</a></li>
+            </ul>
+          </nav>
+          <div>
+            <h2>Contact</h2>
+            <ul>
+              <li><a href="mailto:yehdhruvkr@gmail.com">yehdhruvkr@gmail.com</a></li>
+              <li>Dhruv Kumar, India</li>
+            </ul>
+          </div>
+        </div>
+        <p class="copyright">© 2026 Dhruv Kumar. All rights reserved.</p>
+      </div>
     </footer>
   </body>
 </html>
