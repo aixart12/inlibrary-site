@@ -252,21 +252,76 @@ code {
   color: var(--bg);
 }
 
-/* Phones: keep the menu on one row under the logo; it scrolls sideways if it ever runs out of room */
-@media (max-width: 559px) {
-  .site-nav {
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    width: calc(100% + 2 * var(--gutter));
-    margin: 0 calc(-1 * var(--gutter));
-    padding: 0 calc(var(--gutter) - 8px);
-    font-size: 0.9rem;
-    scrollbar-width: none;
-  }
-  .site-nav a {
-    padding: 6px 8px;
-    white-space: nowrap;
-  }
+/* Phone menu: a <details>, so it opens without JavaScript. Shown below 640px only. */
+
+.menu {
+  position: relative;
+  display: none;
+}
+
+.menu summary {
+  list-style: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 0 16px 0 14px;
+  border-radius: 999px;
+  border: 1px solid var(--border-strong);
+  background: var(--surface);
+  color: var(--ink);
+  font-weight: 700;
+  cursor: pointer;
+  user-select: none;
+}
+
+.menu summary::-webkit-details-marker {
+  display: none;
+}
+
+.menu summary svg {
+  width: 20px;
+  height: 20px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+}
+
+.menu[open] summary {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--bg);
+}
+
+.menu-panel {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 10px);
+  width: min(270px, calc(100vw - 2 * var(--gutter)));
+  display: grid;
+  gap: 2px;
+  padding: 8px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  box-shadow: var(--shadow-lg);
+}
+
+.menu-panel a {
+  display: flex;
+  align-items: center;
+  min-height: 48px;
+  padding: 0 14px;
+  border-radius: 12px;
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.menu-panel a:hover,
+.menu-panel a[aria-current='page'] {
+  background: var(--raised);
 }
 
 /* ---------- Buttons & pills ---------- */
@@ -1056,6 +1111,10 @@ pre {
   font-weight: 600;
 }
 
+.footer-grid .brand {
+  display: inline-flex;
+}
+
 .footer-grid a:hover {
   text-decoration: underline;
 }
@@ -1066,4 +1125,325 @@ pre {
   border-top: 1px solid var(--border);
   color: var(--ink-2);
   font-size: 0.875rem;
+}
+
+/* ---------- Back to top (legal pages) ---------- */
+
+.to-top-wrap {
+  margin: 40px 0 0;
+  text-align: center;
+}
+
+.to-top {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 0 18px;
+  border-radius: 999px;
+  border: 1px solid var(--border-strong);
+  background: var(--bg);
+  color: var(--ink);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.to-top::before {
+  content: '↑';
+}
+
+/* ---------- Phones (under 640px) ---------- */
+
+@media (max-width: 639px) {
+  html {
+    scroll-padding-top: 76px;
+  }
+
+  /* Header: one 60px row — logo left, Menu right */
+  .site-nav {
+    display: none;
+  }
+  .menu {
+    display: block;
+  }
+  .site-header .container {
+    flex-wrap: nowrap;
+    min-height: 60px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .brand {
+    min-height: 44px;
+  }
+  .brand-mark {
+    width: 36px;
+    height: 36px;
+  }
+
+  /* Hero: headline, pitch and primary action fit the first screen */
+  .hero {
+    padding: 28px 0 44px;
+  }
+  .hero::before {
+    right: -360px;
+    top: -260px;
+  }
+  .hero .container {
+    gap: 28px;
+  }
+  .hero h1 {
+    font-size: clamp(2.2rem, 10.5vw, 2.75rem);
+    margin-bottom: 14px;
+  }
+  .lead {
+    font-size: 1.05rem;
+    margin-bottom: 22px;
+  }
+  .hero-actions {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    margin-bottom: 18px;
+  }
+  .hero-actions .store-pill,
+  .hero-actions .btn {
+    justify-content: center;
+    min-height: 54px;
+  }
+  .tags {
+    gap: 6px;
+  }
+  .tag {
+    font-size: 0.85rem;
+    padding: 6px 12px;
+  }
+  .hero-visual {
+    width: min(100%, 300px);
+    padding: 22px 0;
+  }
+  .timer-card {
+    padding: 24px 20px 22px;
+    border-radius: 28px;
+  }
+  .timer-card svg {
+    width: 136px;
+    height: 136px;
+    margin-bottom: 8px;
+  }
+  .timer-card .time {
+    font-size: 2rem;
+  }
+  .float {
+    font-size: 0.82rem;
+    padding: 6px 12px;
+  }
+  .float-top {
+    left: 6px;
+  }
+  .float-bottom {
+    right: 6px;
+  }
+
+  /* Rhythm */
+  .section {
+    padding: 36px 0;
+  }
+  .section-head {
+    margin-bottom: 22px;
+  }
+  .section-head h2 {
+    font-size: clamp(1.65rem, 7.5vw, 2rem);
+  }
+  .section-head p {
+    font-size: 1rem;
+  }
+
+  /* Features: compact rows, icon on the left */
+  .feature-grid {
+    gap: 10px;
+  }
+  .feature {
+    display: grid;
+    grid-template-columns: 44px 1fr;
+    gap: 2px 14px;
+    padding: 16px 18px;
+    border-radius: 18px;
+  }
+  .feature .icon {
+    grid-row: span 2;
+    width: 44px;
+    height: 44px;
+    border-radius: 12px;
+  }
+  .feature h3 {
+    margin: 0;
+    font-size: 1.05rem;
+    align-self: end;
+  }
+  .feature p {
+    font-size: 0.95rem;
+    line-height: 1.55;
+  }
+
+  /* Screenshots */
+  .gallery {
+    gap: 14px;
+    padding-bottom: 16px;
+  }
+  .gallery li {
+    width: 66vw;
+  }
+  .gallery img {
+    border-radius: 20px;
+  }
+
+  /* Privacy band */
+  .band {
+    padding: 30px 22px;
+    gap: 24px;
+    border-radius: 24px;
+  }
+
+  /* Policy cards: compact rows with a trailing arrow */
+  .card-grid {
+    gap: 10px;
+  }
+  .link-card {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    gap: 2px 14px;
+    padding: 16px 18px;
+    border-radius: 18px;
+  }
+  .link-card strong {
+    margin: 0;
+    font-size: 1.02rem;
+  }
+  .link-card span {
+    grid-column: 1;
+    font-size: 0.92rem;
+  }
+  .link-card .arrow {
+    grid-column: 2;
+    grid-row: 1 / span 2;
+    margin: 0;
+    font-size: 0;
+  }
+  .link-card .arrow::after {
+    content: '→';
+    font-size: 1.3rem;
+  }
+
+  .contact {
+    padding: 4px 0 52px;
+  }
+  .contact .btn {
+    width: 100%;
+    justify-content: center;
+    min-height: 52px;
+  }
+
+  /* Legal pages: text starts on the first screen, full-width reading */
+  .page-hero {
+    padding: 24px 0 16px;
+  }
+  .page-hero::before {
+    top: -440px;
+  }
+  .page-hero h1 {
+    font-size: clamp(2rem, 9vw, 2.5rem);
+    margin-bottom: 6px;
+  }
+  .page-hero .updated {
+    display: block;
+    padding: 0;
+    background: none;
+    border: 0;
+    font-size: 0.85rem;
+  }
+  .doc-layout {
+    gap: 12px;
+    padding-bottom: 48px;
+  }
+  .toc {
+    padding: 0 16px;
+    border-radius: 14px;
+  }
+  .toc summary {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-height: 48px;
+    list-style: none;
+  }
+  .toc summary::-webkit-details-marker {
+    display: none;
+  }
+  .toc summary::after {
+    content: '';
+    margin-left: auto;
+    width: 9px;
+    height: 9px;
+    border-right: 2px solid currentColor;
+    border-bottom: 2px solid currentColor;
+    transform: translateY(-2px) rotate(45deg);
+  }
+  .toc[open] summary::after {
+    transform: translateY(2px) rotate(-135deg);
+  }
+  .toc ol {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  .toc li + li {
+    margin-top: 0;
+  }
+  .toc a {
+    display: block;
+    padding: 7px 0;
+  }
+  .doc {
+    background: none;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    padding: 0;
+    font-size: 1.0625rem;
+  }
+  .doc h2 {
+    font-size: 1.25rem;
+    margin-top: 32px;
+    padding-top: 20px;
+  }
+  .summary {
+    padding: 16px 18px;
+  }
+  th,
+  td {
+    padding: 10px 12px;
+  }
+
+  /* Footer: two columns */
+  .site-footer {
+    padding: 36px 0 28px;
+  }
+  .footer-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 28px 16px;
+  }
+  .footer-grid > :first-child,
+  .footer-grid > :last-child {
+    grid-column: 1 / -1;
+  }
+  .footer-grid li + li {
+    margin-top: 2px;
+  }
+  .footer-grid a {
+    display: inline-block;
+    padding: 6px 0;
+  }
+  .copyright {
+    margin-top: 24px;
+  }
 }

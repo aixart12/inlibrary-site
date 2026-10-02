@@ -3,9 +3,15 @@
 The public website for the InLibrary Android app: a product landing page, plus the privacy
 policy, terms and conditions, and account deletion page that Google Play needs.
 
-It is plain HTML and CSS: no build step, no dependencies, no JavaScript and no third-party
-requests (fonts and images are self-hosted). Edit a file, push it, and the host serves it as-is.
-Nothing here depends on the app's code.
+It is plain HTML and CSS: no build step, no dependencies and no third-party requests (fonts and
+images are self-hosted). Edit a file, push it, and the host serves it as-is. Nothing here
+depends on the app's code.
+
+The site is designed for phones first. Below 640px it gets a compact header with a **Menu**
+button, compact feature rows and full-width policy text (see the "Phones" section at the end of
+`style.css`). The menu and "On this page" lists are HTML `<details>` elements, so they work with
+JavaScript turned off. `site.js` only adds small touches: it closes the menu after a tap, and
+opens "On this page" automatically on wide screens.
 
 | File | What it is |
 |---|---|
@@ -15,6 +21,7 @@ Nothing here depends on the app's code.
 | `delete-account.html` | How to delete an account and data, in the app or by email |
 | `404.html` | "Page not found" |
 | `style.css` | All styling, with light and dark mode. Brand colours are in `:root` at the top. |
+| `site.js` | Optional enhancements (menu closing, table of contents open on desktop) |
 | `fonts/` | Plus Jakarta Sans, the app's font (SIL Open Font License, see `fonts/OFL.txt`) |
 | `images/` | App screenshots (`1-timer.webp` … `6-notes.webp`), favicon and touch icon |
 | `.nojekyll` | Tells GitHub Pages to serve the files as they are |
