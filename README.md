@@ -15,7 +15,7 @@ opens "On this page" automatically on wide screens.
 
 | File | What it is |
 |---|---|
-| `index.html` | Landing page: hero, features, screenshots, privacy summary, policies, contact |
+| `index.html` | Landing page: hero, features, screenshots, privacy summary, about us (team), policies, contact |
 | `privacy.html` | Privacy Policy (includes the India DPDP Act section and grievance officer) |
 | `terms.html` | Terms and Conditions (Indian law, users 13+) |
 | `delete-account.html` | How to delete an account and data, in the app or by email |
@@ -23,7 +23,7 @@ opens "On this page" automatically on wide screens.
 | `style.css` | All styling, with light and dark mode. Brand colours are in `:root` at the top. |
 | `site.js` | Optional enhancements (menu closing, table of contents open on desktop) |
 | `fonts/` | Plus Jakarta Sans, the app's font (SIL Open Font License, see `fonts/OFL.txt`) |
-| `images/` | App screenshots (`1-timer.webp` … `6-notes.webp`), favicon and touch icon |
+| `images/` | App screenshots (`1-timer.webp` … `6-notes.webp`), team portraits (`team-dhruv.webp`, `team-akshat.webp`), favicon and touch icon |
 | `.nojekyll` | Tells GitHub Pages to serve the files as they are |
 
 ## Common edits
@@ -44,6 +44,16 @@ the same file names (or update the `<img>` tags and their `alt` text in `index.h
 ```bash
 npx --yes sharp-cli -i 1-timer.png -o images/1-timer.webp -f webp -q 80 resize 540
 ```
+
+**Update the About us section.** Each team member is an `<li class="member">` in the `#about`
+section of `index.html`. Portraits are square 480×480 WebP head-and-shoulders crops, shown in a
+circle; keep a meaningful `alt` such as "Portrait of Dhruv Kumar":
+
+```bash
+npx --yes sharp-cli -i photo.png -o images/team-name.webp -f webp -q 80 resize 480 480
+```
+
+Crop the photo to a square first, and don't commit the full-size original.
 
 **Change features or marketing copy.** Edit the feature cards in `index.html`. Keep claims in
 line with `privacy.html`; for example, don't promise "nothing leaves your phone", because library
