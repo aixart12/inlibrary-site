@@ -1,0 +1,246 @@
+{
+  "exam": {
+    "slug": "bpsc-tre",
+    "name": "BPSC TRE (School Teacher Recruitment)",
+    "short_name": "BPSC TRE",
+    "kind": "exam",
+    "aliases": [
+      "bihar tre",
+      "tre",
+      "bpsc tre",
+      "bihar teacher",
+      "bihar shikshak",
+      "teacher",
+      "teaching"
+    ],
+    "category": "state-bihar",
+    "conducting_body": "Bihar Public Service Commission (BPSC)",
+    "stages": [
+      "Single written exam (OMR)",
+      "Document verification"
+    ],
+    "description": "Bihar school teacher recruitment. This library covers only the common parts (Language and General Studies). Add your own teaching-subject topics.",
+    "pattern_summary": "Expected (TRE 4.0, not yet confirmed): 150 MCQs, 2.5 h. Part I Language 30 (qualifying), Part II General Studies 40, Part III concerned subject 80.",
+    "official_url": "https://bpsc.bihar.gov.in",
+    "syllabus_source_url": "TRE 4.0 notification not yet confirmed; based on TRE 3.0 / secondary sources",
+    "syllabus_cycle": "TRE 4.0 (pending)",
+    "verified": false,
+    "verification_note": "TRE 4.0 official notification and syllabus could not be confirmed (exam was tentatively Sept 2026 in the BPSC calendar; secondary sources describe the pattern as 'expected'). Unpublished until Dhruv checks bpsc.bihar.gov.in.",
+    "priority_basis": "default (medium)",
+    "last_verified": "2026-10-11",
+    "version": 1,
+    "is_published": false,
+    "sort_order": 190
+  },
+  "subjects": [
+    {
+      "slug": "language-qualifying",
+      "name": "Language (Qualifying)",
+      "sort_order": 10,
+      "is_optional": false,
+      "notes": "Prepare the language you choose in the form.",
+      "topics": [
+        {
+          "slug": "hindi-grammar-spelling-error-detection",
+          "name": "Hindi: Grammar, Spelling, Error Detection",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "hindi-comprehension",
+          "name": "Hindi: Comprehension",
+          "sort_order": 20,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "english-grammar-and-vocabulary",
+          "name": "English: Grammar and Vocabulary",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "english-comprehension",
+          "name": "English: Comprehension",
+          "sort_order": 40,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "general-studies",
+      "name": "General Studies",
+      "sort_order": 20,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "elementary-mathematics",
+          "name": "Elementary Mathematics",
+          "sort_order": 10,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "mental-ability",
+          "name": "Mental Ability",
+          "sort_order": 20,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "general-awareness-and-current-affairs",
+          "name": "General Awareness and Current Affairs",
+          "sort_order": 30,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "general-science-physics-chemistry-biology",
+          "name": "General Science (Physics, Chemistry, Biology)",
+          "sort_order": 40,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "indian-national-movement",
+          "name": "Indian National Movement",
+          "sort_order": 50,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "social-science-geography-and-environment",
+          "name": "Social Science, Geography and Environment",
+          "sort_order": 60,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "slug": "full-syllabus",
+      "name": "Full syllabus + revision",
+      "description": "Covers every topic once, then revises, with a regular mock test day. Best when you have 2 months or more.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.6,
+          "revise": 0.2,
+          "mock": 0.2
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 2,
+        "mock_every_n_days": 5,
+        "hours_factor": 1.0,
+        "min_days": 45,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": null,
+        "mock_label": "Mock test",
+        "mock_hours": 2.5
+      },
+      "is_default": true,
+      "sort_order": 10,
+      "version": 1
+    },
+    {
+      "slug": "revision-only",
+      "name": "Revision only",
+      "description": "You have studied the syllabus before. Quick revision of every topic plus frequent mock tests.",
+      "rules": {
+        "mode": "revise_only",
+        "phases": {
+          "learn": 0.0,
+          "revise": 0.7,
+          "mock": 0.3
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 3,
+        "hours_factor": 0.35,
+        "min_days": 7,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": null,
+        "mock_label": "Mock test",
+        "mock_hours": 2.5
+      },
+      "is_default": false,
+      "sort_order": 20,
+      "version": 1
+    },
+    {
+      "slug": "crash-30",
+      "name": "Crash 30 days",
+      "description": "Important (high and medium priority) topics only, shortened, finishing in about 30 days.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.65,
+          "revise": 0.2,
+          "mock": 0.15
+        },
+        "include_priorities": [
+          "high",
+          "medium"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 5,
+        "hours_factor": 0.6,
+        "min_days": 10,
+        "target_days": 30,
+        "stages": null,
+        "daily_slot": null,
+        "mock_label": "Mock test",
+        "mock_hours": 2.5
+      },
+      "is_default": false,
+      "sort_order": 30,
+      "version": 1
+    }
+  ]
+}

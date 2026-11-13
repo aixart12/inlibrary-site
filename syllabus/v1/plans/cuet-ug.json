@@ -1,0 +1,529 @@
+{
+  "schema": 1,
+  "slug": "cuet-ug",
+  "kind": "exam",
+  "name": "CUET UG",
+  "short_name": "CUET",
+  "aliases": [
+    "cuet",
+    "cuet ug",
+    "central university",
+    "nta cuet",
+    "university entrance",
+    "du admission"
+  ],
+  "category": "entrance",
+  "subject_count": 9,
+  "topic_count": 89,
+  "version": 1,
+  "subjects": [
+    {
+      "slug": "english-language",
+      "name": "English (Language)",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "reading-comprehension-factual-narrative-literary",
+          "name": "Reading Comprehension: Factual, Narrative, Literary",
+          "sort_order": 10
+        },
+        {
+          "slug": "vocabulary-synonyms-antonyms-word-usage",
+          "name": "Vocabulary: Synonyms, Antonyms, Word Usage",
+          "sort_order": 20
+        },
+        {
+          "slug": "grammar-and-sentence-rearrangement",
+          "name": "Grammar and Sentence Rearrangement",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "general-test",
+      "name": "General Test",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "general-knowledge-and-current-affairs",
+          "name": "General Knowledge and Current Affairs",
+          "sort_order": 10
+        },
+        {
+          "slug": "general-mental-ability",
+          "name": "General Mental Ability",
+          "sort_order": 20
+        },
+        {
+          "slug": "numerical-ability-arithmetic-up-to-class-8",
+          "name": "Numerical Ability (Arithmetic up to Class 8)",
+          "sort_order": 30
+        },
+        {
+          "slug": "quantitative-reasoning-algebra-geometry-mensuration-statisti",
+          "name": "Quantitative Reasoning (Algebra, Geometry, Mensuration, Statistics basics)",
+          "sort_order": 40
+        },
+        {
+          "slug": "logical-and-analytical-reasoning",
+          "name": "Logical and Analytical Reasoning",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "physics-domain",
+      "name": "Physics (Domain)",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "electric-charges-and-fields",
+          "name": "Electric Charges and Fields",
+          "sort_order": 10
+        },
+        {
+          "slug": "electrostatic-potential-and-capacitance",
+          "name": "Electrostatic Potential and Capacitance",
+          "sort_order": 20
+        },
+        {
+          "slug": "current-electricity",
+          "name": "Current Electricity",
+          "sort_order": 30
+        },
+        {
+          "slug": "moving-charges-and-magnetism",
+          "name": "Moving Charges and Magnetism",
+          "sort_order": 40
+        },
+        {
+          "slug": "magnetism-and-matter",
+          "name": "Magnetism and Matter",
+          "sort_order": 50
+        },
+        {
+          "slug": "electromagnetic-induction",
+          "name": "Electromagnetic Induction",
+          "sort_order": 60
+        },
+        {
+          "slug": "alternating-current",
+          "name": "Alternating Current",
+          "sort_order": 70
+        },
+        {
+          "slug": "electromagnetic-waves",
+          "name": "Electromagnetic Waves",
+          "sort_order": 80
+        },
+        {
+          "slug": "ray-optics-and-optical-instruments",
+          "name": "Ray Optics and Optical Instruments",
+          "sort_order": 90
+        },
+        {
+          "slug": "wave-optics",
+          "name": "Wave Optics",
+          "sort_order": 100
+        },
+        {
+          "slug": "dual-nature-of-radiation-and-matter",
+          "name": "Dual Nature of Radiation and Matter",
+          "sort_order": 110
+        },
+        {
+          "slug": "atoms",
+          "name": "Atoms",
+          "sort_order": 120
+        },
+        {
+          "slug": "nuclei",
+          "name": "Nuclei",
+          "sort_order": 130
+        },
+        {
+          "slug": "semiconductor-electronics",
+          "name": "Semiconductor Electronics",
+          "sort_order": 140
+        }
+      ]
+    },
+    {
+      "slug": "chemistry-domain",
+      "name": "Chemistry (Domain)",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "solutions",
+          "name": "Solutions",
+          "sort_order": 10
+        },
+        {
+          "slug": "electrochemistry",
+          "name": "Electrochemistry",
+          "sort_order": 20
+        },
+        {
+          "slug": "chemical-kinetics",
+          "name": "Chemical Kinetics",
+          "sort_order": 30
+        },
+        {
+          "slug": "d-and-f-block-elements",
+          "name": "d- and f-Block Elements",
+          "sort_order": 40
+        },
+        {
+          "slug": "coordination-compounds",
+          "name": "Coordination Compounds",
+          "sort_order": 50
+        },
+        {
+          "slug": "haloalkanes-and-haloarenes",
+          "name": "Haloalkanes and Haloarenes",
+          "sort_order": 60
+        },
+        {
+          "slug": "alcohols-phenols-and-ethers",
+          "name": "Alcohols, Phenols and Ethers",
+          "sort_order": 70
+        },
+        {
+          "slug": "aldehydes-ketones-and-carboxylic-acids",
+          "name": "Aldehydes, Ketones and Carboxylic Acids",
+          "sort_order": 80
+        },
+        {
+          "slug": "amines",
+          "name": "Amines",
+          "sort_order": 90
+        },
+        {
+          "slug": "biomolecules",
+          "name": "Biomolecules",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "mathematics-domain",
+      "name": "Mathematics (Domain)",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "relations-and-functions",
+          "name": "Relations and Functions",
+          "sort_order": 10
+        },
+        {
+          "slug": "inverse-trigonometric-functions",
+          "name": "Inverse Trigonometric Functions",
+          "sort_order": 20
+        },
+        {
+          "slug": "matrices",
+          "name": "Matrices",
+          "sort_order": 30
+        },
+        {
+          "slug": "determinants",
+          "name": "Determinants",
+          "sort_order": 40
+        },
+        {
+          "slug": "continuity-and-differentiability",
+          "name": "Continuity and Differentiability",
+          "sort_order": 50
+        },
+        {
+          "slug": "application-of-derivatives",
+          "name": "Application of Derivatives",
+          "sort_order": 60
+        },
+        {
+          "slug": "integrals",
+          "name": "Integrals",
+          "sort_order": 70
+        },
+        {
+          "slug": "application-of-integrals",
+          "name": "Application of Integrals",
+          "sort_order": 80
+        },
+        {
+          "slug": "differential-equations",
+          "name": "Differential Equations",
+          "sort_order": 90
+        },
+        {
+          "slug": "vector-algebra",
+          "name": "Vector Algebra",
+          "sort_order": 100
+        },
+        {
+          "slug": "three-dimensional-geometry",
+          "name": "Three Dimensional Geometry",
+          "sort_order": 110
+        },
+        {
+          "slug": "linear-programming",
+          "name": "Linear Programming",
+          "sort_order": 120
+        },
+        {
+          "slug": "probability",
+          "name": "Probability",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "biology-domain",
+      "name": "Biology (Domain)",
+      "sort_order": 60,
+      "topics": [
+        {
+          "slug": "sexual-reproduction-in-flowering-plants",
+          "name": "Sexual Reproduction in Flowering Plants",
+          "sort_order": 10
+        },
+        {
+          "slug": "human-reproduction",
+          "name": "Human Reproduction",
+          "sort_order": 20
+        },
+        {
+          "slug": "reproductive-health",
+          "name": "Reproductive Health",
+          "sort_order": 30
+        },
+        {
+          "slug": "principles-of-inheritance-and-variation",
+          "name": "Principles of Inheritance and Variation",
+          "sort_order": 40
+        },
+        {
+          "slug": "molecular-basis-of-inheritance",
+          "name": "Molecular Basis of Inheritance",
+          "sort_order": 50
+        },
+        {
+          "slug": "evolution",
+          "name": "Evolution",
+          "sort_order": 60
+        },
+        {
+          "slug": "human-health-and-disease",
+          "name": "Human Health and Disease",
+          "sort_order": 70
+        },
+        {
+          "slug": "microbes-in-human-welfare",
+          "name": "Microbes in Human Welfare",
+          "sort_order": 80
+        },
+        {
+          "slug": "biotechnology-principles-and-processes",
+          "name": "Biotechnology: Principles and Processes",
+          "sort_order": 90
+        },
+        {
+          "slug": "biotechnology-and-its-applications",
+          "name": "Biotechnology and its Applications",
+          "sort_order": 100
+        },
+        {
+          "slug": "organisms-and-populations",
+          "name": "Organisms and Populations",
+          "sort_order": 110
+        },
+        {
+          "slug": "ecosystem",
+          "name": "Ecosystem",
+          "sort_order": 120
+        },
+        {
+          "slug": "biodiversity-and-conservation",
+          "name": "Biodiversity and Conservation",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "accountancy-domain",
+      "name": "Accountancy (Domain)",
+      "sort_order": 70,
+      "topics": [
+        {
+          "slug": "accounting-for-partnership-fundamentals",
+          "name": "Accounting for Partnership: Fundamentals",
+          "sort_order": 10
+        },
+        {
+          "slug": "change-in-profit-sharing-ratio",
+          "name": "Change in Profit-Sharing Ratio",
+          "sort_order": 20
+        },
+        {
+          "slug": "admission-of-a-partner",
+          "name": "Admission of a Partner",
+          "sort_order": 30
+        },
+        {
+          "slug": "retirement-and-death-of-a-partner",
+          "name": "Retirement and Death of a Partner",
+          "sort_order": 40
+        },
+        {
+          "slug": "dissolution-of-partnership-firm",
+          "name": "Dissolution of Partnership Firm",
+          "sort_order": 50
+        },
+        {
+          "slug": "accounting-for-share-capital",
+          "name": "Accounting for Share Capital",
+          "sort_order": 60
+        },
+        {
+          "slug": "issue-and-redemption-of-debentures",
+          "name": "Issue and Redemption of Debentures",
+          "sort_order": 70
+        },
+        {
+          "slug": "financial-statements-of-a-company",
+          "name": "Financial Statements of a Company",
+          "sort_order": 80
+        },
+        {
+          "slug": "analysis-of-financial-statements-comparative-and-common-size",
+          "name": "Analysis of Financial Statements (Comparative and Common Size)",
+          "sort_order": 90
+        },
+        {
+          "slug": "accounting-ratios",
+          "name": "Accounting Ratios",
+          "sort_order": 100
+        },
+        {
+          "slug": "cash-flow-statement",
+          "name": "Cash Flow Statement",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "business-studies-domain",
+      "name": "Business Studies (Domain)",
+      "sort_order": 80,
+      "topics": [
+        {
+          "slug": "nature-and-significance-of-management",
+          "name": "Nature and Significance of Management",
+          "sort_order": 10
+        },
+        {
+          "slug": "principles-of-management",
+          "name": "Principles of Management",
+          "sort_order": 20
+        },
+        {
+          "slug": "business-environment",
+          "name": "Business Environment",
+          "sort_order": 30
+        },
+        {
+          "slug": "planning",
+          "name": "Planning",
+          "sort_order": 40
+        },
+        {
+          "slug": "organising",
+          "name": "Organising",
+          "sort_order": 50
+        },
+        {
+          "slug": "staffing",
+          "name": "Staffing",
+          "sort_order": 60
+        },
+        {
+          "slug": "directing",
+          "name": "Directing",
+          "sort_order": 70
+        },
+        {
+          "slug": "controlling",
+          "name": "Controlling",
+          "sort_order": 80
+        },
+        {
+          "slug": "financial-management",
+          "name": "Financial Management",
+          "sort_order": 90
+        },
+        {
+          "slug": "financial-markets",
+          "name": "Financial Markets",
+          "sort_order": 100
+        },
+        {
+          "slug": "marketing-management",
+          "name": "Marketing Management",
+          "sort_order": 110
+        },
+        {
+          "slug": "consumer-protection",
+          "name": "Consumer Protection",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "economics-domain",
+      "name": "Economics (Domain)",
+      "sort_order": 90,
+      "topics": [
+        {
+          "slug": "macro-national-income-and-related-aggregates",
+          "name": "Macro: National Income and Related Aggregates",
+          "sort_order": 10
+        },
+        {
+          "slug": "macro-money-and-banking",
+          "name": "Macro: Money and Banking",
+          "sort_order": 20
+        },
+        {
+          "slug": "macro-determination-of-income-and-employment",
+          "name": "Macro: Determination of Income and Employment",
+          "sort_order": 30
+        },
+        {
+          "slug": "macro-government-budget-and-the-economy",
+          "name": "Macro: Government Budget and the Economy",
+          "sort_order": 40
+        },
+        {
+          "slug": "macro-balance-of-payments-and-foreign-exchange",
+          "name": "Macro: Balance of Payments and Foreign Exchange",
+          "sort_order": 50
+        },
+        {
+          "slug": "ied-development-experience-1947-90-and-economic-reforms-sinc",
+          "name": "IED: Development Experience (1947-90) and Economic Reforms since 1991",
+          "sort_order": 60
+        },
+        {
+          "slug": "ied-current-challenges-human-capital-rural-development-emplo",
+          "name": "IED: Current Challenges (Human Capital, Rural Development, Employment, Sustainable Development)",
+          "sort_order": 70
+        },
+        {
+          "slug": "ied-development-experiences-of-india-and-neighbours",
+          "name": "IED: Development Experiences of India and Neighbours",
+          "sort_order": 80
+        }
+      ]
+    }
+  ]
+}

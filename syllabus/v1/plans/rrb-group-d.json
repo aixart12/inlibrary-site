@@ -1,0 +1,260 @@
+{
+  "schema": 1,
+  "slug": "rrb-group-d",
+  "kind": "exam",
+  "name": "RRB Group D (Level 1)",
+  "short_name": "RRB Group D",
+  "aliases": [
+    "rrb group d",
+    "group d",
+    "rrb",
+    "railway",
+    "railway group d",
+    "level 1",
+    "track maintainer"
+  ],
+  "category": "railways",
+  "subject_count": 4,
+  "topic_count": 42,
+  "version": 1,
+  "subjects": [
+    {
+      "slug": "general-science",
+      "name": "General Science",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "physics-motion-force-laws-of-motion",
+          "name": "Physics: Motion, Force, Laws of Motion",
+          "sort_order": 10
+        },
+        {
+          "slug": "physics-work-energy-power-and-gravitation",
+          "name": "Physics: Work, Energy, Power and Gravitation",
+          "sort_order": 20
+        },
+        {
+          "slug": "physics-sound-waves-and-pressure",
+          "name": "Physics: Sound, Waves and Pressure",
+          "sort_order": 30
+        },
+        {
+          "slug": "physics-heat-and-light",
+          "name": "Physics: Heat and Light",
+          "sort_order": 40
+        },
+        {
+          "slug": "physics-electricity-and-magnetism",
+          "name": "Physics: Electricity and Magnetism",
+          "sort_order": 50
+        },
+        {
+          "slug": "physics-units-instruments-and-sources-of-energy",
+          "name": "Physics: Units, Instruments and Sources of Energy",
+          "sort_order": 60
+        },
+        {
+          "slug": "chemistry-matter-atoms-molecules-and-atomic-structure",
+          "name": "Chemistry: Matter, Atoms, Molecules and Atomic Structure",
+          "sort_order": 70
+        },
+        {
+          "slug": "chemistry-chemical-reactions-acids-bases-and-salts",
+          "name": "Chemistry: Chemical Reactions, Acids, Bases and Salts",
+          "sort_order": 80
+        },
+        {
+          "slug": "chemistry-periodic-classification-bonding-metals-and-non-met",
+          "name": "Chemistry: Periodic Classification, Bonding, Metals and Non-metals",
+          "sort_order": 90
+        },
+        {
+          "slug": "chemistry-carbon-compounds-oxidation-and-combustion",
+          "name": "Chemistry: Carbon Compounds, Oxidation and Combustion",
+          "sort_order": 100
+        },
+        {
+          "slug": "biology-classification-of-organisms-and-cell-biology",
+          "name": "Biology: Classification of Organisms and Cell Biology",
+          "sort_order": 110
+        },
+        {
+          "slug": "biology-plant-and-animal-tissues-photosynthesis-plant-hormon",
+          "name": "Biology: Plant and Animal Tissues, Photosynthesis, Plant Hormones",
+          "sort_order": 120
+        },
+        {
+          "slug": "biology-human-body-systems-nutrition-and-diseases",
+          "name": "Biology: Human Body Systems, Nutrition and Diseases",
+          "sort_order": 130
+        },
+        {
+          "slug": "biology-genetics-heredity-and-evolution",
+          "name": "Biology: Genetics, Heredity and Evolution",
+          "sort_order": 140
+        },
+        {
+          "slug": "biology-ecology-environment-and-pollution",
+          "name": "Biology: Ecology, Environment and Pollution",
+          "sort_order": 150
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "number-system-hcf-and-lcm",
+          "name": "Number System, HCF and LCM",
+          "sort_order": 10
+        },
+        {
+          "slug": "simplification-decimals-and-fractions",
+          "name": "Simplification, Decimals and Fractions",
+          "sort_order": 20
+        },
+        {
+          "slug": "ratio-and-proportion",
+          "name": "Ratio and Proportion",
+          "sort_order": 30
+        },
+        {
+          "slug": "percentage",
+          "name": "Percentage",
+          "sort_order": 40
+        },
+        {
+          "slug": "averages-and-ages",
+          "name": "Averages and Ages",
+          "sort_order": 50
+        },
+        {
+          "slug": "profit-loss-and-discount",
+          "name": "Profit, Loss and Discount",
+          "sort_order": 60
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 70
+        },
+        {
+          "slug": "time-and-work",
+          "name": "Time and Work",
+          "sort_order": 80
+        },
+        {
+          "slug": "time-speed-and-distance",
+          "name": "Time, Speed and Distance",
+          "sort_order": 90
+        },
+        {
+          "slug": "mensuration",
+          "name": "Mensuration",
+          "sort_order": 100
+        },
+        {
+          "slug": "elementary-algebra",
+          "name": "Elementary Algebra",
+          "sort_order": 110
+        },
+        {
+          "slug": "geometry-and-trigonometry",
+          "name": "Geometry and Trigonometry",
+          "sort_order": 120
+        },
+        {
+          "slug": "elementary-statistics-and-data-interpretation",
+          "name": "Elementary Statistics and Data Interpretation",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "general-intelligence-and-reasoning",
+      "name": "General Intelligence and Reasoning",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "analogy-and-classification",
+          "name": "Analogy and Classification",
+          "sort_order": 10
+        },
+        {
+          "slug": "number-and-alphabet-series",
+          "name": "Number and Alphabet Series",
+          "sort_order": 20
+        },
+        {
+          "slug": "coding-decoding",
+          "name": "Coding-Decoding",
+          "sort_order": 30
+        },
+        {
+          "slug": "mathematical-operations",
+          "name": "Mathematical Operations",
+          "sort_order": 40
+        },
+        {
+          "slug": "blood-relations-and-direction-sense",
+          "name": "Blood Relations and Direction Sense",
+          "sort_order": 50
+        },
+        {
+          "slug": "syllogism-and-venn-diagrams",
+          "name": "Syllogism and Venn Diagrams",
+          "sort_order": 60
+        },
+        {
+          "slug": "puzzles-and-seating-arrangement",
+          "name": "Puzzles and Seating Arrangement",
+          "sort_order": 70
+        },
+        {
+          "slug": "non-verbal-mirror-images-cubes-and-dice-paper-folding-figure",
+          "name": "Non-verbal: Mirror Images, Cubes and Dice, Paper Folding, Figure Matrix",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "general-awareness-and-current-affairs",
+      "name": "General Awareness and Current Affairs",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "current-affairs-national-and-international",
+          "name": "Current Affairs: National and International",
+          "sort_order": 10
+        },
+        {
+          "slug": "history-and-culture",
+          "name": "History and Culture",
+          "sort_order": 20
+        },
+        {
+          "slug": "geography",
+          "name": "Geography",
+          "sort_order": 30
+        },
+        {
+          "slug": "polity-and-constitution",
+          "name": "Polity and Constitution",
+          "sort_order": 40
+        },
+        {
+          "slug": "economy-and-government-policies",
+          "name": "Economy and Government Policies",
+          "sort_order": 50
+        },
+        {
+          "slug": "sports-awards-and-static-gk",
+          "name": "Sports, Awards and Static GK",
+          "sort_order": 60
+        }
+      ]
+    }
+  ]
+}

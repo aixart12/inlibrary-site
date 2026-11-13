@@ -1,0 +1,297 @@
+{
+  "schema": 1,
+  "slug": "ssc-chsl",
+  "kind": "exam",
+  "name": "SSC CHSL (Combined Higher Secondary Level)",
+  "short_name": "SSC CHSL",
+  "aliases": [
+    "ssc chsl",
+    "chsl",
+    "ssc",
+    "10+2",
+    "ldc",
+    "deo",
+    "combined higher secondary"
+  ],
+  "category": "central-govt",
+  "subject_count": 5,
+  "topic_count": 48,
+  "version": 1,
+  "subjects": [
+    {
+      "slug": "quantitative-aptitude",
+      "name": "Quantitative Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "number-system-and-simplification",
+          "name": "Number System and Simplification",
+          "sort_order": 10
+        },
+        {
+          "slug": "percentage",
+          "name": "Percentage",
+          "sort_order": 20
+        },
+        {
+          "slug": "ratio-proportion-and-partnership",
+          "name": "Ratio, Proportion and Partnership",
+          "sort_order": 30
+        },
+        {
+          "slug": "averages-mixtures-and-alligation",
+          "name": "Averages, Mixtures and Alligation",
+          "sort_order": 40
+        },
+        {
+          "slug": "profit-loss-and-discount",
+          "name": "Profit, Loss and Discount",
+          "sort_order": 50
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 60
+        },
+        {
+          "slug": "time-and-work-pipes-and-cisterns",
+          "name": "Time and Work, Pipes and Cisterns",
+          "sort_order": 70
+        },
+        {
+          "slug": "time-speed-and-distance",
+          "name": "Time, Speed and Distance",
+          "sort_order": 80
+        },
+        {
+          "slug": "algebra",
+          "name": "Algebra",
+          "sort_order": 90
+        },
+        {
+          "slug": "geometry-triangles-circles-quadrilaterals",
+          "name": "Geometry (Triangles, Circles, Quadrilaterals)",
+          "sort_order": 100
+        },
+        {
+          "slug": "mensuration-2d-and-3d",
+          "name": "Mensuration (2D and 3D)",
+          "sort_order": 110
+        },
+        {
+          "slug": "trigonometry-and-heights-and-distances",
+          "name": "Trigonometry and Heights and Distances",
+          "sort_order": 120
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "reasoning",
+      "name": "Reasoning",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "analogy-and-classification",
+          "name": "Analogy and Classification",
+          "sort_order": 10
+        },
+        {
+          "slug": "series-number-alphabet-figure",
+          "name": "Series (Number, Alphabet, Figure)",
+          "sort_order": 20
+        },
+        {
+          "slug": "coding-decoding",
+          "name": "Coding-Decoding",
+          "sort_order": 30
+        },
+        {
+          "slug": "blood-relations-and-direction-sense",
+          "name": "Blood Relations and Direction Sense",
+          "sort_order": 40
+        },
+        {
+          "slug": "order-ranking-and-seating-arrangement",
+          "name": "Order, Ranking and Seating Arrangement",
+          "sort_order": 50
+        },
+        {
+          "slug": "syllogism-and-venn-diagrams",
+          "name": "Syllogism and Venn Diagrams",
+          "sort_order": 60
+        },
+        {
+          "slug": "statement-conclusion-and-critical-thinking",
+          "name": "Statement-Conclusion and Critical Thinking",
+          "sort_order": 70
+        },
+        {
+          "slug": "mathematical-operations-and-missing-numbers",
+          "name": "Mathematical Operations and Missing Numbers",
+          "sort_order": 80
+        },
+        {
+          "slug": "non-verbal-mirror-and-water-images-paper-folding-embedded-fi",
+          "name": "Non-verbal: Mirror and Water Images, Paper Folding, Embedded Figures",
+          "sort_order": 90
+        },
+        {
+          "slug": "counting-figures-and-pattern-completion",
+          "name": "Counting Figures and Pattern Completion",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "english",
+      "name": "English",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 10
+        },
+        {
+          "slug": "cloze-test",
+          "name": "Cloze Test",
+          "sort_order": 20
+        },
+        {
+          "slug": "error-spotting-grammar-rules",
+          "name": "Error Spotting (Grammar Rules)",
+          "sort_order": 30
+        },
+        {
+          "slug": "sentence-improvement-and-fill-in-the-blanks",
+          "name": "Sentence Improvement and Fill in the Blanks",
+          "sort_order": 40
+        },
+        {
+          "slug": "synonyms-antonyms-and-spelling",
+          "name": "Synonyms, Antonyms and Spelling",
+          "sort_order": 50
+        },
+        {
+          "slug": "idioms-phrases-and-one-word-substitution",
+          "name": "Idioms, Phrases and One-word Substitution",
+          "sort_order": 60
+        },
+        {
+          "slug": "active-and-passive-voice",
+          "name": "Active and Passive Voice",
+          "sort_order": 70
+        },
+        {
+          "slug": "direct-and-indirect-speech",
+          "name": "Direct and Indirect Speech",
+          "sort_order": 80
+        },
+        {
+          "slug": "para-jumbles",
+          "name": "Para Jumbles",
+          "sort_order": 90
+        }
+      ]
+    },
+    {
+      "slug": "general-awareness",
+      "name": "General Awareness",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "ancient-and-medieval-indian-history",
+          "name": "Ancient and Medieval Indian History",
+          "sort_order": 10
+        },
+        {
+          "slug": "modern-history-and-freedom-struggle",
+          "name": "Modern History and Freedom Struggle",
+          "sort_order": 20
+        },
+        {
+          "slug": "indian-polity-and-constitution",
+          "name": "Indian Polity and Constitution",
+          "sort_order": 30
+        },
+        {
+          "slug": "indian-geography",
+          "name": "Indian Geography",
+          "sort_order": 40
+        },
+        {
+          "slug": "world-geography",
+          "name": "World Geography",
+          "sort_order": 50
+        },
+        {
+          "slug": "indian-economy-and-budget",
+          "name": "Indian Economy and Budget",
+          "sort_order": 60
+        },
+        {
+          "slug": "physics-everyday-science",
+          "name": "Physics (Everyday Science)",
+          "sort_order": 70
+        },
+        {
+          "slug": "chemistry-everyday-science",
+          "name": "Chemistry (Everyday Science)",
+          "sort_order": 80
+        },
+        {
+          "slug": "biology-and-health",
+          "name": "Biology and Health",
+          "sort_order": 90
+        },
+        {
+          "slug": "static-gk-art-culture-books-awards-important-days",
+          "name": "Static GK: Art, Culture, Books, Awards, Important Days",
+          "sort_order": 100
+        },
+        {
+          "slug": "current-affairs-last-6-to-12-months",
+          "name": "Current Affairs (last 6 to 12 months)",
+          "sort_order": 110
+        },
+        {
+          "slug": "government-schemes-and-reports",
+          "name": "Government Schemes and Reports",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "computer-knowledge-and-typing",
+      "name": "Computer Knowledge and Typing",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "computer-fundamentals-and-software",
+          "name": "Computer Fundamentals and Software",
+          "sort_order": 10
+        },
+        {
+          "slug": "ms-office-word-excel-powerpoint",
+          "name": "MS Office: Word, Excel, PowerPoint",
+          "sort_order": 20
+        },
+        {
+          "slug": "internet-email-networking-and-cyber-security",
+          "name": "Internet, Email, Networking and Cyber Security",
+          "sort_order": 30
+        },
+        {
+          "slug": "typing-practice-english-35-wpm-hindi-30-wpm",
+          "name": "Typing Practice (English 35 wpm / Hindi 30 wpm)",
+          "sort_order": 40
+        }
+      ]
+    }
+  ]
+}

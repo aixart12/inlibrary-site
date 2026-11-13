@@ -1,0 +1,410 @@
+{
+  "exam": {
+    "slug": "bpsc-cce-prelims",
+    "name": "BPSC Combined Competitive Exam (Prelims)",
+    "short_name": "BPSC Prelims",
+    "kind": "exam",
+    "aliases": [
+      "bpsc",
+      "bihar psc",
+      "bihar public service commission",
+      "cce",
+      "bihar civil services",
+      "70th bpsc"
+    ],
+    "category": "state-bihar",
+    "conducting_body": "Bihar Public Service Commission (BPSC)",
+    "stages": [
+      "Prelims",
+      "Mains",
+      "Interview"
+    ],
+    "description": "Bihar's state civil services. Prelims is one General Studies paper with a strong Bihar focus (history, geography, economy).",
+    "pattern_summary": "1 GS paper: 150 MCQs, 150 marks, 2 hours; qualifying for Mains. 72nd CCE prelims scheduled for Oct 2026 per BPSC calendar (reported postponed; check bpsc.bihar.gov.in).",
+    "official_url": "https://bpsc.bihar.gov.in",
+    "syllabus_source_url": "https://bpsc.bihar.gov.in (CCE advertisement, syllabus section)",
+    "syllabus_cycle": "72nd CCE (2026)",
+    "verified": true,
+    "verification_note": "Topic heads match the official CCE prelims syllabus as reproduced by multiple sources; negative marking rules change by cycle, check the advertisement.",
+    "priority_basis": "PYQ frequency trend (coaching analyses)",
+    "last_verified": "2026-10-11",
+    "version": 1,
+    "is_published": true,
+    "sort_order": 170
+  },
+  "subjects": [
+    {
+      "slug": "history",
+      "name": "History",
+      "sort_order": 10,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "ancient-india-with-magadha-mauryas-nalanda",
+          "name": "Ancient India (with Magadha, Mauryas, Nalanda)",
+          "sort_order": 10,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "medieval-india",
+          "name": "Medieval India",
+          "sort_order": 20,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "modern-india",
+          "name": "Modern India",
+          "sort_order": 30,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "national-movement-and-bihar-s-role-champaran-1942-leaders",
+          "name": "National Movement and Bihar's Role (Champaran, 1942, leaders)",
+          "sort_order": 40,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "bihar-history-and-culture",
+          "name": "Bihar History and Culture",
+          "sort_order": 50,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "geography",
+      "name": "Geography",
+      "sort_order": 20,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "physical-geography-world",
+          "name": "Physical Geography (World)",
+          "sort_order": 10,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "indian-geography",
+          "name": "Indian Geography",
+          "sort_order": 20,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "bihar-geography-physical-divisions-rivers-agriculture-minera",
+          "name": "Bihar Geography: Physical Divisions, Rivers, Agriculture, Minerals",
+          "sort_order": 30,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "polity",
+      "name": "Polity",
+      "sort_order": 30,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "constitution-and-fundamental-rights",
+          "name": "Constitution and Fundamental Rights",
+          "sort_order": 10,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "union-and-state-government",
+          "name": "Union and State Government",
+          "sort_order": 20,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "panchayati-raj-and-bihar-polity",
+          "name": "Panchayati Raj and Bihar Polity",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "economy",
+      "name": "Economy",
+      "sort_order": 40,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "indian-economy-basics",
+          "name": "Indian Economy Basics",
+          "sort_order": 10,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "bihar-economy-since-independence-and-bihar-economic-survey",
+          "name": "Bihar Economy since Independence and Bihar Economic Survey",
+          "sort_order": 20,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "planning-budget-and-government-schemes",
+          "name": "Planning, Budget and Government Schemes",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "general-science",
+      "name": "General Science",
+      "sort_order": 50,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "physics",
+          "name": "Physics",
+          "sort_order": 10,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "chemistry",
+          "name": "Chemistry",
+          "sort_order": 20,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "biology-and-health",
+          "name": "Biology and Health",
+          "sort_order": 30,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "current-affairs",
+      "name": "Current Affairs",
+      "sort_order": 60,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "national-and-international-current-affairs",
+          "name": "National and International Current Affairs",
+          "sort_order": 10,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "bihar-current-affairs",
+          "name": "Bihar Current Affairs",
+          "sort_order": 20,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "general-mental-ability",
+      "name": "General Mental Ability",
+      "sort_order": 70,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "arithmetic-percentage-ratio-average-interest-time-work",
+          "name": "Arithmetic (Percentage, Ratio, Average, Interest, Time-Work)",
+          "sort_order": 10,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "reasoning-series-coding-blood-relation-direction",
+          "name": "Reasoning (Series, Coding, Blood Relation, Direction)",
+          "sort_order": 20,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "slug": "full-syllabus",
+      "name": "Full syllabus + revision",
+      "description": "Covers every topic once, then revises, with a regular mock test day. Best when you have 2 months or more.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.6,
+          "revise": 0.2,
+          "mock": 0.2
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 5,
+        "hours_factor": 1.0,
+        "min_days": 45,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 2
+      },
+      "is_default": true,
+      "sort_order": 10,
+      "version": 1
+    },
+    {
+      "slug": "revision-only",
+      "name": "Revision only",
+      "description": "You have studied the syllabus before. Quick revision of every topic plus frequent mock tests.",
+      "rules": {
+        "mode": "revise_only",
+        "phases": {
+          "learn": 0.0,
+          "revise": 0.7,
+          "mock": 0.3
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 4,
+        "mock_every_n_days": 3,
+        "hours_factor": 0.35,
+        "min_days": 7,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 2
+      },
+      "is_default": false,
+      "sort_order": 20,
+      "version": 1
+    },
+    {
+      "slug": "crash-30",
+      "name": "Crash 30 days",
+      "description": "Important (high and medium priority) topics only, shortened, finishing in about 30 days.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.65,
+          "revise": 0.2,
+          "mock": 0.15
+        },
+        "include_priorities": [
+          "high",
+          "medium"
+        ],
+        "subjects_per_day": 4,
+        "mock_every_n_days": 5,
+        "hours_factor": 0.6,
+        "min_days": 10,
+        "target_days": 30,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 2
+      },
+      "is_default": false,
+      "sort_order": 30,
+      "version": 1
+    }
+  ]
+}

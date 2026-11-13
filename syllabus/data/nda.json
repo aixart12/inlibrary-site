@@ -1,0 +1,365 @@
+{
+  "exam": {
+    "slug": "nda",
+    "name": "UPSC NDA and NA",
+    "short_name": "NDA",
+    "kind": "exam",
+    "aliases": [
+      "nda",
+      "na",
+      "national defence academy",
+      "defence",
+      "army",
+      "navy",
+      "air force"
+    ],
+    "category": "defence",
+    "conducting_body": "Union Public Service Commission (UPSC)",
+    "stages": [
+      "Written (Maths + GAT)",
+      "SSB Interview",
+      "Medical"
+    ],
+    "description": "Entry to the Army, Navy and Air Force wings of NDA after Class 12. Two written papers, then the SSB interview.",
+    "pattern_summary": "Maths: 120 Qs, 300 marks, 2.5 h. GAT: 150 Qs, 600 marks (English 200, GK 400), 2.5 h. Negative marking. NDA (I) 2027: 11 Apr 2027; NDA (II) 2027: 19 Sep 2027.",
+    "official_url": "https://upsc.gov.in",
+    "syllabus_source_url": "https://upsc.gov.in (NDA and NA notification, syllabus appendix); UPSC calendar 2027",
+    "syllabus_cycle": "2027",
+    "verified": true,
+    "verification_note": "Syllabus heads follow the long-standing UPSC NDA syllabus; 2027 dates from the UPSC calendar as reported by secondary sources.",
+    "priority_basis": "PYQ frequency trend (coaching analyses)",
+    "last_verified": "2026-10-11",
+    "version": 1,
+    "is_published": true,
+    "sort_order": 200
+  },
+  "subjects": [
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 10,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "algebra-sets-complex-numbers-quadratics-progressions-logarit",
+          "name": "Algebra: Sets, Complex Numbers, Quadratics, Progressions, Logarithms",
+          "sort_order": 10,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "permutations-combinations-and-binomial-theorem",
+          "name": "Permutations, Combinations and Binomial Theorem",
+          "sort_order": 20,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "matrices-and-determinants",
+          "name": "Matrices and Determinants",
+          "sort_order": 30,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "trigonometry-incl-inverse-heights-and-distances",
+          "name": "Trigonometry (incl. Inverse, Heights and Distances)",
+          "sort_order": 40,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "analytical-geometry-2d-lines-circles-conics",
+          "name": "Analytical Geometry: 2D (Lines, Circles, Conics)",
+          "sort_order": 50,
+          "est_hours": 6.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "analytical-geometry-3d",
+          "name": "Analytical Geometry: 3D",
+          "sort_order": 60,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "differential-calculus-functions-limits-derivatives-maxima-mi",
+          "name": "Differential Calculus: Functions, Limits, Derivatives, Maxima-Minima",
+          "sort_order": 70,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "integral-calculus-and-differential-equations",
+          "name": "Integral Calculus and Differential Equations",
+          "sort_order": 80,
+          "est_hours": 7.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "vector-algebra",
+          "name": "Vector Algebra",
+          "sort_order": 90,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "statistics-and-probability",
+          "name": "Statistics and Probability",
+          "sort_order": 100,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "gat-english",
+      "name": "GAT: English",
+      "sort_order": 20,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "grammar-and-usage",
+          "name": "Grammar and Usage",
+          "sort_order": 10,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "vocabulary",
+          "name": "Vocabulary",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "comprehension-and-cohesion-in-extended-text",
+          "name": "Comprehension and Cohesion in Extended Text",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "gat-general-knowledge",
+      "name": "GAT: General Knowledge",
+      "sort_order": 30,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "physics",
+          "name": "Physics",
+          "sort_order": 10,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "chemistry",
+          "name": "Chemistry",
+          "sort_order": 20,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "general-science-biology",
+          "name": "General Science (Biology)",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "history-and-freedom-movement",
+          "name": "History and Freedom Movement",
+          "sort_order": 40,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "geography",
+          "name": "Geography",
+          "sort_order": 50,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "polity-and-economy",
+          "name": "Polity and Economy",
+          "sort_order": 60,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "current-events",
+          "name": "Current Events",
+          "sort_order": 70,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "slug": "full-syllabus",
+      "name": "Full syllabus + revision",
+      "description": "Covers every topic once, then revises, with a regular mock test day. Best when you have 2 months or more.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.7,
+          "revise": 0.2,
+          "mock": 0.1
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 2,
+        "mock_every_n_days": 7,
+        "hours_factor": 1.0,
+        "min_days": 45,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 5
+      },
+      "is_default": true,
+      "sort_order": 10,
+      "version": 1
+    },
+    {
+      "slug": "revision-only",
+      "name": "Revision only",
+      "description": "You have studied the syllabus before. Quick revision of every topic plus frequent mock tests.",
+      "rules": {
+        "mode": "revise_only",
+        "phases": {
+          "learn": 0.0,
+          "revise": 0.7,
+          "mock": 0.3
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 3,
+        "hours_factor": 0.35,
+        "min_days": 7,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 5
+      },
+      "is_default": false,
+      "sort_order": 20,
+      "version": 1
+    },
+    {
+      "slug": "crash-30",
+      "name": "Crash 30 days",
+      "description": "Important (high and medium priority) topics only, shortened, finishing in about 30 days.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.65,
+          "revise": 0.2,
+          "mock": 0.15
+        },
+        "include_priorities": [
+          "high",
+          "medium"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 5,
+        "hours_factor": 0.6,
+        "min_days": 10,
+        "target_days": 30,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 5
+      },
+      "is_default": false,
+      "sort_order": 30,
+      "version": 1
+    }
+  ]
+}

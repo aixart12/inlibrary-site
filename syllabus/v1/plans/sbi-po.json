@@ -1,0 +1,268 @@
+{
+  "schema": 1,
+  "slug": "sbi-po",
+  "kind": "exam",
+  "name": "SBI PO",
+  "short_name": "SBI PO",
+  "aliases": [
+    "sbi po",
+    "sbi",
+    "state bank of india",
+    "bank po",
+    "po",
+    "probationary officer",
+    "bank exam",
+    "banking"
+  ],
+  "category": "banking",
+  "subject_count": 5,
+  "topic_count": 42,
+  "version": 1,
+  "subjects": [
+    {
+      "slug": "quantitative-aptitude-and-data-interpretation",
+      "name": "Quantitative Aptitude and Data Interpretation",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "simplification-and-approximation",
+          "name": "Simplification and Approximation",
+          "sort_order": 10
+        },
+        {
+          "slug": "number-series-missing-and-wrong",
+          "name": "Number Series (Missing and Wrong)",
+          "sort_order": 20
+        },
+        {
+          "slug": "quadratic-equations-and-inequalities",
+          "name": "Quadratic Equations and Inequalities",
+          "sort_order": 30
+        },
+        {
+          "slug": "data-interpretation-table-bar-pie-line",
+          "name": "Data Interpretation: Table, Bar, Pie, Line",
+          "sort_order": 40
+        },
+        {
+          "slug": "caselet-and-missing-di",
+          "name": "Caselet and Missing DI",
+          "sort_order": 50
+        },
+        {
+          "slug": "arithmetic-percentage-ratio-average-ages",
+          "name": "Arithmetic: Percentage, Ratio, Average, Ages",
+          "sort_order": 60
+        },
+        {
+          "slug": "arithmetic-profit-and-loss-simple-and-compound-interest",
+          "name": "Arithmetic: Profit and Loss, Simple and Compound Interest",
+          "sort_order": 70
+        },
+        {
+          "slug": "arithmetic-time-and-work-pipes-and-cisterns",
+          "name": "Arithmetic: Time and Work, Pipes and Cisterns",
+          "sort_order": 80
+        },
+        {
+          "slug": "arithmetic-time-speed-distance-boats-and-trains",
+          "name": "Arithmetic: Time, Speed, Distance, Boats and Trains",
+          "sort_order": 90
+        },
+        {
+          "slug": "arithmetic-mixtures-alligation-and-partnership",
+          "name": "Arithmetic: Mixtures, Alligation and Partnership",
+          "sort_order": 100
+        },
+        {
+          "slug": "mensuration-probability-and-permutation-combination",
+          "name": "Mensuration, Probability and Permutation-Combination",
+          "sort_order": 110
+        },
+        {
+          "slug": "data-sufficiency-quant",
+          "name": "Data Sufficiency (Quant)",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "reasoning-and-computer-aptitude",
+      "name": "Reasoning and Computer Aptitude",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "puzzles-floor-box-scheduling",
+          "name": "Puzzles: Floor, Box, Scheduling",
+          "sort_order": 10
+        },
+        {
+          "slug": "seating-arrangement-linear-circular-square",
+          "name": "Seating Arrangement: Linear, Circular, Square",
+          "sort_order": 20
+        },
+        {
+          "slug": "syllogism",
+          "name": "Syllogism",
+          "sort_order": 30
+        },
+        {
+          "slug": "inequality-coded-and-direct",
+          "name": "Inequality (Coded and Direct)",
+          "sort_order": 40
+        },
+        {
+          "slug": "blood-relations",
+          "name": "Blood Relations",
+          "sort_order": 50
+        },
+        {
+          "slug": "direction-sense",
+          "name": "Direction Sense",
+          "sort_order": 60
+        },
+        {
+          "slug": "coding-decoding-new-pattern",
+          "name": "Coding-Decoding (New Pattern)",
+          "sort_order": 70
+        },
+        {
+          "slug": "order-ranking-and-alphanumeric-series",
+          "name": "Order, Ranking and Alphanumeric Series",
+          "sort_order": 80
+        },
+        {
+          "slug": "input-output",
+          "name": "Input-Output",
+          "sort_order": 90
+        },
+        {
+          "slug": "critical-reasoning-assumptions-inferences-course-of-action",
+          "name": "Critical Reasoning: Assumptions, Inferences, Course of Action",
+          "sort_order": 100
+        },
+        {
+          "slug": "data-sufficiency-reasoning",
+          "name": "Data Sufficiency (Reasoning)",
+          "sort_order": 110
+        },
+        {
+          "slug": "computer-aptitude",
+          "name": "Computer Aptitude",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "english-language",
+      "name": "English Language",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 10
+        },
+        {
+          "slug": "cloze-test",
+          "name": "Cloze Test",
+          "sort_order": 20
+        },
+        {
+          "slug": "error-detection",
+          "name": "Error Detection",
+          "sort_order": 30
+        },
+        {
+          "slug": "fillers-single-and-double",
+          "name": "Fillers (Single and Double)",
+          "sort_order": 40
+        },
+        {
+          "slug": "para-jumbles-and-sentence-rearrangement",
+          "name": "Para Jumbles and Sentence Rearrangement",
+          "sort_order": 50
+        },
+        {
+          "slug": "word-usage-and-vocabulary",
+          "name": "Word Usage and Vocabulary",
+          "sort_order": 60
+        },
+        {
+          "slug": "phrase-replacement-and-sentence-improvement",
+          "name": "Phrase Replacement and Sentence Improvement",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "general-economy-and-banking-awareness",
+      "name": "General, Economy and Banking Awareness",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "banking-awareness-history-types-of-banks-rbi-functions",
+          "name": "Banking Awareness: History, Types of Banks, RBI Functions",
+          "sort_order": 10
+        },
+        {
+          "slug": "rbi-monetary-policy-circulars-and-regulators",
+          "name": "RBI Monetary Policy, Circulars and Regulators",
+          "sort_order": 20
+        },
+        {
+          "slug": "financial-awareness-markets-insurance-financial-institutions",
+          "name": "Financial Awareness: Markets, Insurance, Financial Institutions",
+          "sort_order": 30
+        },
+        {
+          "slug": "digital-banking-and-payment-systems",
+          "name": "Digital Banking and Payment Systems",
+          "sort_order": 40
+        },
+        {
+          "slug": "indian-economy-and-union-budget",
+          "name": "Indian Economy and Union Budget",
+          "sort_order": 50
+        },
+        {
+          "slug": "government-schemes",
+          "name": "Government Schemes",
+          "sort_order": 60
+        },
+        {
+          "slug": "current-affairs-last-6-months",
+          "name": "Current Affairs (last 6 months)",
+          "sort_order": 70
+        },
+        {
+          "slug": "static-gk-capitals-currencies-headquarters-parks-dams",
+          "name": "Static GK: Capitals, Currencies, Headquarters, Parks, Dams",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "descriptive-writing",
+      "name": "Descriptive Writing",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "email-and-report-writing",
+          "name": "Email and Report Writing",
+          "sort_order": 10
+        },
+        {
+          "slug": "situation-analysis",
+          "name": "Situation Analysis",
+          "sort_order": 20
+        },
+        {
+          "slug": "precis-writing",
+          "name": "Precis Writing",
+          "sort_order": 30
+        }
+      ]
+    }
+  ]
+}

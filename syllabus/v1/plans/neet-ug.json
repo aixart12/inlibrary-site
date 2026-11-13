@@ -1,0 +1,463 @@
+{
+  "schema": 1,
+  "slug": "neet-ug",
+  "kind": "exam",
+  "name": "NEET UG",
+  "short_name": "NEET",
+  "aliases": [
+    "neet",
+    "neet ug",
+    "medical",
+    "mbbs",
+    "nta neet"
+  ],
+  "category": "entrance",
+  "subject_count": 4,
+  "topic_count": 83,
+  "version": 1,
+  "subjects": [
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "units-and-measurement",
+          "name": "Units and Measurement",
+          "sort_order": 10
+        },
+        {
+          "slug": "motion-in-a-straight-line",
+          "name": "Motion in a Straight Line",
+          "sort_order": 20
+        },
+        {
+          "slug": "motion-in-a-plane",
+          "name": "Motion in a Plane",
+          "sort_order": 30
+        },
+        {
+          "slug": "laws-of-motion",
+          "name": "Laws of Motion",
+          "sort_order": 40
+        },
+        {
+          "slug": "work-energy-and-power",
+          "name": "Work, Energy and Power",
+          "sort_order": 50
+        },
+        {
+          "slug": "system-of-particles-and-rotational-motion",
+          "name": "System of Particles and Rotational Motion",
+          "sort_order": 60
+        },
+        {
+          "slug": "gravitation",
+          "name": "Gravitation",
+          "sort_order": 70
+        },
+        {
+          "slug": "mechanical-properties-of-solids",
+          "name": "Mechanical Properties of Solids",
+          "sort_order": 80
+        },
+        {
+          "slug": "mechanical-properties-of-fluids",
+          "name": "Mechanical Properties of Fluids",
+          "sort_order": 90
+        },
+        {
+          "slug": "thermal-properties-of-matter",
+          "name": "Thermal Properties of Matter",
+          "sort_order": 100
+        },
+        {
+          "slug": "thermodynamics",
+          "name": "Thermodynamics",
+          "sort_order": 110
+        },
+        {
+          "slug": "kinetic-theory-of-gases",
+          "name": "Kinetic Theory of Gases",
+          "sort_order": 120
+        },
+        {
+          "slug": "oscillations",
+          "name": "Oscillations",
+          "sort_order": 130
+        },
+        {
+          "slug": "waves",
+          "name": "Waves",
+          "sort_order": 140
+        },
+        {
+          "slug": "electric-charges-and-fields",
+          "name": "Electric Charges and Fields",
+          "sort_order": 150
+        },
+        {
+          "slug": "electrostatic-potential-and-capacitance",
+          "name": "Electrostatic Potential and Capacitance",
+          "sort_order": 160
+        },
+        {
+          "slug": "current-electricity",
+          "name": "Current Electricity",
+          "sort_order": 170
+        },
+        {
+          "slug": "moving-charges-and-magnetism",
+          "name": "Moving Charges and Magnetism",
+          "sort_order": 180
+        },
+        {
+          "slug": "magnetism-and-matter",
+          "name": "Magnetism and Matter",
+          "sort_order": 190
+        },
+        {
+          "slug": "electromagnetic-induction",
+          "name": "Electromagnetic Induction",
+          "sort_order": 200
+        },
+        {
+          "slug": "alternating-current",
+          "name": "Alternating Current",
+          "sort_order": 210
+        },
+        {
+          "slug": "electromagnetic-waves",
+          "name": "Electromagnetic Waves",
+          "sort_order": 220
+        },
+        {
+          "slug": "ray-optics-and-optical-instruments",
+          "name": "Ray Optics and Optical Instruments",
+          "sort_order": 230
+        },
+        {
+          "slug": "wave-optics",
+          "name": "Wave Optics",
+          "sort_order": 240
+        },
+        {
+          "slug": "dual-nature-of-radiation-and-matter",
+          "name": "Dual Nature of Radiation and Matter",
+          "sort_order": 250
+        },
+        {
+          "slug": "atoms",
+          "name": "Atoms",
+          "sort_order": 260
+        },
+        {
+          "slug": "nuclei",
+          "name": "Nuclei",
+          "sort_order": 270
+        },
+        {
+          "slug": "semiconductor-electronics",
+          "name": "Semiconductor Electronics",
+          "sort_order": 280
+        },
+        {
+          "slug": "experimental-skills-practicals",
+          "name": "Experimental Skills (Practicals)",
+          "sort_order": 290
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "some-basic-concepts-of-chemistry-mole-concept",
+          "name": "Some Basic Concepts of Chemistry (Mole Concept)",
+          "sort_order": 10
+        },
+        {
+          "slug": "structure-of-atom",
+          "name": "Structure of Atom",
+          "sort_order": 20
+        },
+        {
+          "slug": "classification-of-elements-and-periodicity",
+          "name": "Classification of Elements and Periodicity",
+          "sort_order": 30
+        },
+        {
+          "slug": "chemical-bonding-and-molecular-structure",
+          "name": "Chemical Bonding and Molecular Structure",
+          "sort_order": 40
+        },
+        {
+          "slug": "chemical-thermodynamics",
+          "name": "Chemical Thermodynamics",
+          "sort_order": 50
+        },
+        {
+          "slug": "equilibrium-chemical-and-ionic",
+          "name": "Equilibrium (Chemical and Ionic)",
+          "sort_order": 60
+        },
+        {
+          "slug": "redox-reactions",
+          "name": "Redox Reactions",
+          "sort_order": 70
+        },
+        {
+          "slug": "solutions",
+          "name": "Solutions",
+          "sort_order": 80
+        },
+        {
+          "slug": "electrochemistry",
+          "name": "Electrochemistry",
+          "sort_order": 90
+        },
+        {
+          "slug": "chemical-kinetics",
+          "name": "Chemical Kinetics",
+          "sort_order": 100
+        },
+        {
+          "slug": "p-block-elements-groups-13-and-14",
+          "name": "p-Block Elements (Groups 13 and 14)",
+          "sort_order": 110
+        },
+        {
+          "slug": "p-block-elements-groups-15-to-18",
+          "name": "p-Block Elements (Groups 15 to 18)",
+          "sort_order": 120
+        },
+        {
+          "slug": "d-and-f-block-elements",
+          "name": "d- and f-Block Elements",
+          "sort_order": 130
+        },
+        {
+          "slug": "coordination-compounds",
+          "name": "Coordination Compounds",
+          "sort_order": 140
+        },
+        {
+          "slug": "organic-chemistry-basic-principles-purification-and-characte",
+          "name": "Organic Chemistry: Basic Principles, Purification and Characterisation",
+          "sort_order": 150
+        },
+        {
+          "slug": "hydrocarbons",
+          "name": "Hydrocarbons",
+          "sort_order": 160
+        },
+        {
+          "slug": "haloalkanes-and-haloarenes",
+          "name": "Haloalkanes and Haloarenes",
+          "sort_order": 170
+        },
+        {
+          "slug": "alcohols-phenols-and-ethers",
+          "name": "Alcohols, Phenols and Ethers",
+          "sort_order": 180
+        },
+        {
+          "slug": "aldehydes-ketones-and-carboxylic-acids",
+          "name": "Aldehydes, Ketones and Carboxylic Acids",
+          "sort_order": 190
+        },
+        {
+          "slug": "amines-organic-compounds-containing-nitrogen",
+          "name": "Amines (Organic Compounds Containing Nitrogen)",
+          "sort_order": 200
+        },
+        {
+          "slug": "biomolecules",
+          "name": "Biomolecules",
+          "sort_order": 210
+        },
+        {
+          "slug": "principles-related-to-practical-chemistry",
+          "name": "Principles Related to Practical Chemistry",
+          "sort_order": 220
+        }
+      ]
+    },
+    {
+      "slug": "botany",
+      "name": "Botany",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "the-living-world",
+          "name": "The Living World",
+          "sort_order": 10
+        },
+        {
+          "slug": "biological-classification",
+          "name": "Biological Classification",
+          "sort_order": 20
+        },
+        {
+          "slug": "plant-kingdom",
+          "name": "Plant Kingdom",
+          "sort_order": 30
+        },
+        {
+          "slug": "morphology-of-flowering-plants",
+          "name": "Morphology of Flowering Plants",
+          "sort_order": 40
+        },
+        {
+          "slug": "anatomy-of-flowering-plants",
+          "name": "Anatomy of Flowering Plants",
+          "sort_order": 50
+        },
+        {
+          "slug": "cell-the-unit-of-life",
+          "name": "Cell: The Unit of Life",
+          "sort_order": 60
+        },
+        {
+          "slug": "cell-cycle-and-cell-division",
+          "name": "Cell Cycle and Cell Division",
+          "sort_order": 70
+        },
+        {
+          "slug": "photosynthesis-in-higher-plants",
+          "name": "Photosynthesis in Higher Plants",
+          "sort_order": 80
+        },
+        {
+          "slug": "respiration-in-plants",
+          "name": "Respiration in Plants",
+          "sort_order": 90
+        },
+        {
+          "slug": "plant-growth-and-development",
+          "name": "Plant Growth and Development",
+          "sort_order": 100
+        },
+        {
+          "slug": "sexual-reproduction-in-flowering-plants",
+          "name": "Sexual Reproduction in Flowering Plants",
+          "sort_order": 110
+        },
+        {
+          "slug": "principles-of-inheritance-and-variation",
+          "name": "Principles of Inheritance and Variation",
+          "sort_order": 120
+        },
+        {
+          "slug": "molecular-basis-of-inheritance",
+          "name": "Molecular Basis of Inheritance",
+          "sort_order": 130
+        },
+        {
+          "slug": "microbes-in-human-welfare",
+          "name": "Microbes in Human Welfare",
+          "sort_order": 140
+        },
+        {
+          "slug": "organisms-and-populations",
+          "name": "Organisms and Populations",
+          "sort_order": 150
+        },
+        {
+          "slug": "ecosystem",
+          "name": "Ecosystem",
+          "sort_order": 160
+        },
+        {
+          "slug": "biodiversity-and-conservation",
+          "name": "Biodiversity and Conservation",
+          "sort_order": 170
+        }
+      ]
+    },
+    {
+      "slug": "zoology",
+      "name": "Zoology",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "animal-kingdom",
+          "name": "Animal Kingdom",
+          "sort_order": 10
+        },
+        {
+          "slug": "structural-organisation-in-animals",
+          "name": "Structural Organisation in Animals",
+          "sort_order": 20
+        },
+        {
+          "slug": "zoology-biomolecules",
+          "name": "Biomolecules",
+          "sort_order": 30
+        },
+        {
+          "slug": "breathing-and-exchange-of-gases",
+          "name": "Breathing and Exchange of Gases",
+          "sort_order": 40
+        },
+        {
+          "slug": "body-fluids-and-circulation",
+          "name": "Body Fluids and Circulation",
+          "sort_order": 50
+        },
+        {
+          "slug": "excretory-products-and-their-elimination",
+          "name": "Excretory Products and their Elimination",
+          "sort_order": 60
+        },
+        {
+          "slug": "locomotion-and-movement",
+          "name": "Locomotion and Movement",
+          "sort_order": 70
+        },
+        {
+          "slug": "neural-control-and-coordination",
+          "name": "Neural Control and Coordination",
+          "sort_order": 80
+        },
+        {
+          "slug": "chemical-coordination-and-integration",
+          "name": "Chemical Coordination and Integration",
+          "sort_order": 90
+        },
+        {
+          "slug": "human-reproduction",
+          "name": "Human Reproduction",
+          "sort_order": 100
+        },
+        {
+          "slug": "reproductive-health",
+          "name": "Reproductive Health",
+          "sort_order": 110
+        },
+        {
+          "slug": "evolution",
+          "name": "Evolution",
+          "sort_order": 120
+        },
+        {
+          "slug": "human-health-and-disease",
+          "name": "Human Health and Disease",
+          "sort_order": 130
+        },
+        {
+          "slug": "biotechnology-principles-and-processes",
+          "name": "Biotechnology: Principles and Processes",
+          "sort_order": 140
+        },
+        {
+          "slug": "biotechnology-and-its-applications",
+          "name": "Biotechnology and its Applications",
+          "sort_order": 150
+        }
+      ]
+    }
+  ]
+}

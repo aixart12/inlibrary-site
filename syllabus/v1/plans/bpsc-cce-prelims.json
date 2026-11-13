@@ -1,0 +1,175 @@
+{
+  "schema": 1,
+  "slug": "bpsc-cce-prelims",
+  "kind": "exam",
+  "name": "BPSC Combined Competitive Exam (Prelims)",
+  "short_name": "BPSC Prelims",
+  "aliases": [
+    "bpsc",
+    "bihar psc",
+    "bihar public service commission",
+    "cce",
+    "bihar civil services",
+    "70th bpsc"
+  ],
+  "category": "state-bihar",
+  "subject_count": 7,
+  "topic_count": 21,
+  "version": 1,
+  "subjects": [
+    {
+      "slug": "history",
+      "name": "History",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "ancient-india-with-magadha-mauryas-nalanda",
+          "name": "Ancient India (with Magadha, Mauryas, Nalanda)",
+          "sort_order": 10
+        },
+        {
+          "slug": "medieval-india",
+          "name": "Medieval India",
+          "sort_order": 20
+        },
+        {
+          "slug": "modern-india",
+          "name": "Modern India",
+          "sort_order": 30
+        },
+        {
+          "slug": "national-movement-and-bihar-s-role-champaran-1942-leaders",
+          "name": "National Movement and Bihar's Role (Champaran, 1942, leaders)",
+          "sort_order": 40
+        },
+        {
+          "slug": "bihar-history-and-culture",
+          "name": "Bihar History and Culture",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "geography",
+      "name": "Geography",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "physical-geography-world",
+          "name": "Physical Geography (World)",
+          "sort_order": 10
+        },
+        {
+          "slug": "indian-geography",
+          "name": "Indian Geography",
+          "sort_order": 20
+        },
+        {
+          "slug": "bihar-geography-physical-divisions-rivers-agriculture-minera",
+          "name": "Bihar Geography: Physical Divisions, Rivers, Agriculture, Minerals",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "polity",
+      "name": "Polity",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "constitution-and-fundamental-rights",
+          "name": "Constitution and Fundamental Rights",
+          "sort_order": 10
+        },
+        {
+          "slug": "union-and-state-government",
+          "name": "Union and State Government",
+          "sort_order": 20
+        },
+        {
+          "slug": "panchayati-raj-and-bihar-polity",
+          "name": "Panchayati Raj and Bihar Polity",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "economy",
+      "name": "Economy",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "indian-economy-basics",
+          "name": "Indian Economy Basics",
+          "sort_order": 10
+        },
+        {
+          "slug": "bihar-economy-since-independence-and-bihar-economic-survey",
+          "name": "Bihar Economy since Independence and Bihar Economic Survey",
+          "sort_order": 20
+        },
+        {
+          "slug": "planning-budget-and-government-schemes",
+          "name": "Planning, Budget and Government Schemes",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "general-science",
+      "name": "General Science",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "physics",
+          "name": "Physics",
+          "sort_order": 10
+        },
+        {
+          "slug": "chemistry",
+          "name": "Chemistry",
+          "sort_order": 20
+        },
+        {
+          "slug": "biology-and-health",
+          "name": "Biology and Health",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "current-affairs",
+      "name": "Current Affairs",
+      "sort_order": 60,
+      "topics": [
+        {
+          "slug": "national-and-international-current-affairs",
+          "name": "National and International Current Affairs",
+          "sort_order": 10
+        },
+        {
+          "slug": "bihar-current-affairs",
+          "name": "Bihar Current Affairs",
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "slug": "general-mental-ability",
+      "name": "General Mental Ability",
+      "sort_order": 70,
+      "topics": [
+        {
+          "slug": "arithmetic-percentage-ratio-average-interest-time-work",
+          "name": "Arithmetic (Percentage, Ratio, Average, Interest, Time-Work)",
+          "sort_order": 10
+        },
+        {
+          "slug": "reasoning-series-coding-blood-relation-direction",
+          "name": "Reasoning (Series, Coding, Blood Relation, Direction)",
+          "sort_order": 20
+        }
+      ]
+    }
+  ]
+}

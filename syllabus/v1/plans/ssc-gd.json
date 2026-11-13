@@ -1,0 +1,210 @@
+{
+  "schema": 1,
+  "slug": "ssc-gd",
+  "kind": "exam",
+  "name": "SSC GD Constable",
+  "short_name": "SSC GD",
+  "aliases": [
+    "ssc gd",
+    "gd",
+    "ssc",
+    "gd constable",
+    "capf",
+    "bsf",
+    "crpf",
+    "cisf",
+    "itbp",
+    "assam rifles"
+  ],
+  "category": "central-govt",
+  "subject_count": 5,
+  "topic_count": 30,
+  "version": 1,
+  "subjects": [
+    {
+      "slug": "general-intelligence-and-reasoning",
+      "name": "General Intelligence and Reasoning",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "analogy-and-classification",
+          "name": "Analogy and Classification",
+          "sort_order": 10
+        },
+        {
+          "slug": "number-and-figure-series",
+          "name": "Number and Figure Series",
+          "sort_order": 20
+        },
+        {
+          "slug": "coding-decoding",
+          "name": "Coding-Decoding",
+          "sort_order": 30
+        },
+        {
+          "slug": "blood-relations-and-directions",
+          "name": "Blood Relations and Directions",
+          "sort_order": 40
+        },
+        {
+          "slug": "non-verbal-spatial-visualisation-mirror-images-figure-classi",
+          "name": "Non-verbal: Spatial Visualisation, Mirror Images, Figure Classification",
+          "sort_order": 50
+        },
+        {
+          "slug": "arithmetical-reasoning-and-venn-diagrams",
+          "name": "Arithmetical Reasoning and Venn Diagrams",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "general-knowledge-and-awareness",
+      "name": "General Knowledge and Awareness",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "history-and-culture",
+          "name": "History and Culture",
+          "sort_order": 10
+        },
+        {
+          "slug": "geography",
+          "name": "Geography",
+          "sort_order": 20
+        },
+        {
+          "slug": "polity-and-constitution",
+          "name": "Polity and Constitution",
+          "sort_order": 30
+        },
+        {
+          "slug": "economy",
+          "name": "Economy",
+          "sort_order": 40
+        },
+        {
+          "slug": "everyday-science",
+          "name": "Everyday Science",
+          "sort_order": 50
+        },
+        {
+          "slug": "current-affairs-and-sports",
+          "name": "Current Affairs and Sports",
+          "sort_order": 60
+        },
+        {
+          "slug": "static-gk",
+          "name": "Static GK",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "elementary-mathematics",
+      "name": "Elementary Mathematics",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "number-system-and-simplification",
+          "name": "Number System and Simplification",
+          "sort_order": 10
+        },
+        {
+          "slug": "percentage",
+          "name": "Percentage",
+          "sort_order": 20
+        },
+        {
+          "slug": "ratio-and-proportion",
+          "name": "Ratio and Proportion",
+          "sort_order": 30
+        },
+        {
+          "slug": "averages",
+          "name": "Averages",
+          "sort_order": 40
+        },
+        {
+          "slug": "profit-loss-and-discount",
+          "name": "Profit, Loss and Discount",
+          "sort_order": 50
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 60
+        },
+        {
+          "slug": "time-and-work",
+          "name": "Time and Work",
+          "sort_order": 70
+        },
+        {
+          "slug": "time-and-distance",
+          "name": "Time and Distance",
+          "sort_order": 80
+        },
+        {
+          "slug": "mensuration",
+          "name": "Mensuration",
+          "sort_order": 90
+        }
+      ]
+    },
+    {
+      "slug": "english",
+      "name": "English",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "grammar-basics-and-error-spotting",
+          "name": "Grammar Basics and Error Spotting",
+          "sort_order": 10
+        },
+        {
+          "slug": "vocabulary-synonyms-antonyms-one-word-idioms",
+          "name": "Vocabulary: Synonyms, Antonyms, One-word, Idioms",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension-cloze-test-and-para-jumbles",
+          "name": "Comprehension, Cloze Test and Para Jumbles",
+          "sort_order": 30
+        },
+        {
+          "slug": "voice-and-narration",
+          "name": "Voice and Narration",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "hindi",
+      "name": "Hindi",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "vyakaran-sandhi-samas-upsarg-pratyay",
+          "name": "Vyakaran: Sandhi, Samas, Upsarg-Pratyay",
+          "sort_order": 10
+        },
+        {
+          "slug": "shabd-gyan-paryayvachi-vilom-anekarthi",
+          "name": "Shabd Gyan: Paryayvachi, Vilom, Anekarthi",
+          "sort_order": 20
+        },
+        {
+          "slug": "muhavare-lokoktiyan-aur-vakya-shuddhi",
+          "name": "Muhavare, Lokoktiyan aur Vakya Shuddhi",
+          "sort_order": 30
+        },
+        {
+          "slug": "gadyansh-comprehension-aur-anuvad",
+          "name": "Gadyansh (Comprehension) aur Anuvad",
+          "sort_order": 40
+        }
+      ]
+    }
+  ]
+}

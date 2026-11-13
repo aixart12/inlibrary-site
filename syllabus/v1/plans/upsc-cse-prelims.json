@@ -1,0 +1,452 @@
+{
+  "schema": 1,
+  "slug": "upsc-cse-prelims",
+  "kind": "exam",
+  "name": "UPSC Civil Services Prelims (GS Paper I + CSAT)",
+  "short_name": "UPSC Prelims",
+  "aliases": [
+    "upsc",
+    "civil services",
+    "cse",
+    "ias",
+    "ips",
+    "prelims"
+  ],
+  "category": "central-govt",
+  "subject_count": 8,
+  "topic_count": 75,
+  "version": 1,
+  "subjects": [
+    {
+      "slug": "polity",
+      "name": "Polity",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "historical-background-and-making-of-the-constitution",
+          "name": "Historical Background and Making of the Constitution",
+          "sort_order": 10
+        },
+        {
+          "slug": "preamble-and-salient-features",
+          "name": "Preamble and Salient Features",
+          "sort_order": 20
+        },
+        {
+          "slug": "fundamental-rights",
+          "name": "Fundamental Rights",
+          "sort_order": 30
+        },
+        {
+          "slug": "dpsp-and-fundamental-duties",
+          "name": "DPSP and Fundamental Duties",
+          "sort_order": 40
+        },
+        {
+          "slug": "union-executive-president-pm-council-of-ministers",
+          "name": "Union Executive (President, PM, Council of Ministers)",
+          "sort_order": 50
+        },
+        {
+          "slug": "parliament",
+          "name": "Parliament",
+          "sort_order": 60
+        },
+        {
+          "slug": "judiciary-supreme-court-high-courts",
+          "name": "Judiciary (Supreme Court, High Courts)",
+          "sort_order": 70
+        },
+        {
+          "slug": "state-government",
+          "name": "State Government",
+          "sort_order": 80
+        },
+        {
+          "slug": "federalism-and-centre-state-relations",
+          "name": "Federalism and Centre-State Relations",
+          "sort_order": 90
+        },
+        {
+          "slug": "local-government-panchayats-and-municipalities",
+          "name": "Local Government (Panchayats and Municipalities)",
+          "sort_order": 100
+        },
+        {
+          "slug": "constitutional-bodies",
+          "name": "Constitutional Bodies",
+          "sort_order": 110
+        },
+        {
+          "slug": "statutory-and-non-constitutional-bodies",
+          "name": "Statutory and Non-constitutional Bodies",
+          "sort_order": 120
+        },
+        {
+          "slug": "emergency-provisions-and-amendment-procedure",
+          "name": "Emergency Provisions and Amendment Procedure",
+          "sort_order": 130
+        },
+        {
+          "slug": "elections-and-representation-of-people-act",
+          "name": "Elections and Representation of People Act",
+          "sort_order": 140
+        }
+      ]
+    },
+    {
+      "slug": "history",
+      "name": "History",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "prehistory-and-indus-valley-civilisation",
+          "name": "Prehistory and Indus Valley Civilisation",
+          "sort_order": 10
+        },
+        {
+          "slug": "vedic-age-and-mahajanapadas",
+          "name": "Vedic Age and Mahajanapadas",
+          "sort_order": 20
+        },
+        {
+          "slug": "buddhism-jainism-and-the-mauryas",
+          "name": "Buddhism, Jainism and the Mauryas",
+          "sort_order": 30
+        },
+        {
+          "slug": "post-mauryan-period-and-the-guptas",
+          "name": "Post-Mauryan Period and the Guptas",
+          "sort_order": 40
+        },
+        {
+          "slug": "early-medieval-and-south-indian-kingdoms",
+          "name": "Early Medieval and South Indian Kingdoms",
+          "sort_order": 50
+        },
+        {
+          "slug": "delhi-sultanate",
+          "name": "Delhi Sultanate",
+          "sort_order": 60
+        },
+        {
+          "slug": "mughals-and-vijayanagara",
+          "name": "Mughals and Vijayanagara",
+          "sort_order": 70
+        },
+        {
+          "slug": "bhakti-and-sufi-movements",
+          "name": "Bhakti and Sufi Movements",
+          "sort_order": 80
+        },
+        {
+          "slug": "advent-of-europeans-and-british-expansion",
+          "name": "Advent of Europeans and British Expansion",
+          "sort_order": 90
+        },
+        {
+          "slug": "revolt-of-1857",
+          "name": "Revolt of 1857",
+          "sort_order": 100
+        },
+        {
+          "slug": "socio-religious-reform-movements",
+          "name": "Socio-religious Reform Movements",
+          "sort_order": 110
+        },
+        {
+          "slug": "national-movement-1885-1919",
+          "name": "National Movement 1885-1919",
+          "sort_order": 120
+        },
+        {
+          "slug": "national-movement-1919-1947-gandhian-era",
+          "name": "National Movement 1919-1947 (Gandhian Era)",
+          "sort_order": 130
+        },
+        {
+          "slug": "constitutional-developments-1773-1947",
+          "name": "Constitutional Developments 1773-1947",
+          "sort_order": 140
+        },
+        {
+          "slug": "art-and-culture-architecture-and-sculpture",
+          "name": "Art and Culture: Architecture and Sculpture",
+          "sort_order": 150
+        },
+        {
+          "slug": "art-and-culture-painting-music-dance-theatre",
+          "name": "Art and Culture: Painting, Music, Dance, Theatre",
+          "sort_order": 160
+        },
+        {
+          "slug": "art-and-culture-literature-philosophy-religion-festivals",
+          "name": "Art and Culture: Literature, Philosophy, Religion, Festivals",
+          "sort_order": 170
+        }
+      ]
+    },
+    {
+      "slug": "geography",
+      "name": "Geography",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "geomorphology-earth-interior-landforms",
+          "name": "Geomorphology: Earth, Interior, Landforms",
+          "sort_order": 10
+        },
+        {
+          "slug": "climatology",
+          "name": "Climatology",
+          "sort_order": 20
+        },
+        {
+          "slug": "oceanography",
+          "name": "Oceanography",
+          "sort_order": 30
+        },
+        {
+          "slug": "biogeography-and-soils",
+          "name": "Biogeography and Soils",
+          "sort_order": 40
+        },
+        {
+          "slug": "indian-physiography",
+          "name": "Indian Physiography",
+          "sort_order": 50
+        },
+        {
+          "slug": "indian-drainage-system",
+          "name": "Indian Drainage System",
+          "sort_order": 60
+        },
+        {
+          "slug": "indian-climate-and-monsoon",
+          "name": "Indian Climate and Monsoon",
+          "sort_order": 70
+        },
+        {
+          "slug": "natural-vegetation-and-soils-of-india",
+          "name": "Natural Vegetation and Soils of India",
+          "sort_order": 80
+        },
+        {
+          "slug": "agriculture-in-india",
+          "name": "Agriculture in India",
+          "sort_order": 90
+        },
+        {
+          "slug": "minerals-energy-and-industries",
+          "name": "Minerals, Energy and Industries",
+          "sort_order": 100
+        },
+        {
+          "slug": "transport-and-population",
+          "name": "Transport and Population",
+          "sort_order": 110
+        },
+        {
+          "slug": "world-geography-and-mapping-places-in-news",
+          "name": "World Geography and Mapping (Places in News)",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "economy",
+      "name": "Economy",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "national-income-and-growth",
+          "name": "National Income and Growth",
+          "sort_order": 10
+        },
+        {
+          "slug": "money-and-banking",
+          "name": "Money and Banking",
+          "sort_order": 20
+        },
+        {
+          "slug": "inflation-and-monetary-policy",
+          "name": "Inflation and Monetary Policy",
+          "sort_order": 30
+        },
+        {
+          "slug": "fiscal-policy-and-budget",
+          "name": "Fiscal Policy and Budget",
+          "sort_order": 40
+        },
+        {
+          "slug": "financial-markets-and-regulators",
+          "name": "Financial Markets and Regulators",
+          "sort_order": 50
+        },
+        {
+          "slug": "external-sector-bop-trade-wto",
+          "name": "External Sector: BoP, Trade, WTO",
+          "sort_order": 60
+        },
+        {
+          "slug": "agriculture-and-food-security",
+          "name": "Agriculture and Food Security",
+          "sort_order": 70
+        },
+        {
+          "slug": "industry-and-infrastructure",
+          "name": "Industry and Infrastructure",
+          "sort_order": 80
+        },
+        {
+          "slug": "poverty-inclusion-and-social-sector-schemes",
+          "name": "Poverty, Inclusion and Social Sector Schemes",
+          "sort_order": 90
+        }
+      ]
+    },
+    {
+      "slug": "environment-and-ecology",
+      "name": "Environment and Ecology",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "ecology-and-ecosystems",
+          "name": "Ecology and Ecosystems",
+          "sort_order": 10
+        },
+        {
+          "slug": "biodiversity-and-protected-areas",
+          "name": "Biodiversity and Protected Areas",
+          "sort_order": 20
+        },
+        {
+          "slug": "species-in-news-and-conservation-efforts",
+          "name": "Species in News and Conservation Efforts",
+          "sort_order": 30
+        },
+        {
+          "slug": "climate-change-and-international-conventions",
+          "name": "Climate Change and International Conventions",
+          "sort_order": 40
+        },
+        {
+          "slug": "pollution-environmental-laws-and-bodies",
+          "name": "Pollution, Environmental Laws and Bodies",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "science-and-technology",
+      "name": "Science and Technology",
+      "sort_order": 60,
+      "topics": [
+        {
+          "slug": "basic-science-physics-chemistry-biology-in-daily-life",
+          "name": "Basic Science (Physics, Chemistry, Biology in Daily Life)",
+          "sort_order": 10
+        },
+        {
+          "slug": "biotechnology-health-and-diseases",
+          "name": "Biotechnology, Health and Diseases",
+          "sort_order": 20
+        },
+        {
+          "slug": "space-and-defence-technology",
+          "name": "Space and Defence Technology",
+          "sort_order": 30
+        },
+        {
+          "slug": "it-computing-and-emerging-technologies",
+          "name": "IT, Computing and Emerging Technologies",
+          "sort_order": 40
+        },
+        {
+          "slug": "nuclear-and-energy-technology",
+          "name": "Nuclear and Energy Technology",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "current-affairs",
+      "name": "Current Affairs",
+      "sort_order": 70,
+      "topics": [
+        {
+          "slug": "polity-and-governance-in-news",
+          "name": "Polity and Governance in News",
+          "sort_order": 10
+        },
+        {
+          "slug": "economy-and-government-schemes-in-news",
+          "name": "Economy and Government Schemes in News",
+          "sort_order": 20
+        },
+        {
+          "slug": "international-relations-and-organisations",
+          "name": "International Relations and Organisations",
+          "sort_order": 30
+        },
+        {
+          "slug": "environment-and-science-in-news",
+          "name": "Environment and Science in News",
+          "sort_order": 40
+        },
+        {
+          "slug": "reports-indices-and-summits",
+          "name": "Reports, Indices and Summits",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "csat-paper-ii",
+      "name": "CSAT (Paper II)",
+      "sort_order": 80,
+      "topics": [
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 10
+        },
+        {
+          "slug": "logical-reasoning-and-analytical-ability",
+          "name": "Logical Reasoning and Analytical Ability",
+          "sort_order": 20
+        },
+        {
+          "slug": "decision-making-and-interpersonal-skills",
+          "name": "Decision Making and Interpersonal Skills",
+          "sort_order": 30
+        },
+        {
+          "slug": "number-system-and-basic-numeracy",
+          "name": "Number System and Basic Numeracy",
+          "sort_order": 40
+        },
+        {
+          "slug": "arithmetic-percentage-ratio-averages-time-work-speed-distanc",
+          "name": "Arithmetic: Percentage, Ratio, Averages, Time-Work, Speed-Distance",
+          "sort_order": 50
+        },
+        {
+          "slug": "data-interpretation-and-data-sufficiency",
+          "name": "Data Interpretation and Data Sufficiency",
+          "sort_order": 60
+        },
+        {
+          "slug": "general-mental-ability-series-coding-directions-blood-relati",
+          "name": "General Mental Ability: Series, Coding, Directions, Blood Relations",
+          "sort_order": 70
+        },
+        {
+          "slug": "permutation-probability-and-puzzles",
+          "name": "Permutation, Probability and Puzzles",
+          "sort_order": 80
+        }
+      ]
+    }
+  ]
+}

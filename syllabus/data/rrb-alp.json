@@ -1,0 +1,659 @@
+{
+  "exam": {
+    "slug": "rrb-alp",
+    "name": "RRB ALP (Assistant Loco Pilot)",
+    "short_name": "RRB ALP",
+    "kind": "exam",
+    "aliases": [
+      "rrb alp",
+      "alp",
+      "rrb",
+      "railway",
+      "loco pilot",
+      "assistant loco pilot",
+      "technician"
+    ],
+    "category": "railways",
+    "conducting_body": "Railway Recruitment Boards (RRBs)",
+    "stages": [
+      "CBT 1",
+      "CBT 2 (Part A + Part B)",
+      "CBAT",
+      "Document verification"
+    ],
+    "description": "Assistant Loco Pilot. CBT 1 screens; CBT 2 Part A decides merit; Part B is a qualifying trade test (35%). Add your own trade topics for Part B.",
+    "pattern_summary": "CBT 1: 75 MCQs, 60 min, -1/3. CBT 2 Part A: 100 MCQs (Maths, Reasoning, Basic Science and Engineering), 90 min. Part B: 75 trade MCQs, 60 min, qualifying.",
+    "official_url": "https://indianrailways.gov.in/railwayboard",
+    "syllabus_source_url": "Latest RRB ALP CEN, syllabus annexure; https://rrb.iitk.ac.in (SATHEE railway exam pattern)",
+    "syllabus_cycle": "Latest CEN (2025-26)",
+    "verified": true,
+    "verification_note": "Stage structure confirmed via SATHEE (IIT Kanpur, govt platform) and secondary sources. Part B trade syllabus (DGT) not included; user adds own trade.",
+    "priority_basis": "PYQ frequency trend (coaching analyses)",
+    "last_verified": "2026-10-11",
+    "version": 1,
+    "is_published": true,
+    "sort_order": 130
+  },
+  "subjects": [
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 10,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "number-system-hcf-and-lcm",
+          "name": "Number System, HCF and LCM",
+          "sort_order": 10,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "simplification-decimals-and-fractions",
+          "name": "Simplification, Decimals and Fractions",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "ratio-and-proportion",
+          "name": "Ratio and Proportion",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "percentage",
+          "name": "Percentage",
+          "sort_order": 40,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "averages-and-ages",
+          "name": "Averages and Ages",
+          "sort_order": 50,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "profit-loss-and-discount",
+          "name": "Profit, Loss and Discount",
+          "sort_order": 60,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 70,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "time-and-work",
+          "name": "Time and Work",
+          "sort_order": 80,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "time-speed-and-distance",
+          "name": "Time, Speed and Distance",
+          "sort_order": 90,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "mensuration",
+          "name": "Mensuration",
+          "sort_order": 100,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "elementary-algebra",
+          "name": "Elementary Algebra",
+          "sort_order": 110,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "geometry-and-trigonometry",
+          "name": "Geometry and Trigonometry",
+          "sort_order": 120,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "elementary-statistics-and-data-interpretation",
+          "name": "Elementary Statistics and Data Interpretation",
+          "sort_order": 130,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "reasoning-and-mental-ability",
+      "name": "Reasoning and Mental Ability",
+      "sort_order": 20,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "analogy-and-classification",
+          "name": "Analogy and Classification",
+          "sort_order": 10,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "number-and-alphabet-series",
+          "name": "Number and Alphabet Series",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "coding-decoding",
+          "name": "Coding-Decoding",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "mathematical-operations",
+          "name": "Mathematical Operations",
+          "sort_order": 40,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "blood-relations-and-direction-sense",
+          "name": "Blood Relations and Direction Sense",
+          "sort_order": 50,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "syllogism-and-venn-diagrams",
+          "name": "Syllogism and Venn Diagrams",
+          "sort_order": 60,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "puzzles-and-seating-arrangement",
+          "name": "Puzzles and Seating Arrangement",
+          "sort_order": 70,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "data-sufficiency-and-analytical-reasoning",
+          "name": "Data Sufficiency and Analytical Reasoning",
+          "sort_order": 80,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "general-science",
+      "name": "General Science",
+      "sort_order": 30,
+      "is_optional": false,
+      "notes": "Class 10 level; mainly CBT 1",
+      "topics": [
+        {
+          "slug": "physics-motion-force-laws-of-motion",
+          "name": "Physics: Motion, Force, Laws of Motion",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "physics-work-energy-power-and-gravitation",
+          "name": "Physics: Work, Energy, Power and Gravitation",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "physics-sound-waves-and-pressure",
+          "name": "Physics: Sound, Waves and Pressure",
+          "sort_order": 30,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "physics-heat-and-light",
+          "name": "Physics: Heat and Light",
+          "sort_order": 40,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "physics-electricity-and-magnetism",
+          "name": "Physics: Electricity and Magnetism",
+          "sort_order": 50,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "physics-units-instruments-and-sources-of-energy",
+          "name": "Physics: Units, Instruments and Sources of Energy",
+          "sort_order": 60,
+          "est_hours": 2.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "chemistry-matter-atoms-molecules-and-atomic-structure",
+          "name": "Chemistry: Matter, Atoms, Molecules and Atomic Structure",
+          "sort_order": 70,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "chemistry-chemical-reactions-acids-bases-and-salts",
+          "name": "Chemistry: Chemical Reactions, Acids, Bases and Salts",
+          "sort_order": 80,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "chemistry-periodic-classification-bonding-metals-and-non-met",
+          "name": "Chemistry: Periodic Classification, Bonding, Metals and Non-metals",
+          "sort_order": 90,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "chemistry-carbon-compounds-oxidation-and-combustion",
+          "name": "Chemistry: Carbon Compounds, Oxidation and Combustion",
+          "sort_order": 100,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "general-awareness",
+      "name": "General Awareness",
+      "sort_order": 40,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "current-affairs",
+          "name": "Current Affairs",
+          "sort_order": 10,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": "cbt1",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "history-geography-and-polity",
+          "name": "History, Geography and Polity",
+          "sort_order": 20,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": "cbt1",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "economy-science-and-technology",
+          "name": "Economy, Science and Technology",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": "cbt1",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "sports-culture-and-static-gk",
+          "name": "Sports, Culture and Static GK",
+          "sort_order": 40,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": "cbt1",
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "basic-science-and-engineering",
+      "name": "Basic Science and Engineering",
+      "sort_order": 50,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "engineering-drawing-projections-views-instruments-symbols",
+          "name": "Engineering Drawing: Projections, Views, Instruments, Symbols",
+          "sort_order": 10,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": "cbt2",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "units-measurements-mass-weight-and-density",
+          "name": "Units, Measurements, Mass, Weight and Density",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": "cbt2",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "work-power-energy-speed-and-velocity",
+          "name": "Work, Power, Energy, Speed and Velocity",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": "cbt2",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "heat-and-temperature",
+          "name": "Heat and Temperature",
+          "sort_order": 40,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": "cbt2",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "basic-electricity",
+          "name": "Basic Electricity",
+          "sort_order": 50,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": "cbt2",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "levers-and-simple-machines",
+          "name": "Levers and Simple Machines",
+          "sort_order": 60,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": "cbt2",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "occupational-safety-and-health",
+          "name": "Occupational Safety and Health",
+          "sort_order": 70,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": "cbt2",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "environment-education",
+          "name": "Environment Education",
+          "sort_order": 80,
+          "est_hours": 1.0,
+          "priority": "low",
+          "stage": "cbt2",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "it-literacy",
+          "name": "IT Literacy",
+          "sort_order": 90,
+          "est_hours": 2.0,
+          "priority": "low",
+          "stage": "cbt2",
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "slug": "full-syllabus",
+      "name": "Full syllabus + revision",
+      "description": "Covers every topic once, then revises, with a regular mock test day. Best when you have 2 months or more.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.6,
+          "revise": 0.2,
+          "mock": 0.2
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 5,
+        "hours_factor": 1.0,
+        "min_days": 45,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 1.5
+      },
+      "is_default": true,
+      "sort_order": 10,
+      "version": 1
+    },
+    {
+      "slug": "cbt1-first",
+      "name": "CBT 1 first",
+      "description": "Only topics needed for CBT 1. Add the rest after you clear it.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.6,
+          "revise": 0.2,
+          "mock": 0.2
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 4,
+        "hours_factor": 1.0,
+        "min_days": 21,
+        "target_days": null,
+        "stages": [
+          "cbt1"
+        ],
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 1.5
+      },
+      "is_default": false,
+      "sort_order": 20,
+      "version": 1
+    },
+    {
+      "slug": "revision-only",
+      "name": "Revision only",
+      "description": "You have studied the syllabus before. Quick revision of every topic plus frequent mock tests.",
+      "rules": {
+        "mode": "revise_only",
+        "phases": {
+          "learn": 0.0,
+          "revise": 0.7,
+          "mock": 0.3
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 4,
+        "mock_every_n_days": 3,
+        "hours_factor": 0.35,
+        "min_days": 7,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 1.5
+      },
+      "is_default": false,
+      "sort_order": 30,
+      "version": 1
+    },
+    {
+      "slug": "crash-30",
+      "name": "Crash 30 days",
+      "description": "Important (high and medium priority) topics only, shortened, finishing in about 30 days.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.65,
+          "revise": 0.2,
+          "mock": 0.15
+        },
+        "include_priorities": [
+          "high",
+          "medium"
+        ],
+        "subjects_per_day": 4,
+        "mock_every_n_days": 5,
+        "hours_factor": 0.6,
+        "min_days": 10,
+        "target_days": 30,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 1.5
+      },
+      "is_default": false,
+      "sort_order": 40,
+      "version": 1
+    }
+  ]
+}

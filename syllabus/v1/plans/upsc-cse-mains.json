@@ -1,0 +1,256 @@
+{
+  "schema": 1,
+  "slug": "upsc-cse-mains",
+  "kind": "exam",
+  "name": "UPSC Civil Services Mains (GS Papers I-IV + Essay)",
+  "short_name": "UPSC Mains",
+  "aliases": [
+    "upsc",
+    "civil services",
+    "cse",
+    "ias",
+    "ips",
+    "mains"
+  ],
+  "category": "central-govt",
+  "subject_count": 5,
+  "topic_count": 40,
+  "version": 1,
+  "subjects": [
+    {
+      "slug": "gs-i-history-culture-society-geography",
+      "name": "GS I: History, Culture, Society, Geography",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "indian-art-and-culture-ancient-to-modern",
+          "name": "Indian Art and Culture (Ancient to Modern)",
+          "sort_order": 10
+        },
+        {
+          "slug": "modern-indian-history-mid-18th-century-to-present",
+          "name": "Modern Indian History (mid-18th century to present)",
+          "sort_order": 20
+        },
+        {
+          "slug": "freedom-struggle-stages-and-contributors",
+          "name": "Freedom Struggle: Stages and Contributors",
+          "sort_order": 30
+        },
+        {
+          "slug": "post-independence-consolidation-and-reorganisation",
+          "name": "Post-independence Consolidation and Reorganisation",
+          "sort_order": 40
+        },
+        {
+          "slug": "world-history-18th-century-onwards-revolutions-wars-colonisa",
+          "name": "World History (18th century onwards: revolutions, wars, colonisation, ideologies)",
+          "sort_order": 50
+        },
+        {
+          "slug": "indian-society-diversity-women-population-poverty-urbanisati",
+          "name": "Indian Society: Diversity, Women, Population, Poverty, Urbanisation",
+          "sort_order": 60
+        },
+        {
+          "slug": "globalisation-social-empowerment-communalism-regionalism-sec",
+          "name": "Globalisation, Social Empowerment, Communalism, Regionalism, Secularism",
+          "sort_order": 70
+        },
+        {
+          "slug": "physical-geography-of-the-world",
+          "name": "Physical Geography of the World",
+          "sort_order": 80
+        },
+        {
+          "slug": "distribution-of-key-natural-resources-and-industry-location",
+          "name": "Distribution of Key Natural Resources and Industry Location",
+          "sort_order": 90
+        },
+        {
+          "slug": "geophysical-phenomena-earthquakes-tsunami-volcanoes-cyclones",
+          "name": "Geophysical Phenomena (Earthquakes, Tsunami, Volcanoes, Cyclones)",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "gs-ii-polity-governance-social-justice-ir",
+      "name": "GS II: Polity, Governance, Social Justice, IR",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "indian-constitution-evolution-features-amendments-basic-stru",
+          "name": "Indian Constitution: Evolution, Features, Amendments, Basic Structure",
+          "sort_order": 10
+        },
+        {
+          "slug": "union-and-states-federal-issues-devolution-of-powers",
+          "name": "Union and States: Federal Issues, Devolution of Powers",
+          "sort_order": 20
+        },
+        {
+          "slug": "separation-of-powers-and-dispute-redressal",
+          "name": "Separation of Powers and Dispute Redressal",
+          "sort_order": 30
+        },
+        {
+          "slug": "parliament-and-state-legislatures",
+          "name": "Parliament and State Legislatures",
+          "sort_order": 40
+        },
+        {
+          "slug": "executive-and-judiciary-pressure-groups",
+          "name": "Executive and Judiciary; Pressure Groups",
+          "sort_order": 50
+        },
+        {
+          "slug": "representation-of-people-act-constitutional-and-statutory-bo",
+          "name": "Representation of People Act; Constitutional and Statutory Bodies",
+          "sort_order": 60
+        },
+        {
+          "slug": "government-policies-development-processes-ngos-shgs",
+          "name": "Government Policies, Development Processes, NGOs, SHGs",
+          "sort_order": 70
+        },
+        {
+          "slug": "welfare-schemes-for-vulnerable-sections-health-education-hum",
+          "name": "Welfare Schemes for Vulnerable Sections; Health, Education, Human Resources",
+          "sort_order": 80
+        },
+        {
+          "slug": "governance-transparency-accountability-e-governance-civil-se",
+          "name": "Governance: Transparency, Accountability, e-Governance, Civil Services",
+          "sort_order": 90
+        },
+        {
+          "slug": "india-and-its-neighbourhood-bilateral-regional-and-global-gr",
+          "name": "India and its Neighbourhood; Bilateral, Regional and Global Groupings",
+          "sort_order": 100
+        },
+        {
+          "slug": "international-institutions-effect-of-policies-of-developed-n",
+          "name": "International Institutions; Effect of Policies of Developed Nations; Diaspora",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "gs-iii-economy-agriculture-s-and-t-environment-security",
+      "name": "GS III: Economy, Agriculture, S&T, Environment, Security",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "indian-economy-planning-growth-employment-inclusive-growth",
+          "name": "Indian Economy: Planning, Growth, Employment, Inclusive Growth",
+          "sort_order": 10
+        },
+        {
+          "slug": "government-budgeting",
+          "name": "Government Budgeting",
+          "sort_order": 20
+        },
+        {
+          "slug": "agriculture-cropping-irrigation-subsidies-msp-pds-food-proce",
+          "name": "Agriculture: Cropping, Irrigation, Subsidies, MSP, PDS, Food Processing, Land Reforms",
+          "sort_order": 30
+        },
+        {
+          "slug": "liberalisation-industrial-policy-infrastructure-investment-m",
+          "name": "Liberalisation, Industrial Policy, Infrastructure, Investment Models",
+          "sort_order": 40
+        },
+        {
+          "slug": "science-and-technology-developments-indigenisation-it-space",
+          "name": "Science and Technology: Developments, Indigenisation, IT, Space, Biotech, IPR",
+          "sort_order": 50
+        },
+        {
+          "slug": "environment-conservation-pollution-eia",
+          "name": "Environment: Conservation, Pollution, EIA",
+          "sort_order": 60
+        },
+        {
+          "slug": "disaster-management",
+          "name": "Disaster Management",
+          "sort_order": 70
+        },
+        {
+          "slug": "internal-security-extremism-border-management-cyber-security",
+          "name": "Internal Security: Extremism, Border Management, Cyber Security, Money Laundering",
+          "sort_order": 80
+        },
+        {
+          "slug": "security-forces-and-agencies-and-their-mandate",
+          "name": "Security Forces and Agencies and their Mandate",
+          "sort_order": 90
+        }
+      ]
+    },
+    {
+      "slug": "gs-iv-ethics-integrity-and-aptitude",
+      "name": "GS IV: Ethics, Integrity and Aptitude",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "ethics-and-human-interface-human-values-lessons-from-great-l",
+          "name": "Ethics and Human Interface; Human Values; Lessons from Great Leaders",
+          "sort_order": 10
+        },
+        {
+          "slug": "attitude-aptitude-and-foundational-values-for-civil-service",
+          "name": "Attitude, Aptitude and Foundational Values for Civil Service",
+          "sort_order": 20
+        },
+        {
+          "slug": "emotional-intelligence",
+          "name": "Emotional Intelligence",
+          "sort_order": 30
+        },
+        {
+          "slug": "contributions-of-moral-thinkers-and-philosophers",
+          "name": "Contributions of Moral Thinkers and Philosophers",
+          "sort_order": 40
+        },
+        {
+          "slug": "public-service-values-and-ethics-in-public-administration",
+          "name": "Public Service Values and Ethics in Public Administration",
+          "sort_order": 50
+        },
+        {
+          "slug": "probity-in-governance-codes-of-conduct-rti-citizen-s-charter",
+          "name": "Probity in Governance: Codes of Conduct, RTI, Citizen's Charters, Work Culture",
+          "sort_order": 60
+        },
+        {
+          "slug": "case-studies-practice",
+          "name": "Case Studies Practice",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "essay",
+      "name": "Essay",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "essay-structure-brainstorming-and-introductions",
+          "name": "Essay Structure, Brainstorming and Introductions",
+          "sort_order": 10
+        },
+        {
+          "slug": "essay-practice-philosophical-topics",
+          "name": "Essay Practice: Philosophical Topics",
+          "sort_order": 20
+        },
+        {
+          "slug": "essay-practice-socio-economic-and-governance-topics",
+          "name": "Essay Practice: Socio-economic and Governance Topics",
+          "sort_order": 30
+        }
+      ]
+    }
+  ]
+}

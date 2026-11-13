@@ -1,0 +1,543 @@
+{
+  "exam": {
+    "slug": "ctet-paper-1",
+    "name": "CTET Paper I (Classes 1-5)",
+    "short_name": "CTET P1",
+    "kind": "exam",
+    "aliases": [
+      "ctet",
+      "tet",
+      "teacher eligibility",
+      "teacher",
+      "teaching",
+      "cbse ctet",
+      "paper 1",
+      "primary teacher"
+    ],
+    "category": "teaching",
+    "conducting_body": "Central Board of Secondary Education (CBSE)",
+    "stages": [
+      "Single exam"
+    ],
+    "description": "Teacher eligibility for primary classes (1 to 5). Five equal sections; no negative marking.",
+    "pattern_summary": "150 MCQs, 150 marks, 2.5 h: Child Development and Pedagogy 30, Language I 30, Language II 30, Mathematics 30, EVS 30. No negative marking.",
+    "official_url": "https://ctet.nic.in",
+    "syllabus_source_url": "https://ctet.nic.in (CTET information bulletin, syllabus annexure)",
+    "syllabus_cycle": "Next CTET session (2027 dates not yet announced)",
+    "verified": true,
+    "verification_note": "Pattern and syllabus heads follow the CTET bulletin (stable for several sessions); 2027 notification not yet out.",
+    "priority_basis": "Official section weights (30 each); pedagogy topics marked high from PYQ trend",
+    "last_verified": "2026-10-11",
+    "version": 1,
+    "is_published": true,
+    "sort_order": 210
+  },
+  "subjects": [
+    {
+      "slug": "child-development-and-pedagogy",
+      "name": "Child Development and Pedagogy",
+      "sort_order": 10,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "concept-of-development-and-its-relation-with-learning",
+          "name": "Concept of Development and its Relation with Learning",
+          "sort_order": 10,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "principles-of-development-heredity-and-environment",
+          "name": "Principles of Development; Heredity and Environment",
+          "sort_order": 20,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "socialisation-processes",
+          "name": "Socialisation Processes",
+          "sort_order": 30,
+          "est_hours": 1.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "piaget-kohlberg-and-vygotsky",
+          "name": "Piaget, Kohlberg and Vygotsky",
+          "sort_order": 40,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "child-centred-and-progressive-education",
+          "name": "Child-centred and Progressive Education",
+          "sort_order": 50,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "intelligence-and-multi-dimensional-intelligence",
+          "name": "Intelligence and Multi-dimensional Intelligence",
+          "sort_order": 60,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "language-and-thought",
+          "name": "Language and Thought",
+          "sort_order": 70,
+          "est_hours": 1.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "gender-individual-differences-and-diversity",
+          "name": "Gender, Individual Differences and Diversity",
+          "sort_order": 80,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "assessment-for-learning-cce-questioning",
+          "name": "Assessment for Learning (CCE, Questioning)",
+          "sort_order": 90,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "inclusive-education-and-children-with-special-needs",
+          "name": "Inclusive Education and Children with Special Needs",
+          "sort_order": 100,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "learning-and-pedagogy-how-children-learn-motivation-cognitio",
+          "name": "Learning and Pedagogy: How Children Learn, Motivation, Cognition and Emotion",
+          "sort_order": 110,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "language-i",
+      "name": "Language I",
+      "sort_order": 20,
+      "is_optional": false,
+      "notes": "Language you will teach in (e.g. Hindi).",
+      "topics": [
+        {
+          "slug": "l1-unseen-passages-prose-and-poem",
+          "name": "L1: Unseen Passages (Prose and Poem)",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "l1-learning-and-acquisition-principles-of-language-teaching",
+          "name": "L1: Learning and Acquisition; Principles of Language Teaching",
+          "sort_order": 20,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "l1-role-of-listening-and-speaking-function-of-language",
+          "name": "L1: Role of Listening and Speaking; Function of Language",
+          "sort_order": 30,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "l1-grammar-in-teaching-language",
+          "name": "L1: Grammar in Teaching Language",
+          "sort_order": 40,
+          "est_hours": 1.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "l1-challenges-in-diverse-classrooms-language-difficulties-an",
+          "name": "L1: Challenges in Diverse Classrooms; Language Difficulties and Errors",
+          "sort_order": 50,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "l1-language-skills-lsrw-and-evaluating-proficiency",
+          "name": "L1: Language Skills (LSRW) and Evaluating Proficiency",
+          "sort_order": 60,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "l1-teaching-learning-materials-and-remedial-teaching",
+          "name": "L1: Teaching-Learning Materials and Remedial Teaching",
+          "sort_order": 70,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "language-ii",
+      "name": "Language II",
+      "sort_order": 30,
+      "is_optional": false,
+      "notes": "Second language (e.g. English).",
+      "topics": [
+        {
+          "slug": "l2-unseen-passages-prose-and-poem",
+          "name": "L2: Unseen Passages (Prose and Poem)",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "l2-learning-and-acquisition-principles-of-language-teaching",
+          "name": "L2: Learning and Acquisition; Principles of Language Teaching",
+          "sort_order": 20,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "l2-role-of-listening-and-speaking-function-of-language",
+          "name": "L2: Role of Listening and Speaking; Function of Language",
+          "sort_order": 30,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "l2-grammar-in-teaching-language",
+          "name": "L2: Grammar in Teaching Language",
+          "sort_order": 40,
+          "est_hours": 1.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "l2-challenges-in-diverse-classrooms-language-difficulties-an",
+          "name": "L2: Challenges in Diverse Classrooms; Language Difficulties and Errors",
+          "sort_order": 50,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "l2-language-skills-lsrw-and-evaluating-proficiency",
+          "name": "L2: Language Skills (LSRW) and Evaluating Proficiency",
+          "sort_order": 60,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "l2-teaching-learning-materials-and-remedial-teaching",
+          "name": "L2: Teaching-Learning Materials and Remedial Teaching",
+          "sort_order": 70,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 40,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "geometry-and-shapes-spatial-understanding",
+          "name": "Geometry and Shapes, Spatial Understanding",
+          "sort_order": 10,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "numbers-and-operations-add-subtract-multiply-divide",
+          "name": "Numbers and Operations (Add, Subtract, Multiply, Divide)",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "measurement-length-weight-time-volume-money",
+          "name": "Measurement: Length, Weight, Time, Volume, Money",
+          "sort_order": 30,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "data-handling-and-patterns",
+          "name": "Data Handling and Patterns",
+          "sort_order": 40,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "pedagogy-of-mathematics-nature-of-maths-errors-evaluation-re",
+          "name": "Pedagogy of Mathematics (nature of maths, errors, evaluation, remedial teaching)",
+          "sort_order": 50,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "environmental-studies",
+      "name": "Environmental Studies",
+      "sort_order": 50,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "family-and-friends-relationships-animals-plants-work-and-pla",
+          "name": "Family and Friends (Relationships, Animals, Plants, Work and Play)",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "food",
+          "name": "Food",
+          "sort_order": 20,
+          "est_hours": 1.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "shelter",
+          "name": "Shelter",
+          "sort_order": 30,
+          "est_hours": 1.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "water",
+          "name": "Water",
+          "sort_order": 40,
+          "est_hours": 1.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "travel",
+          "name": "Travel",
+          "sort_order": 50,
+          "est_hours": 1.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "things-we-make-and-do",
+          "name": "Things We Make and Do",
+          "sort_order": 60,
+          "est_hours": 1.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "pedagogy-of-evs-concept-activities-experimentation-cce-probl",
+          "name": "Pedagogy of EVS (concept, activities, experimentation, CCE, problems)",
+          "sort_order": 70,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "slug": "full-syllabus",
+      "name": "Full syllabus + revision",
+      "description": "Covers every topic once, then revises, with a regular mock test day. Best when you have 2 months or more.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.7,
+          "revise": 0.2,
+          "mock": 0.1
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 7,
+        "hours_factor": 1.0,
+        "min_days": 45,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": null,
+        "mock_label": "Mock test",
+        "mock_hours": 2.5
+      },
+      "is_default": true,
+      "sort_order": 10,
+      "version": 1
+    },
+    {
+      "slug": "revision-only",
+      "name": "Revision only",
+      "description": "You have studied the syllabus before. Quick revision of every topic plus frequent mock tests.",
+      "rules": {
+        "mode": "revise_only",
+        "phases": {
+          "learn": 0.0,
+          "revise": 0.7,
+          "mock": 0.3
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 4,
+        "mock_every_n_days": 3,
+        "hours_factor": 0.35,
+        "min_days": 7,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": null,
+        "mock_label": "Mock test",
+        "mock_hours": 2.5
+      },
+      "is_default": false,
+      "sort_order": 20,
+      "version": 1
+    },
+    {
+      "slug": "crash-30",
+      "name": "Crash 30 days",
+      "description": "Important (high and medium priority) topics only, shortened, finishing in about 30 days.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.65,
+          "revise": 0.2,
+          "mock": 0.15
+        },
+        "include_priorities": [
+          "high",
+          "medium"
+        ],
+        "subjects_per_day": 4,
+        "mock_every_n_days": 5,
+        "hours_factor": 0.6,
+        "min_days": 10,
+        "target_days": 30,
+        "stages": null,
+        "daily_slot": null,
+        "mock_label": "Mock test",
+        "mock_hours": 2.5
+      },
+      "is_default": false,
+      "sort_order": 30,
+      "version": 1
+    }
+  ]
+}

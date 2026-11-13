@@ -1,0 +1,598 @@
+{
+  "exam": {
+    "slug": "ibps-clerk",
+    "name": "IBPS Clerk (CRP CSA)",
+    "short_name": "IBPS Clerk",
+    "kind": "exam",
+    "aliases": [
+      "ibps clerk",
+      "ibps",
+      "bank clerk",
+      "sbi clerk",
+      "clerk",
+      "bank exam",
+      "banking"
+    ],
+    "category": "banking",
+    "conducting_body": "Institute of Banking Personnel Selection (IBPS)",
+    "stages": [
+      "Prelims",
+      "Mains"
+    ],
+    "description": "Customer Service Associate (Clerk) in public sector banks. No interview; merit is on Mains.",
+    "pattern_summary": "Prelims: English, Numerical Ability, Reasoning; 100 Qs, 60 min (20 min each). Mains: GA/Financial Awareness, English, Reasoning and Computer Aptitude, Quant; 160 Qs, 200 marks. -0.25.",
+    "official_url": "https://www.ibps.in",
+    "syllabus_source_url": "https://www.ibps.in (CRP CSA-XVI notification, 2026)",
+    "syllabus_cycle": "CRP CSA-XVI (2026-27)",
+    "verified": true,
+    "verification_note": "Pattern confirmed via secondary sources (Careers360 report on the 2026 notification).",
+    "priority_basis": "PYQ frequency trend (coaching analyses)",
+    "last_verified": "2026-10-11",
+    "version": 1,
+    "is_published": true,
+    "sort_order": 150
+  },
+  "subjects": [
+    {
+      "slug": "numerical-ability-and-quant",
+      "name": "Numerical Ability and Quant",
+      "sort_order": 10,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "simplification-and-approximation",
+          "name": "Simplification and Approximation",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": "prelims",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "number-series-missing-and-wrong",
+          "name": "Number Series (Missing and Wrong)",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": "prelims",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "quadratic-equations-and-inequalities",
+          "name": "Quadratic Equations and Inequalities",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": "prelims",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "data-interpretation-table-bar-pie-line",
+          "name": "Data Interpretation: Table, Bar, Pie, Line",
+          "sort_order": 40,
+          "est_hours": 8.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "caselet-and-missing-di",
+          "name": "Caselet and Missing DI",
+          "sort_order": 50,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": "mains",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "arithmetic-percentage-ratio-average-ages",
+          "name": "Arithmetic: Percentage, Ratio, Average, Ages",
+          "sort_order": 60,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "arithmetic-profit-and-loss-simple-and-compound-interest",
+          "name": "Arithmetic: Profit and Loss, Simple and Compound Interest",
+          "sort_order": 70,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "arithmetic-time-and-work-pipes-and-cisterns",
+          "name": "Arithmetic: Time and Work, Pipes and Cisterns",
+          "sort_order": 80,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "arithmetic-time-speed-distance-boats-and-trains",
+          "name": "Arithmetic: Time, Speed, Distance, Boats and Trains",
+          "sort_order": 90,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "arithmetic-mixtures-alligation-and-partnership",
+          "name": "Arithmetic: Mixtures, Alligation and Partnership",
+          "sort_order": 100,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "mensuration-probability-and-permutation-combination",
+          "name": "Mensuration, Probability and Permutation-Combination",
+          "sort_order": 110,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "data-sufficiency-quant",
+          "name": "Data Sufficiency (Quant)",
+          "sort_order": 120,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": "mains",
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "reasoning-ability-and-computer-aptitude",
+      "name": "Reasoning Ability and Computer Aptitude",
+      "sort_order": 20,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "puzzles-floor-box-scheduling",
+          "name": "Puzzles: Floor, Box, Scheduling",
+          "sort_order": 10,
+          "est_hours": 8.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "seating-arrangement-linear-circular-square",
+          "name": "Seating Arrangement: Linear, Circular, Square",
+          "sort_order": 20,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "syllogism",
+          "name": "Syllogism",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "inequality-coded-and-direct",
+          "name": "Inequality (Coded and Direct)",
+          "sort_order": 40,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "blood-relations",
+          "name": "Blood Relations",
+          "sort_order": 50,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "direction-sense",
+          "name": "Direction Sense",
+          "sort_order": 60,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "coding-decoding-new-pattern",
+          "name": "Coding-Decoding (New Pattern)",
+          "sort_order": 70,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "order-ranking-and-alphanumeric-series",
+          "name": "Order, Ranking and Alphanumeric Series",
+          "sort_order": 80,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "input-output",
+          "name": "Input-Output",
+          "sort_order": 90,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": "mains",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "critical-reasoning-assumptions-inferences-course-of-action",
+          "name": "Critical Reasoning: Assumptions, Inferences, Course of Action",
+          "sort_order": 100,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": "mains",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "data-sufficiency-reasoning",
+          "name": "Data Sufficiency (Reasoning)",
+          "sort_order": 110,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": "mains",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "computer-aptitude",
+          "name": "Computer Aptitude",
+          "sort_order": 120,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": "mains",
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "english-language",
+      "name": "English Language",
+      "sort_order": 30,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 10,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "cloze-test",
+          "name": "Cloze Test",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "error-detection",
+          "name": "Error Detection",
+          "sort_order": 30,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "fillers-single-and-double",
+          "name": "Fillers (Single and Double)",
+          "sort_order": 40,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "para-jumbles-and-sentence-rearrangement",
+          "name": "Para Jumbles and Sentence Rearrangement",
+          "sort_order": 50,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "word-usage-and-vocabulary",
+          "name": "Word Usage and Vocabulary",
+          "sort_order": 60,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "phrase-replacement-and-sentence-improvement",
+          "name": "Phrase Replacement and Sentence Improvement",
+          "sort_order": 70,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "general-and-financial-awareness",
+      "name": "General and Financial Awareness",
+      "sort_order": 40,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "banking-awareness-history-types-of-banks-rbi-functions",
+          "name": "Banking Awareness: History, Types of Banks, RBI Functions",
+          "sort_order": 10,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": "mains",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "rbi-monetary-policy-circulars-and-regulators",
+          "name": "RBI Monetary Policy, Circulars and Regulators",
+          "sort_order": 20,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": "mains",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "financial-awareness-markets-insurance-financial-institutions",
+          "name": "Financial Awareness: Markets, Insurance, Financial Institutions",
+          "sort_order": 30,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": "mains",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "digital-banking-and-payment-systems",
+          "name": "Digital Banking and Payment Systems",
+          "sort_order": 40,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": "mains",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "indian-economy-and-union-budget",
+          "name": "Indian Economy and Union Budget",
+          "sort_order": 50,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": "mains",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "government-schemes",
+          "name": "Government Schemes",
+          "sort_order": 60,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": "mains",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "current-affairs-last-6-months",
+          "name": "Current Affairs (last 6 months)",
+          "sort_order": 70,
+          "est_hours": 8.0,
+          "priority": "high",
+          "stage": "mains",
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "static-gk-capitals-currencies-headquarters-parks-dams",
+          "name": "Static GK: Capitals, Currencies, Headquarters, Parks, Dams",
+          "sort_order": 80,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": "mains",
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "slug": "full-syllabus",
+      "name": "Full syllabus + revision",
+      "description": "Covers every topic once, then revises, with a regular mock test day. Best when you have 2 months or more.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.6,
+          "revise": 0.2,
+          "mock": 0.2
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 5,
+        "hours_factor": 1.0,
+        "min_days": 45,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 1.5
+      },
+      "is_default": true,
+      "sort_order": 10,
+      "version": 1
+    },
+    {
+      "slug": "prelims-first",
+      "name": "Prelims first",
+      "description": "Only topics needed for Prelims. Add the rest after you clear it.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.6,
+          "revise": 0.2,
+          "mock": 0.2
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 4,
+        "hours_factor": 1.0,
+        "min_days": 21,
+        "target_days": null,
+        "stages": [
+          "prelims"
+        ],
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 1.5
+      },
+      "is_default": false,
+      "sort_order": 20,
+      "version": 1
+    },
+    {
+      "slug": "revision-only",
+      "name": "Revision only",
+      "description": "You have studied the syllabus before. Quick revision of every topic plus frequent mock tests.",
+      "rules": {
+        "mode": "revise_only",
+        "phases": {
+          "learn": 0.0,
+          "revise": 0.7,
+          "mock": 0.3
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 4,
+        "mock_every_n_days": 3,
+        "hours_factor": 0.35,
+        "min_days": 7,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 1.5
+      },
+      "is_default": false,
+      "sort_order": 30,
+      "version": 1
+    },
+    {
+      "slug": "crash-30",
+      "name": "Crash 30 days",
+      "description": "Important (high and medium priority) topics only, shortened, finishing in about 30 days.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.65,
+          "revise": 0.2,
+          "mock": 0.15
+        },
+        "include_priorities": [
+          "high",
+          "medium"
+        ],
+        "subjects_per_day": 4,
+        "mock_every_n_days": 5,
+        "hours_factor": 0.6,
+        "min_days": 10,
+        "target_days": 30,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 1.5
+      },
+      "is_default": false,
+      "sort_order": 40,
+      "version": 1
+    }
+  ]
+}

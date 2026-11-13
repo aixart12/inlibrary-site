@@ -1,0 +1,390 @@
+{
+  "exam": {
+    "slug": "bihar-police-constable",
+    "name": "Bihar Police Constable (CSBC)",
+    "short_name": "Bihar Police",
+    "kind": "exam",
+    "aliases": [
+      "bihar police",
+      "csbc",
+      "constable",
+      "bihar constable",
+      "sipahi"
+    ],
+    "category": "state-bihar",
+    "conducting_body": "Central Selection Board of Constable (CSBC), Bihar",
+    "stages": [
+      "Written (qualifying, 30%)",
+      "PET (merit)",
+      "Document verification and Medical"
+    ],
+    "description": "Constable recruitment by CSBC. Written exam is Class 10 (matriculation) level and only qualifying; merit comes from the physical test.",
+    "pattern_summary": "100 MCQs, 100 marks, 2 hours, OMR, no negative marking, qualifying at 30%. Latest: Advt. 01/2025 (19,838 posts).",
+    "official_url": "https://csbc.bihar.gov.in",
+    "syllabus_source_url": "https://csbc.bihar.gov.in (Advertisement 01/2025, syllabus section)",
+    "syllabus_cycle": "Advt. 01/2025 (next advertisement awaited)",
+    "verified": true,
+    "verification_note": "Subjects (Hindi, English, Maths, Social Science, Science, GK and Current Affairs at matric level) confirmed via secondary sources quoting Advt. 01/2025.",
+    "priority_basis": "default (medium); current affairs and Bihar GK marked high",
+    "last_verified": "2026-10-11",
+    "version": 1,
+    "is_published": true,
+    "sort_order": 180
+  },
+  "subjects": [
+    {
+      "slug": "hindi",
+      "name": "Hindi",
+      "sort_order": 10,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "vyakaran-sandhi-samas-ling-vachan-kaal",
+          "name": "Vyakaran: Sandhi, Samas, Ling, Vachan, Kaal",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "shabd-gyan-paryayvachi-vilom-muhavare",
+          "name": "Shabd Gyan: Paryayvachi, Vilom, Muhavare",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "vakya-shuddhi-aur-gadyansh",
+          "name": "Vakya Shuddhi aur Gadyansh",
+          "sort_order": 30,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "english",
+      "name": "English",
+      "sort_order": 20,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "grammar-tenses-articles-prepositions-voice-narration",
+          "name": "Grammar: Tenses, Articles, Prepositions, Voice, Narration",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "vocabulary-and-comprehension",
+          "name": "Vocabulary and Comprehension",
+          "sort_order": 20,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 30,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "number-system-and-simplification",
+          "name": "Number System and Simplification",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "percentage-ratio-and-average",
+          "name": "Percentage, Ratio and Average",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "profit-loss-and-interest",
+          "name": "Profit, Loss and Interest",
+          "sort_order": 30,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "time-and-work-speed-and-distance",
+          "name": "Time and Work, Speed and Distance",
+          "sort_order": 40,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "mensuration",
+          "name": "Mensuration",
+          "sort_order": 50,
+          "est_hours": 2.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "social-science",
+      "name": "Social Science",
+      "sort_order": 40,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "history-india-and-bihar",
+          "name": "History (India and Bihar)",
+          "sort_order": 10,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "geography-india-and-bihar",
+          "name": "Geography (India and Bihar)",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "polity-and-constitution",
+          "name": "Polity and Constitution",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "economics",
+          "name": "Economics",
+          "sort_order": 40,
+          "est_hours": 2.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "science",
+      "name": "Science",
+      "sort_order": 50,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "physics",
+          "name": "Physics",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "chemistry",
+          "name": "Chemistry",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "biology",
+          "name": "Biology",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "gk-and-current-affairs",
+      "name": "GK and Current Affairs",
+      "sort_order": 60,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "bihar-gk",
+          "name": "Bihar GK",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "national-and-international-current-affairs",
+          "name": "National and International Current Affairs",
+          "sort_order": 20,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "static-gk-and-sports",
+          "name": "Static GK and Sports",
+          "sort_order": 30,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "slug": "full-syllabus",
+      "name": "Full syllabus + revision",
+      "description": "Covers every topic once, then revises, with a regular mock test day. Best when you have 2 months or more.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.6,
+          "revise": 0.2,
+          "mock": 0.2
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 5,
+        "hours_factor": 1.0,
+        "min_days": 45,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 2
+      },
+      "is_default": true,
+      "sort_order": 10,
+      "version": 1
+    },
+    {
+      "slug": "revision-only",
+      "name": "Revision only",
+      "description": "You have studied the syllabus before. Quick revision of every topic plus frequent mock tests.",
+      "rules": {
+        "mode": "revise_only",
+        "phases": {
+          "learn": 0.0,
+          "revise": 0.7,
+          "mock": 0.3
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 4,
+        "mock_every_n_days": 3,
+        "hours_factor": 0.35,
+        "min_days": 7,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 2
+      },
+      "is_default": false,
+      "sort_order": 20,
+      "version": 1
+    },
+    {
+      "slug": "crash-30",
+      "name": "Crash 30 days",
+      "description": "Important (high and medium priority) topics only, shortened, finishing in about 30 days.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.65,
+          "revise": 0.2,
+          "mock": 0.15
+        },
+        "include_priorities": [
+          "high",
+          "medium"
+        ],
+        "subjects_per_day": 4,
+        "mock_every_n_days": 5,
+        "hours_factor": 0.6,
+        "min_days": 10,
+        "target_days": 30,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 2
+      },
+      "is_default": false,
+      "sort_order": 30,
+      "version": 1
+    }
+  ]
+}

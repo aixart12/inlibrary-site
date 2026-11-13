@@ -1,0 +1,563 @@
+{
+  "schema": 1,
+  "chips": {
+    "school": [
+      {
+        "label": "Class 10",
+        "query": "class 10"
+      },
+      {
+        "label": "Class 12",
+        "query": "class 12"
+      }
+    ],
+    "exams": [
+      {
+        "label": "SSC",
+        "query": "ssc"
+      },
+      {
+        "label": "Railway",
+        "query": "railway"
+      },
+      {
+        "label": "Banking",
+        "query": "bank"
+      },
+      {
+        "label": "BPSC",
+        "query": "bpsc"
+      },
+      {
+        "label": "UPSC",
+        "query": "upsc"
+      },
+      {
+        "label": "NEET",
+        "query": "neet"
+      },
+      {
+        "label": "JEE",
+        "query": "jee"
+      }
+    ]
+  },
+  "plans": [
+    {
+      "slug": "neet-ug",
+      "kind": "exam",
+      "name": "NEET UG",
+      "short_name": "NEET",
+      "aliases": [
+        "neet",
+        "neet ug",
+        "medical",
+        "mbbs",
+        "nta neet"
+      ],
+      "category": "entrance",
+      "subject_count": 4,
+      "topic_count": 83,
+      "version": 1
+    },
+    {
+      "slug": "jee-main",
+      "kind": "exam",
+      "name": "JEE Main (Paper 1, B.E./B.Tech)",
+      "short_name": "JEE Main",
+      "aliases": [
+        "jee",
+        "jee main",
+        "jee mains",
+        "engineering",
+        "iit",
+        "nit",
+        "btech",
+        "nta jee"
+      ],
+      "category": "entrance",
+      "subject_count": 3,
+      "topic_count": 73,
+      "version": 1
+    },
+    {
+      "slug": "jee-advanced",
+      "kind": "exam",
+      "name": "JEE Advanced",
+      "short_name": "JEE Adv",
+      "aliases": [
+        "jee",
+        "jee advanced",
+        "jee adv",
+        "iit",
+        "iit jee",
+        "engineering",
+        "btech"
+      ],
+      "category": "entrance",
+      "subject_count": 3,
+      "topic_count": 74,
+      "version": 1
+    },
+    {
+      "slug": "cuet-ug",
+      "kind": "exam",
+      "name": "CUET UG",
+      "short_name": "CUET",
+      "aliases": [
+        "cuet",
+        "cuet ug",
+        "central university",
+        "nta cuet",
+        "university entrance",
+        "du admission"
+      ],
+      "category": "entrance",
+      "subject_count": 9,
+      "topic_count": 89,
+      "version": 1
+    },
+    {
+      "slug": "upsc-cse-prelims",
+      "kind": "exam",
+      "name": "UPSC Civil Services Prelims (GS Paper I + CSAT)",
+      "short_name": "UPSC Prelims",
+      "aliases": [
+        "upsc",
+        "civil services",
+        "cse",
+        "ias",
+        "ips",
+        "prelims"
+      ],
+      "category": "central-govt",
+      "subject_count": 8,
+      "topic_count": 75,
+      "version": 1
+    },
+    {
+      "slug": "upsc-cse-mains",
+      "kind": "exam",
+      "name": "UPSC Civil Services Mains (GS Papers I-IV + Essay)",
+      "short_name": "UPSC Mains",
+      "aliases": [
+        "upsc",
+        "civil services",
+        "cse",
+        "ias",
+        "ips",
+        "mains"
+      ],
+      "category": "central-govt",
+      "subject_count": 5,
+      "topic_count": 40,
+      "version": 1
+    },
+    {
+      "slug": "ssc-cgl",
+      "kind": "exam",
+      "name": "SSC CGL (Combined Graduate Level)",
+      "short_name": "SSC CGL",
+      "aliases": [
+        "ssc cgl",
+        "cgl",
+        "ssc",
+        "combined graduate level",
+        "staff selection commission"
+      ],
+      "category": "central-govt",
+      "subject_count": 5,
+      "topic_count": 52,
+      "version": 1
+    },
+    {
+      "slug": "ssc-chsl",
+      "kind": "exam",
+      "name": "SSC CHSL (Combined Higher Secondary Level)",
+      "short_name": "SSC CHSL",
+      "aliases": [
+        "ssc chsl",
+        "chsl",
+        "ssc",
+        "10+2",
+        "ldc",
+        "deo",
+        "combined higher secondary"
+      ],
+      "category": "central-govt",
+      "subject_count": 5,
+      "topic_count": 48,
+      "version": 1
+    },
+    {
+      "slug": "ssc-gd",
+      "kind": "exam",
+      "name": "SSC GD Constable",
+      "short_name": "SSC GD",
+      "aliases": [
+        "ssc gd",
+        "gd",
+        "ssc",
+        "gd constable",
+        "capf",
+        "bsf",
+        "crpf",
+        "cisf",
+        "itbp",
+        "assam rifles"
+      ],
+      "category": "central-govt",
+      "subject_count": 5,
+      "topic_count": 30,
+      "version": 1
+    },
+    {
+      "slug": "ssc-mts",
+      "kind": "exam",
+      "name": "SSC MTS and Havaldar",
+      "short_name": "SSC MTS",
+      "aliases": [
+        "ssc mts",
+        "mts",
+        "ssc",
+        "multi tasking staff",
+        "havaldar"
+      ],
+      "category": "central-govt",
+      "subject_count": 4,
+      "topic_count": 24,
+      "version": 1
+    },
+    {
+      "slug": "rrb-ntpc",
+      "kind": "exam",
+      "name": "RRB NTPC (Graduate and Undergraduate)",
+      "short_name": "RRB NTPC",
+      "aliases": [
+        "rrb ntpc",
+        "ntpc",
+        "rrb",
+        "railway",
+        "railway ntpc",
+        "station master",
+        "ticket collector",
+        "clerk"
+      ],
+      "category": "railways",
+      "subject_count": 3,
+      "topic_count": 34,
+      "version": 1
+    },
+    {
+      "slug": "rrb-group-d",
+      "kind": "exam",
+      "name": "RRB Group D (Level 1)",
+      "short_name": "RRB Group D",
+      "aliases": [
+        "rrb group d",
+        "group d",
+        "rrb",
+        "railway",
+        "railway group d",
+        "level 1",
+        "track maintainer"
+      ],
+      "category": "railways",
+      "subject_count": 4,
+      "topic_count": 42,
+      "version": 1
+    },
+    {
+      "slug": "rrb-alp",
+      "kind": "exam",
+      "name": "RRB ALP (Assistant Loco Pilot)",
+      "short_name": "RRB ALP",
+      "aliases": [
+        "rrb alp",
+        "alp",
+        "rrb",
+        "railway",
+        "loco pilot",
+        "assistant loco pilot",
+        "technician"
+      ],
+      "category": "railways",
+      "subject_count": 5,
+      "topic_count": 44,
+      "version": 1
+    },
+    {
+      "slug": "ibps-po",
+      "kind": "exam",
+      "name": "IBPS PO (CRP PO/MT)",
+      "short_name": "IBPS PO",
+      "aliases": [
+        "ibps po",
+        "ibps",
+        "bank po",
+        "po",
+        "probationary officer",
+        "bank exam",
+        "banking"
+      ],
+      "category": "banking",
+      "subject_count": 5,
+      "topic_count": 41,
+      "version": 1
+    },
+    {
+      "slug": "ibps-clerk",
+      "kind": "exam",
+      "name": "IBPS Clerk (CRP CSA)",
+      "short_name": "IBPS Clerk",
+      "aliases": [
+        "ibps clerk",
+        "ibps",
+        "bank clerk",
+        "sbi clerk",
+        "clerk",
+        "bank exam",
+        "banking"
+      ],
+      "category": "banking",
+      "subject_count": 4,
+      "topic_count": 39,
+      "version": 1
+    },
+    {
+      "slug": "sbi-po",
+      "kind": "exam",
+      "name": "SBI PO",
+      "short_name": "SBI PO",
+      "aliases": [
+        "sbi po",
+        "sbi",
+        "state bank of india",
+        "bank po",
+        "po",
+        "probationary officer",
+        "bank exam",
+        "banking"
+      ],
+      "category": "banking",
+      "subject_count": 5,
+      "topic_count": 42,
+      "version": 1
+    },
+    {
+      "slug": "bpsc-cce-prelims",
+      "kind": "exam",
+      "name": "BPSC Combined Competitive Exam (Prelims)",
+      "short_name": "BPSC Prelims",
+      "aliases": [
+        "bpsc",
+        "bihar psc",
+        "bihar public service commission",
+        "cce",
+        "bihar civil services",
+        "70th bpsc"
+      ],
+      "category": "state-bihar",
+      "subject_count": 7,
+      "topic_count": 21,
+      "version": 1
+    },
+    {
+      "slug": "bihar-police-constable",
+      "kind": "exam",
+      "name": "Bihar Police Constable (CSBC)",
+      "short_name": "Bihar Police",
+      "aliases": [
+        "bihar police",
+        "csbc",
+        "constable",
+        "bihar constable",
+        "sipahi"
+      ],
+      "category": "state-bihar",
+      "subject_count": 6,
+      "topic_count": 20,
+      "version": 1
+    },
+    {
+      "slug": "nda",
+      "kind": "exam",
+      "name": "UPSC NDA and NA",
+      "short_name": "NDA",
+      "aliases": [
+        "nda",
+        "na",
+        "national defence academy",
+        "defence",
+        "army",
+        "navy",
+        "air force"
+      ],
+      "category": "defence",
+      "subject_count": 3,
+      "topic_count": 20,
+      "version": 1
+    },
+    {
+      "slug": "ctet-paper-1",
+      "kind": "exam",
+      "name": "CTET Paper I (Classes 1-5)",
+      "short_name": "CTET P1",
+      "aliases": [
+        "ctet",
+        "tet",
+        "teacher eligibility",
+        "teacher",
+        "teaching",
+        "cbse ctet",
+        "paper 1",
+        "primary teacher"
+      ],
+      "category": "teaching",
+      "subject_count": 5,
+      "topic_count": 37,
+      "version": 1
+    },
+    {
+      "slug": "ctet-paper-2",
+      "kind": "exam",
+      "name": "CTET Paper II (Classes 6-8)",
+      "short_name": "CTET P2",
+      "aliases": [
+        "ctet",
+        "tet",
+        "teacher eligibility",
+        "teacher",
+        "teaching",
+        "cbse ctet",
+        "paper 2",
+        "upper primary teacher"
+      ],
+      "category": "teaching",
+      "subject_count": 5,
+      "topic_count": 44,
+      "version": 1
+    },
+    {
+      "slug": "class-10-cbse",
+      "kind": "school",
+      "name": "Class 10 · CBSE",
+      "short_name": "Class 10",
+      "class": "10",
+      "board": "CBSE",
+      "aliases": [
+        "10",
+        "10th",
+        "tenth",
+        "class 10",
+        "matric",
+        "boards",
+        "board exam",
+        "cbse",
+        "cbse 10",
+        "dasvi",
+        "dasvin",
+        "secondary"
+      ],
+      "category": "school",
+      "subject_count": 5,
+      "topic_count": 60,
+      "version": 1
+    },
+    {
+      "slug": "class-12-cbse-pcm",
+      "kind": "school",
+      "name": "Class 12 · CBSE · Science (PCM)",
+      "short_name": "Class 12",
+      "class": "12",
+      "board": "CBSE",
+      "stream": "Science (PCM)",
+      "aliases": [
+        "12",
+        "12th",
+        "twelfth",
+        "class 12",
+        "inter",
+        "intermediate",
+        "boards",
+        "board exam",
+        "cbse",
+        "cbse 12",
+        "barahvi",
+        "barahvin",
+        "science",
+        "pcm",
+        "maths",
+        "non medical",
+        "senior secondary"
+      ],
+      "category": "school",
+      "subject_count": 4,
+      "topic_count": 43,
+      "version": 1
+    },
+    {
+      "slug": "class-12-cbse-pcb",
+      "kind": "school",
+      "name": "Class 12 · CBSE · Science (PCB)",
+      "short_name": "Class 12",
+      "class": "12",
+      "board": "CBSE",
+      "stream": "Science (PCB)",
+      "aliases": [
+        "12",
+        "12th",
+        "twelfth",
+        "class 12",
+        "inter",
+        "intermediate",
+        "boards",
+        "board exam",
+        "cbse",
+        "cbse 12",
+        "barahvi",
+        "barahvin",
+        "science",
+        "pcb",
+        "biology",
+        "bio",
+        "medical",
+        "senior secondary"
+      ],
+      "category": "school",
+      "subject_count": 5,
+      "topic_count": 56,
+      "version": 1
+    },
+    {
+      "slug": "class-12-cbse-commerce",
+      "kind": "school",
+      "name": "Class 12 · CBSE · Commerce",
+      "short_name": "Class 12",
+      "class": "12",
+      "board": "CBSE",
+      "stream": "Commerce",
+      "aliases": [
+        "12",
+        "12th",
+        "twelfth",
+        "class 12",
+        "inter",
+        "intermediate",
+        "boards",
+        "board exam",
+        "cbse",
+        "cbse 12",
+        "barahvi",
+        "barahvin",
+        "commerce",
+        "accounts",
+        "senior secondary"
+      ],
+      "category": "school",
+      "subject_count": 5,
+      "topic_count": 50,
+      "version": 1
+    }
+  ]
+}

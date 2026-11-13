@@ -25,6 +25,7 @@ opens "On this page" automatically on wide screens.
 | `fonts/` | Plus Jakarta Sans, the app's font (SIL Open Font License, see `fonts/OFL.txt`) |
 | `images/` | App screenshots (`1-timer.webp` … `6-notes.webp`), team portraits (`team-dhruv.webp`, `team-akshat.webp`), favicon and touch icon |
 | `.nojekyll` | Tells GitHub Pages to serve the files as they are |
+| `syllabus/` | The syllabus catalog the app downloads from `https://inlibrary.in/syllabus/v1/`. It has its own guide: [syllabus/README.md](syllabus/README.md). The app depends on these paths; do not move or rename them. |
 
 ## Common edits
 

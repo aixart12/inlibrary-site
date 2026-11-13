@@ -1,0 +1,895 @@
+{
+  "exam": {
+    "slug": "jee-advanced",
+    "name": "JEE Advanced",
+    "short_name": "JEE Adv",
+    "kind": "exam",
+    "aliases": [
+      "jee",
+      "jee advanced",
+      "jee adv",
+      "iit",
+      "iit jee",
+      "engineering",
+      "btech"
+    ],
+    "category": "entrance",
+    "conducting_body": "IITs (organising IIT rotates; IIT Roorkee for 2026)",
+    "stages": [
+      "Qualify JEE Main",
+      "Paper 1 + Paper 2 (same day)"
+    ],
+    "description": "Entrance for IITs. Two compulsory 3-hour papers, each with Physics, Chemistry and Mathematics. Only top JEE Main rankers can sit.",
+    "pattern_summary": "Two compulsory CBT papers of 3 hours each; question types and marking change every year (single/multiple correct, numerical, matching).",
+    "official_url": "https://jeeadv.ac.in",
+    "syllabus_source_url": "https://jeeadv.ac.in (JEE Advanced 2026 syllabus PDF)",
+    "syllabus_cycle": "2026",
+    "verified": true,
+    "verification_note": "2026 syllabus published on jeeadv.ac.in and reported unchanged from 2025 (last revised 2023). Chapter grouping is ours; official PDF lists topic heads.",
+    "priority_basis": "PYQ frequency trend (widely published coaching analyses, not official)",
+    "last_verified": "2026-10-11",
+    "version": 1,
+    "is_published": true,
+    "sort_order": 30
+  },
+  "subjects": [
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 10,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "units-dimensions-errors-and-experiments",
+          "name": "Units, Dimensions, Errors and Experiments",
+          "sort_order": 10,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "kinematics",
+          "name": "Kinematics",
+          "sort_order": 20,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "laws-of-motion-and-friction",
+          "name": "Laws of Motion and Friction",
+          "sort_order": 30,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "work-energy-and-power",
+          "name": "Work, Energy and Power",
+          "sort_order": 40,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "centre-of-mass-and-collisions",
+          "name": "Centre of Mass and Collisions",
+          "sort_order": 50,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "rotational-mechanics",
+          "name": "Rotational Mechanics",
+          "sort_order": 60,
+          "est_hours": 8.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": "laws-of-motion-and-friction",
+          "notes": null
+        },
+        {
+          "slug": "gravitation",
+          "name": "Gravitation",
+          "sort_order": 70,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "elasticity-and-fluid-mechanics",
+          "name": "Elasticity and Fluid Mechanics",
+          "sort_order": 80,
+          "est_hours": 6.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "simple-harmonic-motion",
+          "name": "Simple Harmonic Motion",
+          "sort_order": 90,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "waves-and-sound",
+          "name": "Waves and Sound",
+          "sort_order": 100,
+          "est_hours": 6.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": "simple-harmonic-motion",
+          "notes": null
+        },
+        {
+          "slug": "thermal-physics-calorimetry-and-heat-transfer",
+          "name": "Thermal Physics: Calorimetry and Heat Transfer",
+          "sort_order": 110,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "kinetic-theory-and-thermodynamics",
+          "name": "Kinetic Theory and Thermodynamics",
+          "sort_order": 120,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "electrostatics",
+          "name": "Electrostatics",
+          "sort_order": 130,
+          "est_hours": 7.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "capacitors",
+          "name": "Capacitors",
+          "sort_order": 140,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": "electrostatics",
+          "notes": null
+        },
+        {
+          "slug": "current-electricity",
+          "name": "Current Electricity",
+          "sort_order": 150,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "magnetic-effects-of-current",
+          "name": "Magnetic Effects of Current",
+          "sort_order": 160,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "magnetism-and-matter",
+          "name": "Magnetism and Matter",
+          "sort_order": 170,
+          "est_hours": 2.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "electromagnetic-induction",
+          "name": "Electromagnetic Induction",
+          "sort_order": 180,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": "magnetic-effects-of-current",
+          "notes": null
+        },
+        {
+          "slug": "alternating-current",
+          "name": "Alternating Current",
+          "sort_order": 190,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": "electromagnetic-induction",
+          "notes": null
+        },
+        {
+          "slug": "electromagnetic-waves",
+          "name": "Electromagnetic Waves",
+          "sort_order": 200,
+          "est_hours": 2.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "ray-optics",
+          "name": "Ray Optics",
+          "sort_order": 210,
+          "est_hours": 7.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "wave-optics",
+          "name": "Wave Optics",
+          "sort_order": 220,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "modern-physics-photoelectric-effect-and-matter-waves",
+          "name": "Modern Physics: Photoelectric Effect and Matter Waves",
+          "sort_order": 230,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "modern-physics-atoms-and-nuclei",
+          "name": "Modern Physics: Atoms and Nuclei",
+          "sort_order": 240,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 20,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "mole-concept-and-stoichiometry",
+          "name": "Mole Concept and Stoichiometry",
+          "sort_order": 10,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "states-of-matter-gases-and-liquids",
+          "name": "States of Matter: Gases and Liquids",
+          "sort_order": 20,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "atomic-structure",
+          "name": "Atomic Structure",
+          "sort_order": 30,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "chemical-bonding-and-molecular-structure",
+          "name": "Chemical Bonding and Molecular Structure",
+          "sort_order": 40,
+          "est_hours": 7.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "chemical-thermodynamics",
+          "name": "Chemical Thermodynamics",
+          "sort_order": 50,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "chemical-and-ionic-equilibrium",
+          "name": "Chemical and Ionic Equilibrium",
+          "sort_order": 60,
+          "est_hours": 7.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "electrochemistry",
+          "name": "Electrochemistry",
+          "sort_order": 70,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "chemical-kinetics",
+          "name": "Chemical Kinetics",
+          "sort_order": 80,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "solutions",
+          "name": "Solutions",
+          "sort_order": 90,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "surface-chemistry",
+          "name": "Surface Chemistry",
+          "sort_order": 100,
+          "est_hours": 3.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "periodicity-and-hydrogen",
+          "name": "Periodicity and Hydrogen",
+          "sort_order": 110,
+          "est_hours": 3.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "s-block-elements",
+          "name": "s-Block Elements",
+          "sort_order": 120,
+          "est_hours": 3.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "p-block-elements",
+          "name": "p-Block Elements",
+          "sort_order": 130,
+          "est_hours": 8.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "d-and-f-block-elements",
+          "name": "d- and f-Block Elements",
+          "sort_order": 140,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "coordination-compounds",
+          "name": "Coordination Compounds",
+          "sort_order": 150,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "metallurgy-isolation-of-metals",
+          "name": "Metallurgy (Isolation of Metals)",
+          "sort_order": 160,
+          "est_hours": 3.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "qualitative-analysis-salt-analysis",
+          "name": "Qualitative Analysis (Salt Analysis)",
+          "sort_order": 170,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "environmental-chemistry",
+          "name": "Environmental Chemistry",
+          "sort_order": 180,
+          "est_hours": 2.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "general-organic-chemistry-basic-principles",
+          "name": "General Organic Chemistry (Basic Principles)",
+          "sort_order": 190,
+          "est_hours": 8.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "isomerism-structural-and-stereo",
+          "name": "Isomerism (Structural and Stereo)",
+          "sort_order": 200,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "hydrocarbons-alkanes-alkenes-alkynes-benzene",
+          "name": "Hydrocarbons (Alkanes, Alkenes, Alkynes, Benzene)",
+          "sort_order": 210,
+          "est_hours": 7.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": "general-organic-chemistry-basic-principles",
+          "notes": null
+        },
+        {
+          "slug": "alkyl-halides-and-haloarenes",
+          "name": "Alkyl Halides and Haloarenes",
+          "sort_order": 220,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "alcohols-phenols-and-ethers",
+          "name": "Alcohols, Phenols and Ethers",
+          "sort_order": 230,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "aldehydes-and-ketones",
+          "name": "Aldehydes and Ketones",
+          "sort_order": 240,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "carboxylic-acids-and-derivatives",
+          "name": "Carboxylic Acids and Derivatives",
+          "sort_order": 250,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "amines-and-diazonium-salts",
+          "name": "Amines and Diazonium Salts",
+          "sort_order": 260,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "biomolecules-polymers-and-chemistry-in-everyday-life",
+          "name": "Biomolecules, Polymers and Chemistry in Everyday Life",
+          "sort_order": 270,
+          "est_hours": 4.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "practical-organic-chemistry",
+          "name": "Practical Organic Chemistry",
+          "sort_order": 280,
+          "est_hours": 2.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 30,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "sets-relations-and-functions",
+          "name": "Sets, Relations and Functions",
+          "sort_order": 10,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "complex-numbers",
+          "name": "Complex Numbers",
+          "sort_order": 20,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "quadratic-equations",
+          "name": "Quadratic Equations",
+          "sort_order": 30,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "sequences-and-series",
+          "name": "Sequences and Series",
+          "sort_order": 40,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "permutations-and-combinations",
+          "name": "Permutations and Combinations",
+          "sort_order": 50,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "binomial-theorem",
+          "name": "Binomial Theorem",
+          "sort_order": 60,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "matrices-and-determinants",
+          "name": "Matrices and Determinants",
+          "sort_order": 70,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "probability",
+          "name": "Probability",
+          "sort_order": 80,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": "permutations-and-combinations",
+          "notes": null
+        },
+        {
+          "slug": "statistics",
+          "name": "Statistics",
+          "sort_order": 90,
+          "est_hours": 2.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "trigonometric-functions-and-equations",
+          "name": "Trigonometric Functions and Equations",
+          "sort_order": 100,
+          "est_hours": 6.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "inverse-trigonometric-functions",
+          "name": "Inverse Trigonometric Functions",
+          "sort_order": 110,
+          "est_hours": 3.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "properties-of-triangles",
+          "name": "Properties of Triangles",
+          "sort_order": 120,
+          "est_hours": 3.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "straight-lines",
+          "name": "Straight Lines",
+          "sort_order": 130,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "circles",
+          "name": "Circles",
+          "sort_order": 140,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "conic-sections",
+          "name": "Conic Sections",
+          "sort_order": 150,
+          "est_hours": 7.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": "circles",
+          "notes": null
+        },
+        {
+          "slug": "vectors",
+          "name": "Vectors",
+          "sort_order": 160,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "three-dimensional-geometry",
+          "name": "Three Dimensional Geometry",
+          "sort_order": 170,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": "vectors",
+          "notes": null
+        },
+        {
+          "slug": "limits-continuity-and-differentiability",
+          "name": "Limits, Continuity and Differentiability",
+          "sort_order": 180,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "applications-of-derivatives",
+          "name": "Applications of Derivatives",
+          "sort_order": 190,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": "limits-continuity-and-differentiability",
+          "notes": null
+        },
+        {
+          "slug": "indefinite-integrals",
+          "name": "Indefinite Integrals",
+          "sort_order": 200,
+          "est_hours": 6.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "definite-integrals-and-area",
+          "name": "Definite Integrals and Area",
+          "sort_order": 210,
+          "est_hours": 7.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": "indefinite-integrals",
+          "notes": null
+        },
+        {
+          "slug": "differential-equations",
+          "name": "Differential Equations",
+          "sort_order": 220,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": "indefinite-integrals",
+          "notes": null
+        }
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "slug": "full-syllabus",
+      "name": "Full syllabus + revision",
+      "description": "Covers every topic once, then revises, with a regular mock test (both papers) day. Best when you have 2 months or more.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.7,
+          "revise": 0.2,
+          "mock": 0.1
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 2,
+        "mock_every_n_days": 7,
+        "hours_factor": 1.0,
+        "min_days": 45,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": null,
+        "mock_label": "Mock test (both papers)",
+        "mock_hours": 6
+      },
+      "is_default": true,
+      "sort_order": 10,
+      "version": 1
+    },
+    {
+      "slug": "revision-only",
+      "name": "Revision only",
+      "description": "You have studied the syllabus before. Quick revision of every topic plus frequent mock test (both papers)s.",
+      "rules": {
+        "mode": "revise_only",
+        "phases": {
+          "learn": 0.0,
+          "revise": 0.7,
+          "mock": 0.3
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 3,
+        "hours_factor": 0.35,
+        "min_days": 7,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": null,
+        "mock_label": "Mock test (both papers)",
+        "mock_hours": 6
+      },
+      "is_default": false,
+      "sort_order": 20,
+      "version": 1
+    },
+    {
+      "slug": "crash-30",
+      "name": "Crash 30 days",
+      "description": "Important (high and medium priority) topics only, shortened, finishing in about 30 days.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.65,
+          "revise": 0.2,
+          "mock": 0.15
+        },
+        "include_priorities": [
+          "high",
+          "medium"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 5,
+        "hours_factor": 0.6,
+        "min_days": 10,
+        "target_days": 30,
+        "stages": null,
+        "daily_slot": null,
+        "mock_label": "Mock test (both papers)",
+        "mock_hours": 6
+      },
+      "is_default": false,
+      "sort_order": 30,
+      "version": 1
+    }
+  ]
+}

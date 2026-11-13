@@ -1,0 +1,214 @@
+{
+  "schema": 1,
+  "slug": "rrb-ntpc",
+  "kind": "exam",
+  "name": "RRB NTPC (Graduate and Undergraduate)",
+  "short_name": "RRB NTPC",
+  "aliases": [
+    "rrb ntpc",
+    "ntpc",
+    "rrb",
+    "railway",
+    "railway ntpc",
+    "station master",
+    "ticket collector",
+    "clerk"
+  ],
+  "category": "railways",
+  "subject_count": 3,
+  "topic_count": 34,
+  "version": 1,
+  "subjects": [
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "number-system-hcf-and-lcm",
+          "name": "Number System, HCF and LCM",
+          "sort_order": 10
+        },
+        {
+          "slug": "simplification-decimals-and-fractions",
+          "name": "Simplification, Decimals and Fractions",
+          "sort_order": 20
+        },
+        {
+          "slug": "ratio-and-proportion",
+          "name": "Ratio and Proportion",
+          "sort_order": 30
+        },
+        {
+          "slug": "percentage",
+          "name": "Percentage",
+          "sort_order": 40
+        },
+        {
+          "slug": "averages-and-ages",
+          "name": "Averages and Ages",
+          "sort_order": 50
+        },
+        {
+          "slug": "profit-loss-and-discount",
+          "name": "Profit, Loss and Discount",
+          "sort_order": 60
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 70
+        },
+        {
+          "slug": "time-and-work",
+          "name": "Time and Work",
+          "sort_order": 80
+        },
+        {
+          "slug": "time-speed-and-distance",
+          "name": "Time, Speed and Distance",
+          "sort_order": 90
+        },
+        {
+          "slug": "mensuration",
+          "name": "Mensuration",
+          "sort_order": 100
+        },
+        {
+          "slug": "elementary-algebra",
+          "name": "Elementary Algebra",
+          "sort_order": 110
+        },
+        {
+          "slug": "geometry-and-trigonometry",
+          "name": "Geometry and Trigonometry",
+          "sort_order": 120
+        },
+        {
+          "slug": "elementary-statistics-and-data-interpretation",
+          "name": "Elementary Statistics and Data Interpretation",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "general-intelligence-and-reasoning",
+      "name": "General Intelligence and Reasoning",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "analogy-and-classification",
+          "name": "Analogy and Classification",
+          "sort_order": 10
+        },
+        {
+          "slug": "number-and-alphabet-series",
+          "name": "Number and Alphabet Series",
+          "sort_order": 20
+        },
+        {
+          "slug": "coding-decoding",
+          "name": "Coding-Decoding",
+          "sort_order": 30
+        },
+        {
+          "slug": "mathematical-operations",
+          "name": "Mathematical Operations",
+          "sort_order": 40
+        },
+        {
+          "slug": "blood-relations-and-direction-sense",
+          "name": "Blood Relations and Direction Sense",
+          "sort_order": 50
+        },
+        {
+          "slug": "syllogism-and-venn-diagrams",
+          "name": "Syllogism and Venn Diagrams",
+          "sort_order": 60
+        },
+        {
+          "slug": "puzzles-and-seating-arrangement",
+          "name": "Puzzles and Seating Arrangement",
+          "sort_order": 70
+        },
+        {
+          "slug": "data-sufficiency-and-analytical-reasoning",
+          "name": "Data Sufficiency and Analytical Reasoning",
+          "sort_order": 80
+        },
+        {
+          "slug": "statement-conclusion-course-of-action-decision-making",
+          "name": "Statement-Conclusion, Course of Action, Decision Making",
+          "sort_order": 90
+        },
+        {
+          "slug": "jumbling-maps-and-graph-interpretation",
+          "name": "Jumbling, Maps and Graph Interpretation",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "general-awareness",
+      "name": "General Awareness",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "history-ancient-to-modern-and-freedom-struggle",
+          "name": "History: Ancient to Modern and Freedom Struggle",
+          "sort_order": 10
+        },
+        {
+          "slug": "geography-india-and-world",
+          "name": "Geography: India and World",
+          "sort_order": 20
+        },
+        {
+          "slug": "polity-and-governance",
+          "name": "Polity and Governance",
+          "sort_order": 30
+        },
+        {
+          "slug": "economy-banking-and-financial-system",
+          "name": "Economy, Banking and Financial System",
+          "sort_order": 40
+        },
+        {
+          "slug": "physics-up-to-class-10",
+          "name": "Physics up to Class 10",
+          "sort_order": 50
+        },
+        {
+          "slug": "chemistry-up-to-class-10",
+          "name": "Chemistry up to Class 10",
+          "sort_order": 60
+        },
+        {
+          "slug": "biology-up-to-class-10",
+          "name": "Biology up to Class 10",
+          "sort_order": 70
+        },
+        {
+          "slug": "computers-and-environment-basics",
+          "name": "Computers and Environment Basics",
+          "sort_order": 80
+        },
+        {
+          "slug": "static-gk-art-culture-monuments-organisations",
+          "name": "Static GK: Art, Culture, Monuments, Organisations",
+          "sort_order": 90
+        },
+        {
+          "slug": "indian-railways-and-transport-gk",
+          "name": "Indian Railways and Transport GK",
+          "sort_order": 100
+        },
+        {
+          "slug": "current-affairs-national-international-sports-awards-schemes",
+          "name": "Current Affairs: National, International, Sports, Awards, Schemes",
+          "sort_order": 110
+        }
+      ]
+    }
+  ]
+}

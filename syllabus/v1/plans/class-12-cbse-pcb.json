@@ -1,0 +1,351 @@
+{
+  "schema": 1,
+  "slug": "class-12-cbse-pcb",
+  "kind": "school",
+  "name": "Class 12 · CBSE · Science (PCB)",
+  "short_name": "Class 12",
+  "class": "12",
+  "board": "CBSE",
+  "stream": "Science (PCB)",
+  "aliases": [
+    "12",
+    "12th",
+    "twelfth",
+    "class 12",
+    "inter",
+    "intermediate",
+    "boards",
+    "board exam",
+    "cbse",
+    "cbse 12",
+    "barahvi",
+    "barahvin",
+    "science",
+    "pcb",
+    "biology",
+    "bio",
+    "medical",
+    "senior secondary"
+  ],
+  "category": "school",
+  "subject_count": 5,
+  "topic_count": 56,
+  "version": 1,
+  "subjects": [
+    {
+      "slug": "english-core",
+      "name": "English Core",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "reading-skills-unseen-passages",
+          "name": "Reading Skills: Unseen Passages",
+          "sort_order": 10
+        },
+        {
+          "slug": "writing-skills-notice-invitation-letter-article-report",
+          "name": "Writing Skills: Notice, Invitation, Letter, Article, Report",
+          "sort_order": 20
+        },
+        {
+          "slug": "flamingo-prose-chapters-first-half",
+          "name": "Flamingo: Prose Chapters (first half)",
+          "sort_order": 30
+        },
+        {
+          "slug": "flamingo-prose-chapters-second-half",
+          "name": "Flamingo: Prose Chapters (second half)",
+          "sort_order": 40
+        },
+        {
+          "slug": "flamingo-poems",
+          "name": "Flamingo: Poems",
+          "sort_order": 50
+        },
+        {
+          "slug": "vistas-supplementary-reader",
+          "name": "Vistas: Supplementary Reader",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "electric-charges-and-fields",
+          "name": "Electric Charges and Fields",
+          "sort_order": 10
+        },
+        {
+          "slug": "electrostatic-potential-and-capacitance",
+          "name": "Electrostatic Potential and Capacitance",
+          "sort_order": 20
+        },
+        {
+          "slug": "current-electricity",
+          "name": "Current Electricity",
+          "sort_order": 30
+        },
+        {
+          "slug": "moving-charges-and-magnetism",
+          "name": "Moving Charges and Magnetism",
+          "sort_order": 40
+        },
+        {
+          "slug": "magnetism-and-matter",
+          "name": "Magnetism and Matter",
+          "sort_order": 50
+        },
+        {
+          "slug": "electromagnetic-induction",
+          "name": "Electromagnetic Induction",
+          "sort_order": 60
+        },
+        {
+          "slug": "alternating-current",
+          "name": "Alternating Current",
+          "sort_order": 70
+        },
+        {
+          "slug": "electromagnetic-waves",
+          "name": "Electromagnetic Waves",
+          "sort_order": 80
+        },
+        {
+          "slug": "ray-optics-and-optical-instruments",
+          "name": "Ray Optics and Optical Instruments",
+          "sort_order": 90
+        },
+        {
+          "slug": "wave-optics",
+          "name": "Wave Optics",
+          "sort_order": 100
+        },
+        {
+          "slug": "dual-nature-of-radiation-and-matter",
+          "name": "Dual Nature of Radiation and Matter",
+          "sort_order": 110
+        },
+        {
+          "slug": "atoms",
+          "name": "Atoms",
+          "sort_order": 120
+        },
+        {
+          "slug": "nuclei",
+          "name": "Nuclei",
+          "sort_order": 130
+        },
+        {
+          "slug": "semiconductor-electronics",
+          "name": "Semiconductor Electronics",
+          "sort_order": 140
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "solutions",
+          "name": "Solutions",
+          "sort_order": 10
+        },
+        {
+          "slug": "electrochemistry",
+          "name": "Electrochemistry",
+          "sort_order": 20
+        },
+        {
+          "slug": "chemical-kinetics",
+          "name": "Chemical Kinetics",
+          "sort_order": 30
+        },
+        {
+          "slug": "d-and-f-block-elements",
+          "name": "d- and f-Block Elements",
+          "sort_order": 40
+        },
+        {
+          "slug": "coordination-compounds",
+          "name": "Coordination Compounds",
+          "sort_order": 50
+        },
+        {
+          "slug": "haloalkanes-and-haloarenes",
+          "name": "Haloalkanes and Haloarenes",
+          "sort_order": 60
+        },
+        {
+          "slug": "alcohols-phenols-and-ethers",
+          "name": "Alcohols, Phenols and Ethers",
+          "sort_order": 70
+        },
+        {
+          "slug": "aldehydes-ketones-and-carboxylic-acids",
+          "name": "Aldehydes, Ketones and Carboxylic Acids",
+          "sort_order": 80
+        },
+        {
+          "slug": "amines",
+          "name": "Amines",
+          "sort_order": 90
+        },
+        {
+          "slug": "biomolecules",
+          "name": "Biomolecules",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "biology",
+      "name": "Biology",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "sexual-reproduction-in-flowering-plants",
+          "name": "Sexual Reproduction in Flowering Plants",
+          "sort_order": 10
+        },
+        {
+          "slug": "human-reproduction",
+          "name": "Human Reproduction",
+          "sort_order": 20
+        },
+        {
+          "slug": "reproductive-health",
+          "name": "Reproductive Health",
+          "sort_order": 30
+        },
+        {
+          "slug": "principles-of-inheritance-and-variation",
+          "name": "Principles of Inheritance and Variation",
+          "sort_order": 40
+        },
+        {
+          "slug": "molecular-basis-of-inheritance",
+          "name": "Molecular Basis of Inheritance",
+          "sort_order": 50
+        },
+        {
+          "slug": "evolution",
+          "name": "Evolution",
+          "sort_order": 60
+        },
+        {
+          "slug": "human-health-and-disease",
+          "name": "Human Health and Disease",
+          "sort_order": 70
+        },
+        {
+          "slug": "microbes-in-human-welfare",
+          "name": "Microbes in Human Welfare",
+          "sort_order": 80
+        },
+        {
+          "slug": "biotechnology-principles-and-processes",
+          "name": "Biotechnology: Principles and Processes",
+          "sort_order": 90
+        },
+        {
+          "slug": "biotechnology-and-its-applications",
+          "name": "Biotechnology and its Applications",
+          "sort_order": 100
+        },
+        {
+          "slug": "organisms-and-populations",
+          "name": "Organisms and Populations",
+          "sort_order": 110
+        },
+        {
+          "slug": "ecosystem",
+          "name": "Ecosystem",
+          "sort_order": 120
+        },
+        {
+          "slug": "biodiversity-and-conservation",
+          "name": "Biodiversity and Conservation",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "relations-and-functions",
+          "name": "Relations and Functions",
+          "sort_order": 10
+        },
+        {
+          "slug": "inverse-trigonometric-functions",
+          "name": "Inverse Trigonometric Functions",
+          "sort_order": 20
+        },
+        {
+          "slug": "matrices",
+          "name": "Matrices",
+          "sort_order": 30
+        },
+        {
+          "slug": "determinants",
+          "name": "Determinants",
+          "sort_order": 40
+        },
+        {
+          "slug": "continuity-and-differentiability",
+          "name": "Continuity and Differentiability",
+          "sort_order": 50
+        },
+        {
+          "slug": "application-of-derivatives",
+          "name": "Application of Derivatives",
+          "sort_order": 60
+        },
+        {
+          "slug": "integrals",
+          "name": "Integrals",
+          "sort_order": 70
+        },
+        {
+          "slug": "application-of-integrals",
+          "name": "Application of Integrals",
+          "sort_order": 80
+        },
+        {
+          "slug": "differential-equations",
+          "name": "Differential Equations",
+          "sort_order": 90
+        },
+        {
+          "slug": "vector-algebra",
+          "name": "Vector Algebra",
+          "sort_order": 100
+        },
+        {
+          "slug": "three-dimensional-geometry",
+          "name": "Three Dimensional Geometry",
+          "sort_order": 110
+        },
+        {
+          "slug": "linear-programming",
+          "name": "Linear Programming",
+          "sort_order": 120
+        },
+        {
+          "slug": "probability",
+          "name": "Probability",
+          "sort_order": 130
+        }
+      ]
+    }
+  ]
+}
