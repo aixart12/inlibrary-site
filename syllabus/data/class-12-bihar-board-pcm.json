@@ -1,12 +1,12 @@
 {
   "exam": {
-    "slug": "class-12-bihar-board-science",
-    "name": "Class 12 · Bihar Board · Science",
+    "slug": "class-12-bihar-board-pcm",
+    "name": "Class 12 · Bihar Board · Science (PCM)",
     "short_name": "Class 12",
     "kind": "school",
     "class": "12",
     "board": "Bihar Board",
-    "stream": "Science",
+    "stream": "Science (PCM)",
     "aliases": [
       "12",
       "12th",
@@ -34,15 +34,13 @@
       "bseb inter",
       "science",
       "pcm",
-      "pcb",
-      "pcmb",
-      "physics",
-      "chemistry",
-      "biology",
       "maths",
       "mathematics",
       "non medical",
-      "medical",
+      "non-medical",
+      "engineering",
+      "physics",
+      "chemistry",
       "i.sc",
       "isc",
       "intermediate science"
@@ -61,86 +59,9 @@
   },
   "subjects": [
     {
-      "slug": "mathematics",
-      "name": "Mathematics",
-      "sort_order": 10,
-      "topics": [
-        {
-          "slug": "relations-and-functions",
-          "name": "Relations and Functions",
-          "sort_order": 10
-        },
-        {
-          "slug": "inverse-trigonometric-functions",
-          "name": "Inverse Trigonometric Functions",
-          "sort_order": 20
-        },
-        {
-          "slug": "matrices",
-          "name": "Matrices",
-          "sort_order": 30
-        },
-        {
-          "slug": "determinants",
-          "name": "Determinants",
-          "sort_order": 40
-        },
-        {
-          "slug": "differentiability",
-          "name": "Differentiability",
-          "sort_order": 50
-        },
-        {
-          "slug": "applications-of-derivatives",
-          "name": "Applications of Derivatives",
-          "sort_order": 60
-        },
-        {
-          "slug": "indefinite-integrals",
-          "name": "Indefinite Integrals",
-          "sort_order": 70
-        },
-        {
-          "slug": "definite-integrals",
-          "name": "Definite Integrals",
-          "sort_order": 80
-        },
-        {
-          "slug": "application-of-the-integrals",
-          "name": "Application of the Integrals",
-          "sort_order": 90
-        },
-        {
-          "slug": "differential-equations",
-          "name": "Differential Equations",
-          "sort_order": 100
-        },
-        {
-          "slug": "vectors",
-          "name": "Vectors",
-          "sort_order": 110
-        },
-        {
-          "slug": "introduction-to-three-dimensional-geometry",
-          "name": "Introduction to Three-dimensional Geometry",
-          "sort_order": 120
-        },
-        {
-          "slug": "linear-programming",
-          "name": "Linear Programming",
-          "sort_order": 130
-        },
-        {
-          "slug": "probability",
-          "name": "Probability",
-          "sort_order": 140
-        }
-      ]
-    },
-    {
       "slug": "physics",
       "name": "Physics",
-      "sort_order": 20,
+      "sort_order": 10,
       "topics": [
         {
           "slug": "electrostatics",
@@ -197,7 +118,7 @@
     {
       "slug": "chemistry",
       "name": "Chemistry",
-      "sort_order": 30,
+      "sort_order": 20,
       "topics": [
         {
           "slug": "solid-state",
@@ -287,66 +208,79 @@
       ]
     },
     {
-      "slug": "biology",
-      "name": "Biology",
-      "sort_order": 40,
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 30,
       "topics": [
         {
-          "slug": "reproduction-and-development",
-          "name": "Reproduction and Development",
+          "slug": "relations-and-functions",
+          "name": "Relations and Functions",
           "sort_order": 10
         },
         {
-          "slug": "genetics-and-organic-evolution",
-          "name": "Genetics and Organic Evolution",
+          "slug": "inverse-trigonometric-functions",
+          "name": "Inverse Trigonometric Functions",
           "sort_order": 20
         },
         {
-          "slug": "biotechnology-and-its-applications",
-          "name": "Biotechnology and its Applications",
+          "slug": "matrices",
+          "name": "Matrices",
           "sort_order": 30
         },
         {
-          "slug": "applied-biology-and-human-welfare",
-          "name": "Applied Biology and Human Welfare",
+          "slug": "determinants",
+          "name": "Determinants",
           "sort_order": 40
         },
         {
-          "slug": "man-and-environment",
-          "name": "Man and Environment",
+          "slug": "differentiability",
+          "name": "Differentiability",
           "sort_order": 50
-        }
-      ]
-    },
-    {
-      "slug": "computer-science",
-      "name": "Computer Science",
-      "sort_order": 50,
-      "topics": [
-        {
-          "slug": "programming-in-c",
-          "name": "Programming in C++",
-          "sort_order": 10
         },
         {
-          "slug": "data-structures",
-          "name": "Data Structures",
-          "sort_order": 20
+          "slug": "applications-of-derivatives",
+          "name": "Applications of Derivatives",
+          "sort_order": 60
         },
         {
-          "slug": "databases-and-sql",
-          "name": "Databases and SQL",
-          "sort_order": 30
+          "slug": "indefinite-integrals",
+          "name": "Indefinite Integrals",
+          "sort_order": 70
         },
         {
-          "slug": "boolean-algebra",
-          "name": "Boolean Algebra",
-          "sort_order": 40
+          "slug": "definite-integrals",
+          "name": "Definite Integrals",
+          "sort_order": 80
         },
         {
-          "slug": "communication-and-network-concepts",
-          "name": "Communication and Network Concepts",
-          "sort_order": 50
+          "slug": "application-of-the-integrals",
+          "name": "Application of the Integrals",
+          "sort_order": 90
+        },
+        {
+          "slug": "differential-equations",
+          "name": "Differential Equations",
+          "sort_order": 100
+        },
+        {
+          "slug": "vectors",
+          "name": "Vectors",
+          "sort_order": 110
+        },
+        {
+          "slug": "introduction-to-three-dimensional-geometry",
+          "name": "Introduction to Three-dimensional Geometry",
+          "sort_order": 120
+        },
+        {
+          "slug": "linear-programming",
+          "name": "Linear Programming",
+          "sort_order": 130
+        },
+        {
+          "slug": "probability",
+          "name": "Probability",
+          "sort_order": 140
         }
       ]
     }
