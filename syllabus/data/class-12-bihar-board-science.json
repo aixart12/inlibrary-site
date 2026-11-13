@@ -1,0 +1,354 @@
+{
+  "exam": {
+    "slug": "class-12-bihar-board-science",
+    "name": "Class 12 · Bihar Board · Science",
+    "short_name": "Class 12",
+    "kind": "school",
+    "class": "12",
+    "board": "Bihar Board",
+    "stream": "Science",
+    "aliases": [
+      "12",
+      "12th",
+      "twelfth",
+      "class 12",
+      "class xii",
+      "xii",
+      "12 class",
+      "inter",
+      "intermediate",
+      "senior secondary",
+      "boards",
+      "board exam",
+      "bseb",
+      "bihar board",
+      "bihar school examination board",
+      "bihar",
+      "barahvi",
+      "barahvin",
+      "12vi",
+      "12wi",
+      "barvi",
+      "bihar board 12th",
+      "bseb 12th",
+      "bseb inter",
+      "science",
+      "pcm",
+      "pcb",
+      "pcmb",
+      "physics",
+      "chemistry",
+      "biology",
+      "maths",
+      "mathematics",
+      "non medical",
+      "medical",
+      "i.sc",
+      "isc",
+      "intermediate science"
+    ],
+    "category": "school",
+    "conducting_body": "Bihar School Examination Board (BSEB)",
+    "official_url": "https://biharboardonline.com",
+    "syllabus_source_url": "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
+    "syllabus_cycle": "BSEB Class XI-XII syllabus (published as 2023-25 and 2024-26; text is the 2007-09 Bihar syllabus)",
+    "verified": false,
+    "verification_note": "Draft from the board's scanned Hindi/English PDF via OCR; not yet checked by a person. See pull request 'Unsure'.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 270
+  },
+  "subjects": [
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "relations-and-functions",
+          "name": "Relations and Functions",
+          "sort_order": 10
+        },
+        {
+          "slug": "inverse-trigonometric-functions",
+          "name": "Inverse Trigonometric Functions",
+          "sort_order": 20
+        },
+        {
+          "slug": "matrices",
+          "name": "Matrices",
+          "sort_order": 30
+        },
+        {
+          "slug": "determinants",
+          "name": "Determinants",
+          "sort_order": 40
+        },
+        {
+          "slug": "differentiability",
+          "name": "Differentiability",
+          "sort_order": 50
+        },
+        {
+          "slug": "applications-of-derivatives",
+          "name": "Applications of Derivatives",
+          "sort_order": 60
+        },
+        {
+          "slug": "indefinite-integrals",
+          "name": "Indefinite Integrals",
+          "sort_order": 70
+        },
+        {
+          "slug": "definite-integrals",
+          "name": "Definite Integrals",
+          "sort_order": 80
+        },
+        {
+          "slug": "application-of-the-integrals",
+          "name": "Application of the Integrals",
+          "sort_order": 90
+        },
+        {
+          "slug": "differential-equations",
+          "name": "Differential Equations",
+          "sort_order": 100
+        },
+        {
+          "slug": "vectors",
+          "name": "Vectors",
+          "sort_order": 110
+        },
+        {
+          "slug": "introduction-to-three-dimensional-geometry",
+          "name": "Introduction to Three-dimensional Geometry",
+          "sort_order": 120
+        },
+        {
+          "slug": "linear-programming",
+          "name": "Linear Programming",
+          "sort_order": 130
+        },
+        {
+          "slug": "probability",
+          "name": "Probability",
+          "sort_order": 140
+        }
+      ]
+    },
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "electrostatics",
+          "name": "Electrostatics",
+          "sort_order": 10
+        },
+        {
+          "slug": "current-electricity",
+          "name": "Current Electricity",
+          "sort_order": 20
+        },
+        {
+          "slug": "magnetic-effects-of-current-and-magnetism",
+          "name": "Magnetic Effects of Current and Magnetism",
+          "sort_order": 30
+        },
+        {
+          "slug": "electromagnetic-induction-and-alternating-currents",
+          "name": "Electromagnetic Induction and Alternating Currents",
+          "sort_order": 40
+        },
+        {
+          "slug": "electromagnetic-waves",
+          "name": "Electromagnetic Waves",
+          "sort_order": 50
+        },
+        {
+          "slug": "optics",
+          "name": "Optics",
+          "sort_order": 60
+        },
+        {
+          "slug": "dual-nature-of-matter-and-radiation",
+          "name": "Dual Nature of Matter and Radiation",
+          "sort_order": 70
+        },
+        {
+          "slug": "atoms-and-nuclei",
+          "name": "Atoms and Nuclei",
+          "sort_order": 80
+        },
+        {
+          "slug": "electronic-devices",
+          "name": "Electronic Devices",
+          "sort_order": 90
+        },
+        {
+          "slug": "communication-systems",
+          "name": "Communication Systems",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "solid-state",
+          "name": "Solid State",
+          "sort_order": 10
+        },
+        {
+          "slug": "solutions",
+          "name": "Solutions",
+          "sort_order": 20
+        },
+        {
+          "slug": "electrochemistry",
+          "name": "Electrochemistry",
+          "sort_order": 30
+        },
+        {
+          "slug": "chemical-kinetics",
+          "name": "Chemical Kinetics",
+          "sort_order": 40
+        },
+        {
+          "slug": "surface-chemistry",
+          "name": "Surface Chemistry",
+          "sort_order": 50
+        },
+        {
+          "slug": "general-principles-and-process-of-isolation-of-elements",
+          "name": "General Principles and Process of Isolation of Elements",
+          "sort_order": 60
+        },
+        {
+          "slug": "group-i-and-ii-elements",
+          "name": "Group I & II Elements",
+          "sort_order": 70
+        },
+        {
+          "slug": "p-block-elements",
+          "name": "P-Block Elements",
+          "sort_order": 80
+        },
+        {
+          "slug": "d-and-f-block-elements",
+          "name": "d- and f-Block Elements",
+          "sort_order": 90
+        },
+        {
+          "slug": "co-ordination-compounds",
+          "name": "Co-ordination Compounds",
+          "sort_order": 100
+        },
+        {
+          "slug": "haloalkanes-and-haloarenes",
+          "name": "Haloalkanes and Haloarenes",
+          "sort_order": 110
+        },
+        {
+          "slug": "alcohols-phenols-and-ethers",
+          "name": "Alcohols, Phenols and Ethers",
+          "sort_order": 120
+        },
+        {
+          "slug": "aldehydes-ketones-and-carboxylic-acids",
+          "name": "Aldehydes, Ketones and Carboxylic Acids",
+          "sort_order": 130
+        },
+        {
+          "slug": "organic-compounds-containing-nitrogen",
+          "name": "Organic Compounds Containing Nitrogen",
+          "sort_order": 140
+        },
+        {
+          "slug": "biomolecules",
+          "name": "Biomolecules",
+          "sort_order": 150
+        },
+        {
+          "slug": "polymers",
+          "name": "Polymers",
+          "sort_order": 160
+        },
+        {
+          "slug": "chemistry-in-everyday-life",
+          "name": "Chemistry in Everyday Life",
+          "sort_order": 170
+        }
+      ]
+    },
+    {
+      "slug": "biology",
+      "name": "Biology",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "reproduction-and-development",
+          "name": "Reproduction and Development",
+          "sort_order": 10
+        },
+        {
+          "slug": "genetics-and-organic-evolution",
+          "name": "Genetics and Organic Evolution",
+          "sort_order": 20
+        },
+        {
+          "slug": "biotechnology-and-its-applications",
+          "name": "Biotechnology and its Applications",
+          "sort_order": 30
+        },
+        {
+          "slug": "applied-biology-and-human-welfare",
+          "name": "Applied Biology and Human Welfare",
+          "sort_order": 40
+        },
+        {
+          "slug": "man-and-environment",
+          "name": "Man and Environment",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "computer-science",
+      "name": "Computer Science",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "programming-in-c",
+          "name": "Programming in C++",
+          "sort_order": 10
+        },
+        {
+          "slug": "data-structures",
+          "name": "Data Structures",
+          "sort_order": 20
+        },
+        {
+          "slug": "databases-and-sql",
+          "name": "Databases and SQL",
+          "sort_order": 30
+        },
+        {
+          "slug": "boolean-algebra",
+          "name": "Boolean Algebra",
+          "sort_order": 40
+        },
+        {
+          "slug": "communication-and-network-concepts",
+          "name": "Communication and Network Concepts",
+          "sort_order": 50
+        }
+      ]
+    }
+  ]
+}

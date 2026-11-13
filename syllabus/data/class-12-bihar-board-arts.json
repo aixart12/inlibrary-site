@@ -1,0 +1,514 @@
+{
+  "exam": {
+    "slug": "class-12-bihar-board-arts",
+    "name": "Class 12 · Bihar Board · Arts",
+    "short_name": "Class 12",
+    "kind": "school",
+    "class": "12",
+    "board": "Bihar Board",
+    "stream": "Arts",
+    "aliases": [
+      "12",
+      "12th",
+      "twelfth",
+      "class 12",
+      "class xii",
+      "xii",
+      "12 class",
+      "inter",
+      "intermediate",
+      "senior secondary",
+      "boards",
+      "board exam",
+      "bseb",
+      "bihar board",
+      "bihar school examination board",
+      "bihar",
+      "barahvi",
+      "barahvin",
+      "12vi",
+      "12wi",
+      "barvi",
+      "bihar board 12th",
+      "bseb 12th",
+      "bseb inter",
+      "arts",
+      "humanities",
+      "ia",
+      "i.a",
+      "intermediate arts",
+      "history",
+      "political science",
+      "geography",
+      "sociology",
+      "psychology"
+    ],
+    "category": "school",
+    "conducting_body": "Bihar School Examination Board (BSEB)",
+    "official_url": "https://biharboardonline.com",
+    "syllabus_source_url": "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
+    "syllabus_cycle": "BSEB Class XI-XII syllabus (published as 2023-25 and 2024-26; text is the 2007-09 Bihar syllabus)",
+    "verified": false,
+    "verification_note": "Draft from the board's scanned Hindi/English PDF via OCR; not yet checked by a person. See pull request 'Unsure'.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 280
+  },
+  "subjects": [
+    {
+      "slug": "history",
+      "name": "History",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "prehistoric-cultures",
+          "name": "Prehistoric Cultures",
+          "sort_order": 10
+        },
+        {
+          "slug": "harappan-civilization",
+          "name": "Harappan Civilization",
+          "sort_order": 20
+        },
+        {
+          "slug": "early-indian-religions",
+          "name": "Early Indian Religions",
+          "sort_order": 30
+        },
+        {
+          "slug": "political-and-economic-history-of-the-mauryans",
+          "name": "Political and Economic History of the Mauryans",
+          "sort_order": 40
+        },
+        {
+          "slug": "culture-and-economy-from-post-mauryan-to-gupta-period",
+          "name": "Culture and Economy from Post Mauryan to Gupta Period",
+          "sort_order": 50
+        },
+        {
+          "slug": "economy-society-and-culture-during-early-medieval-period",
+          "name": "Economy, Society and Culture during Early Medieval Period",
+          "sort_order": 60
+        },
+        {
+          "slug": "political-changes-under-sultanate",
+          "name": "Political Changes under Sultanate",
+          "sort_order": 70
+        },
+        {
+          "slug": "indo-islamic-culture-1500-1700",
+          "name": "Indo-Islamic Culture (1500-1700)",
+          "sort_order": 80
+        },
+        {
+          "slug": "urban-economy-in-medieval-age",
+          "name": "Urban Economy in Medieval Age",
+          "sort_order": 90
+        },
+        {
+          "slug": "bhakti-and-sufi-movements",
+          "name": "Bhakti and Sufi Movements",
+          "sort_order": 100
+        },
+        {
+          "slug": "the-rule-of-the-east-india-company",
+          "name": "The Rule of the East India Company",
+          "sort_order": 110
+        },
+        {
+          "slug": "the-revolt-of-1857",
+          "name": "The Revolt of 1857",
+          "sort_order": 120
+        },
+        {
+          "slug": "the-indian-awakening-in-19th-century",
+          "name": "The Indian Awakening in 19th Century",
+          "sort_order": 130
+        },
+        {
+          "slug": "the-nationalist-movements-1918-1947",
+          "name": "The Nationalist Movements (1918-1947)",
+          "sort_order": 140
+        },
+        {
+          "slug": "partition-and-independence",
+          "name": "Partition and Independence",
+          "sort_order": 150
+        },
+        {
+          "slug": "visions-of-the-new-state",
+          "name": "Visions of the New State",
+          "sort_order": 160
+        }
+      ]
+    },
+    {
+      "slug": "political-science",
+      "name": "Political Science",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "making-of-indian-constitution-and-its-goal",
+          "name": "Making of Indian Constitution and its Goal",
+          "sort_order": 10
+        },
+        {
+          "slug": "salient-features-of-indian-constitution",
+          "name": "Salient Features of Indian Constitution",
+          "sort_order": 20
+        },
+        {
+          "slug": "working-of-federalism-in-india",
+          "name": "Working of Federalism in India",
+          "sort_order": 30
+        },
+        {
+          "slug": "fundamental-rights-and-duties",
+          "name": "Fundamental Rights and Duties",
+          "sort_order": 40
+        },
+        {
+          "slug": "directive-principles-of-state-policy",
+          "name": "Directive Principles of State Policy",
+          "sort_order": 50
+        },
+        {
+          "slug": "union-executives",
+          "name": "Union Executives",
+          "sort_order": 60
+        },
+        {
+          "slug": "parliament",
+          "name": "Parliament",
+          "sort_order": 70
+        },
+        {
+          "slug": "state-executive",
+          "name": "State Executive",
+          "sort_order": 80
+        },
+        {
+          "slug": "state-legislature",
+          "name": "State Legislature",
+          "sort_order": 90
+        },
+        {
+          "slug": "indian-judiciary",
+          "name": "Indian Judiciary",
+          "sort_order": 100
+        },
+        {
+          "slug": "electoral-system-in-india",
+          "name": "Electoral System in India",
+          "sort_order": 110
+        },
+        {
+          "slug": "working-of-local-self-government-with-special-reference-to-bihar",
+          "name": "Working of Local Self Government with Special Reference to Bihar",
+          "sort_order": 120
+        },
+        {
+          "slug": "national-integration-and-challenges",
+          "name": "National Integration and Challenges",
+          "sort_order": 130
+        },
+        {
+          "slug": "foreign-policy-of-india",
+          "name": "Foreign Policy of India",
+          "sort_order": 140
+        }
+      ]
+    },
+    {
+      "slug": "geography",
+      "name": "Geography",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "fundamentals-of-human-geography",
+          "name": "Fundamentals of Human Geography",
+          "sort_order": 10
+        },
+        {
+          "slug": "people",
+          "name": "People",
+          "sort_order": 20
+        },
+        {
+          "slug": "human-activities",
+          "name": "Human Activities",
+          "sort_order": 30
+        },
+        {
+          "slug": "transport-communication-and-trade",
+          "name": "Transport, Communication and Trade",
+          "sort_order": 40
+        },
+        {
+          "slug": "human-settlement",
+          "name": "Human Settlement",
+          "sort_order": 50
+        },
+        {
+          "slug": "india-introduction",
+          "name": "India: Introduction",
+          "sort_order": 60
+        },
+        {
+          "slug": "india-physical-aspects-and-drainage-system",
+          "name": "India: Physical Aspects and Drainage System",
+          "sort_order": 70
+        },
+        {
+          "slug": "india-climate-vegetation-and-soil",
+          "name": "India: Climate, Vegetation and Soil",
+          "sort_order": 80
+        },
+        {
+          "slug": "india-resources-and-development",
+          "name": "India: Resources and Development",
+          "sort_order": 90
+        },
+        {
+          "slug": "india-transport-communication-and-international-trade",
+          "name": "India: Transport, Communication and International Trade",
+          "sort_order": 100
+        },
+        {
+          "slug": "india-population",
+          "name": "India: Population",
+          "sort_order": 110
+        },
+        {
+          "slug": "india-natural-hazards-and-management",
+          "name": "India: Natural Hazards and Management",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "economics",
+      "name": "Economics",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "introduction",
+          "name": "Introduction",
+          "sort_order": 10
+        },
+        {
+          "slug": "consumer-behaviour-and-demand",
+          "name": "Consumer Behaviour and Demand",
+          "sort_order": 20
+        },
+        {
+          "slug": "producer-behaviour-and-supply",
+          "name": "Producer Behaviour and Supply",
+          "sort_order": 30
+        },
+        {
+          "slug": "forms-of-market-and-price-determination",
+          "name": "Forms of Market and Price Determination",
+          "sort_order": 40
+        },
+        {
+          "slug": "simple-applications-of-tools-of-demand-and-supply-curves",
+          "name": "Simple Applications of Tools of Demand and Supply Curves",
+          "sort_order": 50
+        },
+        {
+          "slug": "national-income-and-related-aggregates",
+          "name": "National Income and Related Aggregates",
+          "sort_order": 60
+        },
+        {
+          "slug": "determination-of-income-and-employment",
+          "name": "Determination of Income and Employment",
+          "sort_order": 70
+        },
+        {
+          "slug": "money-and-banking",
+          "name": "Money and Banking",
+          "sort_order": 80
+        },
+        {
+          "slug": "government-budget-and-the-economy",
+          "name": "Government Budget and the Economy",
+          "sort_order": 90
+        },
+        {
+          "slug": "international-projects-in-economics",
+          "name": "International Projects in Economics",
+          "sort_order": 100
+        },
+        {
+          "slug": "developing-projects-in-economics",
+          "name": "Developing Projects in Economics",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "sociology",
+      "name": "Sociology",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "society-and-culture-in-india",
+          "name": "Society and Culture in India",
+          "sort_order": 10
+        },
+        {
+          "slug": "marriage-and-kinship",
+          "name": "Marriage and Kinship",
+          "sort_order": 20
+        },
+        {
+          "slug": "social-stratification",
+          "name": "Social Stratification",
+          "sort_order": 30
+        },
+        {
+          "slug": "process-of-social-change",
+          "name": "Process of Social Change",
+          "sort_order": 40
+        },
+        {
+          "slug": "state-and-social-change",
+          "name": "State and Social Change",
+          "sort_order": 50
+        },
+        {
+          "slug": "gender-and-society",
+          "name": "Gender and Society",
+          "sort_order": 60
+        },
+        {
+          "slug": "religion-and-society",
+          "name": "Religion and Society",
+          "sort_order": 70
+        },
+        {
+          "slug": "new-arenas-of-social-change",
+          "name": "New Arenas of Social Change",
+          "sort_order": 80
+        },
+        {
+          "slug": "tribal-society",
+          "name": "Tribal Society",
+          "sort_order": 90
+        },
+        {
+          "slug": "social-problems",
+          "name": "Social Problems",
+          "sort_order": 100
+        },
+        {
+          "slug": "weaker-sections-in-indian-society",
+          "name": "Weaker Sections in Indian Society",
+          "sort_order": 110
+        },
+        {
+          "slug": "project-work-on-a-relevant-social-issue",
+          "name": "Project Work on a Relevant Social Issue",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "psychology",
+      "name": "Psychology",
+      "sort_order": 60,
+      "topics": [
+        {
+          "slug": "self-and-personality",
+          "name": "Self and Personality",
+          "sort_order": 10
+        },
+        {
+          "slug": "stress-and-adjustment",
+          "name": "Stress and Adjustment",
+          "sort_order": 20
+        },
+        {
+          "slug": "psychological-disorder-and-therapy",
+          "name": "Psychological Disorder and Therapy",
+          "sort_order": 30
+        },
+        {
+          "slug": "environmental-psychology",
+          "name": "Environmental Psychology",
+          "sort_order": 40
+        },
+        {
+          "slug": "social-influence-and-group-processes",
+          "name": "Social Influence and Group Processes",
+          "sort_order": 50
+        },
+        {
+          "slug": "social-attitude-and-leadership",
+          "name": "Social Attitude and Leadership",
+          "sort_order": 60
+        },
+        {
+          "slug": "social-problems-in-india",
+          "name": "Social Problems in India",
+          "sort_order": 70
+        },
+        {
+          "slug": "educational-psychology",
+          "name": "Educational Psychology",
+          "sort_order": 80
+        },
+        {
+          "slug": "developing-psychological-skills",
+          "name": "Developing Psychological Skills",
+          "sort_order": 90
+        },
+        {
+          "slug": "project-report",
+          "name": "Project Report",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "home-science",
+      "name": "Home Science",
+      "sort_order": 70,
+      "topics": [
+        {
+          "slug": "physiology",
+          "name": "Physiology",
+          "sort_order": 10
+        },
+        {
+          "slug": "hygiene",
+          "name": "Hygiene",
+          "sort_order": 20
+        },
+        {
+          "slug": "food-and-nutrition",
+          "name": "Food and Nutrition",
+          "sort_order": 30
+        },
+        {
+          "slug": "mothercraft-and-child-development",
+          "name": "Mothercraft and Child Development",
+          "sort_order": 40
+        },
+        {
+          "slug": "home-management",
+          "name": "Home Management",
+          "sort_order": 50
+        },
+        {
+          "slug": "textile-and-clothing",
+          "name": "Textile and Clothing",
+          "sort_order": 60
+        }
+      ]
+    }
+  ]
+}
