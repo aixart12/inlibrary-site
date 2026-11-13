@@ -3,7 +3,7 @@
 Ready-made study plans for the InLibrary app. A student searches for their class or exam in the
 app, taps a result, and the app downloads that plan's subjects and chapters from this folder.
 
-This guide is for whoever adds syllabi: a person or an AI agent. It needs no programming.
+This guide is for whoever adds syllabi: a person or an AI agent. It needs no programming. An AI agent must also follow [AGENT-BRIEF.md](AGENT-BRIEF.md).
 
 ## What is in here
 
@@ -12,6 +12,7 @@ This guide is for whoever adds syllabi: a person or an AI agent. It needs no pro
 | `data/<slug>.json` | **The source of truth.** One file per plan. Edit only these. |
 | `data/chips.json` | The quick-pick chips on the app's search screen |
 | `scripts/build.py` | Checks the data and regenerates everything below |
+| `AGENT-BRIEF.md` | The rules an AI agent follows when drafting plans |
 | `v1/index.json` | Generated. The list of published plans the app searches |
 | `v1/plans/<slug>.json` | Generated. One published plan with its subjects and topics |
 | `build-state.json` | Generated. Remembers each plan's content so its version goes up when it changes |
@@ -35,7 +36,7 @@ The app reads `https://inlibrary.in/syllabus/v1/index.json` and
 
 A plan is something a student prepares for:
 
-- a school class, for example Class 12 · Bihar Board · Science
+- a school class, for example Class 12 · Bihar Board · Science (PCM)
 - an exam, for example SSC CGL
 
 Each file lists the plan's subjects, and each subject lists its topics (chapters or units) in
@@ -45,7 +46,7 @@ study order.
 
 | Kind | File name | Example |
 |---|---|---|
-| School, with streams | `class-<number>-<board>-<stream>.json` | `class-12-bihar-board-science.json` |
+| School, with streams | `class-<number>-<board>-<stream>.json` | `class-12-bihar-board-pcm.json` |
 | School, no streams | `class-<number>-<board>.json` | `class-10-cbse.json` |
 | Exam | `<exam>.json` | `ssc-cgl.json` |
 
@@ -57,15 +58,15 @@ Use lowercase letters, digits and hyphens only. The file name without `.json` mu
 ```json
 {
   "exam": {
-    "slug": "class-12-bihar-board-science",
-    "name": "Class 12 · Bihar Board · Science",
+    "slug": "class-12-bihar-board-pcm",
+    "name": "Class 12 · Bihar Board · Science (PCM)",
     "short_name": "Class 12",
     "kind": "school",
     "class": "12",
     "board": "Bihar Board",
-    "stream": "Science",
+    "stream": "Science (PCM)",
     "aliases": ["12", "12th", "inter", "intermediate", "bseb", "bihar board",
-                "science", "barahvi", "boards"],
+                "science", "pcm", "maths", "barahvi", "boards"],
     "category": "school",
     "conducting_body": "Bihar School Examination Board (BSEB)",
     "official_url": "https://biharboardonline.bihar.gov.in",
@@ -101,7 +102,7 @@ Use lowercase letters, digits and hyphens only. The file name without `.json` mu
 | `short_name` | yes | Short label, for example `Class 12` or `SSC CGL`. |
 | `kind` | yes | `school` or `exam`. |
 | `class`, `board` | school only | Text, for example `"12"` and `"CBSE"`. |
-| `stream` | school, when the class has streams | For example `Science`, `Arts`, `Commerce`. |
+| `stream` | school, when the class has streams | For example `Science (PCM)`, `Science (PCB)`, `Arts`, `Commerce`. Science is two plans, PCM and PCB, so a student gets only the subjects they take. |
 | `aliases` | yes | The words students type. See below. |
 | `category` | yes | One of `school`, `entrance`, `central-govt`, `railways`, `banking`, `state-bihar`, `state-other`, `defence`, `teaching`. |
 | `version` | yes | Use `1` for a new plan. `build.py` raises it when content changes. |
