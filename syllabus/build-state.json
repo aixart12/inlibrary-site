@@ -1,0 +1,109 @@
+{
+  "generated_by": "syllabus/scripts/build.py",
+  "plans": {
+    "neet-ug": {
+      "hash": "5fe0c558f78d76db",
+      "version": 1
+    },
+    "jee-main": {
+      "hash": "26bfbe8610a8bb1f",
+      "version": 1
+    },
+    "jee-advanced": {
+      "hash": "7c7db389f5e4c543",
+      "version": 1
+    },
+    "cuet-ug": {
+      "hash": "b24606dd6021a2c1",
+      "version": 1
+    },
+    "upsc-cse-prelims": {
+      "hash": "8381b3ae8d3cd145",
+      "version": 1
+    },
+    "upsc-cse-mains": {
+      "hash": "1033c4f09e9d0692",
+      "version": 1
+    },
+    "ssc-cgl": {
+      "hash": "6940c3270bfb0441",
+      "version": 1
+    },
+    "ssc-chsl": {
+      "hash": "a144225c8835307d",
+      "version": 1
+    },
+    "ssc-gd": {
+      "hash": "78bb7cd60bb1530a",
+      "version": 1
+    },
+    "ssc-mts": {
+      "hash": "5be72804e354b28d",
+      "version": 1
+    },
+    "rrb-ntpc": {
+      "hash": "6e98bd0bd67907d0",
+      "version": 1
+    },
+    "rrb-group-d": {
+      "hash": "68dd4d0931ee937b",
+      "version": 1
+    },
+    "rrb-alp": {
+      "hash": "7a4c819bd5afd301",
+      "version": 1
+    },
+    "ibps-po": {
+      "hash": "c6d0d13b2ab3d36f",
+      "version": 1
+    },
+    "ibps-clerk": {
+      "hash": "bf9d6ab6ffaa93af",
+      "version": 1
+    },
+    "sbi-po": {
+      "hash": "fd1bf84413f3596c",
+      "version": 1
+    },
+    "bpsc-cce-prelims": {
+      "hash": "17f3f92345633baa",
+      "version": 1
+    },
+    "bihar-police-constable": {
+      "hash": "ca3daaaff7cdde5b",
+      "version": 1
+    },
+    "bpsc-tre": {
+      "hash": "7bdeab9ada362ca1",
+      "version": 1
+    },
+    "nda": {
+      "hash": "b040781f12188476",
+      "version": 1
+    },
+    "ctet-paper-1": {
+      "hash": "59f711d1b6f49fb3",
+      "version": 1
+    },
+    "ctet-paper-2": {
+      "hash": "fff72774bb05efa6",
+      "version": 1
+    },
+    "class-10-cbse": {
+      "hash": "baf0e02a25750e71",
+      "version": 1
+    },
+    "class-12-cbse-pcm": {
+      "hash": "d5ad5f94cd7391ba",
+      "version": 1
+    },
+    "class-12-cbse-pcb": {
+      "hash": "88ccd1bf07f315ae",
+      "version": 1
+    },
+    "class-12-cbse-commerce": {
+      "hash": "7242bf3f174cc36a",
+      "version": 1
+    }
+  }
+}

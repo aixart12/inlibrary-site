@@ -1,0 +1,15 @@
+{
+  "school": [
+    { "label": "Class 10", "query": "class 10" },
+    { "label": "Class 12", "query": "class 12" }
+  ],
+  "exams": [
+    { "label": "SSC", "query": "ssc" },
+    { "label": "Railway", "query": "railway" },
+    { "label": "Banking", "query": "bank" },
+    { "label": "BPSC", "query": "bpsc" },
+    { "label": "UPSC", "query": "upsc" },
+    { "label": "NEET", "query": "neet" },
+    { "label": "JEE", "query": "jee" }
+  ]
+}

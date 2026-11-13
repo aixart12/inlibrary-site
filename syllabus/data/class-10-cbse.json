@@ -1,0 +1,780 @@
+{
+  "exam": {
+    "slug": "class-10-cbse",
+    "name": "Class 10 · CBSE",
+    "short_name": "Class 10",
+    "kind": "school",
+    "class": "10",
+    "board": "CBSE",
+    "aliases": [
+      "10",
+      "10th",
+      "tenth",
+      "class 10",
+      "matric",
+      "boards",
+      "board exam",
+      "cbse",
+      "cbse 10",
+      "dasvi",
+      "dasvin",
+      "secondary"
+    ],
+    "category": "school",
+    "conducting_body": "Central Board of Secondary Education (CBSE)",
+    "stages": [
+      "Board exam (main)",
+      "Second board exam (optional improvement)"
+    ],
+    "description": "Class 10 board preparation for Maths, Science, Social Science, English and Hindi, chapter by chapter.",
+    "pattern_summary": "Each main subject: 80 marks theory + 20 internal assessment. From 2026 Class 10 has a main board exam and an optional second exam for improvement.",
+    "official_url": "https://www.cbse.gov.in",
+    "syllabus_source_url": "https://cbseacademic.nic.in/curriculum_2027.html",
+    "syllabus_cycle": "2026-27",
+    "verified": true,
+    "verification_note": "2026-27 curriculum page confirmed on cbseacademic.nic.in; unit marks from the curriculum as reproduced by secondary sources. Chapter list follows rationalised NCERT books.",
+    "priority_basis": "Official unit marks (CBSE 2026-27 curriculum)",
+    "last_verified": "2026-10-11",
+    "version": 1,
+    "is_published": true,
+    "sort_order": 230
+  },
+  "subjects": [
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 10,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "real-numbers",
+          "name": "Real Numbers",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "polynomials",
+          "name": "Polynomials",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "pair-of-linear-equations-in-two-variables",
+          "name": "Pair of Linear Equations in Two Variables",
+          "sort_order": 30,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "quadratic-equations",
+          "name": "Quadratic Equations",
+          "sort_order": 40,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "arithmetic-progressions",
+          "name": "Arithmetic Progressions",
+          "sort_order": 50,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "triangles",
+          "name": "Triangles",
+          "sort_order": 60,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "coordinate-geometry",
+          "name": "Coordinate Geometry",
+          "sort_order": 70,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "introduction-to-trigonometry",
+          "name": "Introduction to Trigonometry",
+          "sort_order": 80,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "some-applications-of-trigonometry",
+          "name": "Some Applications of Trigonometry",
+          "sort_order": 90,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": "introduction-to-trigonometry",
+          "notes": null
+        },
+        {
+          "slug": "circles",
+          "name": "Circles",
+          "sort_order": 100,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "areas-related-to-circles",
+          "name": "Areas Related to Circles",
+          "sort_order": 110,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "surface-areas-and-volumes",
+          "name": "Surface Areas and Volumes",
+          "sort_order": 120,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "statistics",
+          "name": "Statistics",
+          "sort_order": 130,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "probability",
+          "name": "Probability",
+          "sort_order": 140,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "science",
+      "name": "Science",
+      "sort_order": 20,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "chemical-reactions-and-equations",
+          "name": "Chemical Reactions and Equations",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "acids-bases-and-salts",
+          "name": "Acids, Bases and Salts",
+          "sort_order": 20,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "metals-and-non-metals",
+          "name": "Metals and Non-metals",
+          "sort_order": 30,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "carbon-and-its-compounds",
+          "name": "Carbon and its Compounds",
+          "sort_order": 40,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "life-processes",
+          "name": "Life Processes",
+          "sort_order": 50,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "control-and-coordination",
+          "name": "Control and Coordination",
+          "sort_order": 60,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "how-do-organisms-reproduce",
+          "name": "How do Organisms Reproduce?",
+          "sort_order": 70,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "heredity",
+          "name": "Heredity",
+          "sort_order": 80,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "light-reflection-and-refraction",
+          "name": "Light: Reflection and Refraction",
+          "sort_order": 90,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "the-human-eye-and-the-colourful-world",
+          "name": "The Human Eye and the Colourful World",
+          "sort_order": 100,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "electricity",
+          "name": "Electricity",
+          "sort_order": 110,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "magnetic-effects-of-electric-current",
+          "name": "Magnetic Effects of Electric Current",
+          "sort_order": 120,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "our-environment",
+          "name": "Our Environment",
+          "sort_order": 130,
+          "est_hours": 2.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "social-science",
+      "name": "Social Science",
+      "sort_order": 30,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "history-the-rise-of-nationalism-in-europe",
+          "name": "History: The Rise of Nationalism in Europe",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "history-nationalism-in-india",
+          "name": "History: Nationalism in India",
+          "sort_order": 20,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "history-the-making-of-a-global-world",
+          "name": "History: The Making of a Global World",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "history-the-age-of-industrialisation",
+          "name": "History: The Age of Industrialisation",
+          "sort_order": 40,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "history-print-culture-and-the-modern-world",
+          "name": "History: Print Culture and the Modern World",
+          "sort_order": 50,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "geography-resources-and-development",
+          "name": "Geography: Resources and Development",
+          "sort_order": 60,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "geography-forest-and-wildlife-resources",
+          "name": "Geography: Forest and Wildlife Resources",
+          "sort_order": 70,
+          "est_hours": 1.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "geography-water-resources",
+          "name": "Geography: Water Resources",
+          "sort_order": 80,
+          "est_hours": 2.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "geography-agriculture",
+          "name": "Geography: Agriculture",
+          "sort_order": 90,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "geography-minerals-and-energy-resources",
+          "name": "Geography: Minerals and Energy Resources",
+          "sort_order": 100,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "geography-manufacturing-industries",
+          "name": "Geography: Manufacturing Industries",
+          "sort_order": 110,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "geography-lifelines-of-national-economy",
+          "name": "Geography: Lifelines of National Economy",
+          "sort_order": 120,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "political-science-power-sharing",
+          "name": "Political Science: Power Sharing",
+          "sort_order": 130,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "political-science-federalism",
+          "name": "Political Science: Federalism",
+          "sort_order": 140,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "political-science-gender-religion-and-caste",
+          "name": "Political Science: Gender, Religion and Caste",
+          "sort_order": 150,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "political-science-political-parties",
+          "name": "Political Science: Political Parties",
+          "sort_order": 160,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "political-science-outcomes-of-democracy",
+          "name": "Political Science: Outcomes of Democracy",
+          "sort_order": 170,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "economics-development",
+          "name": "Economics: Development",
+          "sort_order": 180,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "economics-sectors-of-the-indian-economy",
+          "name": "Economics: Sectors of the Indian Economy",
+          "sort_order": 190,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "economics-money-and-credit",
+          "name": "Economics: Money and Credit",
+          "sort_order": 200,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "economics-globalisation-and-the-indian-economy",
+          "name": "Economics: Globalisation and the Indian Economy",
+          "sort_order": 210,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "economics-consumer-rights",
+          "name": "Economics: Consumer Rights",
+          "sort_order": 220,
+          "est_hours": 1.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "map-work-history-and-geography",
+          "name": "Map Work (History and Geography)",
+          "sort_order": 230,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "english",
+      "name": "English",
+      "sort_order": 40,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "writing-skills-and-grammar",
+          "name": "Writing Skills and Grammar",
+          "sort_order": 20,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "first-flight-prose",
+          "name": "First Flight: Prose",
+          "sort_order": 30,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "first-flight-poems",
+          "name": "First Flight: Poems",
+          "sort_order": 40,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "footprints-without-feet",
+          "name": "Footprints Without Feet",
+          "sort_order": 50,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "hindi",
+      "name": "Hindi",
+      "sort_order": 50,
+      "is_optional": true,
+      "notes": "Course A (Kshitij + Kritika) or Course B (Sparsh + Sanchayan).",
+      "topics": [
+        {
+          "slug": "vyakaran",
+          "name": "Vyakaran",
+          "sort_order": 10,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "lekhan-patra-anuchchhed-suchna-vigyapan-sandesh",
+          "name": "Lekhan (Patra, Anuchchhed, Suchna, Vigyapan, Sandesh)",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "pathyapustak-gadya-khand",
+          "name": "Pathyapustak: Gadya Khand",
+          "sort_order": 30,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "pathyapustak-kavya-khand",
+          "name": "Pathyapustak: Kavya Khand",
+          "sort_order": 40,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "poorak-pustak-kritika-sanchayan",
+          "name": "Poorak Pustak (Kritika / Sanchayan)",
+          "sort_order": 50,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "slug": "full-syllabus",
+      "name": "Full syllabus + revision",
+      "description": "Covers every topic once, then revises, with a regular sample paper day. Best when you have 2 months or more.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.7,
+          "revise": 0.2,
+          "mock": 0.1
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 7,
+        "hours_factor": 1.0,
+        "min_days": 45,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": null,
+        "mock_label": "Sample paper",
+        "mock_hours": 3
+      },
+      "is_default": true,
+      "sort_order": 10,
+      "version": 1
+    },
+    {
+      "slug": "revision-only",
+      "name": "Revision only",
+      "description": "You have studied the syllabus before. Quick revision of every topic plus frequent sample papers.",
+      "rules": {
+        "mode": "revise_only",
+        "phases": {
+          "learn": 0.0,
+          "revise": 0.7,
+          "mock": 0.3
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 4,
+        "mock_every_n_days": 3,
+        "hours_factor": 0.35,
+        "min_days": 7,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": null,
+        "mock_label": "Sample paper",
+        "mock_hours": 3
+      },
+      "is_default": false,
+      "sort_order": 20,
+      "version": 1
+    },
+    {
+      "slug": "crash-30",
+      "name": "Crash 30 days",
+      "description": "Important (high and medium priority) topics only, shortened, finishing in about 30 days.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.65,
+          "revise": 0.2,
+          "mock": 0.15
+        },
+        "include_priorities": [
+          "high",
+          "medium"
+        ],
+        "subjects_per_day": 4,
+        "mock_every_n_days": 5,
+        "hours_factor": 0.6,
+        "min_days": 10,
+        "target_days": 30,
+        "stages": null,
+        "daily_slot": null,
+        "mock_label": "Sample paper",
+        "mock_hours": 3
+      },
+      "is_default": false,
+      "sort_order": 30,
+      "version": 1
+    }
+  ]
+}

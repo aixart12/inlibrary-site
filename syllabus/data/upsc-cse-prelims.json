@@ -1,0 +1,959 @@
+{
+  "exam": {
+    "slug": "upsc-cse-prelims",
+    "name": "UPSC Civil Services Prelims (GS Paper I + CSAT)",
+    "short_name": "UPSC Prelims",
+    "kind": "exam",
+    "aliases": [
+      "upsc",
+      "civil services",
+      "cse",
+      "ias",
+      "ips",
+      "prelims"
+    ],
+    "category": "central-govt",
+    "conducting_body": "Union Public Service Commission (UPSC)",
+    "stages": [
+      "Prelims",
+      "Mains",
+      "Interview"
+    ],
+    "description": "First stage of the IAS/IPS/IFS exam. GS Paper I decides the cut-off; CSAT (Paper II) is qualifying at 33%.",
+    "pattern_summary": "GS Paper I: 100 MCQs, 200 marks, 2 h. CSAT: 80 MCQs, 200 marks, 2 h, qualifying (33%). -1/3 negative marking. CSE 2027 prelims: 23 May 2027.",
+    "official_url": "https://upsc.gov.in",
+    "syllabus_source_url": "https://upsc.gov.in (CSE notification, Appendix I syllabus); calendar 2027",
+    "syllabus_cycle": "CSE 2027 (notification due 13 Jan 2027)",
+    "verified": true,
+    "verification_note": "Syllabus heads follow the CSE notification (unchanged for years). 2027 dates from the UPSC calendar as reported by secondary sources. Re-check the notification on 13 Jan 2027.",
+    "priority_basis": "PYQ frequency trend (subject-wise question counts of recent years, coaching analyses)",
+    "last_verified": "2026-10-11",
+    "version": 1,
+    "is_published": true,
+    "sort_order": 50
+  },
+  "subjects": [
+    {
+      "slug": "polity",
+      "name": "Polity",
+      "sort_order": 10,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "historical-background-and-making-of-the-constitution",
+          "name": "Historical Background and Making of the Constitution",
+          "sort_order": 10,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "preamble-and-salient-features",
+          "name": "Preamble and Salient Features",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "fundamental-rights",
+          "name": "Fundamental Rights",
+          "sort_order": 30,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "dpsp-and-fundamental-duties",
+          "name": "DPSP and Fundamental Duties",
+          "sort_order": 40,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "union-executive-president-pm-council-of-ministers",
+          "name": "Union Executive (President, PM, Council of Ministers)",
+          "sort_order": 50,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "parliament",
+          "name": "Parliament",
+          "sort_order": 60,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "judiciary-supreme-court-high-courts",
+          "name": "Judiciary (Supreme Court, High Courts)",
+          "sort_order": 70,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "state-government",
+          "name": "State Government",
+          "sort_order": 80,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "federalism-and-centre-state-relations",
+          "name": "Federalism and Centre-State Relations",
+          "sort_order": 90,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "local-government-panchayats-and-municipalities",
+          "name": "Local Government (Panchayats and Municipalities)",
+          "sort_order": 100,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "constitutional-bodies",
+          "name": "Constitutional Bodies",
+          "sort_order": 110,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "statutory-and-non-constitutional-bodies",
+          "name": "Statutory and Non-constitutional Bodies",
+          "sort_order": 120,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "emergency-provisions-and-amendment-procedure",
+          "name": "Emergency Provisions and Amendment Procedure",
+          "sort_order": 130,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "elections-and-representation-of-people-act",
+          "name": "Elections and Representation of People Act",
+          "sort_order": 140,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "history",
+      "name": "History",
+      "sort_order": 20,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "prehistory-and-indus-valley-civilisation",
+          "name": "Prehistory and Indus Valley Civilisation",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "vedic-age-and-mahajanapadas",
+          "name": "Vedic Age and Mahajanapadas",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "buddhism-jainism-and-the-mauryas",
+          "name": "Buddhism, Jainism and the Mauryas",
+          "sort_order": 30,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "post-mauryan-period-and-the-guptas",
+          "name": "Post-Mauryan Period and the Guptas",
+          "sort_order": 40,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "early-medieval-and-south-indian-kingdoms",
+          "name": "Early Medieval and South Indian Kingdoms",
+          "sort_order": 50,
+          "est_hours": 4.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "delhi-sultanate",
+          "name": "Delhi Sultanate",
+          "sort_order": 60,
+          "est_hours": 3.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "mughals-and-vijayanagara",
+          "name": "Mughals and Vijayanagara",
+          "sort_order": 70,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "bhakti-and-sufi-movements",
+          "name": "Bhakti and Sufi Movements",
+          "sort_order": 80,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "advent-of-europeans-and-british-expansion",
+          "name": "Advent of Europeans and British Expansion",
+          "sort_order": 90,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "revolt-of-1857",
+          "name": "Revolt of 1857",
+          "sort_order": 100,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "socio-religious-reform-movements",
+          "name": "Socio-religious Reform Movements",
+          "sort_order": 110,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "national-movement-1885-1919",
+          "name": "National Movement 1885-1919",
+          "sort_order": 120,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "national-movement-1919-1947-gandhian-era",
+          "name": "National Movement 1919-1947 (Gandhian Era)",
+          "sort_order": 130,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "constitutional-developments-1773-1947",
+          "name": "Constitutional Developments 1773-1947",
+          "sort_order": 140,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "art-and-culture-architecture-and-sculpture",
+          "name": "Art and Culture: Architecture and Sculpture",
+          "sort_order": 150,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "art-and-culture-painting-music-dance-theatre",
+          "name": "Art and Culture: Painting, Music, Dance, Theatre",
+          "sort_order": 160,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "art-and-culture-literature-philosophy-religion-festivals",
+          "name": "Art and Culture: Literature, Philosophy, Religion, Festivals",
+          "sort_order": 170,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "geography",
+      "name": "Geography",
+      "sort_order": 30,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "geomorphology-earth-interior-landforms",
+          "name": "Geomorphology: Earth, Interior, Landforms",
+          "sort_order": 10,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "climatology",
+          "name": "Climatology",
+          "sort_order": 20,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "oceanography",
+          "name": "Oceanography",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "biogeography-and-soils",
+          "name": "Biogeography and Soils",
+          "sort_order": 40,
+          "est_hours": 2.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "indian-physiography",
+          "name": "Indian Physiography",
+          "sort_order": 50,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "indian-drainage-system",
+          "name": "Indian Drainage System",
+          "sort_order": 60,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "indian-climate-and-monsoon",
+          "name": "Indian Climate and Monsoon",
+          "sort_order": 70,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "natural-vegetation-and-soils-of-india",
+          "name": "Natural Vegetation and Soils of India",
+          "sort_order": 80,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "agriculture-in-india",
+          "name": "Agriculture in India",
+          "sort_order": 90,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "minerals-energy-and-industries",
+          "name": "Minerals, Energy and Industries",
+          "sort_order": 100,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "transport-and-population",
+          "name": "Transport and Population",
+          "sort_order": 110,
+          "est_hours": 3.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "world-geography-and-mapping-places-in-news",
+          "name": "World Geography and Mapping (Places in News)",
+          "sort_order": 120,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "economy",
+      "name": "Economy",
+      "sort_order": 40,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "national-income-and-growth",
+          "name": "National Income and Growth",
+          "sort_order": 10,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "money-and-banking",
+          "name": "Money and Banking",
+          "sort_order": 20,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "inflation-and-monetary-policy",
+          "name": "Inflation and Monetary Policy",
+          "sort_order": 30,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "fiscal-policy-and-budget",
+          "name": "Fiscal Policy and Budget",
+          "sort_order": 40,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "financial-markets-and-regulators",
+          "name": "Financial Markets and Regulators",
+          "sort_order": 50,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "external-sector-bop-trade-wto",
+          "name": "External Sector: BoP, Trade, WTO",
+          "sort_order": 60,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "agriculture-and-food-security",
+          "name": "Agriculture and Food Security",
+          "sort_order": 70,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "industry-and-infrastructure",
+          "name": "Industry and Infrastructure",
+          "sort_order": 80,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "poverty-inclusion-and-social-sector-schemes",
+          "name": "Poverty, Inclusion and Social Sector Schemes",
+          "sort_order": 90,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "environment-and-ecology",
+      "name": "Environment and Ecology",
+      "sort_order": 50,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "ecology-and-ecosystems",
+          "name": "Ecology and Ecosystems",
+          "sort_order": 10,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "biodiversity-and-protected-areas",
+          "name": "Biodiversity and Protected Areas",
+          "sort_order": 20,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "species-in-news-and-conservation-efforts",
+          "name": "Species in News and Conservation Efforts",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "climate-change-and-international-conventions",
+          "name": "Climate Change and International Conventions",
+          "sort_order": 40,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "pollution-environmental-laws-and-bodies",
+          "name": "Pollution, Environmental Laws and Bodies",
+          "sort_order": 50,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "science-and-technology",
+      "name": "Science and Technology",
+      "sort_order": 60,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "basic-science-physics-chemistry-biology-in-daily-life",
+          "name": "Basic Science (Physics, Chemistry, Biology in Daily Life)",
+          "sort_order": 10,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "biotechnology-health-and-diseases",
+          "name": "Biotechnology, Health and Diseases",
+          "sort_order": 20,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "space-and-defence-technology",
+          "name": "Space and Defence Technology",
+          "sort_order": 30,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "it-computing-and-emerging-technologies",
+          "name": "IT, Computing and Emerging Technologies",
+          "sort_order": 40,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "nuclear-and-energy-technology",
+          "name": "Nuclear and Energy Technology",
+          "sort_order": 50,
+          "est_hours": 3.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "current-affairs",
+      "name": "Current Affairs",
+      "sort_order": 70,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "polity-and-governance-in-news",
+          "name": "Polity and Governance in News",
+          "sort_order": 10,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "economy-and-government-schemes-in-news",
+          "name": "Economy and Government Schemes in News",
+          "sort_order": 20,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "international-relations-and-organisations",
+          "name": "International Relations and Organisations",
+          "sort_order": 30,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "environment-and-science-in-news",
+          "name": "Environment and Science in News",
+          "sort_order": 40,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "reports-indices-and-summits",
+          "name": "Reports, Indices and Summits",
+          "sort_order": 50,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "csat-paper-ii",
+      "name": "CSAT (Paper II)",
+      "sort_order": 80,
+      "is_optional": false,
+      "notes": "Qualifying paper (33%). Spend less time here if you are already strong in maths and reading.",
+      "topics": [
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 10,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "logical-reasoning-and-analytical-ability",
+          "name": "Logical Reasoning and Analytical Ability",
+          "sort_order": 20,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "decision-making-and-interpersonal-skills",
+          "name": "Decision Making and Interpersonal Skills",
+          "sort_order": 30,
+          "est_hours": 2.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "number-system-and-basic-numeracy",
+          "name": "Number System and Basic Numeracy",
+          "sort_order": 40,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "arithmetic-percentage-ratio-averages-time-work-speed-distanc",
+          "name": "Arithmetic: Percentage, Ratio, Averages, Time-Work, Speed-Distance",
+          "sort_order": 50,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "data-interpretation-and-data-sufficiency",
+          "name": "Data Interpretation and Data Sufficiency",
+          "sort_order": 60,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "general-mental-ability-series-coding-directions-blood-relati",
+          "name": "General Mental Ability: Series, Coding, Directions, Blood Relations",
+          "sort_order": 70,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "permutation-probability-and-puzzles",
+          "name": "Permutation, Probability and Puzzles",
+          "sort_order": 80,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "slug": "full-syllabus",
+      "name": "Full syllabus + revision",
+      "description": "Covers every topic once, then revises, with a regular mock test day. Best when you have 2 months or more.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.6,
+          "revise": 0.2,
+          "mock": 0.2
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 5,
+        "hours_factor": 1.0,
+        "min_days": 45,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 4
+      },
+      "is_default": true,
+      "sort_order": 10,
+      "version": 1
+    },
+    {
+      "slug": "revision-only",
+      "name": "Revision only",
+      "description": "You have studied the syllabus before. Quick revision of every topic plus frequent mock tests.",
+      "rules": {
+        "mode": "revise_only",
+        "phases": {
+          "learn": 0.0,
+          "revise": 0.7,
+          "mock": 0.3
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 4,
+        "mock_every_n_days": 3,
+        "hours_factor": 0.35,
+        "min_days": 7,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 4
+      },
+      "is_default": false,
+      "sort_order": 20,
+      "version": 1
+    },
+    {
+      "slug": "crash-30",
+      "name": "Crash 30 days",
+      "description": "Important (high and medium priority) topics only, shortened, finishing in about 30 days.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.65,
+          "revise": 0.2,
+          "mock": 0.15
+        },
+        "include_priorities": [
+          "high",
+          "medium"
+        ],
+        "subjects_per_day": 4,
+        "mock_every_n_days": 5,
+        "hours_factor": 0.6,
+        "min_days": 10,
+        "target_days": 30,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 4
+      },
+      "is_default": false,
+      "sort_order": 30,
+      "version": 1
+    }
+  ]
+}

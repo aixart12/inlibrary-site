@@ -1,0 +1,162 @@
+{
+  "schema": 1,
+  "slug": "bihar-police-constable",
+  "kind": "exam",
+  "name": "Bihar Police Constable (CSBC)",
+  "short_name": "Bihar Police",
+  "aliases": [
+    "bihar police",
+    "csbc",
+    "constable",
+    "bihar constable",
+    "sipahi"
+  ],
+  "category": "state-bihar",
+  "subject_count": 6,
+  "topic_count": 20,
+  "version": 1,
+  "subjects": [
+    {
+      "slug": "hindi",
+      "name": "Hindi",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "vyakaran-sandhi-samas-ling-vachan-kaal",
+          "name": "Vyakaran: Sandhi, Samas, Ling, Vachan, Kaal",
+          "sort_order": 10
+        },
+        {
+          "slug": "shabd-gyan-paryayvachi-vilom-muhavare",
+          "name": "Shabd Gyan: Paryayvachi, Vilom, Muhavare",
+          "sort_order": 20
+        },
+        {
+          "slug": "vakya-shuddhi-aur-gadyansh",
+          "name": "Vakya Shuddhi aur Gadyansh",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "english",
+      "name": "English",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "grammar-tenses-articles-prepositions-voice-narration",
+          "name": "Grammar: Tenses, Articles, Prepositions, Voice, Narration",
+          "sort_order": 10
+        },
+        {
+          "slug": "vocabulary-and-comprehension",
+          "name": "Vocabulary and Comprehension",
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "number-system-and-simplification",
+          "name": "Number System and Simplification",
+          "sort_order": 10
+        },
+        {
+          "slug": "percentage-ratio-and-average",
+          "name": "Percentage, Ratio and Average",
+          "sort_order": 20
+        },
+        {
+          "slug": "profit-loss-and-interest",
+          "name": "Profit, Loss and Interest",
+          "sort_order": 30
+        },
+        {
+          "slug": "time-and-work-speed-and-distance",
+          "name": "Time and Work, Speed and Distance",
+          "sort_order": 40
+        },
+        {
+          "slug": "mensuration",
+          "name": "Mensuration",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "social-science",
+      "name": "Social Science",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "history-india-and-bihar",
+          "name": "History (India and Bihar)",
+          "sort_order": 10
+        },
+        {
+          "slug": "geography-india-and-bihar",
+          "name": "Geography (India and Bihar)",
+          "sort_order": 20
+        },
+        {
+          "slug": "polity-and-constitution",
+          "name": "Polity and Constitution",
+          "sort_order": 30
+        },
+        {
+          "slug": "economics",
+          "name": "Economics",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "science",
+      "name": "Science",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "physics",
+          "name": "Physics",
+          "sort_order": 10
+        },
+        {
+          "slug": "chemistry",
+          "name": "Chemistry",
+          "sort_order": 20
+        },
+        {
+          "slug": "biology",
+          "name": "Biology",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "gk-and-current-affairs",
+      "name": "GK and Current Affairs",
+      "sort_order": 60,
+      "topics": [
+        {
+          "slug": "bihar-gk",
+          "name": "Bihar GK",
+          "sort_order": 10
+        },
+        {
+          "slug": "national-and-international-current-affairs",
+          "name": "National and International Current Affairs",
+          "sort_order": 20
+        },
+        {
+          "slug": "static-gk-and-sports",
+          "name": "Static GK and Sports",
+          "sort_order": 30
+        }
+      ]
+    }
+  ]
+}

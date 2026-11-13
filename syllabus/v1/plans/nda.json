@@ -1,0 +1,143 @@
+{
+  "schema": 1,
+  "slug": "nda",
+  "kind": "exam",
+  "name": "UPSC NDA and NA",
+  "short_name": "NDA",
+  "aliases": [
+    "nda",
+    "na",
+    "national defence academy",
+    "defence",
+    "army",
+    "navy",
+    "air force"
+  ],
+  "category": "defence",
+  "subject_count": 3,
+  "topic_count": 20,
+  "version": 1,
+  "subjects": [
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "algebra-sets-complex-numbers-quadratics-progressions-logarit",
+          "name": "Algebra: Sets, Complex Numbers, Quadratics, Progressions, Logarithms",
+          "sort_order": 10
+        },
+        {
+          "slug": "permutations-combinations-and-binomial-theorem",
+          "name": "Permutations, Combinations and Binomial Theorem",
+          "sort_order": 20
+        },
+        {
+          "slug": "matrices-and-determinants",
+          "name": "Matrices and Determinants",
+          "sort_order": 30
+        },
+        {
+          "slug": "trigonometry-incl-inverse-heights-and-distances",
+          "name": "Trigonometry (incl. Inverse, Heights and Distances)",
+          "sort_order": 40
+        },
+        {
+          "slug": "analytical-geometry-2d-lines-circles-conics",
+          "name": "Analytical Geometry: 2D (Lines, Circles, Conics)",
+          "sort_order": 50
+        },
+        {
+          "slug": "analytical-geometry-3d",
+          "name": "Analytical Geometry: 3D",
+          "sort_order": 60
+        },
+        {
+          "slug": "differential-calculus-functions-limits-derivatives-maxima-mi",
+          "name": "Differential Calculus: Functions, Limits, Derivatives, Maxima-Minima",
+          "sort_order": 70
+        },
+        {
+          "slug": "integral-calculus-and-differential-equations",
+          "name": "Integral Calculus and Differential Equations",
+          "sort_order": 80
+        },
+        {
+          "slug": "vector-algebra",
+          "name": "Vector Algebra",
+          "sort_order": 90
+        },
+        {
+          "slug": "statistics-and-probability",
+          "name": "Statistics and Probability",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "gat-english",
+      "name": "GAT: English",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "grammar-and-usage",
+          "name": "Grammar and Usage",
+          "sort_order": 10
+        },
+        {
+          "slug": "vocabulary",
+          "name": "Vocabulary",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension-and-cohesion-in-extended-text",
+          "name": "Comprehension and Cohesion in Extended Text",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "gat-general-knowledge",
+      "name": "GAT: General Knowledge",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "physics",
+          "name": "Physics",
+          "sort_order": 10
+        },
+        {
+          "slug": "chemistry",
+          "name": "Chemistry",
+          "sort_order": 20
+        },
+        {
+          "slug": "general-science-biology",
+          "name": "General Science (Biology)",
+          "sort_order": 30
+        },
+        {
+          "slug": "history-and-freedom-movement",
+          "name": "History and Freedom Movement",
+          "sort_order": 40
+        },
+        {
+          "slug": "geography",
+          "name": "Geography",
+          "sort_order": 50
+        },
+        {
+          "slug": "polity-and-economy",
+          "name": "Polity and Economy",
+          "sort_order": 60
+        },
+        {
+          "slug": "current-events",
+          "name": "Current Events",
+          "sort_order": 70
+        }
+      ]
+    }
+  ]
+}

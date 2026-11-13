@@ -1,0 +1,413 @@
+{
+  "schema": 1,
+  "slug": "jee-advanced",
+  "kind": "exam",
+  "name": "JEE Advanced",
+  "short_name": "JEE Adv",
+  "aliases": [
+    "jee",
+    "jee advanced",
+    "jee adv",
+    "iit",
+    "iit jee",
+    "engineering",
+    "btech"
+  ],
+  "category": "entrance",
+  "subject_count": 3,
+  "topic_count": 74,
+  "version": 1,
+  "subjects": [
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "units-dimensions-errors-and-experiments",
+          "name": "Units, Dimensions, Errors and Experiments",
+          "sort_order": 10
+        },
+        {
+          "slug": "kinematics",
+          "name": "Kinematics",
+          "sort_order": 20
+        },
+        {
+          "slug": "laws-of-motion-and-friction",
+          "name": "Laws of Motion and Friction",
+          "sort_order": 30
+        },
+        {
+          "slug": "work-energy-and-power",
+          "name": "Work, Energy and Power",
+          "sort_order": 40
+        },
+        {
+          "slug": "centre-of-mass-and-collisions",
+          "name": "Centre of Mass and Collisions",
+          "sort_order": 50
+        },
+        {
+          "slug": "rotational-mechanics",
+          "name": "Rotational Mechanics",
+          "sort_order": 60
+        },
+        {
+          "slug": "gravitation",
+          "name": "Gravitation",
+          "sort_order": 70
+        },
+        {
+          "slug": "elasticity-and-fluid-mechanics",
+          "name": "Elasticity and Fluid Mechanics",
+          "sort_order": 80
+        },
+        {
+          "slug": "simple-harmonic-motion",
+          "name": "Simple Harmonic Motion",
+          "sort_order": 90
+        },
+        {
+          "slug": "waves-and-sound",
+          "name": "Waves and Sound",
+          "sort_order": 100
+        },
+        {
+          "slug": "thermal-physics-calorimetry-and-heat-transfer",
+          "name": "Thermal Physics: Calorimetry and Heat Transfer",
+          "sort_order": 110
+        },
+        {
+          "slug": "kinetic-theory-and-thermodynamics",
+          "name": "Kinetic Theory and Thermodynamics",
+          "sort_order": 120
+        },
+        {
+          "slug": "electrostatics",
+          "name": "Electrostatics",
+          "sort_order": 130
+        },
+        {
+          "slug": "capacitors",
+          "name": "Capacitors",
+          "sort_order": 140
+        },
+        {
+          "slug": "current-electricity",
+          "name": "Current Electricity",
+          "sort_order": 150
+        },
+        {
+          "slug": "magnetic-effects-of-current",
+          "name": "Magnetic Effects of Current",
+          "sort_order": 160
+        },
+        {
+          "slug": "magnetism-and-matter",
+          "name": "Magnetism and Matter",
+          "sort_order": 170
+        },
+        {
+          "slug": "electromagnetic-induction",
+          "name": "Electromagnetic Induction",
+          "sort_order": 180
+        },
+        {
+          "slug": "alternating-current",
+          "name": "Alternating Current",
+          "sort_order": 190
+        },
+        {
+          "slug": "electromagnetic-waves",
+          "name": "Electromagnetic Waves",
+          "sort_order": 200
+        },
+        {
+          "slug": "ray-optics",
+          "name": "Ray Optics",
+          "sort_order": 210
+        },
+        {
+          "slug": "wave-optics",
+          "name": "Wave Optics",
+          "sort_order": 220
+        },
+        {
+          "slug": "modern-physics-photoelectric-effect-and-matter-waves",
+          "name": "Modern Physics: Photoelectric Effect and Matter Waves",
+          "sort_order": 230
+        },
+        {
+          "slug": "modern-physics-atoms-and-nuclei",
+          "name": "Modern Physics: Atoms and Nuclei",
+          "sort_order": 240
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "mole-concept-and-stoichiometry",
+          "name": "Mole Concept and Stoichiometry",
+          "sort_order": 10
+        },
+        {
+          "slug": "states-of-matter-gases-and-liquids",
+          "name": "States of Matter: Gases and Liquids",
+          "sort_order": 20
+        },
+        {
+          "slug": "atomic-structure",
+          "name": "Atomic Structure",
+          "sort_order": 30
+        },
+        {
+          "slug": "chemical-bonding-and-molecular-structure",
+          "name": "Chemical Bonding and Molecular Structure",
+          "sort_order": 40
+        },
+        {
+          "slug": "chemical-thermodynamics",
+          "name": "Chemical Thermodynamics",
+          "sort_order": 50
+        },
+        {
+          "slug": "chemical-and-ionic-equilibrium",
+          "name": "Chemical and Ionic Equilibrium",
+          "sort_order": 60
+        },
+        {
+          "slug": "electrochemistry",
+          "name": "Electrochemistry",
+          "sort_order": 70
+        },
+        {
+          "slug": "chemical-kinetics",
+          "name": "Chemical Kinetics",
+          "sort_order": 80
+        },
+        {
+          "slug": "solutions",
+          "name": "Solutions",
+          "sort_order": 90
+        },
+        {
+          "slug": "surface-chemistry",
+          "name": "Surface Chemistry",
+          "sort_order": 100
+        },
+        {
+          "slug": "periodicity-and-hydrogen",
+          "name": "Periodicity and Hydrogen",
+          "sort_order": 110
+        },
+        {
+          "slug": "s-block-elements",
+          "name": "s-Block Elements",
+          "sort_order": 120
+        },
+        {
+          "slug": "p-block-elements",
+          "name": "p-Block Elements",
+          "sort_order": 130
+        },
+        {
+          "slug": "d-and-f-block-elements",
+          "name": "d- and f-Block Elements",
+          "sort_order": 140
+        },
+        {
+          "slug": "coordination-compounds",
+          "name": "Coordination Compounds",
+          "sort_order": 150
+        },
+        {
+          "slug": "metallurgy-isolation-of-metals",
+          "name": "Metallurgy (Isolation of Metals)",
+          "sort_order": 160
+        },
+        {
+          "slug": "qualitative-analysis-salt-analysis",
+          "name": "Qualitative Analysis (Salt Analysis)",
+          "sort_order": 170
+        },
+        {
+          "slug": "environmental-chemistry",
+          "name": "Environmental Chemistry",
+          "sort_order": 180
+        },
+        {
+          "slug": "general-organic-chemistry-basic-principles",
+          "name": "General Organic Chemistry (Basic Principles)",
+          "sort_order": 190
+        },
+        {
+          "slug": "isomerism-structural-and-stereo",
+          "name": "Isomerism (Structural and Stereo)",
+          "sort_order": 200
+        },
+        {
+          "slug": "hydrocarbons-alkanes-alkenes-alkynes-benzene",
+          "name": "Hydrocarbons (Alkanes, Alkenes, Alkynes, Benzene)",
+          "sort_order": 210
+        },
+        {
+          "slug": "alkyl-halides-and-haloarenes",
+          "name": "Alkyl Halides and Haloarenes",
+          "sort_order": 220
+        },
+        {
+          "slug": "alcohols-phenols-and-ethers",
+          "name": "Alcohols, Phenols and Ethers",
+          "sort_order": 230
+        },
+        {
+          "slug": "aldehydes-and-ketones",
+          "name": "Aldehydes and Ketones",
+          "sort_order": 240
+        },
+        {
+          "slug": "carboxylic-acids-and-derivatives",
+          "name": "Carboxylic Acids and Derivatives",
+          "sort_order": 250
+        },
+        {
+          "slug": "amines-and-diazonium-salts",
+          "name": "Amines and Diazonium Salts",
+          "sort_order": 260
+        },
+        {
+          "slug": "biomolecules-polymers-and-chemistry-in-everyday-life",
+          "name": "Biomolecules, Polymers and Chemistry in Everyday Life",
+          "sort_order": 270
+        },
+        {
+          "slug": "practical-organic-chemistry",
+          "name": "Practical Organic Chemistry",
+          "sort_order": 280
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "sets-relations-and-functions",
+          "name": "Sets, Relations and Functions",
+          "sort_order": 10
+        },
+        {
+          "slug": "complex-numbers",
+          "name": "Complex Numbers",
+          "sort_order": 20
+        },
+        {
+          "slug": "quadratic-equations",
+          "name": "Quadratic Equations",
+          "sort_order": 30
+        },
+        {
+          "slug": "sequences-and-series",
+          "name": "Sequences and Series",
+          "sort_order": 40
+        },
+        {
+          "slug": "permutations-and-combinations",
+          "name": "Permutations and Combinations",
+          "sort_order": 50
+        },
+        {
+          "slug": "binomial-theorem",
+          "name": "Binomial Theorem",
+          "sort_order": 60
+        },
+        {
+          "slug": "matrices-and-determinants",
+          "name": "Matrices and Determinants",
+          "sort_order": 70
+        },
+        {
+          "slug": "probability",
+          "name": "Probability",
+          "sort_order": 80
+        },
+        {
+          "slug": "statistics",
+          "name": "Statistics",
+          "sort_order": 90
+        },
+        {
+          "slug": "trigonometric-functions-and-equations",
+          "name": "Trigonometric Functions and Equations",
+          "sort_order": 100
+        },
+        {
+          "slug": "inverse-trigonometric-functions",
+          "name": "Inverse Trigonometric Functions",
+          "sort_order": 110
+        },
+        {
+          "slug": "properties-of-triangles",
+          "name": "Properties of Triangles",
+          "sort_order": 120
+        },
+        {
+          "slug": "straight-lines",
+          "name": "Straight Lines",
+          "sort_order": 130
+        },
+        {
+          "slug": "circles",
+          "name": "Circles",
+          "sort_order": 140
+        },
+        {
+          "slug": "conic-sections",
+          "name": "Conic Sections",
+          "sort_order": 150
+        },
+        {
+          "slug": "vectors",
+          "name": "Vectors",
+          "sort_order": 160
+        },
+        {
+          "slug": "three-dimensional-geometry",
+          "name": "Three Dimensional Geometry",
+          "sort_order": 170
+        },
+        {
+          "slug": "limits-continuity-and-differentiability",
+          "name": "Limits, Continuity and Differentiability",
+          "sort_order": 180
+        },
+        {
+          "slug": "applications-of-derivatives",
+          "name": "Applications of Derivatives",
+          "sort_order": 190
+        },
+        {
+          "slug": "indefinite-integrals",
+          "name": "Indefinite Integrals",
+          "sort_order": 200
+        },
+        {
+          "slug": "definite-integrals-and-area",
+          "name": "Definite Integrals and Area",
+          "sort_order": 210
+        },
+        {
+          "slug": "differential-equations",
+          "name": "Differential Equations",
+          "sort_order": 220
+        }
+      ]
+    }
+  ]
+}

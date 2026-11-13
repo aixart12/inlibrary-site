@@ -1,0 +1,168 @@
+{
+  "schema": 1,
+  "slug": "ssc-mts",
+  "kind": "exam",
+  "name": "SSC MTS and Havaldar",
+  "short_name": "SSC MTS",
+  "aliases": [
+    "ssc mts",
+    "mts",
+    "ssc",
+    "multi tasking staff",
+    "havaldar"
+  ],
+  "category": "central-govt",
+  "subject_count": 4,
+  "topic_count": 24,
+  "version": 1,
+  "subjects": [
+    {
+      "slug": "numerical-and-mathematical-ability",
+      "name": "Numerical and Mathematical Ability",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "number-system-and-simplification",
+          "name": "Number System and Simplification",
+          "sort_order": 10
+        },
+        {
+          "slug": "percentage-and-ratio",
+          "name": "Percentage and Ratio",
+          "sort_order": 20
+        },
+        {
+          "slug": "averages-and-ages",
+          "name": "Averages and Ages",
+          "sort_order": 30
+        },
+        {
+          "slug": "profit-loss-discount-and-interest",
+          "name": "Profit, Loss, Discount and Interest",
+          "sort_order": 40
+        },
+        {
+          "slug": "time-and-work-time-and-distance",
+          "name": "Time and Work, Time and Distance",
+          "sort_order": 50
+        },
+        {
+          "slug": "mensuration-and-basic-geometry",
+          "name": "Mensuration and Basic Geometry",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation-tables-graphs",
+          "name": "Data Interpretation (Tables, Graphs)",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "reasoning-ability-and-problem-solving",
+      "name": "Reasoning Ability and Problem Solving",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "analogy-classification-and-series",
+          "name": "Analogy, Classification and Series",
+          "sort_order": 10
+        },
+        {
+          "slug": "coding-decoding-and-alphabet-test",
+          "name": "Coding-Decoding and Alphabet Test",
+          "sort_order": 20
+        },
+        {
+          "slug": "blood-relations-directions-and-ranking",
+          "name": "Blood Relations, Directions and Ranking",
+          "sort_order": 30
+        },
+        {
+          "slug": "venn-diagrams-and-syllogism",
+          "name": "Venn Diagrams and Syllogism",
+          "sort_order": 40
+        },
+        {
+          "slug": "non-verbal-reasoning-mirror-paper-folding-figures",
+          "name": "Non-verbal Reasoning (Mirror, Paper Folding, Figures)",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "general-awareness",
+      "name": "General Awareness",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "history-and-culture",
+          "name": "History and Culture",
+          "sort_order": 10
+        },
+        {
+          "slug": "geography",
+          "name": "Geography",
+          "sort_order": 20
+        },
+        {
+          "slug": "polity",
+          "name": "Polity",
+          "sort_order": 30
+        },
+        {
+          "slug": "economy",
+          "name": "Economy",
+          "sort_order": 40
+        },
+        {
+          "slug": "everyday-science",
+          "name": "Everyday Science",
+          "sort_order": 50
+        },
+        {
+          "slug": "current-affairs-and-sports",
+          "name": "Current Affairs and Sports",
+          "sort_order": 60
+        },
+        {
+          "slug": "static-gk",
+          "name": "Static GK",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "english-language-and-comprehension",
+      "name": "English Language and Comprehension",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "grammar-and-error-spotting",
+          "name": "Grammar and Error Spotting",
+          "sort_order": 10
+        },
+        {
+          "slug": "vocabulary-synonyms-antonyms-spelling",
+          "name": "Vocabulary: Synonyms, Antonyms, Spelling",
+          "sort_order": 20
+        },
+        {
+          "slug": "idioms-and-one-word-substitution",
+          "name": "Idioms and One-word Substitution",
+          "sort_order": 30
+        },
+        {
+          "slug": "fill-in-the-blanks-and-sentence-improvement",
+          "name": "Fill in the Blanks and Sentence Improvement",
+          "sort_order": 40
+        },
+        {
+          "slug": "reading-comprehension-and-cloze-test",
+          "name": "Reading Comprehension and Cloze Test",
+          "sort_order": 50
+        }
+      ]
+    }
+  ]
+}

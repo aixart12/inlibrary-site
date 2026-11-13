@@ -1,0 +1,278 @@
+{
+  "schema": 1,
+  "slug": "ctet-paper-2",
+  "kind": "exam",
+  "name": "CTET Paper II (Classes 6-8)",
+  "short_name": "CTET P2",
+  "aliases": [
+    "ctet",
+    "tet",
+    "teacher eligibility",
+    "teacher",
+    "teaching",
+    "cbse ctet",
+    "paper 2",
+    "upper primary teacher"
+  ],
+  "category": "teaching",
+  "subject_count": 5,
+  "topic_count": 44,
+  "version": 1,
+  "subjects": [
+    {
+      "slug": "child-development-and-pedagogy",
+      "name": "Child Development and Pedagogy",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "concept-of-development-and-its-relation-with-learning",
+          "name": "Concept of Development and its Relation with Learning",
+          "sort_order": 10
+        },
+        {
+          "slug": "principles-of-development-heredity-and-environment",
+          "name": "Principles of Development; Heredity and Environment",
+          "sort_order": 20
+        },
+        {
+          "slug": "socialisation-processes",
+          "name": "Socialisation Processes",
+          "sort_order": 30
+        },
+        {
+          "slug": "piaget-kohlberg-and-vygotsky",
+          "name": "Piaget, Kohlberg and Vygotsky",
+          "sort_order": 40
+        },
+        {
+          "slug": "child-centred-and-progressive-education",
+          "name": "Child-centred and Progressive Education",
+          "sort_order": 50
+        },
+        {
+          "slug": "intelligence-and-multi-dimensional-intelligence",
+          "name": "Intelligence and Multi-dimensional Intelligence",
+          "sort_order": 60
+        },
+        {
+          "slug": "language-and-thought",
+          "name": "Language and Thought",
+          "sort_order": 70
+        },
+        {
+          "slug": "gender-individual-differences-and-diversity",
+          "name": "Gender, Individual Differences and Diversity",
+          "sort_order": 80
+        },
+        {
+          "slug": "assessment-for-learning-cce-questioning",
+          "name": "Assessment for Learning (CCE, Questioning)",
+          "sort_order": 90
+        },
+        {
+          "slug": "inclusive-education-and-children-with-special-needs",
+          "name": "Inclusive Education and Children with Special Needs",
+          "sort_order": 100
+        },
+        {
+          "slug": "learning-and-pedagogy-how-children-learn-motivation-cognitio",
+          "name": "Learning and Pedagogy: How Children Learn, Motivation, Cognition and Emotion",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "language-i",
+      "name": "Language I",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "l1-unseen-passages-prose-and-poem",
+          "name": "L1: Unseen Passages (Prose and Poem)",
+          "sort_order": 10
+        },
+        {
+          "slug": "l1-learning-and-acquisition-principles-of-language-teaching",
+          "name": "L1: Learning and Acquisition; Principles of Language Teaching",
+          "sort_order": 20
+        },
+        {
+          "slug": "l1-role-of-listening-and-speaking-function-of-language",
+          "name": "L1: Role of Listening and Speaking; Function of Language",
+          "sort_order": 30
+        },
+        {
+          "slug": "l1-grammar-in-teaching-language",
+          "name": "L1: Grammar in Teaching Language",
+          "sort_order": 40
+        },
+        {
+          "slug": "l1-challenges-in-diverse-classrooms-language-difficulties-an",
+          "name": "L1: Challenges in Diverse Classrooms; Language Difficulties and Errors",
+          "sort_order": 50
+        },
+        {
+          "slug": "l1-language-skills-lsrw-and-evaluating-proficiency",
+          "name": "L1: Language Skills (LSRW) and Evaluating Proficiency",
+          "sort_order": 60
+        },
+        {
+          "slug": "l1-teaching-learning-materials-and-remedial-teaching",
+          "name": "L1: Teaching-Learning Materials and Remedial Teaching",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "language-ii",
+      "name": "Language II",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "l2-unseen-passages-prose-and-poem",
+          "name": "L2: Unseen Passages (Prose and Poem)",
+          "sort_order": 10
+        },
+        {
+          "slug": "l2-learning-and-acquisition-principles-of-language-teaching",
+          "name": "L2: Learning and Acquisition; Principles of Language Teaching",
+          "sort_order": 20
+        },
+        {
+          "slug": "l2-role-of-listening-and-speaking-function-of-language",
+          "name": "L2: Role of Listening and Speaking; Function of Language",
+          "sort_order": 30
+        },
+        {
+          "slug": "l2-grammar-in-teaching-language",
+          "name": "L2: Grammar in Teaching Language",
+          "sort_order": 40
+        },
+        {
+          "slug": "l2-challenges-in-diverse-classrooms-language-difficulties-an",
+          "name": "L2: Challenges in Diverse Classrooms; Language Difficulties and Errors",
+          "sort_order": 50
+        },
+        {
+          "slug": "l2-language-skills-lsrw-and-evaluating-proficiency",
+          "name": "L2: Language Skills (LSRW) and Evaluating Proficiency",
+          "sort_order": 60
+        },
+        {
+          "slug": "l2-teaching-learning-materials-and-remedial-teaching",
+          "name": "L2: Teaching-Learning Materials and Remedial Teaching",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "mathematics-and-science",
+      "name": "Mathematics and Science",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "maths-number-system",
+          "name": "Maths: Number System",
+          "sort_order": 10
+        },
+        {
+          "slug": "maths-algebra",
+          "name": "Maths: Algebra",
+          "sort_order": 20
+        },
+        {
+          "slug": "maths-geometry",
+          "name": "Maths: Geometry",
+          "sort_order": 30
+        },
+        {
+          "slug": "maths-mensuration-and-data-handling",
+          "name": "Maths: Mensuration and Data Handling",
+          "sort_order": 40
+        },
+        {
+          "slug": "pedagogy-of-mathematics",
+          "name": "Pedagogy of Mathematics",
+          "sort_order": 50
+        },
+        {
+          "slug": "science-food-and-materials",
+          "name": "Science: Food and Materials",
+          "sort_order": 60
+        },
+        {
+          "slug": "science-the-world-of-the-living",
+          "name": "Science: The World of the Living",
+          "sort_order": 70
+        },
+        {
+          "slug": "science-moving-things-people-and-ideas-how-things-work",
+          "name": "Science: Moving Things, People and Ideas; How Things Work",
+          "sort_order": 80
+        },
+        {
+          "slug": "science-natural-phenomena-and-natural-resources",
+          "name": "Science: Natural Phenomena and Natural Resources",
+          "sort_order": 90
+        },
+        {
+          "slug": "pedagogy-of-science",
+          "name": "Pedagogy of Science",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "social-studies",
+      "name": "Social Studies",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "history-ancient-india",
+          "name": "History: Ancient India",
+          "sort_order": 10
+        },
+        {
+          "slug": "history-medieval-india",
+          "name": "History: Medieval India",
+          "sort_order": 20
+        },
+        {
+          "slug": "history-modern-india-and-national-movement",
+          "name": "History: Modern India and National Movement",
+          "sort_order": 30
+        },
+        {
+          "slug": "geography-earth-globe-environment-air-water",
+          "name": "Geography: Earth, Globe, Environment, Air, Water",
+          "sort_order": 40
+        },
+        {
+          "slug": "geography-resources-and-agriculture",
+          "name": "Geography: Resources and Agriculture",
+          "sort_order": 50
+        },
+        {
+          "slug": "social-and-political-life-diversity-government-local-governm",
+          "name": "Social and Political Life: Diversity, Government, Local Government",
+          "sort_order": 60
+        },
+        {
+          "slug": "social-and-political-life-democracy-constitution-parliament",
+          "name": "Social and Political Life: Democracy, Constitution, Parliament, Judiciary",
+          "sort_order": 70
+        },
+        {
+          "slug": "social-and-political-life-gender-media-social-justice",
+          "name": "Social and Political Life: Gender, Media, Social Justice",
+          "sort_order": 80
+        },
+        {
+          "slug": "pedagogy-of-social-studies",
+          "name": "Pedagogy of Social Studies",
+          "sort_order": 90
+        }
+      ]
+    }
+  ]
+}

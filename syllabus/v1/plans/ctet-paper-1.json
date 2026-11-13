@@ -1,0 +1,243 @@
+{
+  "schema": 1,
+  "slug": "ctet-paper-1",
+  "kind": "exam",
+  "name": "CTET Paper I (Classes 1-5)",
+  "short_name": "CTET P1",
+  "aliases": [
+    "ctet",
+    "tet",
+    "teacher eligibility",
+    "teacher",
+    "teaching",
+    "cbse ctet",
+    "paper 1",
+    "primary teacher"
+  ],
+  "category": "teaching",
+  "subject_count": 5,
+  "topic_count": 37,
+  "version": 1,
+  "subjects": [
+    {
+      "slug": "child-development-and-pedagogy",
+      "name": "Child Development and Pedagogy",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "concept-of-development-and-its-relation-with-learning",
+          "name": "Concept of Development and its Relation with Learning",
+          "sort_order": 10
+        },
+        {
+          "slug": "principles-of-development-heredity-and-environment",
+          "name": "Principles of Development; Heredity and Environment",
+          "sort_order": 20
+        },
+        {
+          "slug": "socialisation-processes",
+          "name": "Socialisation Processes",
+          "sort_order": 30
+        },
+        {
+          "slug": "piaget-kohlberg-and-vygotsky",
+          "name": "Piaget, Kohlberg and Vygotsky",
+          "sort_order": 40
+        },
+        {
+          "slug": "child-centred-and-progressive-education",
+          "name": "Child-centred and Progressive Education",
+          "sort_order": 50
+        },
+        {
+          "slug": "intelligence-and-multi-dimensional-intelligence",
+          "name": "Intelligence and Multi-dimensional Intelligence",
+          "sort_order": 60
+        },
+        {
+          "slug": "language-and-thought",
+          "name": "Language and Thought",
+          "sort_order": 70
+        },
+        {
+          "slug": "gender-individual-differences-and-diversity",
+          "name": "Gender, Individual Differences and Diversity",
+          "sort_order": 80
+        },
+        {
+          "slug": "assessment-for-learning-cce-questioning",
+          "name": "Assessment for Learning (CCE, Questioning)",
+          "sort_order": 90
+        },
+        {
+          "slug": "inclusive-education-and-children-with-special-needs",
+          "name": "Inclusive Education and Children with Special Needs",
+          "sort_order": 100
+        },
+        {
+          "slug": "learning-and-pedagogy-how-children-learn-motivation-cognitio",
+          "name": "Learning and Pedagogy: How Children Learn, Motivation, Cognition and Emotion",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "language-i",
+      "name": "Language I",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "l1-unseen-passages-prose-and-poem",
+          "name": "L1: Unseen Passages (Prose and Poem)",
+          "sort_order": 10
+        },
+        {
+          "slug": "l1-learning-and-acquisition-principles-of-language-teaching",
+          "name": "L1: Learning and Acquisition; Principles of Language Teaching",
+          "sort_order": 20
+        },
+        {
+          "slug": "l1-role-of-listening-and-speaking-function-of-language",
+          "name": "L1: Role of Listening and Speaking; Function of Language",
+          "sort_order": 30
+        },
+        {
+          "slug": "l1-grammar-in-teaching-language",
+          "name": "L1: Grammar in Teaching Language",
+          "sort_order": 40
+        },
+        {
+          "slug": "l1-challenges-in-diverse-classrooms-language-difficulties-an",
+          "name": "L1: Challenges in Diverse Classrooms; Language Difficulties and Errors",
+          "sort_order": 50
+        },
+        {
+          "slug": "l1-language-skills-lsrw-and-evaluating-proficiency",
+          "name": "L1: Language Skills (LSRW) and Evaluating Proficiency",
+          "sort_order": 60
+        },
+        {
+          "slug": "l1-teaching-learning-materials-and-remedial-teaching",
+          "name": "L1: Teaching-Learning Materials and Remedial Teaching",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "language-ii",
+      "name": "Language II",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "l2-unseen-passages-prose-and-poem",
+          "name": "L2: Unseen Passages (Prose and Poem)",
+          "sort_order": 10
+        },
+        {
+          "slug": "l2-learning-and-acquisition-principles-of-language-teaching",
+          "name": "L2: Learning and Acquisition; Principles of Language Teaching",
+          "sort_order": 20
+        },
+        {
+          "slug": "l2-role-of-listening-and-speaking-function-of-language",
+          "name": "L2: Role of Listening and Speaking; Function of Language",
+          "sort_order": 30
+        },
+        {
+          "slug": "l2-grammar-in-teaching-language",
+          "name": "L2: Grammar in Teaching Language",
+          "sort_order": 40
+        },
+        {
+          "slug": "l2-challenges-in-diverse-classrooms-language-difficulties-an",
+          "name": "L2: Challenges in Diverse Classrooms; Language Difficulties and Errors",
+          "sort_order": 50
+        },
+        {
+          "slug": "l2-language-skills-lsrw-and-evaluating-proficiency",
+          "name": "L2: Language Skills (LSRW) and Evaluating Proficiency",
+          "sort_order": 60
+        },
+        {
+          "slug": "l2-teaching-learning-materials-and-remedial-teaching",
+          "name": "L2: Teaching-Learning Materials and Remedial Teaching",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "geometry-and-shapes-spatial-understanding",
+          "name": "Geometry and Shapes, Spatial Understanding",
+          "sort_order": 10
+        },
+        {
+          "slug": "numbers-and-operations-add-subtract-multiply-divide",
+          "name": "Numbers and Operations (Add, Subtract, Multiply, Divide)",
+          "sort_order": 20
+        },
+        {
+          "slug": "measurement-length-weight-time-volume-money",
+          "name": "Measurement: Length, Weight, Time, Volume, Money",
+          "sort_order": 30
+        },
+        {
+          "slug": "data-handling-and-patterns",
+          "name": "Data Handling and Patterns",
+          "sort_order": 40
+        },
+        {
+          "slug": "pedagogy-of-mathematics-nature-of-maths-errors-evaluation-re",
+          "name": "Pedagogy of Mathematics (nature of maths, errors, evaluation, remedial teaching)",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "environmental-studies",
+      "name": "Environmental Studies",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "family-and-friends-relationships-animals-plants-work-and-pla",
+          "name": "Family and Friends (Relationships, Animals, Plants, Work and Play)",
+          "sort_order": 10
+        },
+        {
+          "slug": "food",
+          "name": "Food",
+          "sort_order": 20
+        },
+        {
+          "slug": "shelter",
+          "name": "Shelter",
+          "sort_order": 30
+        },
+        {
+          "slug": "water",
+          "name": "Water",
+          "sort_order": 40
+        },
+        {
+          "slug": "travel",
+          "name": "Travel",
+          "sort_order": 50
+        },
+        {
+          "slug": "things-we-make-and-do",
+          "name": "Things We Make and Do",
+          "sort_order": 60
+        },
+        {
+          "slug": "pedagogy-of-evs-concept-activities-experimentation-cce-probl",
+          "name": "Pedagogy of EVS (concept, activities, experimentation, CCE, problems)",
+          "sort_order": 70
+        }
+      ]
+    }
+  ]
+}

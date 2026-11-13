@@ -1,0 +1,594 @@
+{
+  "exam": {
+    "slug": "rrb-group-d",
+    "name": "RRB Group D (Level 1)",
+    "short_name": "RRB Group D",
+    "kind": "exam",
+    "aliases": [
+      "rrb group d",
+      "group d",
+      "rrb",
+      "railway",
+      "railway group d",
+      "level 1",
+      "track maintainer"
+    ],
+    "category": "railways",
+    "conducting_body": "Railway Recruitment Boards (RRBs) / RRCs",
+    "stages": [
+      "CBT",
+      "PET",
+      "Document verification and Medical"
+    ],
+    "description": "Level 1 posts (Track Maintainer, Assistant, Pointsman, etc.). Science is at Class 10 level.",
+    "pattern_summary": "100 MCQs: General Science 25, Maths 25, Reasoning 30, GA and Current Affairs 20; 90 min; -1/3.",
+    "official_url": "https://indianrailways.gov.in/railwayboard",
+    "syllabus_source_url": "Latest RRB Group D CEN, syllabus annexure",
+    "syllabus_cycle": "Latest CEN (2025-26)",
+    "verified": true,
+    "verification_note": "Section counts confirmed via secondary sources; science split follows the CEN's Class 10 (CBSE) level heads.",
+    "priority_basis": "PYQ frequency trend (coaching analyses)",
+    "last_verified": "2026-10-11",
+    "version": 1,
+    "is_published": true,
+    "sort_order": 120
+  },
+  "subjects": [
+    {
+      "slug": "general-science",
+      "name": "General Science",
+      "sort_order": 10,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "physics-motion-force-laws-of-motion",
+          "name": "Physics: Motion, Force, Laws of Motion",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "physics-work-energy-power-and-gravitation",
+          "name": "Physics: Work, Energy, Power and Gravitation",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "physics-sound-waves-and-pressure",
+          "name": "Physics: Sound, Waves and Pressure",
+          "sort_order": 30,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "physics-heat-and-light",
+          "name": "Physics: Heat and Light",
+          "sort_order": 40,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "physics-electricity-and-magnetism",
+          "name": "Physics: Electricity and Magnetism",
+          "sort_order": 50,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "physics-units-instruments-and-sources-of-energy",
+          "name": "Physics: Units, Instruments and Sources of Energy",
+          "sort_order": 60,
+          "est_hours": 2.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "chemistry-matter-atoms-molecules-and-atomic-structure",
+          "name": "Chemistry: Matter, Atoms, Molecules and Atomic Structure",
+          "sort_order": 70,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "chemistry-chemical-reactions-acids-bases-and-salts",
+          "name": "Chemistry: Chemical Reactions, Acids, Bases and Salts",
+          "sort_order": 80,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "chemistry-periodic-classification-bonding-metals-and-non-met",
+          "name": "Chemistry: Periodic Classification, Bonding, Metals and Non-metals",
+          "sort_order": 90,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "chemistry-carbon-compounds-oxidation-and-combustion",
+          "name": "Chemistry: Carbon Compounds, Oxidation and Combustion",
+          "sort_order": 100,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "biology-classification-of-organisms-and-cell-biology",
+          "name": "Biology: Classification of Organisms and Cell Biology",
+          "sort_order": 110,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "biology-plant-and-animal-tissues-photosynthesis-plant-hormon",
+          "name": "Biology: Plant and Animal Tissues, Photosynthesis, Plant Hormones",
+          "sort_order": 120,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "biology-human-body-systems-nutrition-and-diseases",
+          "name": "Biology: Human Body Systems, Nutrition and Diseases",
+          "sort_order": 130,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "biology-genetics-heredity-and-evolution",
+          "name": "Biology: Genetics, Heredity and Evolution",
+          "sort_order": 140,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "biology-ecology-environment-and-pollution",
+          "name": "Biology: Ecology, Environment and Pollution",
+          "sort_order": 150,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 20,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "number-system-hcf-and-lcm",
+          "name": "Number System, HCF and LCM",
+          "sort_order": 10,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "simplification-decimals-and-fractions",
+          "name": "Simplification, Decimals and Fractions",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "ratio-and-proportion",
+          "name": "Ratio and Proportion",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "percentage",
+          "name": "Percentage",
+          "sort_order": 40,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "averages-and-ages",
+          "name": "Averages and Ages",
+          "sort_order": 50,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "profit-loss-and-discount",
+          "name": "Profit, Loss and Discount",
+          "sort_order": 60,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 70,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "time-and-work",
+          "name": "Time and Work",
+          "sort_order": 80,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "time-speed-and-distance",
+          "name": "Time, Speed and Distance",
+          "sort_order": 90,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "mensuration",
+          "name": "Mensuration",
+          "sort_order": 100,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "elementary-algebra",
+          "name": "Elementary Algebra",
+          "sort_order": 110,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "geometry-and-trigonometry",
+          "name": "Geometry and Trigonometry",
+          "sort_order": 120,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "elementary-statistics-and-data-interpretation",
+          "name": "Elementary Statistics and Data Interpretation",
+          "sort_order": 130,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "general-intelligence-and-reasoning",
+      "name": "General Intelligence and Reasoning",
+      "sort_order": 30,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "analogy-and-classification",
+          "name": "Analogy and Classification",
+          "sort_order": 10,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "number-and-alphabet-series",
+          "name": "Number and Alphabet Series",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "coding-decoding",
+          "name": "Coding-Decoding",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "mathematical-operations",
+          "name": "Mathematical Operations",
+          "sort_order": 40,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "blood-relations-and-direction-sense",
+          "name": "Blood Relations and Direction Sense",
+          "sort_order": 50,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "syllogism-and-venn-diagrams",
+          "name": "Syllogism and Venn Diagrams",
+          "sort_order": 60,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "puzzles-and-seating-arrangement",
+          "name": "Puzzles and Seating Arrangement",
+          "sort_order": 70,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "non-verbal-mirror-images-cubes-and-dice-paper-folding-figure",
+          "name": "Non-verbal: Mirror Images, Cubes and Dice, Paper Folding, Figure Matrix",
+          "sort_order": 80,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "general-awareness-and-current-affairs",
+      "name": "General Awareness and Current Affairs",
+      "sort_order": 40,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "current-affairs-national-and-international",
+          "name": "Current Affairs: National and International",
+          "sort_order": 10,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "history-and-culture",
+          "name": "History and Culture",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "geography",
+          "name": "Geography",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "polity-and-constitution",
+          "name": "Polity and Constitution",
+          "sort_order": 40,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "economy-and-government-policies",
+          "name": "Economy and Government Policies",
+          "sort_order": 50,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "sports-awards-and-static-gk",
+          "name": "Sports, Awards and Static GK",
+          "sort_order": 60,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "slug": "full-syllabus",
+      "name": "Full syllabus + revision",
+      "description": "Covers every topic once, then revises, with a regular mock test day. Best when you have 2 months or more.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.6,
+          "revise": 0.2,
+          "mock": 0.2
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 5,
+        "hours_factor": 1.0,
+        "min_days": 45,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 1.5
+      },
+      "is_default": true,
+      "sort_order": 10,
+      "version": 1
+    },
+    {
+      "slug": "revision-only",
+      "name": "Revision only",
+      "description": "You have studied the syllabus before. Quick revision of every topic plus frequent mock tests.",
+      "rules": {
+        "mode": "revise_only",
+        "phases": {
+          "learn": 0.0,
+          "revise": 0.7,
+          "mock": 0.3
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 4,
+        "mock_every_n_days": 3,
+        "hours_factor": 0.35,
+        "min_days": 7,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 1.5
+      },
+      "is_default": false,
+      "sort_order": 20,
+      "version": 1
+    },
+    {
+      "slug": "crash-30",
+      "name": "Crash 30 days",
+      "description": "Important (high and medium priority) topics only, shortened, finishing in about 30 days.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.65,
+          "revise": 0.2,
+          "mock": 0.15
+        },
+        "include_priorities": [
+          "high",
+          "medium"
+        ],
+        "subjects_per_day": 4,
+        "mock_every_n_days": 5,
+        "hours_factor": 0.6,
+        "min_days": 10,
+        "target_days": 30,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 1.5
+      },
+      "is_default": false,
+      "sort_order": 30,
+      "version": 1
+    }
+  ]
+}

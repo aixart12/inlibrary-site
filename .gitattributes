@@ -1,0 +1,2 @@
+# The syllabus catalog is generated on Windows, macOS and Linux and compared byte for byte in CI.
+syllabus/** text eol=lf

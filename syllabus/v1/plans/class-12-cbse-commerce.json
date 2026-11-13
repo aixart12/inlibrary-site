@@ -1,0 +1,318 @@
+{
+  "schema": 1,
+  "slug": "class-12-cbse-commerce",
+  "kind": "school",
+  "name": "Class 12 · CBSE · Commerce",
+  "short_name": "Class 12",
+  "class": "12",
+  "board": "CBSE",
+  "stream": "Commerce",
+  "aliases": [
+    "12",
+    "12th",
+    "twelfth",
+    "class 12",
+    "inter",
+    "intermediate",
+    "boards",
+    "board exam",
+    "cbse",
+    "cbse 12",
+    "barahvi",
+    "barahvin",
+    "commerce",
+    "accounts",
+    "senior secondary"
+  ],
+  "category": "school",
+  "subject_count": 5,
+  "topic_count": 50,
+  "version": 1,
+  "subjects": [
+    {
+      "slug": "english-core",
+      "name": "English Core",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "reading-skills-unseen-passages",
+          "name": "Reading Skills: Unseen Passages",
+          "sort_order": 10
+        },
+        {
+          "slug": "writing-skills-notice-invitation-letter-article-report",
+          "name": "Writing Skills: Notice, Invitation, Letter, Article, Report",
+          "sort_order": 20
+        },
+        {
+          "slug": "flamingo-prose-chapters-first-half",
+          "name": "Flamingo: Prose Chapters (first half)",
+          "sort_order": 30
+        },
+        {
+          "slug": "flamingo-prose-chapters-second-half",
+          "name": "Flamingo: Prose Chapters (second half)",
+          "sort_order": 40
+        },
+        {
+          "slug": "flamingo-poems",
+          "name": "Flamingo: Poems",
+          "sort_order": 50
+        },
+        {
+          "slug": "vistas-supplementary-reader",
+          "name": "Vistas: Supplementary Reader",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "accountancy",
+      "name": "Accountancy",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "accounting-for-partnership-fundamentals",
+          "name": "Accounting for Partnership: Fundamentals",
+          "sort_order": 10
+        },
+        {
+          "slug": "change-in-profit-sharing-ratio",
+          "name": "Change in Profit-Sharing Ratio",
+          "sort_order": 20
+        },
+        {
+          "slug": "admission-of-a-partner",
+          "name": "Admission of a Partner",
+          "sort_order": 30
+        },
+        {
+          "slug": "retirement-and-death-of-a-partner",
+          "name": "Retirement and Death of a Partner",
+          "sort_order": 40
+        },
+        {
+          "slug": "dissolution-of-partnership-firm",
+          "name": "Dissolution of Partnership Firm",
+          "sort_order": 50
+        },
+        {
+          "slug": "accounting-for-share-capital",
+          "name": "Accounting for Share Capital",
+          "sort_order": 60
+        },
+        {
+          "slug": "issue-and-redemption-of-debentures",
+          "name": "Issue and Redemption of Debentures",
+          "sort_order": 70
+        },
+        {
+          "slug": "financial-statements-of-a-company",
+          "name": "Financial Statements of a Company",
+          "sort_order": 80
+        },
+        {
+          "slug": "analysis-of-financial-statements-comparative-and-common-size",
+          "name": "Analysis of Financial Statements (Comparative and Common Size)",
+          "sort_order": 90
+        },
+        {
+          "slug": "accounting-ratios",
+          "name": "Accounting Ratios",
+          "sort_order": 100
+        },
+        {
+          "slug": "cash-flow-statement",
+          "name": "Cash Flow Statement",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "business-studies",
+      "name": "Business Studies",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "nature-and-significance-of-management",
+          "name": "Nature and Significance of Management",
+          "sort_order": 10
+        },
+        {
+          "slug": "principles-of-management",
+          "name": "Principles of Management",
+          "sort_order": 20
+        },
+        {
+          "slug": "business-environment",
+          "name": "Business Environment",
+          "sort_order": 30
+        },
+        {
+          "slug": "planning",
+          "name": "Planning",
+          "sort_order": 40
+        },
+        {
+          "slug": "organising",
+          "name": "Organising",
+          "sort_order": 50
+        },
+        {
+          "slug": "staffing",
+          "name": "Staffing",
+          "sort_order": 60
+        },
+        {
+          "slug": "directing",
+          "name": "Directing",
+          "sort_order": 70
+        },
+        {
+          "slug": "controlling",
+          "name": "Controlling",
+          "sort_order": 80
+        },
+        {
+          "slug": "financial-management",
+          "name": "Financial Management",
+          "sort_order": 90
+        },
+        {
+          "slug": "financial-markets",
+          "name": "Financial Markets",
+          "sort_order": 100
+        },
+        {
+          "slug": "marketing-management",
+          "name": "Marketing Management",
+          "sort_order": 110
+        },
+        {
+          "slug": "consumer-protection",
+          "name": "Consumer Protection",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "economics",
+      "name": "Economics",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "macro-national-income-and-related-aggregates",
+          "name": "Macro: National Income and Related Aggregates",
+          "sort_order": 10
+        },
+        {
+          "slug": "macro-money-and-banking",
+          "name": "Macro: Money and Banking",
+          "sort_order": 20
+        },
+        {
+          "slug": "macro-determination-of-income-and-employment",
+          "name": "Macro: Determination of Income and Employment",
+          "sort_order": 30
+        },
+        {
+          "slug": "macro-government-budget-and-the-economy",
+          "name": "Macro: Government Budget and the Economy",
+          "sort_order": 40
+        },
+        {
+          "slug": "macro-balance-of-payments-and-foreign-exchange",
+          "name": "Macro: Balance of Payments and Foreign Exchange",
+          "sort_order": 50
+        },
+        {
+          "slug": "ied-development-experience-1947-90-and-economic-reforms-sinc",
+          "name": "IED: Development Experience (1947-90) and Economic Reforms since 1991",
+          "sort_order": 60
+        },
+        {
+          "slug": "ied-current-challenges-human-capital-rural-development-emplo",
+          "name": "IED: Current Challenges (Human Capital, Rural Development, Employment, Sustainable Development)",
+          "sort_order": 70
+        },
+        {
+          "slug": "ied-development-experiences-of-india-and-neighbours",
+          "name": "IED: Development Experiences of India and Neighbours",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "relations-and-functions",
+          "name": "Relations and Functions",
+          "sort_order": 10
+        },
+        {
+          "slug": "inverse-trigonometric-functions",
+          "name": "Inverse Trigonometric Functions",
+          "sort_order": 20
+        },
+        {
+          "slug": "matrices",
+          "name": "Matrices",
+          "sort_order": 30
+        },
+        {
+          "slug": "determinants",
+          "name": "Determinants",
+          "sort_order": 40
+        },
+        {
+          "slug": "continuity-and-differentiability",
+          "name": "Continuity and Differentiability",
+          "sort_order": 50
+        },
+        {
+          "slug": "application-of-derivatives",
+          "name": "Application of Derivatives",
+          "sort_order": 60
+        },
+        {
+          "slug": "integrals",
+          "name": "Integrals",
+          "sort_order": 70
+        },
+        {
+          "slug": "application-of-integrals",
+          "name": "Application of Integrals",
+          "sort_order": 80
+        },
+        {
+          "slug": "differential-equations",
+          "name": "Differential Equations",
+          "sort_order": 90
+        },
+        {
+          "slug": "vector-algebra",
+          "name": "Vector Algebra",
+          "sort_order": 100
+        },
+        {
+          "slug": "three-dimensional-geometry",
+          "name": "Three Dimensional Geometry",
+          "sort_order": 110
+        },
+        {
+          "slug": "linear-programming",
+          "name": "Linear Programming",
+          "sort_order": 120
+        },
+        {
+          "slug": "probability",
+          "name": "Probability",
+          "sort_order": 130
+        }
+      ]
+    }
+  ]
+}

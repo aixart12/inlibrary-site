@@ -1,0 +1,991 @@
+{
+  "exam": {
+    "slug": "neet-ug",
+    "name": "NEET UG",
+    "short_name": "NEET",
+    "kind": "exam",
+    "aliases": [
+      "neet",
+      "neet ug",
+      "medical",
+      "mbbs",
+      "nta neet"
+    ],
+    "category": "entrance",
+    "conducting_body": "National Testing Agency (NTA)",
+    "stages": [
+      "Single pen-and-paper exam"
+    ],
+    "description": "Medical entrance for MBBS, BDS, AYUSH and nursing seats. Physics, Chemistry and Biology from NCERT Class 11 and 12.",
+    "pattern_summary": "180 compulsory MCQs (Physics 45, Chemistry 45, Botany 45, Zoology 45), 720 marks, 3 hours, +4 / -1. Pen and paper.",
+    "official_url": "https://neet.nta.nic.in",
+    "syllabus_source_url": "https://neet.nta.nic.in (Public Notices: Syllabus for NEET (UG)-2026, prescribed by NMC)",
+    "syllabus_cycle": "2026 (2027 syllabus not yet notified)",
+    "verified": true,
+    "verification_note": "Syllabus notice for NEET (UG) 2026 confirmed on neet.nta.nic.in; pattern (180 compulsory questions, 3 h) confirmed via secondary sources. Chapter list follows the NMC 2026 units mapped to rationalised NCERT chapters.",
+    "priority_basis": "PYQ frequency trend (widely published coaching analyses, not official)",
+    "last_verified": "2026-10-11",
+    "version": 1,
+    "is_published": true,
+    "sort_order": 10
+  },
+  "subjects": [
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 10,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "units-and-measurement",
+          "name": "Units and Measurement",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "motion-in-a-straight-line",
+          "name": "Motion in a Straight Line",
+          "sort_order": 20,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "motion-in-a-plane",
+          "name": "Motion in a Plane",
+          "sort_order": 30,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": "motion-in-a-straight-line",
+          "notes": null
+        },
+        {
+          "slug": "laws-of-motion",
+          "name": "Laws of Motion",
+          "sort_order": 40,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "work-energy-and-power",
+          "name": "Work, Energy and Power",
+          "sort_order": 50,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "system-of-particles-and-rotational-motion",
+          "name": "System of Particles and Rotational Motion",
+          "sort_order": 60,
+          "est_hours": 8.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": "laws-of-motion",
+          "notes": null
+        },
+        {
+          "slug": "gravitation",
+          "name": "Gravitation",
+          "sort_order": 70,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "mechanical-properties-of-solids",
+          "name": "Mechanical Properties of Solids",
+          "sort_order": 80,
+          "est_hours": 3.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "mechanical-properties-of-fluids",
+          "name": "Mechanical Properties of Fluids",
+          "sort_order": 90,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "thermal-properties-of-matter",
+          "name": "Thermal Properties of Matter",
+          "sort_order": 100,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "thermodynamics",
+          "name": "Thermodynamics",
+          "sort_order": 110,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "kinetic-theory-of-gases",
+          "name": "Kinetic Theory of Gases",
+          "sort_order": 120,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "oscillations",
+          "name": "Oscillations",
+          "sort_order": 130,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "waves",
+          "name": "Waves",
+          "sort_order": 140,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": "oscillations",
+          "notes": null
+        },
+        {
+          "slug": "electric-charges-and-fields",
+          "name": "Electric Charges and Fields",
+          "sort_order": 150,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "electrostatic-potential-and-capacitance",
+          "name": "Electrostatic Potential and Capacitance",
+          "sort_order": 160,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": "electric-charges-and-fields",
+          "notes": null
+        },
+        {
+          "slug": "current-electricity",
+          "name": "Current Electricity",
+          "sort_order": 170,
+          "est_hours": 7.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "moving-charges-and-magnetism",
+          "name": "Moving Charges and Magnetism",
+          "sort_order": 180,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "magnetism-and-matter",
+          "name": "Magnetism and Matter",
+          "sort_order": 190,
+          "est_hours": 3.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "electromagnetic-induction",
+          "name": "Electromagnetic Induction",
+          "sort_order": 200,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "alternating-current",
+          "name": "Alternating Current",
+          "sort_order": 210,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": "electromagnetic-induction",
+          "notes": null
+        },
+        {
+          "slug": "electromagnetic-waves",
+          "name": "Electromagnetic Waves",
+          "sort_order": 220,
+          "est_hours": 2.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "ray-optics-and-optical-instruments",
+          "name": "Ray Optics and Optical Instruments",
+          "sort_order": 230,
+          "est_hours": 7.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "wave-optics",
+          "name": "Wave Optics",
+          "sort_order": 240,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "dual-nature-of-radiation-and-matter",
+          "name": "Dual Nature of Radiation and Matter",
+          "sort_order": 250,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "atoms",
+          "name": "Atoms",
+          "sort_order": 260,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "nuclei",
+          "name": "Nuclei",
+          "sort_order": 270,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "semiconductor-electronics",
+          "name": "Semiconductor Electronics",
+          "sort_order": 280,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "experimental-skills-practicals",
+          "name": "Experimental Skills (Practicals)",
+          "sort_order": 290,
+          "est_hours": 3.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 20,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "some-basic-concepts-of-chemistry-mole-concept",
+          "name": "Some Basic Concepts of Chemistry (Mole Concept)",
+          "sort_order": 10,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "structure-of-atom",
+          "name": "Structure of Atom",
+          "sort_order": 20,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "classification-of-elements-and-periodicity",
+          "name": "Classification of Elements and Periodicity",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "chemical-bonding-and-molecular-structure",
+          "name": "Chemical Bonding and Molecular Structure",
+          "sort_order": 40,
+          "est_hours": 7.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "chemical-thermodynamics",
+          "name": "Chemical Thermodynamics",
+          "sort_order": 50,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "equilibrium-chemical-and-ionic",
+          "name": "Equilibrium (Chemical and Ionic)",
+          "sort_order": 60,
+          "est_hours": 7.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "redox-reactions",
+          "name": "Redox Reactions",
+          "sort_order": 70,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "solutions",
+          "name": "Solutions",
+          "sort_order": 80,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "electrochemistry",
+          "name": "Electrochemistry",
+          "sort_order": 90,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": "redox-reactions",
+          "notes": null
+        },
+        {
+          "slug": "chemical-kinetics",
+          "name": "Chemical Kinetics",
+          "sort_order": 100,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "p-block-elements-groups-13-and-14",
+          "name": "p-Block Elements (Groups 13 and 14)",
+          "sort_order": 110,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "p-block-elements-groups-15-to-18",
+          "name": "p-Block Elements (Groups 15 to 18)",
+          "sort_order": 120,
+          "est_hours": 6.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "d-and-f-block-elements",
+          "name": "d- and f-Block Elements",
+          "sort_order": 130,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "coordination-compounds",
+          "name": "Coordination Compounds",
+          "sort_order": 140,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "organic-chemistry-basic-principles-purification-and-characte",
+          "name": "Organic Chemistry: Basic Principles, Purification and Characterisation",
+          "sort_order": 150,
+          "est_hours": 7.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "hydrocarbons",
+          "name": "Hydrocarbons",
+          "sort_order": 160,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": "organic-chemistry-basic-principles-purification-and-characte",
+          "notes": null
+        },
+        {
+          "slug": "haloalkanes-and-haloarenes",
+          "name": "Haloalkanes and Haloarenes",
+          "sort_order": 170,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "alcohols-phenols-and-ethers",
+          "name": "Alcohols, Phenols and Ethers",
+          "sort_order": 180,
+          "est_hours": 5.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "aldehydes-ketones-and-carboxylic-acids",
+          "name": "Aldehydes, Ketones and Carboxylic Acids",
+          "sort_order": 190,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "amines-organic-compounds-containing-nitrogen",
+          "name": "Amines (Organic Compounds Containing Nitrogen)",
+          "sort_order": 200,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "biomolecules",
+          "name": "Biomolecules",
+          "sort_order": 210,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "principles-related-to-practical-chemistry",
+          "name": "Principles Related to Practical Chemistry",
+          "sort_order": 220,
+          "est_hours": 3.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "botany",
+      "name": "Botany",
+      "sort_order": 30,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "the-living-world",
+          "name": "The Living World",
+          "sort_order": 10,
+          "est_hours": 2.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "biological-classification",
+          "name": "Biological Classification",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "plant-kingdom",
+          "name": "Plant Kingdom",
+          "sort_order": 30,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "morphology-of-flowering-plants",
+          "name": "Morphology of Flowering Plants",
+          "sort_order": 40,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "anatomy-of-flowering-plants",
+          "name": "Anatomy of Flowering Plants",
+          "sort_order": 50,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "cell-the-unit-of-life",
+          "name": "Cell: The Unit of Life",
+          "sort_order": 60,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "cell-cycle-and-cell-division",
+          "name": "Cell Cycle and Cell Division",
+          "sort_order": 70,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": "cell-the-unit-of-life",
+          "notes": null
+        },
+        {
+          "slug": "photosynthesis-in-higher-plants",
+          "name": "Photosynthesis in Higher Plants",
+          "sort_order": 80,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "respiration-in-plants",
+          "name": "Respiration in Plants",
+          "sort_order": 90,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "plant-growth-and-development",
+          "name": "Plant Growth and Development",
+          "sort_order": 100,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "sexual-reproduction-in-flowering-plants",
+          "name": "Sexual Reproduction in Flowering Plants",
+          "sort_order": 110,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "principles-of-inheritance-and-variation",
+          "name": "Principles of Inheritance and Variation",
+          "sort_order": 120,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "molecular-basis-of-inheritance",
+          "name": "Molecular Basis of Inheritance",
+          "sort_order": 130,
+          "est_hours": 6.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "microbes-in-human-welfare",
+          "name": "Microbes in Human Welfare",
+          "sort_order": 140,
+          "est_hours": 2.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "organisms-and-populations",
+          "name": "Organisms and Populations",
+          "sort_order": 150,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "ecosystem",
+          "name": "Ecosystem",
+          "sort_order": 160,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "biodiversity-and-conservation",
+          "name": "Biodiversity and Conservation",
+          "sort_order": 170,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "zoology",
+      "name": "Zoology",
+      "sort_order": 40,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "animal-kingdom",
+          "name": "Animal Kingdom",
+          "sort_order": 10,
+          "est_hours": 5.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "structural-organisation-in-animals",
+          "name": "Structural Organisation in Animals",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "zoology-biomolecules",
+          "name": "Biomolecules",
+          "sort_order": 30,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "breathing-and-exchange-of-gases",
+          "name": "Breathing and Exchange of Gases",
+          "sort_order": 40,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "body-fluids-and-circulation",
+          "name": "Body Fluids and Circulation",
+          "sort_order": 50,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "excretory-products-and-their-elimination",
+          "name": "Excretory Products and their Elimination",
+          "sort_order": 60,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "locomotion-and-movement",
+          "name": "Locomotion and Movement",
+          "sort_order": 70,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "neural-control-and-coordination",
+          "name": "Neural Control and Coordination",
+          "sort_order": 80,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "chemical-coordination-and-integration",
+          "name": "Chemical Coordination and Integration",
+          "sort_order": 90,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "human-reproduction",
+          "name": "Human Reproduction",
+          "sort_order": 100,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "reproductive-health",
+          "name": "Reproductive Health",
+          "sort_order": 110,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "evolution",
+          "name": "Evolution",
+          "sort_order": 120,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "human-health-and-disease",
+          "name": "Human Health and Disease",
+          "sort_order": 130,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "biotechnology-principles-and-processes",
+          "name": "Biotechnology: Principles and Processes",
+          "sort_order": 140,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "biotechnology-and-its-applications",
+          "name": "Biotechnology and its Applications",
+          "sort_order": 150,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "slug": "full-syllabus",
+      "name": "Full syllabus + revision",
+      "description": "Covers every topic once, then revises, with a regular mock test day. Best when you have 2 months or more.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.7,
+          "revise": 0.2,
+          "mock": 0.1
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 2,
+        "mock_every_n_days": 7,
+        "hours_factor": 1.0,
+        "min_days": 45,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": null,
+        "mock_label": "Mock test",
+        "mock_hours": 4
+      },
+      "is_default": true,
+      "sort_order": 10,
+      "version": 1
+    },
+    {
+      "slug": "revision-only",
+      "name": "Revision only",
+      "description": "You have studied the syllabus before. Quick revision of every topic plus frequent mock tests.",
+      "rules": {
+        "mode": "revise_only",
+        "phases": {
+          "learn": 0.0,
+          "revise": 0.7,
+          "mock": 0.3
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 3,
+        "hours_factor": 0.35,
+        "min_days": 7,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": null,
+        "mock_label": "Mock test",
+        "mock_hours": 4
+      },
+      "is_default": false,
+      "sort_order": 20,
+      "version": 1
+    },
+    {
+      "slug": "crash-30",
+      "name": "Crash 30 days",
+      "description": "Important (high and medium priority) topics only, shortened, finishing in about 30 days.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.65,
+          "revise": 0.2,
+          "mock": 0.15
+        },
+        "include_priorities": [
+          "high",
+          "medium"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 5,
+        "hours_factor": 0.6,
+        "min_days": 10,
+        "target_days": 30,
+        "stages": null,
+        "daily_slot": null,
+        "mock_label": "Mock test",
+        "mock_hours": 4
+      },
+      "is_default": false,
+      "sort_order": 30,
+      "version": 1
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+name: Syllabus check
+
+# Runs on every pull request that touches the syllabus catalog. It fails when a data file is
+# invalid, or when the generated files in syllabus/v1/ were not rebuilt and committed.
+
+on:
+  pull_request:
+    paths:
+      - 'syllabus/**'
+      - '.github/workflows/syllabus-check.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate and rebuild
+        run: python syllabus/scripts/build.py
+
+      - name: Generated files must be committed
+        run: |
+          if [ -n "$(git status --porcelain -- syllabus)" ]; then
+            echo "::error::syllabus/ changed after running build.py. Run 'python syllabus/scripts/build.py' and commit the result."
+            git status --porcelain -- syllabus
+            git diff -- syllabus | head -n 100
+            exit 1
+          fi

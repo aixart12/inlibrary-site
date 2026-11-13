@@ -1,0 +1,486 @@
+{
+  "exam": {
+    "slug": "ssc-gd",
+    "name": "SSC GD Constable",
+    "short_name": "SSC GD",
+    "kind": "exam",
+    "aliases": [
+      "ssc gd",
+      "gd",
+      "ssc",
+      "gd constable",
+      "capf",
+      "bsf",
+      "crpf",
+      "cisf",
+      "itbp",
+      "assam rifles"
+    ],
+    "category": "central-govt",
+    "conducting_body": "Staff Selection Commission (SSC)",
+    "stages": [
+      "CBT",
+      "PET / PST",
+      "Medical"
+    ],
+    "description": "Class 10-level exam for Constable (GD) in CAPFs, SSF, Assam Rifles and NCB. Choose English or Hindi as the language section.",
+    "pattern_summary": "80 MCQs (Reasoning, GK, Elementary Maths, English/Hindi, 20 each), 160 marks, 60 min, +2 / -0.5. Followed by physical tests.",
+    "official_url": "https://ssc.gov.in",
+    "syllabus_source_url": "https://ssc.gov.in (Notice of Constable GD 2026)",
+    "syllabus_cycle": "2026 (2027 notice expected)",
+    "verified": true,
+    "verification_note": "Pattern and topic list confirmed via secondary reproduction of the 2026 notice. Physical test prep is not part of this study plan.",
+    "priority_basis": "PYQ frequency trend (coaching analyses)",
+    "last_verified": "2026-10-11",
+    "version": 1,
+    "is_published": true,
+    "sort_order": 90
+  },
+  "subjects": [
+    {
+      "slug": "general-intelligence-and-reasoning",
+      "name": "General Intelligence and Reasoning",
+      "sort_order": 10,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "analogy-and-classification",
+          "name": "Analogy and Classification",
+          "sort_order": 10,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "number-and-figure-series",
+          "name": "Number and Figure Series",
+          "sort_order": 20,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "coding-decoding",
+          "name": "Coding-Decoding",
+          "sort_order": 30,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "blood-relations-and-directions",
+          "name": "Blood Relations and Directions",
+          "sort_order": 40,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "non-verbal-spatial-visualisation-mirror-images-figure-classi",
+          "name": "Non-verbal: Spatial Visualisation, Mirror Images, Figure Classification",
+          "sort_order": 50,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "arithmetical-reasoning-and-venn-diagrams",
+          "name": "Arithmetical Reasoning and Venn Diagrams",
+          "sort_order": 60,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "general-knowledge-and-awareness",
+      "name": "General Knowledge and Awareness",
+      "sort_order": 20,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "history-and-culture",
+          "name": "History and Culture",
+          "sort_order": 10,
+          "est_hours": 4.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "geography",
+          "name": "Geography",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "polity-and-constitution",
+          "name": "Polity and Constitution",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "economy",
+          "name": "Economy",
+          "sort_order": 40,
+          "est_hours": 2.0,
+          "priority": "low",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "everyday-science",
+          "name": "Everyday Science",
+          "sort_order": 50,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "current-affairs-and-sports",
+          "name": "Current Affairs and Sports",
+          "sort_order": 60,
+          "est_hours": 4.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "static-gk",
+          "name": "Static GK",
+          "sort_order": 70,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "elementary-mathematics",
+      "name": "Elementary Mathematics",
+      "sort_order": 30,
+      "is_optional": false,
+      "notes": null,
+      "topics": [
+        {
+          "slug": "number-system-and-simplification",
+          "name": "Number System and Simplification",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "percentage",
+          "name": "Percentage",
+          "sort_order": 20,
+          "est_hours": 2.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "ratio-and-proportion",
+          "name": "Ratio and Proportion",
+          "sort_order": 30,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "averages",
+          "name": "Averages",
+          "sort_order": 40,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "profit-loss-and-discount",
+          "name": "Profit, Loss and Discount",
+          "sort_order": 50,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 60,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "time-and-work",
+          "name": "Time and Work",
+          "sort_order": 70,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "time-and-distance",
+          "name": "Time and Distance",
+          "sort_order": 80,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "mensuration",
+          "name": "Mensuration",
+          "sort_order": 90,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "english",
+      "name": "English",
+      "sort_order": 40,
+      "is_optional": true,
+      "notes": "Pick English OR Hindi.",
+      "topics": [
+        {
+          "slug": "grammar-basics-and-error-spotting",
+          "name": "Grammar Basics and Error Spotting",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "vocabulary-synonyms-antonyms-one-word-idioms",
+          "name": "Vocabulary: Synonyms, Antonyms, One-word, Idioms",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "comprehension-cloze-test-and-para-jumbles",
+          "name": "Comprehension, Cloze Test and Para Jumbles",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "voice-and-narration",
+          "name": "Voice and Narration",
+          "sort_order": 40,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "slug": "hindi",
+      "name": "Hindi",
+      "sort_order": 50,
+      "is_optional": true,
+      "notes": "Pick English OR Hindi.",
+      "topics": [
+        {
+          "slug": "vyakaran-sandhi-samas-upsarg-pratyay",
+          "name": "Vyakaran: Sandhi, Samas, Upsarg-Pratyay",
+          "sort_order": 10,
+          "est_hours": 3.0,
+          "priority": "high",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "shabd-gyan-paryayvachi-vilom-anekarthi",
+          "name": "Shabd Gyan: Paryayvachi, Vilom, Anekarthi",
+          "sort_order": 20,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "muhavare-lokoktiyan-aur-vakya-shuddhi",
+          "name": "Muhavare, Lokoktiyan aur Vakya Shuddhi",
+          "sort_order": 30,
+          "est_hours": 3.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        },
+        {
+          "slug": "gadyansh-comprehension-aur-anuvad",
+          "name": "Gadyansh (Comprehension) aur Anuvad",
+          "sort_order": 40,
+          "est_hours": 2.0,
+          "priority": "medium",
+          "stage": null,
+          "prereq": null,
+          "notes": null
+        }
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "slug": "full-syllabus",
+      "name": "Full syllabus + revision",
+      "description": "Covers every topic once, then revises, with a regular mock test day. Best when you have 2 months or more.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.6,
+          "revise": 0.2,
+          "mock": 0.2
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 3,
+        "mock_every_n_days": 5,
+        "hours_factor": 1.0,
+        "min_days": 45,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 1.5
+      },
+      "is_default": true,
+      "sort_order": 10,
+      "version": 1
+    },
+    {
+      "slug": "revision-only",
+      "name": "Revision only",
+      "description": "You have studied the syllabus before. Quick revision of every topic plus frequent mock tests.",
+      "rules": {
+        "mode": "revise_only",
+        "phases": {
+          "learn": 0.0,
+          "revise": 0.7,
+          "mock": 0.3
+        },
+        "include_priorities": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "subjects_per_day": 4,
+        "mock_every_n_days": 3,
+        "hours_factor": 0.35,
+        "min_days": 7,
+        "target_days": null,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 1.5
+      },
+      "is_default": false,
+      "sort_order": 20,
+      "version": 1
+    },
+    {
+      "slug": "crash-30",
+      "name": "Crash 30 days",
+      "description": "Important (high and medium priority) topics only, shortened, finishing in about 30 days.",
+      "rules": {
+        "mode": "full",
+        "phases": {
+          "learn": 0.65,
+          "revise": 0.2,
+          "mock": 0.15
+        },
+        "include_priorities": [
+          "high",
+          "medium"
+        ],
+        "subjects_per_day": 4,
+        "mock_every_n_days": 5,
+        "hours_factor": 0.6,
+        "min_days": 10,
+        "target_days": 30,
+        "stages": null,
+        "daily_slot": {
+          "label": "Current affairs / newspaper",
+          "minutes": 30
+        },
+        "mock_label": "Mock test",
+        "mock_hours": 1.5
+      },
+      "is_default": false,
+      "sort_order": 30,
+      "version": 1
+    }
+  ]
+}
