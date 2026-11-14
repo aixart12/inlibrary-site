@@ -49,9 +49,9 @@
     "syllabus_source_url": "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
     "syllabus_cycle": "2024-26 (latest Class XI-XII syllabus the board publishes; the PDF's own pages are headed 2007-09)",
     "verified": false,
-    "verification_note": "Draft from the board's scanned PDF via OCR. As of 2026-11-13 this is the only Class XI-XII syllabus linked on biharboardonline.com; no newer official one was found. A person should check it, and confirm with the board whether a newer syllabus exists, before publishing.",
+    "verification_note": "Draft from the board's scanned PDF via OCR. As of 2026-11-13 this is the only Class XI-XII syllabus linked on biharboardonline.com; no newer official one was found. A person should check it, and confirm with the board whether a newer syllabus exists, before publishing. History chapters (NCERT-style, 15) are from Physics Wallah's Bihar Board Class 12 History page, not the board PDF, which lists a different 2007-09 course; confirm with the board.",
     "last_verified": null,
-    "version": 1,
+    "version": 2,
     "is_published": false,
     "sort_order": 280
   },
@@ -62,84 +62,79 @@
       "sort_order": 10,
       "topics": [
         {
-          "slug": "prehistoric-cultures",
-          "name": "Prehistoric Cultures",
+          "slug": "bricks-beads-and-bones-harappan-civilization",
+          "name": "Bricks, Beads and Bones: Harappan Civilization",
           "sort_order": 10
         },
         {
-          "slug": "harappan-civilization",
-          "name": "Harappan Civilization",
+          "slug": "kings-peasants-and-towns-early-states-and-economies",
+          "name": "Kings, Peasants and Towns: Early States and Economies",
           "sort_order": 20
         },
         {
-          "slug": "early-indian-religions",
-          "name": "Early Indian Religions",
+          "slug": "brotherhood-caste-and-class-early-society",
+          "name": "Brotherhood, Caste and Class: Early Society",
           "sort_order": 30
         },
         {
-          "slug": "political-and-economic-history-of-the-mauryans",
-          "name": "Political and Economic History of the Mauryans",
+          "slug": "thinkers-beliefs-and-buildings",
+          "name": "Thinkers, Beliefs and Buildings",
           "sort_order": 40
         },
         {
-          "slug": "culture-and-economy-from-post-mauryan-to-gupta-period",
-          "name": "Culture and Economy from Post Mauryan to Gupta Period",
+          "slug": "from-the-traveller-s-point-of-view",
+          "name": "From the Traveller's Point of View",
           "sort_order": 50
         },
         {
-          "slug": "economy-society-and-culture-during-early-medieval-period",
-          "name": "Economy, Society and Culture during Early Medieval Period",
+          "slug": "bhakti-sufi-traditions",
+          "name": "Bhakti Sufi Traditions",
           "sort_order": 60
         },
         {
-          "slug": "political-changes-under-sultanate",
-          "name": "Political Changes under Sultanate",
+          "slug": "capital-of-an-empire-vijayanagara",
+          "name": "Capital of an Empire: Vijayanagara",
           "sort_order": 70
         },
         {
-          "slug": "indo-islamic-culture-1500-1700",
-          "name": "Indo-Islamic Culture (1500-1700)",
+          "slug": "peasants-landlords-and-the-state",
+          "name": "Peasants, Landlords and the State",
           "sort_order": 80
         },
         {
-          "slug": "urban-economy-in-medieval-age",
-          "name": "Urban Economy in Medieval Age",
+          "slug": "rulers-and-mughal-chronicles",
+          "name": "Rulers and Mughal Chronicles",
           "sort_order": 90
         },
         {
-          "slug": "bhakti-and-sufi-movements",
-          "name": "Bhakti and Sufi Movements",
+          "slug": "colonialism-and-the-countryside",
+          "name": "Colonialism and the Countryside",
           "sort_order": 100
         },
         {
-          "slug": "the-rule-of-the-east-india-company",
-          "name": "The Rule of the East India Company",
+          "slug": "rebellion-and-the-state",
+          "name": "Rebellion and the State",
           "sort_order": 110
         },
         {
-          "slug": "the-revolt-of-1857",
-          "name": "The Revolt of 1857",
+          "slug": "colonial-city",
+          "name": "Colonial City",
           "sort_order": 120
         },
         {
-          "slug": "the-indian-awakening-in-19th-century",
-          "name": "The Indian Awakening in 19th Century",
+          "slug": "mahatma-gandhi-and-the-national-movement",
+          "name": "Mahatma Gandhi and the National Movement",
           "sort_order": 130
         },
         {
-          "slug": "the-nationalist-movements-1918-1947",
-          "name": "The Nationalist Movements (1918-1947)",
+          "slug": "understanding-partition",
+          "name": "Understanding Partition",
           "sort_order": 140
         },
         {
-          "slug": "partition-and-independence",
-          "name": "Partition and Independence",
+          "slug": "creation-of-the-constitution",
+          "name": "Creation of the Constitution",
           "sort_order": 150
-        },
-        {
-          "slug": "visions-of-the-new-state",
-          "name": "Visions of the New State",
-          "sort_order": 160
         }
       ]
     },
