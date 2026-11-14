@@ -51,7 +51,7 @@
     "verified": false,
     "verification_note": "Draft from the board's scanned PDF via OCR. As of 2026-11-13 this is the only Class XI-XII syllabus linked on biharboardonline.com; no newer official one was found. A person should check it, and confirm with the board whether a newer syllabus exists, before publishing. History chapters (NCERT-style, 15) are from Physics Wallah's Bihar Board Class 12 History page, not the board PDF, which lists a different 2007-09 course; confirm with the board.",
     "last_verified": null,
-    "version": 2,
+    "version": 1,
     "is_published": false,
     "sort_order": 280
   },

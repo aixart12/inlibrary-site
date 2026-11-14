@@ -47,7 +47,7 @@
     "syllabus_source_url": "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
     "syllabus_cycle": "2024-26 (latest Class XI-XII syllabus the board publishes; the PDF's own pages are headed 2007-09)",
     "verified": false,
-    "verification_note": "Draft from the board's scanned PDF via OCR. As of 2026-11-13 this is the only Class XI-XII syllabus linked on biharboardonline.com; no newer official one was found. A person should check it, and confirm with the board whether a newer syllabus exists, before publishing.",
+    "verification_note": "Draft from the board's scanned PDF via OCR. As of 2026-11-13 this is the only Class XI-XII syllabus linked on biharboardonline.com; no newer official one was found. A person should check it, and confirm with the board whether a newer syllabus exists, before publishing. Business Studies chapters (NCERT-style, 12) are the ones common to two Physics Wallah Bihar Board pages, not the board PDF, which lists a different 2007-09 course; confirm with the board.",
     "last_verified": null,
     "version": 1,
     "is_published": false,
@@ -107,63 +107,63 @@
       "sort_order": 20,
       "topics": [
         {
-          "slug": "nature-and-purpose-of-business",
-          "name": "Nature and Purpose of Business",
+          "slug": "nature-and-significance-of-management",
+          "name": "Nature and Significance of Management",
           "sort_order": 10
         },
         {
-          "slug": "forms-of-business-organization",
-          "name": "Forms of Business Organization",
+          "slug": "principles-of-management",
+          "name": "Principles of Management",
           "sort_order": 20
         },
         {
-          "slug": "private-public-and-global-enterprises",
-          "name": "Private, Public and Global Enterprises",
+          "slug": "business-environment",
+          "name": "Business Environment",
           "sort_order": 30
         },
         {
-          "slug": "business-services",
-          "name": "Business Services",
+          "slug": "planning",
+          "name": "Planning",
           "sort_order": 40
         },
         {
-          "slug": "emerging-modes-of-business",
-          "name": "Emerging Modes of Business",
+          "slug": "organising",
+          "name": "Organising",
           "sort_order": 50
         },
         {
-          "slug": "social-responsibility-of-business-and-business-ethics",
-          "name": "Social Responsibility of Business and Business Ethics",
+          "slug": "staffing",
+          "name": "Staffing",
           "sort_order": 60
         },
         {
-          "slug": "formation-of-a-company",
-          "name": "Formation of a Company",
+          "slug": "directing",
+          "name": "Directing",
           "sort_order": 70
         },
         {
-          "slug": "sources-of-business-finance",
-          "name": "Sources of Business Finance",
+          "slug": "controlling",
+          "name": "Controlling",
           "sort_order": 80
         },
         {
-          "slug": "small-business",
-          "name": "Small Business",
+          "slug": "financial-management",
+          "name": "Financial Management",
           "sort_order": 90
         },
         {
-          "slug": "internal-trade",
-          "name": "Internal Trade",
+          "slug": "financial-markets",
+          "name": "Financial Markets",
           "sort_order": 100
         },
         {
-          "slug": "international-business",
-          "name": "International Business",
+          "slug": "marketing-management",
+          "name": "Marketing Management",
           "sort_order": 110
         },
         {
-          "slug": "developing-projects-in-business-studies",
-          "name": "Developing Projects in Business Studies",
+          "slug": "consumer-protection-business-studies",
+          "name": "Consumer Protection",
           "sort_order": 120
         }
       ]
