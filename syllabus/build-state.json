@@ -104,6 +104,38 @@
     "class-12-cbse-commerce": {
       "hash": "7242bf3f174cc36a",
       "version": 1
+    },
+    "ugc-net-paper-1": {
+      "hash": "dfb41a152610379f",
+      "version": 1
+    },
+    "ugc-net-economics": {
+      "hash": "855f3dab9cfc8dc5",
+      "version": 1
+    },
+    "ugc-net-commerce": {
+      "hash": "59b496e945db4de2",
+      "version": 1
+    },
+    "ugc-net-education": {
+      "hash": "f2e73ead41e8dfaf",
+      "version": 1
+    },
+    "ugc-net-political-science": {
+      "hash": "735f147667cd4214",
+      "version": 1
+    },
+    "ugc-net-history": {
+      "hash": "a9757fb2bed197ad",
+      "version": 1
+    },
+    "ugc-net-sociology": {
+      "hash": "d777d337c5170fb1",
+      "version": 1
+    },
+    "ugc-net-english": {
+      "hash": "63ea9240a06957c7",
+      "version": 1
     }
   }
 }

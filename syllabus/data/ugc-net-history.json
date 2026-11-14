@@ -1,0 +1,151 @@
+{
+  "exam": {
+    "slug": "ugc-net-history",
+    "name": "UGC NET History (Paper 1 + Paper 2)",
+    "short_name": "UGC NET History",
+    "kind": "exam",
+    "aliases": [
+      "ugc net",
+      "ugc-net",
+      "net",
+      "nta net",
+      "nta ugc net",
+      "net jrf",
+      "jrf",
+      "assistant professor",
+      "lectureship",
+      "net exam",
+      "ugc",
+      "history",
+      "paper 2",
+      "paper ii"
+    ],
+    "category": "teaching",
+    "conducting_body": "National Testing Agency (NTA) for the University Grants Commission (UGC)",
+    "official_url": "https://ugcnet.nta.nic.in",
+    "syllabus_source_url": "https://www.ugcnetonline.in/syllabus-new.php",
+    "syllabus_cycle": "UGC-NET December 2026 (the PDFs themselves are undated; the Paper 1 PDF was created in August 2018)",
+    "verified": false,
+    "verification_note": "Draft from the UGC Paper-I and History syllabus PDFs (Paper-I_English.pdf, History_English.pdf) linked from the UGC syllabus page that the NTA UGC-NET December 2026 Information Bulletin names; topics are the PDFs' ten units each, not chapters. Check first whether UGC has issued newer syllabi.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 450
+  },
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "history-paper-2",
+      "name": "History (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "negotiating-the-sources",
+          "name": "Negotiating the Sources",
+          "sort_order": 10
+        },
+        {
+          "slug": "from-state-to-empire",
+          "name": "From State to Empire",
+          "sort_order": 20
+        },
+        {
+          "slug": "emergence-of-regional-kingdoms",
+          "name": "Emergence of Regional Kingdoms",
+          "sort_order": 30
+        },
+        {
+          "slug": "source-of-medieval-indian-history",
+          "name": "Source of Medieval Indian History",
+          "sort_order": 40
+        },
+        {
+          "slug": "administration-and-economy",
+          "name": "Administration & Economy",
+          "sort_order": 50
+        },
+        {
+          "slug": "society-and-culture",
+          "name": "Society and Culture",
+          "sort_order": 60
+        },
+        {
+          "slug": "sources-of-modern-indian-history",
+          "name": "Sources of Modern Indian History",
+          "sort_order": 70
+        },
+        {
+          "slug": "colonial-economy",
+          "name": "Colonial Economy",
+          "sort_order": 80
+        },
+        {
+          "slug": "rise-of-indian-nationalism",
+          "name": "Rise of Indian Nationalism",
+          "sort_order": 90
+        },
+        {
+          "slug": "historical-method-research-methodology-and-historiography",
+          "name": "Historical Method, Research, Methodology and Historiography",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}

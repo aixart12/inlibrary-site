@@ -1,0 +1,151 @@
+{
+  "exam": {
+    "slug": "ugc-net-sociology",
+    "name": "UGC NET Sociology (Paper 1 + Paper 2)",
+    "short_name": "UGC NET Sociology",
+    "kind": "exam",
+    "aliases": [
+      "ugc net",
+      "ugc-net",
+      "net",
+      "nta net",
+      "nta ugc net",
+      "net jrf",
+      "jrf",
+      "assistant professor",
+      "lectureship",
+      "net exam",
+      "ugc",
+      "sociology",
+      "paper 2",
+      "paper ii"
+    ],
+    "category": "teaching",
+    "conducting_body": "National Testing Agency (NTA) for the University Grants Commission (UGC)",
+    "official_url": "https://ugcnet.nta.nic.in",
+    "syllabus_source_url": "https://www.ugcnetonline.in/syllabus-new.php",
+    "syllabus_cycle": "UGC-NET December 2026 (the PDFs themselves are undated; the Paper 1 PDF was created in August 2018)",
+    "verified": false,
+    "verification_note": "Draft from the UGC Paper-I and Sociology syllabus PDFs (Paper-I_English.pdf, Sociology_English.pdf) linked from the UGC syllabus page that the NTA UGC-NET December 2026 Information Bulletin names; topics are the PDFs' ten units each, not chapters. Check first whether UGC has issued newer syllabi.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 460
+  },
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "sociology-paper-2",
+      "name": "Sociology (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "sociological-theory",
+          "name": "Sociological Theory",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-methodology-and-methods",
+          "name": "Research Methodology and Methods",
+          "sort_order": 20
+        },
+        {
+          "slug": "basic-concepts-and-institutions",
+          "name": "Basic Concepts and Institutions",
+          "sort_order": 30
+        },
+        {
+          "slug": "rural-and-urban-transformations",
+          "name": "Rural and Urban Transformations",
+          "sort_order": 40
+        },
+        {
+          "slug": "state-politics-and-development",
+          "name": "State, Politics and Development",
+          "sort_order": 50
+        },
+        {
+          "slug": "economy-and-society",
+          "name": "Economy and Society",
+          "sort_order": 60
+        },
+        {
+          "slug": "environment-and-society",
+          "name": "Environment and Society",
+          "sort_order": 70
+        },
+        {
+          "slug": "family-marriage-and-kinship",
+          "name": "Family, Marriage and Kinship",
+          "sort_order": 80
+        },
+        {
+          "slug": "science-technology-and-society",
+          "name": "Science, Technology and Society",
+          "sort_order": 90
+        },
+        {
+          "slug": "culture-and-symbolic-transformations",
+          "name": "Culture and Symbolic Transformations",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}
