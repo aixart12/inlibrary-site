@@ -1,0 +1,242 @@
+{
+  "exam": {
+    "slug": "viteee-pcm",
+    "name": "VITEEE (PCM)",
+    "short_name": "VITEEE",
+    "kind": "exam",
+    "aliases": [
+      "viteee",
+      "vit",
+      "vit engineering",
+      "vit btech",
+      "vellore",
+      "vit vellore",
+      "vit entrance",
+      "engineering",
+      "pcm",
+      "maths",
+      "viteee pcm"
+    ],
+    "category": "entrance",
+    "conducting_body": "Vellore Institute of Technology (VIT)",
+    "official_url": "https://viteee.vit.ac.in",
+    "syllabus_source_url": "https://viteee.vit.ac.in/",
+    "syllabus_cycle": "2027 (VITEEE 2027 syllabus PDFs)",
+    "verified": false,
+    "verification_note": "Draft from the five VITEEE 2027 subject syllabus PDFs on vit.ac.in/sites/default/files/VITEEE-2027 (Physics, Chemistry, Maths, English_and_Aptitude); topics are the PDFs' own numbered headings. Chemistry has only six broad sections and English has no topic list, so check those first.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 320
+  },
+  "subjects": [
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "units-and-measurements",
+          "name": "Units and Measurements",
+          "sort_order": 10
+        },
+        {
+          "slug": "kinematics-and-newtonian-dynamics",
+          "name": "Kinematics and Newtonian Dynamics",
+          "sort_order": 20
+        },
+        {
+          "slug": "work-energy-and-momentum",
+          "name": "Work, Energy, and Momentum",
+          "sort_order": 30
+        },
+        {
+          "slug": "rotational-dynamics-and-gravitation",
+          "name": "Rotational Dynamics and Gravitation",
+          "sort_order": 40
+        },
+        {
+          "slug": "mechanical-properties-of-matter",
+          "name": "Mechanical Properties of Matter",
+          "sort_order": 50
+        },
+        {
+          "slug": "oscillations-and-mechanical-waves",
+          "name": "Oscillations and Mechanical Waves",
+          "sort_order": 60
+        },
+        {
+          "slug": "thermal-physics",
+          "name": "Thermal Physics",
+          "sort_order": 70
+        },
+        {
+          "slug": "electrostatics",
+          "name": "Electrostatics",
+          "sort_order": 80
+        },
+        {
+          "slug": "current-electricity",
+          "name": "Current Electricity",
+          "sort_order": 90
+        },
+        {
+          "slug": "magnetism",
+          "name": "Magnetism",
+          "sort_order": 100
+        },
+        {
+          "slug": "electromagnetic-induction-and-electromagnetic-waves",
+          "name": "Electromagnetic Induction and Electromagnetic Waves",
+          "sort_order": 110
+        },
+        {
+          "slug": "optics",
+          "name": "Optics",
+          "sort_order": 120
+        },
+        {
+          "slug": "modern-physics",
+          "name": "Modern Physics",
+          "sort_order": 130
+        },
+        {
+          "slug": "electronics",
+          "name": "Electronics",
+          "sort_order": 140
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "physical-chemistry",
+          "name": "Physical Chemistry",
+          "sort_order": 10
+        },
+        {
+          "slug": "analytical-chemistry",
+          "name": "Analytical Chemistry",
+          "sort_order": 20
+        },
+        {
+          "slug": "inorganic-chemistry",
+          "name": "Inorganic Chemistry",
+          "sort_order": 30
+        },
+        {
+          "slug": "coordination-and-material-chemistry",
+          "name": "Coordination and Material Chemistry",
+          "sort_order": 40
+        },
+        {
+          "slug": "basic-principles-of-organic-chemistry-and-functionalized-organic-compounds",
+          "name": "Basic principles of organic chemistry and Functionalized organic compounds",
+          "sort_order": 50
+        },
+        {
+          "slug": "carboxylic-acids-organic-nitrogen-compounds-biomolecules-and-polymers",
+          "name": "Carboxylic acids, Organic nitrogen compounds, Biomolecules and Polymers",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "matrices-and-applications",
+          "name": "Matrices and Applications",
+          "sort_order": 10
+        },
+        {
+          "slug": "trigonometry-and-complex-numbers",
+          "name": "Trigonometry and Complex Numbers",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-geometry-of-two-dimensions",
+          "name": "Analytical Geometry of two dimensions",
+          "sort_order": 30
+        },
+        {
+          "slug": "vector-algebra",
+          "name": "Vector Algebra",
+          "sort_order": 40
+        },
+        {
+          "slug": "analytical-geometry-of-three-dimensions",
+          "name": "Analytical Geometry of Three Dimensions",
+          "sort_order": 50
+        },
+        {
+          "slug": "differential-calculus",
+          "name": "Differential Calculus",
+          "sort_order": 60
+        },
+        {
+          "slug": "integral-calculus-and-its-applications",
+          "name": "Integral Calculus and its Applications",
+          "sort_order": 70
+        },
+        {
+          "slug": "ordinary-differential-equations",
+          "name": "Ordinary Differential Equations",
+          "sort_order": 80
+        },
+        {
+          "slug": "probability-and-statistics",
+          "name": "Probability and Statistics",
+          "sort_order": 90
+        },
+        {
+          "slug": "discrete-mathematics",
+          "name": "Discrete Mathematics",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "english-and-aptitude",
+      "name": "English and Aptitude",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "english",
+          "name": "English",
+          "sort_order": 10
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 20
+        },
+        {
+          "slug": "data-sufficiency",
+          "name": "Data Sufficiency",
+          "sort_order": 30
+        },
+        {
+          "slug": "syllogism",
+          "name": "Syllogism",
+          "sort_order": 40
+        },
+        {
+          "slug": "number-series-coding-and-decoding",
+          "name": "Number series, Coding, and Decoding",
+          "sort_order": 50
+        },
+        {
+          "slug": "clocks-calendars-and-directions",
+          "name": "Clocks, Calendars, and Directions",
+          "sort_order": 60
+        }
+      ]
+    }
+  ]
+}
