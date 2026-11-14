@@ -1,0 +1,153 @@
+{
+  "exam": {
+    "slug": "ugc-net-education",
+    "name": "UGC NET Education (Paper 1 + Paper 2)",
+    "short_name": "UGC NET Education",
+    "kind": "exam",
+    "aliases": [
+      "ugc net",
+      "ugc-net",
+      "net",
+      "nta net",
+      "nta ugc net",
+      "net jrf",
+      "jrf",
+      "assistant professor",
+      "lectureship",
+      "net exam",
+      "ugc",
+      "education",
+      "b.ed",
+      "bed",
+      "paper 2",
+      "paper ii"
+    ],
+    "category": "teaching",
+    "conducting_body": "National Testing Agency (NTA) for the University Grants Commission (UGC)",
+    "official_url": "https://ugcnet.nta.nic.in",
+    "syllabus_source_url": "https://www.ugcnetonline.in/syllabus-new.php",
+    "syllabus_cycle": "UGC-NET December 2026 (the PDFs themselves are undated; the Paper 1 PDF was created in August 2018)",
+    "verified": false,
+    "verification_note": "Draft from the UGC Paper-I and Education syllabus PDFs (Paper-I_English.pdf, Education_English.pdf) linked from the UGC syllabus page that the NTA UGC-NET December 2026 Information Bulletin names; topics are the PDFs' ten units each, not chapters. Check first whether UGC has issued newer syllabi.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 430
+  },
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "education-paper-2",
+      "name": "Education (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "educational-studies",
+          "name": "Educational Studies",
+          "sort_order": 10
+        },
+        {
+          "slug": "history-politics-and-economics-of-education",
+          "name": "History, Politics and Economics of Education",
+          "sort_order": 20
+        },
+        {
+          "slug": "learner-and-learning-process",
+          "name": "Learner and Learning Process",
+          "sort_order": 30
+        },
+        {
+          "slug": "teacher-education",
+          "name": "Teacher Education",
+          "sort_order": 40
+        },
+        {
+          "slug": "curriculum-studies",
+          "name": "Curriculum Studies",
+          "sort_order": 50
+        },
+        {
+          "slug": "research-in-education",
+          "name": "Research in Education",
+          "sort_order": 60
+        },
+        {
+          "slug": "pedagogy-andragogy-and-assessment",
+          "name": "Pedagogy, Andragogy and Assessment",
+          "sort_order": 70
+        },
+        {
+          "slug": "technology-in-for-education",
+          "name": "Technology in/ for Education",
+          "sort_order": 80
+        },
+        {
+          "slug": "educational-management-administration-and-leadership",
+          "name": "Educational Management, Administration and Leadership",
+          "sort_order": 90
+        },
+        {
+          "slug": "inclusive-education",
+          "name": "Inclusive Education",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}
