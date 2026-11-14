@@ -1,0 +1,296 @@
+{
+  "exam": {
+    "slug": "class-12-bihar-board-commerce",
+    "name": "Class 12 · Bihar Board · Commerce",
+    "short_name": "Class 12",
+    "kind": "school",
+    "class": "12",
+    "board": "Bihar Board",
+    "stream": "Commerce",
+    "aliases": [
+      "12",
+      "12th",
+      "twelfth",
+      "class 12",
+      "class xii",
+      "xii",
+      "12 class",
+      "inter",
+      "intermediate",
+      "senior secondary",
+      "boards",
+      "board exam",
+      "bseb",
+      "bihar board",
+      "bihar school examination board",
+      "bihar",
+      "barahvi",
+      "barahvin",
+      "12vi",
+      "12wi",
+      "barvi",
+      "bihar board 12th",
+      "bseb 12th",
+      "bseb inter",
+      "commerce",
+      "i.com",
+      "icom",
+      "intermediate commerce",
+      "accountancy",
+      "accounts",
+      "business studies",
+      "economics"
+    ],
+    "category": "school",
+    "conducting_body": "Bihar School Examination Board (BSEB)",
+    "official_url": "https://biharboardonline.com",
+    "syllabus_source_url": "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
+    "syllabus_cycle": "2024-26 (latest Class XI-XII syllabus the board publishes; the PDF's own pages are headed 2007-09)",
+    "verified": false,
+    "verification_note": "Draft from the board's scanned PDF via OCR. As of 2026-11-13 this is the only Class XI-XII syllabus linked on biharboardonline.com; no newer official one was found. A person should check it, and confirm with the board whether a newer syllabus exists, before publishing. Business Studies chapters (NCERT-style, 12) are the ones common to two Physics Wallah Bihar Board pages, not the board PDF, which lists a different 2007-09 course; confirm with the board.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 290
+  },
+  "subjects": [
+    {
+      "slug": "accountancy",
+      "name": "Accountancy",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "accounting-for-not-for-profit-organisation-ngo",
+          "name": "Accounting for Not-For-Profit Organisation (NGO)",
+          "sort_order": 10
+        },
+        {
+          "slug": "account-from-incomplete-records",
+          "name": "Account from Incomplete Records",
+          "sort_order": 20
+        },
+        {
+          "slug": "accounting-for-partnership-firms",
+          "name": "Accounting for Partnership Firms",
+          "sort_order": 30
+        },
+        {
+          "slug": "accounting-for-share-capital-and-debenture",
+          "name": "Accounting for Share Capital and Debenture",
+          "sort_order": 40
+        },
+        {
+          "slug": "analysis-of-financial-statements",
+          "name": "Analysis of Financial Statements",
+          "sort_order": 50
+        },
+        {
+          "slug": "statement-of-changes-in-financial-position-cash-flow-statement",
+          "name": "Statement of Changes in Financial Position (Cash Flow Statement)",
+          "sort_order": 60
+        },
+        {
+          "slug": "project-work-in-accounting",
+          "name": "Project Work in Accounting",
+          "sort_order": 70
+        },
+        {
+          "slug": "computerised-accounting",
+          "name": "Computerised Accounting",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "business-studies",
+      "name": "Business Studies",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "nature-and-significance-of-management",
+          "name": "Nature and Significance of Management",
+          "sort_order": 10
+        },
+        {
+          "slug": "principles-of-management",
+          "name": "Principles of Management",
+          "sort_order": 20
+        },
+        {
+          "slug": "business-environment",
+          "name": "Business Environment",
+          "sort_order": 30
+        },
+        {
+          "slug": "planning",
+          "name": "Planning",
+          "sort_order": 40
+        },
+        {
+          "slug": "organising",
+          "name": "Organising",
+          "sort_order": 50
+        },
+        {
+          "slug": "staffing",
+          "name": "Staffing",
+          "sort_order": 60
+        },
+        {
+          "slug": "directing",
+          "name": "Directing",
+          "sort_order": 70
+        },
+        {
+          "slug": "controlling",
+          "name": "Controlling",
+          "sort_order": 80
+        },
+        {
+          "slug": "financial-management",
+          "name": "Financial Management",
+          "sort_order": 90
+        },
+        {
+          "slug": "financial-markets",
+          "name": "Financial Markets",
+          "sort_order": 100
+        },
+        {
+          "slug": "marketing-management",
+          "name": "Marketing Management",
+          "sort_order": 110
+        },
+        {
+          "slug": "consumer-protection-business-studies",
+          "name": "Consumer Protection",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "economics",
+      "name": "Economics",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "introduction",
+          "name": "Introduction",
+          "sort_order": 10
+        },
+        {
+          "slug": "consumer-behaviour-and-demand",
+          "name": "Consumer Behaviour and Demand",
+          "sort_order": 20
+        },
+        {
+          "slug": "producer-behaviour-and-supply",
+          "name": "Producer Behaviour and Supply",
+          "sort_order": 30
+        },
+        {
+          "slug": "forms-of-market-and-price-determination",
+          "name": "Forms of Market and Price Determination",
+          "sort_order": 40
+        },
+        {
+          "slug": "simple-applications-of-tools-of-demand-and-supply-curves",
+          "name": "Simple Applications of Tools of Demand and Supply Curves",
+          "sort_order": 50
+        },
+        {
+          "slug": "national-income-and-related-aggregates",
+          "name": "National Income and Related Aggregates",
+          "sort_order": 60
+        },
+        {
+          "slug": "determination-of-income-and-employment",
+          "name": "Determination of Income and Employment",
+          "sort_order": 70
+        },
+        {
+          "slug": "money-and-banking",
+          "name": "Money and Banking",
+          "sort_order": 80
+        },
+        {
+          "slug": "government-budget-and-the-economy",
+          "name": "Government Budget and the Economy",
+          "sort_order": 90
+        },
+        {
+          "slug": "international-projects-in-economics",
+          "name": "International Projects in Economics",
+          "sort_order": 100
+        },
+        {
+          "slug": "developing-projects-in-economics",
+          "name": "Developing Projects in Economics",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "entrepreneurship",
+      "name": "Entrepreneurship",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "marketing-and-advertising",
+          "name": "Marketing and Advertising",
+          "sort_order": 10
+        },
+        {
+          "slug": "patents-trademarks-and-copyright",
+          "name": "Patents, Trademarks and Copyright",
+          "sort_order": 20
+        },
+        {
+          "slug": "consumer-protection",
+          "name": "Consumer Protection",
+          "sort_order": 30
+        },
+        {
+          "slug": "creation-of-a-business-unit",
+          "name": "Creation of a Business Unit",
+          "sort_order": 40
+        },
+        {
+          "slug": "entrepreneurship-development",
+          "name": "Entrepreneurship Development",
+          "sort_order": 50
+        },
+        {
+          "slug": "enterprise-management",
+          "name": "Enterprise Management",
+          "sort_order": 60
+        },
+        {
+          "slug": "entrepreneurship-and-human-activities",
+          "name": "Entrepreneurship and Human Activities",
+          "sort_order": 70
+        },
+        {
+          "slug": "acquiring-entrepreneurial-values-and-motivation",
+          "name": "Acquiring Entrepreneurial Values and Motivation",
+          "sort_order": 80
+        },
+        {
+          "slug": "entrepreneurial-opportunities-and-enterprise-creation",
+          "name": "Entrepreneurial Opportunities and Enterprise Creation",
+          "sort_order": 90
+        },
+        {
+          "slug": "enterprise-planning-and-resourcing",
+          "name": "Enterprise Planning and Resourcing",
+          "sort_order": 100
+        },
+        {
+          "slug": "developing-projects-in-entrepreneurship",
+          "name": "Developing Projects in Entrepreneurship",
+          "sort_order": 110
+        }
+      ]
+    }
+  ]
+}
