@@ -1,0 +1,233 @@
+{
+  "exam": {
+    "slug": "class-11-cbse-commerce",
+    "name": "Class 11 · CBSE · Commerce",
+    "short_name": "Class 11",
+    "kind": "school",
+    "aliases": [
+      "11",
+      "11th",
+      "eleventh",
+      "class 11",
+      "class xi",
+      "xi",
+      "11 class",
+      "gyarahvi",
+      "gyarahvin",
+      "plus one",
+      "senior secondary",
+      "cbse",
+      "cbse 11",
+      "ncert",
+      "commerce",
+      "accounts",
+      "accountancy",
+      "business studies",
+      "economics"
+    ],
+    "category": "school",
+    "conducting_body": "Central Board of Secondary Education (CBSE)",
+    "official_url": "https://www.cbse.gov.in",
+    "syllabus_source_url": "https://cbseacademic.nic.in/curriculum_2027.html",
+    "syllabus_cycle": "2026-27",
+    "verified": false,
+    "verification_note": "Draft from the CBSE 2026-27 curriculum PDFs (English Core, Accountancy, Business Studies, Economics) linked on the curriculum page, read as text; chapter and unit names are the PDFs' own. Accountancy and Economics topics are the PDFs' unit and topic heads, not NCERT chapter titles, so check those first; optional Mathematics and Applied Mathematics are not included.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 970,
+    "class": "11",
+    "board": "CBSE",
+    "stream": "Commerce"
+  },
+  "subjects": [
+    {
+      "slug": "english-core",
+      "name": "English Core",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "reading-skills-unseen-passages",
+          "name": "Reading Skills: Unseen Passages",
+          "sort_order": 10
+        },
+        {
+          "slug": "reading-skills-note-making-and-summarization",
+          "name": "Reading Skills: Note Making and Summarization",
+          "sort_order": 20
+        },
+        {
+          "slug": "grammar-gap-filling-re-ordering-and-transformation-of-senten",
+          "name": "Grammar: Gap Filling, Re-ordering and Transformation of Sentences",
+          "sort_order": 30
+        },
+        {
+          "slug": "creative-writing-classified-advertisements-and-poster",
+          "name": "Creative Writing: Classified Advertisements and Poster",
+          "sort_order": 40
+        },
+        {
+          "slug": "creative-writing-speech-and-debate",
+          "name": "Creative Writing: Speech and Debate",
+          "sort_order": 50
+        },
+        {
+          "slug": "hornbill-prose",
+          "name": "Hornbill: Prose",
+          "sort_order": 60
+        },
+        {
+          "slug": "hornbill-poetry",
+          "name": "Hornbill: Poetry",
+          "sort_order": 70
+        },
+        {
+          "slug": "snapshots",
+          "name": "Snapshots",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "accountancy",
+      "name": "Accountancy",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "introduction-to-accounting",
+          "name": "Introduction to Accounting",
+          "sort_order": 10
+        },
+        {
+          "slug": "theory-base-of-accounting",
+          "name": "Theory Base of Accounting",
+          "sort_order": 20
+        },
+        {
+          "slug": "recording-of-business-transactions",
+          "name": "Recording of Business Transactions",
+          "sort_order": 30
+        },
+        {
+          "slug": "bank-reconciliation-statement",
+          "name": "Bank Reconciliation Statement",
+          "sort_order": 40
+        },
+        {
+          "slug": "depreciation-provisions-and-reserves",
+          "name": "Depreciation, Provisions and Reserves",
+          "sort_order": 50
+        },
+        {
+          "slug": "trial-balance-and-rectification-of-errors",
+          "name": "Trial Balance and Rectification of Errors",
+          "sort_order": 60
+        },
+        {
+          "slug": "financial-statements-of-sole-proprietorship",
+          "name": "Financial Statements of Sole Proprietorship",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "business-studies",
+      "name": "Business Studies",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "evolution-and-fundamentals-of-business",
+          "name": "Evolution and Fundamentals of Business",
+          "sort_order": 10
+        },
+        {
+          "slug": "forms-of-business-organizations",
+          "name": "Forms of Business Organizations",
+          "sort_order": 20
+        },
+        {
+          "slug": "public-private-and-global-enterprises",
+          "name": "Public, Private and Global Enterprises",
+          "sort_order": 30
+        },
+        {
+          "slug": "business-services",
+          "name": "Business Services",
+          "sort_order": 40
+        },
+        {
+          "slug": "emerging-modes-of-business",
+          "name": "Emerging Modes of Business",
+          "sort_order": 50
+        },
+        {
+          "slug": "social-responsibility-of-business-and-business-ethics",
+          "name": "Social Responsibility of Business and Business Ethics",
+          "sort_order": 60
+        },
+        {
+          "slug": "sources-of-business-finance",
+          "name": "Sources of Business Finance",
+          "sort_order": 70
+        },
+        {
+          "slug": "small-business-and-enterprises",
+          "name": "Small Business and Enterprises",
+          "sort_order": 80
+        },
+        {
+          "slug": "internal-trade",
+          "name": "Internal Trade",
+          "sort_order": 90
+        },
+        {
+          "slug": "international-trade",
+          "name": "International Trade",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "economics",
+      "name": "Economics",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "statistics-introduction",
+          "name": "Statistics: Introduction",
+          "sort_order": 10
+        },
+        {
+          "slug": "statistics-collection-organisation-and-presentation-of-data",
+          "name": "Statistics: Collection, Organisation and Presentation of Data",
+          "sort_order": 20
+        },
+        {
+          "slug": "statistics-statistical-tools-and-interpretation",
+          "name": "Statistics: Statistical Tools and Interpretation",
+          "sort_order": 30
+        },
+        {
+          "slug": "micro-introduction",
+          "name": "Micro: Introduction",
+          "sort_order": 40
+        },
+        {
+          "slug": "micro-consumers-equilibrium-and-demand",
+          "name": "Micro: Consumer's Equilibrium and Demand",
+          "sort_order": 50
+        },
+        {
+          "slug": "micro-producer-behaviour-and-supply",
+          "name": "Micro: Producer Behaviour and Supply",
+          "sort_order": 60
+        },
+        {
+          "slug": "micro-perfect-competition-price-determination-and-simple-app",
+          "name": "Micro: Perfect Competition - Price Determination and Simple Applications",
+          "sort_order": 70
+        }
+      ]
+    }
+  ]
+}
