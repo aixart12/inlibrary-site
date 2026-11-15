@@ -1,0 +1,149 @@
+{
+  "exam": {
+    "slug": "csir-net-physical-sciences",
+    "name": "CSIR NET Physical Sciences",
+    "short_name": "CSIR NET Physical Sciences",
+    "kind": "exam",
+    "aliases": [
+      "csir net",
+      "csir",
+      "csir ugc net",
+      "csir-net",
+      "net",
+      "jrf",
+      "net jrf",
+      "csir jrf",
+      "lectureship",
+      "assistant professor",
+      "nta csir",
+      "physical sciences",
+      "physical science",
+      "physics",
+      "phy"
+    ],
+    "category": "teaching",
+    "conducting_body": "Council of Scientific and Industrial Research (CSIR), Human Resource Development Group; conducted by the National Testing Agency (NTA)",
+    "official_url": "https://www.csirhrdg.res.in",
+    "syllabus_source_url": "https://csirhrdg.res.in/Home/Index/1/InPage/39/26",
+    "syllabus_cycle": "Not printed on the PDF (file dated December 2020; exam scheme headed 'from June 2017 and onward'); linked from the CSIR-HRDG syllabus page on 2026-11-15",
+    "verified": false,
+    "verification_note": "Draft from the syllabus PDF (physicalscience_syllbus.pdf) linked on the CSIR-HRDG subject page, read as text; the Part A topics are the three areas named in the exam scheme on that page. Topics are the PDF's Roman-numbered headings under Core and Advanced; check first that the six headings repeated in both parts are wanted as separate topics.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 850
+  },
+  "subjects": [
+    {
+      "slug": "part-a-general-aptitude",
+      "name": "Part A: General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "general-science",
+          "name": "General Science",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-reasoning-and-analysis",
+          "name": "Quantitative Reasoning and Analysis",
+          "sort_order": 20
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "core",
+      "name": "Core",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "mathematical-methods-of-physics-core",
+          "name": "Mathematical Methods of Physics (Core)",
+          "sort_order": 10
+        },
+        {
+          "slug": "classical-mechanics-core",
+          "name": "Classical Mechanics (Core)",
+          "sort_order": 20
+        },
+        {
+          "slug": "electromagnetic-theory-core",
+          "name": "Electromagnetic Theory (Core)",
+          "sort_order": 30
+        },
+        {
+          "slug": "quantum-mechanics-core",
+          "name": "Quantum Mechanics (Core)",
+          "sort_order": 40
+        },
+        {
+          "slug": "thermodynamic-and-statistical-physics-core",
+          "name": "Thermodynamic and Statistical Physics (Core)",
+          "sort_order": 50
+        },
+        {
+          "slug": "electronics-and-experimental-methods-core",
+          "name": "Electronics and Experimental Methods (Core)",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "advanced",
+      "name": "Advanced",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "mathematical-methods-of-physics-advanced",
+          "name": "Mathematical Methods of Physics (Advanced)",
+          "sort_order": 10
+        },
+        {
+          "slug": "classical-mechanics-advanced",
+          "name": "Classical Mechanics (Advanced)",
+          "sort_order": 20
+        },
+        {
+          "slug": "electromagnetic-theory-advanced",
+          "name": "Electromagnetic Theory (Advanced)",
+          "sort_order": 30
+        },
+        {
+          "slug": "quantum-mechanics-advanced",
+          "name": "Quantum Mechanics (Advanced)",
+          "sort_order": 40
+        },
+        {
+          "slug": "thermodynamic-and-statistical-physics-advanced",
+          "name": "Thermodynamic and Statistical Physics (Advanced)",
+          "sort_order": 50
+        },
+        {
+          "slug": "electronics-and-experimental-methods-advanced",
+          "name": "Electronics and Experimental Methods (Advanced)",
+          "sort_order": 60
+        },
+        {
+          "slug": "atomic-and-molecular-physics",
+          "name": "Atomic and Molecular Physics",
+          "sort_order": 70
+        },
+        {
+          "slug": "condensed-matter-physics",
+          "name": "Condensed Matter Physics",
+          "sort_order": 80
+        },
+        {
+          "slug": "nuclear-and-particle-physics",
+          "name": "Nuclear and Particle Physics",
+          "sort_order": 90
+        }
+      ]
+    }
+  ]
+}

@@ -104,6 +104,26 @@
     "class-12-cbse-commerce": {
       "hash": "7242bf3f174cc36a",
       "version": 1
+    },
+    "csir-net-life-sciences": {
+      "hash": "5e036e73aa125499",
+      "version": 1
+    },
+    "csir-net-chemical-sciences": {
+      "hash": "56da90ccc8bb2a66",
+      "version": 1
+    },
+    "csir-net-mathematical-sciences": {
+      "hash": "7a999430158d662c",
+      "version": 1
+    },
+    "csir-net-physical-sciences": {
+      "hash": "d44c3692d013bc14",
+      "version": 1
+    },
+    "uptet-paper-1": {
+      "hash": "1f5b622f0b32d74c",
+      "version": 1
     }
   }
 }
