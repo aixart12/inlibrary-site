@@ -104,6 +104,34 @@
     "class-12-cbse-commerce": {
       "hash": "7242bf3f174cc36a",
       "version": 1
+    },
+    "ibps-rrb-po": {
+      "hash": "1d46f47ce21bf020",
+      "version": 1
+    },
+    "ibps-rrb-clerk": {
+      "hash": "5764c192e005170e",
+      "version": 1
+    },
+    "sbi-clerk": {
+      "hash": "dc2c4e87b08014c7",
+      "version": 1
+    },
+    "rbi-assistant": {
+      "hash": "65684378c8cba77c",
+      "version": 1
+    },
+    "rbi-grade-b": {
+      "hash": "34759c42589bc0f0",
+      "version": 1
+    },
+    "nabard-grade-a": {
+      "hash": "5982e1f68fe2af27",
+      "version": 1
+    },
+    "lic-aao": {
+      "hash": "3903259c78399ffa",
+      "version": 1
     }
   }
 }
