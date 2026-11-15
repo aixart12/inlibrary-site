@@ -1,0 +1,157 @@
+{
+  "exam": {
+    "slug": "ugc-net-labour-welfare",
+    "name": "UGC NET Labour Welfare and Human Resource Management (Paper 1 + Paper 2)",
+    "short_name": "UGC NET Labour Welfare",
+    "kind": "exam",
+    "aliases": [
+      "ugc net",
+      "ugc-net",
+      "net",
+      "nta net",
+      "nta ugc net",
+      "net jrf",
+      "jrf",
+      "assistant professor",
+      "lectureship",
+      "net exam",
+      "ugc",
+      "labour welfare",
+      "labor welfare",
+      "hrm",
+      "human resource management",
+      "personnel management",
+      "industrial relations",
+      "labour and social welfare",
+      "paper 2",
+      "paper ii"
+    ],
+    "category": "teaching",
+    "conducting_body": "National Testing Agency (NTA) for the University Grants Commission (UGC)",
+    "official_url": "https://ugcnet.nta.nic.in",
+    "syllabus_source_url": "https://www.ugcnetonline.in/syllabus-new.php",
+    "syllabus_cycle": "UGC-NET December 2026 (the PDFs themselves are undated; the Paper 1 PDF was created in August 2018)",
+    "verified": false,
+    "verification_note": "Draft from the UGC Paper-I and Labour Welfare and Human Resource Management syllabus PDFs (Paper-I_English.pdf, Labour Welfare_English.pdf) linked from the UGC syllabus page that the NTA UGC-NET December 2026 Information Bulletin names; topics are the PDFs' ten units each, not chapters. The PDF names the subject 'Labour Welfare / Personnel Management / Industrial Relations / Labour and Social Welfare / Human Resource Management'; each unit title is the text printed before the first colon. Check first whether UGC has issued newer syllabi.",
+    "last_verified": null,
+    "version": 2,
+    "is_published": false,
+    "sort_order": 1190
+  },
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "labour-welfare-and-human-resource-management-paper-2",
+      "name": "Labour Welfare and Human Resource Management (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "principles-and-practices-of-management",
+          "name": "Principles and Practices of Management",
+          "sort_order": 10
+        },
+        {
+          "slug": "human-resource-management",
+          "name": "Human Resource Management",
+          "sort_order": 20
+        },
+        {
+          "slug": "human-resource-development-hrd",
+          "name": "Human Resource Development (HRD)",
+          "sort_order": 30
+        },
+        {
+          "slug": "organisational-behaviour",
+          "name": "Organisational Behaviour",
+          "sort_order": 40
+        },
+        {
+          "slug": "industrial-relations",
+          "name": "Industrial Relations",
+          "sort_order": 50
+        },
+        {
+          "slug": "industrial-disputes",
+          "name": "Industrial Disputes",
+          "sort_order": 60
+        },
+        {
+          "slug": "labour-legislation",
+          "name": "Labour Legislation",
+          "sort_order": 70
+        },
+        {
+          "slug": "wages",
+          "name": "Wages",
+          "sort_order": 80
+        },
+        {
+          "slug": "labour-welfare",
+          "name": "Labour Welfare",
+          "sort_order": 90
+        },
+        {
+          "slug": "labour-market",
+          "name": "Labour Market",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}

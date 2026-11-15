@@ -104,6 +104,26 @@
     "class-12-cbse-commerce": {
       "hash": "7242bf3f174cc36a",
       "version": 1
+    },
+    "ugc-net-management": {
+      "hash": "456f237e16521e89",
+      "version": 1
+    },
+    "ugc-net-public-administration": {
+      "hash": "81ead67d36ca6701",
+      "version": 1
+    },
+    "ugc-net-labour-welfare": {
+      "hash": "38a3dee5f656bccb",
+      "version": 2
+    },
+    "ugc-net-defence-and-strategic-studies": {
+      "hash": "bd404506c8b2c0f7",
+      "version": 1
+    },
+    "ugc-net-women-studies": {
+      "hash": "aa8e05ba9524e44b",
+      "version": 1
     }
   }
 }
