@@ -119,11 +119,11 @@
     },
     "gate-bt": {
       "hash": "4ae179d682f2e3ce",
-      "version": 2
+      "version": 1
     },
     "gate-cy": {
       "hash": "7457d88191f08d10",
-      "version": 2
+      "version": 1
     },
     "gate-es": {
       "hash": "6cee3e082ada1365",
@@ -135,7 +135,7 @@
     },
     "gate-ma": {
       "hash": "077ec0208eba2f5c",
-      "version": 2
+      "version": 1
     },
     "gate-mn": {
       "hash": "3ace24f28127fb71",
@@ -155,7 +155,7 @@
     },
     "gate-ph": {
       "hash": "63a9ac85ecdf5882",
-      "version": 2
+      "version": 1
     },
     "gate-pi": {
       "hash": "dd1b50f65f4edcbc",
@@ -163,7 +163,7 @@
     },
     "gate-st": {
       "hash": "adfc44e713e5051d",
-      "version": 2
+      "version": 1
     }
   }
 }

@@ -27,7 +27,7 @@
     "verified": false,
     "verification_note": "Draft from the GATE 2027 syllabus PDFs (GA_GATE2027_Syllabus.pdf, MA_GATE2027_Syllabus.pdf) linked on the official GATE 2027 page, read as text. Topics are the PDFs' section titles, not chapters; check first each title against the PDF.",
     "last_verified": null,
-    "version": 2,
+    "version": 1,
     "is_published": false,
     "sort_order": 1090
   },
