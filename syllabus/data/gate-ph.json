@@ -1,0 +1,123 @@
+{
+  "exam": {
+    "slug": "gate-ph",
+    "name": "GATE Physics (PH)",
+    "short_name": "GATE PH",
+    "kind": "exam",
+    "aliases": [
+      "gate",
+      "gate exam",
+      "gate 2027",
+      "graduate aptitude test in engineering",
+      "mtech",
+      "m.tech",
+      "psu",
+      "iit",
+      "ph",
+      "gate ph",
+      "physics"
+    ],
+    "category": "entrance",
+    "conducting_body": "Indian Institute of Technology Madras (organising institute, GATE 2027)",
+    "official_url": "https://gate2027.iitm.ac.in",
+    "syllabus_source_url": "https://gate2027.iitm.ac.in/exam_papers_and_syllabus",
+    "syllabus_cycle": "GATE 2027",
+    "verified": false,
+    "verification_note": "Draft from the GATE 2027 syllabus PDFs (GA_GATE2027_Syllabus.pdf, PH_GATE2027_Syllabus.pdf) linked on the official GATE 2027 page, read as text. Topics are the PDFs' section titles, not chapters; check first each title against the PDF.",
+    "last_verified": null,
+    "version": 2,
+    "is_published": false,
+    "sort_order": 1140
+  },
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "measurements-and-error-analysis",
+          "name": "Measurements and Error Analysis",
+          "sort_order": 10
+        },
+        {
+          "slug": "mathematical-physics",
+          "name": "Mathematical Physics",
+          "sort_order": 20
+        },
+        {
+          "slug": "classical-mechanics",
+          "name": "Classical Mechanics",
+          "sort_order": 30
+        },
+        {
+          "slug": "thermodynamics-and-statistical-mechanics",
+          "name": "Thermodynamics and Statistical Mechanics",
+          "sort_order": 40
+        },
+        {
+          "slug": "electromagnetic-theory",
+          "name": "Electromagnetic theory",
+          "sort_order": 50
+        },
+        {
+          "slug": "optical-physics",
+          "name": "Optical Physics",
+          "sort_order": 60
+        },
+        {
+          "slug": "quantum-mechanics",
+          "name": "Quantum Mechanics",
+          "sort_order": 70
+        },
+        {
+          "slug": "atomic-and-molecular-physics",
+          "name": "Atomic and Molecular Physics",
+          "sort_order": 80
+        },
+        {
+          "slug": "solid-state-physics",
+          "name": "Solid State Physics",
+          "sort_order": 90
+        },
+        {
+          "slug": "nuclear-and-particle-physics",
+          "name": "Nuclear and Particle Physics",
+          "sort_order": 100
+        },
+        {
+          "slug": "electronics",
+          "name": "Electronics",
+          "sort_order": 110
+        }
+      ]
+    }
+  ]
+}

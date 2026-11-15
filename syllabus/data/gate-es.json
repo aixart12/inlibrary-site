@@ -1,0 +1,116 @@
+{
+  "exam": {
+    "slug": "gate-es",
+    "name": "GATE Environmental Science and Engineering (ES)",
+    "short_name": "GATE ES",
+    "kind": "exam",
+    "aliases": [
+      "gate",
+      "gate exam",
+      "gate 2027",
+      "graduate aptitude test in engineering",
+      "mtech",
+      "m.tech",
+      "psu",
+      "iit",
+      "es",
+      "gate es",
+      "environmental science and engineering",
+      "environmental",
+      "environment",
+      "evs"
+    ],
+    "category": "entrance",
+    "conducting_body": "Indian Institute of Technology Madras (organising institute, GATE 2027)",
+    "official_url": "https://gate2027.iitm.ac.in",
+    "syllabus_source_url": "https://gate2027.iitm.ac.in/exam_papers_and_syllabus",
+    "syllabus_cycle": "GATE 2027",
+    "verified": false,
+    "verification_note": "Draft from the GATE 2027 syllabus PDFs (GA_GATE2027_Syllabus.pdf, ES_GATE2027_Syllabus.pdf) linked on the official GATE 2027 page, read as text. Topics are the PDFs' section titles, not chapters; check first each title against the PDF.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1070
+  },
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "environmental-science-and-engineering",
+      "name": "Environmental Science and Engineering",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "mathematics-foundation",
+          "name": "Mathematics Foundation",
+          "sort_order": 10
+        },
+        {
+          "slug": "environmental-chemistry",
+          "name": "Environmental Chemistry",
+          "sort_order": 20
+        },
+        {
+          "slug": "environmental-microbiology",
+          "name": "Environmental Microbiology",
+          "sort_order": 30
+        },
+        {
+          "slug": "water-resources-and-environmental-hydraulics",
+          "name": "Water Resources and Environmental Hydraulics",
+          "sort_order": 40
+        },
+        {
+          "slug": "water-and-wastewater-treatment-and-management",
+          "name": "Water and Wastewater Treatment and Management",
+          "sort_order": 50
+        },
+        {
+          "slug": "air-and-noise-pollution",
+          "name": "Air and Noise Pollution",
+          "sort_order": 60
+        },
+        {
+          "slug": "solid-and-hazardous-waste-management",
+          "name": "Solid and Hazardous Waste Management",
+          "sort_order": 70
+        },
+        {
+          "slug": "global-and-regional-environmental-issues",
+          "name": "Global and Regional Environmental Issues",
+          "sort_order": 80
+        },
+        {
+          "slug": "environmental-management-and-sustainable-development",
+          "name": "Environmental Management and Sustainable Development",
+          "sort_order": 90
+        }
+      ]
+    }
+  ]
+}

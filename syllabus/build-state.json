@@ -104,6 +104,66 @@
     "class-12-cbse-commerce": {
       "hash": "7242bf3f174cc36a",
       "version": 1
+    },
+    "gate-ae": {
+      "hash": "6b45e70bad3a3877",
+      "version": 1
+    },
+    "gate-ag": {
+      "hash": "d5af6f8c39e80855",
+      "version": 1
+    },
+    "gate-bm": {
+      "hash": "d3d29ffcfd757a80",
+      "version": 1
+    },
+    "gate-bt": {
+      "hash": "4ae179d682f2e3ce",
+      "version": 2
+    },
+    "gate-cy": {
+      "hash": "7457d88191f08d10",
+      "version": 2
+    },
+    "gate-es": {
+      "hash": "6cee3e082ada1365",
+      "version": 1
+    },
+    "gate-ey": {
+      "hash": "faab0d304e737865",
+      "version": 1
+    },
+    "gate-ma": {
+      "hash": "077ec0208eba2f5c",
+      "version": 2
+    },
+    "gate-mn": {
+      "hash": "3ace24f28127fb71",
+      "version": 1
+    },
+    "gate-mt": {
+      "hash": "d6ade7c4d5c9281c",
+      "version": 1
+    },
+    "gate-nm": {
+      "hash": "84a11a7882f55704",
+      "version": 1
+    },
+    "gate-pe": {
+      "hash": "7c413c7b5032a0fe",
+      "version": 1
+    },
+    "gate-ph": {
+      "hash": "63a9ac85ecdf5882",
+      "version": 2
+    },
+    "gate-pi": {
+      "hash": "dd1b50f65f4edcbc",
+      "version": 1
+    },
+    "gate-st": {
+      "hash": "adfc44e713e5051d",
+      "version": 2
     }
   }
 }
