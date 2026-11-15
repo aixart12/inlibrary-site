@@ -104,6 +104,14 @@
     "class-12-cbse-commerce": {
       "hash": "7242bf3f174cc36a",
       "version": 1
+    },
+    "kcet-pcm": {
+      "hash": "6cc1995b4f4f79f6",
+      "version": 1
+    },
+    "kcet-pcb": {
+      "hash": "8cd78bea63d5b27f",
+      "version": 1
     }
   }
 }
