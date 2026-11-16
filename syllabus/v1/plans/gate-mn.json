@@ -1,0 +1,91 @@
+{
+  "schema": 1,
+  "slug": "gate-mn",
+  "kind": "exam",
+  "name": "GATE Mining Engineering (MN)",
+  "short_name": "GATE MN",
+  "aliases": [
+    "gate",
+    "gate exam",
+    "gate 2027",
+    "graduate aptitude test in engineering",
+    "mtech",
+    "m.tech",
+    "psu",
+    "iit",
+    "mn",
+    "gate mn",
+    "mining engineering",
+    "mining"
+  ],
+  "category": "entrance",
+  "subject_count": 2,
+  "topic_count": 10,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "mining-engineering",
+      "name": "Mining Engineering",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "engineering-mathematics",
+          "name": "Engineering Mathematics",
+          "sort_order": 10
+        },
+        {
+          "slug": "mining-geology-mine-development-and-surveying",
+          "name": "Mining Geology, Mine Development and Surveying",
+          "sort_order": 20
+        },
+        {
+          "slug": "geomechanics-and-ground-control",
+          "name": "Geomechanics and Ground Control",
+          "sort_order": 30
+        },
+        {
+          "slug": "mining-methods-and-machinery",
+          "name": "Mining Methods and Machinery",
+          "sort_order": 40
+        },
+        {
+          "slug": "surface-environment-mine-ventilation-and-underground-hazards",
+          "name": "Surface Environment, Mine Ventilation and Underground Hazards",
+          "sort_order": 50
+        },
+        {
+          "slug": "mineral-economics-mine-planning-systems-engineering",
+          "name": "Mineral Economics, Mine Planning, Systems Engineering",
+          "sort_order": 60
+        }
+      ]
+    }
+  ]
+}

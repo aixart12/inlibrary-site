@@ -24,11 +24,11 @@
     "official_url": "https://gate2027.iitm.ac.in",
     "syllabus_source_url": "https://gate2027.iitm.ac.in/exam_papers_and_syllabus",
     "syllabus_cycle": "GATE 2027",
-    "verified": false,
-    "verification_note": "Draft from the GATE 2027 syllabus PDFs (GA_GATE2027_Syllabus.pdf, AR_GATE2027_Syllabus.pdf) linked on the official GATE 2027 page, read as text. The paper has a common Part A and then Part B1 (Architecture) or Part B2 (Planning), of which a candidate answers one, so each option is its own plan; topics are the PDF's section titles. Check first each title against the PDF.",
-    "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "verified": true,
+    "verification_note": "Verified 2026-11-16 against AR_GATE2027_Syllabus.pdf and GA_GATE2027_Syllabus.pdf on gate2027.iitm.ac.in (the official GATE 2027 site, organised by IIT Madras): the four General Aptitude sections and the four Common Section (Part A) headings and the six Part B1 (Architecture) headings match the PDFs in order and in count. The paper has a common Part A and then Part B1 or B2, of which a candidate answers one, so each option is its own plan. The topics are the PDF's section headings, not chapters, so each topic covers a block of subject matter described in the PDF's text. Headings were compared; the text under each was not.",
+    "last_verified": "2026-11-16",
+    "version": 2,
+    "is_published": true,
     "sort_order": 1540
   },
   "subjects": [

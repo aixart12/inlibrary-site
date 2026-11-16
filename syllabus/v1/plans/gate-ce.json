@@ -1,0 +1,102 @@
+{
+  "schema": 1,
+  "slug": "gate-ce",
+  "kind": "exam",
+  "name": "GATE Civil Engineering (CE)",
+  "short_name": "GATE CE",
+  "aliases": [
+    "gate",
+    "gate exam",
+    "gate 2027",
+    "graduate aptitude test in engineering",
+    "mtech",
+    "m.tech",
+    "psu",
+    "iit",
+    "engineering",
+    "ce",
+    "civil",
+    "civil engineering",
+    "gate ce"
+  ],
+  "category": "entrance",
+  "subject_count": 2,
+  "topic_count": 12,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "civil-engineering",
+      "name": "Civil Engineering",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "engineering-mathematics",
+          "name": "Engineering Mathematics",
+          "sort_order": 10
+        },
+        {
+          "slug": "structural-engineering",
+          "name": "Structural Engineering",
+          "sort_order": 20
+        },
+        {
+          "slug": "geotechnical-engineering",
+          "name": "Geotechnical Engineering",
+          "sort_order": 30
+        },
+        {
+          "slug": "water-resources-engineering",
+          "name": "Water Resources Engineering",
+          "sort_order": 40
+        },
+        {
+          "slug": "environmental-engineering",
+          "name": "Environmental Engineering",
+          "sort_order": 50
+        },
+        {
+          "slug": "transportation-engineering",
+          "name": "Transportation Engineering",
+          "sort_order": 60
+        },
+        {
+          "slug": "geomatics-engineering",
+          "name": "Geomatics Engineering",
+          "sort_order": 70
+        },
+        {
+          "slug": "construction-materials-and-management",
+          "name": "Construction Materials and Management",
+          "sort_order": 80
+        }
+      ]
+    }
+  ]
+}

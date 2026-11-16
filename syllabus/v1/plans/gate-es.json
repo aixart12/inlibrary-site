@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "slug": "gate-es",
+  "kind": "exam",
+  "name": "GATE Environmental Science and Engineering (ES)",
+  "short_name": "GATE ES",
+  "aliases": [
+    "gate",
+    "gate exam",
+    "gate 2027",
+    "graduate aptitude test in engineering",
+    "mtech",
+    "m.tech",
+    "psu",
+    "iit",
+    "es",
+    "gate es",
+    "environmental science and engineering",
+    "environmental",
+    "environment",
+    "evs"
+  ],
+  "category": "entrance",
+  "subject_count": 2,
+  "topic_count": 13,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "environmental-science-and-engineering",
+      "name": "Environmental Science and Engineering",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "mathematics-foundation",
+          "name": "Mathematics Foundation",
+          "sort_order": 10
+        },
+        {
+          "slug": "environmental-chemistry",
+          "name": "Environmental Chemistry",
+          "sort_order": 20
+        },
+        {
+          "slug": "environmental-microbiology",
+          "name": "Environmental Microbiology",
+          "sort_order": 30
+        },
+        {
+          "slug": "water-resources-and-environmental-hydraulics",
+          "name": "Water Resources and Environmental Hydraulics",
+          "sort_order": 40
+        },
+        {
+          "slug": "water-and-wastewater-treatment-and-management",
+          "name": "Water and Wastewater Treatment and Management",
+          "sort_order": 50
+        },
+        {
+          "slug": "air-and-noise-pollution",
+          "name": "Air and Noise Pollution",
+          "sort_order": 60
+        },
+        {
+          "slug": "solid-and-hazardous-waste-management",
+          "name": "Solid and Hazardous Waste Management",
+          "sort_order": 70
+        },
+        {
+          "slug": "global-and-regional-environmental-issues",
+          "name": "Global and Regional Environmental Issues",
+          "sort_order": 80
+        },
+        {
+          "slug": "environmental-management-and-sustainable-development",
+          "name": "Environmental Management and Sustainable Development",
+          "sort_order": 90
+        }
+      ]
+    }
+  ]
+}

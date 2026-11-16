@@ -1,0 +1,97 @@
+{
+  "schema": 1,
+  "slug": "gate-ag",
+  "kind": "exam",
+  "name": "GATE Agricultural Engineering (AG)",
+  "short_name": "GATE AG",
+  "aliases": [
+    "gate",
+    "gate exam",
+    "gate 2027",
+    "graduate aptitude test in engineering",
+    "mtech",
+    "m.tech",
+    "psu",
+    "iit",
+    "ag",
+    "gate ag",
+    "agricultural engineering",
+    "agricultural",
+    "agriculture"
+  ],
+  "category": "entrance",
+  "subject_count": 2,
+  "topic_count": 11,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "agricultural-engineering",
+      "name": "Agricultural Engineering",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "engineering-mathematics",
+          "name": "Engineering Mathematics",
+          "sort_order": 10
+        },
+        {
+          "slug": "farm-machinery",
+          "name": "Farm Machinery",
+          "sort_order": 20
+        },
+        {
+          "slug": "farm-power",
+          "name": "Farm Power",
+          "sort_order": 30
+        },
+        {
+          "slug": "soil-and-water-conservation-engineering",
+          "name": "Soil and Water Conservation Engineering",
+          "sort_order": 40
+        },
+        {
+          "slug": "irrigation-and-drainage-engineering",
+          "name": "Irrigation and Drainage Engineering",
+          "sort_order": 50
+        },
+        {
+          "slug": "agricultural-process-engineering",
+          "name": "Agricultural Process Engineering",
+          "sort_order": 60
+        },
+        {
+          "slug": "dairy-and-food-engineering",
+          "name": "Dairy and Food Engineering",
+          "sort_order": 70
+        }
+      ]
+    }
+  ]
+}

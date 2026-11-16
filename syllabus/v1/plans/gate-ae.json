@@ -1,0 +1,88 @@
+{
+  "schema": 1,
+  "slug": "gate-ae",
+  "kind": "exam",
+  "name": "GATE Aerospace Engineering (AE)",
+  "short_name": "GATE AE",
+  "aliases": [
+    "gate",
+    "gate exam",
+    "gate 2027",
+    "graduate aptitude test in engineering",
+    "mtech",
+    "m.tech",
+    "psu",
+    "iit",
+    "ae",
+    "gate ae",
+    "aerospace engineering",
+    "aerospace",
+    "aeronautical",
+    "aero"
+  ],
+  "category": "entrance",
+  "subject_count": 2,
+  "topic_count": 9,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "aerospace-engineering",
+      "name": "Aerospace Engineering",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "engineering-mathematics",
+          "name": "Engineering Mathematics",
+          "sort_order": 10
+        },
+        {
+          "slug": "flight-mechanics-and-space-dynamics",
+          "name": "Flight Mechanics and Space Dynamics",
+          "sort_order": 20
+        },
+        {
+          "slug": "aerodynamics",
+          "name": "Aerodynamics",
+          "sort_order": 30
+        },
+        {
+          "slug": "structures",
+          "name": "Structures",
+          "sort_order": 40
+        },
+        {
+          "slug": "propulsion",
+          "name": "Propulsion",
+          "sort_order": 50
+        }
+      ]
+    }
+  ]
+}

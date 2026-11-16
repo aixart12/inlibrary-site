@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "slug": "gate-in",
+  "kind": "exam",
+  "name": "GATE Instrumentation Engineering (IN)",
+  "short_name": "GATE IN",
+  "aliases": [
+    "gate",
+    "gate exam",
+    "gate 2027",
+    "graduate aptitude test in engineering",
+    "mtech",
+    "m.tech",
+    "psu",
+    "iit",
+    "engineering",
+    "in",
+    "instrumentation",
+    "instrumentation engineering",
+    "gate in"
+  ],
+  "category": "entrance",
+  "subject_count": 2,
+  "topic_count": 14,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "instrumentation-engineering",
+      "name": "Instrumentation Engineering",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "engineering-mathematics",
+          "name": "Engineering Mathematics",
+          "sort_order": 10
+        },
+        {
+          "slug": "electricity-and-magnetism",
+          "name": "Electricity and Magnetism",
+          "sort_order": 20
+        },
+        {
+          "slug": "electrical-circuits-and-machines",
+          "name": "Electrical Circuits and Machines",
+          "sort_order": 30
+        },
+        {
+          "slug": "signals-and-systems",
+          "name": "Signals and Systems",
+          "sort_order": 40
+        },
+        {
+          "slug": "control-systems",
+          "name": "Control Systems",
+          "sort_order": 50
+        },
+        {
+          "slug": "analog-electronics",
+          "name": "Analog Electronics",
+          "sort_order": 60
+        },
+        {
+          "slug": "digital-electronics",
+          "name": "Digital Electronics",
+          "sort_order": 70
+        },
+        {
+          "slug": "measurements",
+          "name": "Measurements",
+          "sort_order": 80
+        },
+        {
+          "slug": "sensors-and-industrial-instrumentation",
+          "name": "Sensors and Industrial Instrumentation",
+          "sort_order": 90
+        },
+        {
+          "slug": "communication-and-optical-instrumentation",
+          "name": "Communication and Optical Instrumentation",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}
