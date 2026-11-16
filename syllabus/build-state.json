@@ -104,6 +104,22 @@
     "class-12-cbse-commerce": {
       "hash": "7242bf3f174cc36a",
       "version": 1
+    },
+    "wbjee": {
+      "hash": "e0fea269905eee9b",
+      "version": 1
+    },
+    "comedk-uget": {
+      "hash": "8229e95d1b2d84bd",
+      "version": 1
+    },
+    "viteee-pcm": {
+      "hash": "5658141411bc7a75",
+      "version": 1
+    },
+    "viteee-pcb": {
+      "hash": "7a00b3b7d95b0a84",
+      "version": 1
     }
   }
 }
