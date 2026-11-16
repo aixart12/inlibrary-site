@@ -1,0 +1,417 @@
+{
+  "exam": {
+    "slug": "mht-cet-pcb",
+    "name": "MHT CET (PCB)",
+    "short_name": "MHT CET PCB",
+    "kind": "exam",
+    "aliases": [
+      "mht cet",
+      "mht-cet",
+      "mhtcet",
+      "cet",
+      "maharashtra cet",
+      "maharashtra",
+      "cet cell",
+      "state cet",
+      "pcb",
+      "biology",
+      "medical",
+      "pharmacy",
+      "agriculture"
+    ],
+    "category": "entrance",
+    "conducting_body": "State Common Entrance Test Cell, Maharashtra",
+    "official_url": "https://cetcell.mahacet.org",
+    "syllabus_source_url": "https://engineering.careers360.com/articles/mht-cet-syllabus",
+    "syllabus_cycle": "MHT CET 2027 (as described by the secondary source; official syllabus not released)",
+    "verified": false,
+    "verification_note": "General syllabus drafted from Careers360's MHT CET syllabus page, a secondary site, not from the exam body's own document; topic names are that page's lists, grouped. The page says Class 11 and Class 12 count 20:80 and that the official syllabus is still to be released by the CET Cell; I corrected two obvious typos ('Comics' to 'Conic Sections' and 'Gene its nature' to 'Gene: Its Nature'). Check first the Biology list, where Class 12 is split into Botany and Zoology chapters, and the same out-of-date-looking Physics items.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1290
+  },
+  "subjects": [
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "class-11-vectors",
+          "name": "Class 11: Vectors",
+          "sort_order": 10
+        },
+        {
+          "slug": "class-11-error-analysis",
+          "name": "Class 11: Error Analysis",
+          "sort_order": 20
+        },
+        {
+          "slug": "class-11-motion-in-a-plane",
+          "name": "Class 11: Motion in a Plane",
+          "sort_order": 30
+        },
+        {
+          "slug": "class-11-laws-of-motion",
+          "name": "Class 11: Laws of Motion",
+          "sort_order": 40
+        },
+        {
+          "slug": "class-11-gravitation",
+          "name": "Class 11: Gravitation",
+          "sort_order": 50
+        },
+        {
+          "slug": "class-11-thermal-properties-of-matter",
+          "name": "Class 11: Thermal Properties of Matter",
+          "sort_order": 60
+        },
+        {
+          "slug": "class-11-sound",
+          "name": "Class 11: Sound",
+          "sort_order": 70
+        },
+        {
+          "slug": "class-11-optics",
+          "name": "Class 11: Optics",
+          "sort_order": 80
+        },
+        {
+          "slug": "class-11-electrostatics",
+          "name": "Class 11: Electrostatics",
+          "sort_order": 90
+        },
+        {
+          "slug": "class-11-semiconductors",
+          "name": "Class 11: Semiconductors",
+          "sort_order": 100
+        },
+        {
+          "slug": "class-12-circular-motion",
+          "name": "Class 12: Circular Motion",
+          "sort_order": 110
+        },
+        {
+          "slug": "class-12-gravitation",
+          "name": "Class 12: Gravitation",
+          "sort_order": 120
+        },
+        {
+          "slug": "class-12-rotational-motion",
+          "name": "Class 12: Rotational Motion",
+          "sort_order": 130
+        },
+        {
+          "slug": "class-12-oscillations",
+          "name": "Class 12: Oscillations",
+          "sort_order": 140
+        },
+        {
+          "slug": "class-12-elasticity",
+          "name": "Class 12: Elasticity",
+          "sort_order": 150
+        },
+        {
+          "slug": "class-12-surface-tension",
+          "name": "Class 12: Surface Tension",
+          "sort_order": 160
+        },
+        {
+          "slug": "class-12-wave-motion",
+          "name": "Class 12: Wave Motion",
+          "sort_order": 170
+        },
+        {
+          "slug": "class-12-stationary-waves",
+          "name": "Class 12: Stationary Waves",
+          "sort_order": 180
+        },
+        {
+          "slug": "class-12-wave-theory-of-light",
+          "name": "Class 12: Wave Theory of Light",
+          "sort_order": 190
+        },
+        {
+          "slug": "class-12-interference-and-diffraction",
+          "name": "Class 12: Interference and Diffraction",
+          "sort_order": 200
+        },
+        {
+          "slug": "class-12-electrostatics",
+          "name": "Class 12: Electrostatics",
+          "sort_order": 210
+        },
+        {
+          "slug": "class-12-current-electricity",
+          "name": "Class 12: Current Electricity",
+          "sort_order": 220
+        },
+        {
+          "slug": "class-12-magnetism",
+          "name": "Class 12: Magnetism",
+          "sort_order": 230
+        },
+        {
+          "slug": "class-12-electromagnetic-inductions",
+          "name": "Class 12: Electromagnetic Inductions",
+          "sort_order": 240
+        },
+        {
+          "slug": "class-12-electrons-and-photons",
+          "name": "Class 12: Electrons and Photons",
+          "sort_order": 250
+        },
+        {
+          "slug": "class-12-atoms-molecules-and-nuclei",
+          "name": "Class 12: Atoms, Molecules and Nuclei",
+          "sort_order": 260
+        },
+        {
+          "slug": "class-12-semiconductors",
+          "name": "Class 12: Semiconductors",
+          "sort_order": 270
+        },
+        {
+          "slug": "class-12-communication-systems",
+          "name": "Class 12: Communication Systems",
+          "sort_order": 280
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "class-11-some-basic-concepts-of-chemistry",
+          "name": "Class 11: Some Basic Concepts of Chemistry",
+          "sort_order": 10
+        },
+        {
+          "slug": "class-11-structure-of-atom",
+          "name": "Class 11: Structure of Atom",
+          "sort_order": 20
+        },
+        {
+          "slug": "class-11-chemical-bonding",
+          "name": "Class 11: Chemical Bonding",
+          "sort_order": 30
+        },
+        {
+          "slug": "class-11-states-of-matter-gases-and-liquids",
+          "name": "Class 11: States of Matter: Gases and Liquids",
+          "sort_order": 40
+        },
+        {
+          "slug": "class-11-redox-reactions",
+          "name": "Class 11: Redox Reactions",
+          "sort_order": 50
+        },
+        {
+          "slug": "class-11-elements-of-groups-1-and-2",
+          "name": "Class 11: Elements of Groups 1 and 2",
+          "sort_order": 60
+        },
+        {
+          "slug": "class-11-adsorption-and-colloids-surface-chemistry",
+          "name": "Class 11: Adsorption and Colloids (Surface Chemistry)",
+          "sort_order": 70
+        },
+        {
+          "slug": "class-11-hydrocarbons",
+          "name": "Class 11: Hydrocarbons",
+          "sort_order": 80
+        },
+        {
+          "slug": "class-11-basic-principles-of-organic-chemistry",
+          "name": "Class 11: Basic Principles of Organic Chemistry",
+          "sort_order": 90
+        },
+        {
+          "slug": "class-11-chemistry-in-everyday-life",
+          "name": "Class 11: Chemistry in Everyday Life",
+          "sort_order": 100
+        },
+        {
+          "slug": "class-12-solid-state",
+          "name": "Class 12: Solid State",
+          "sort_order": 110
+        },
+        {
+          "slug": "class-12-solutions-and-colligative-properties",
+          "name": "Class 12: Solutions and Colligative Properties",
+          "sort_order": 120
+        },
+        {
+          "slug": "class-12-chemical-thermodynamics-and-electrochemistry",
+          "name": "Class 12: Chemical Thermodynamics and Electrochemistry",
+          "sort_order": 130
+        },
+        {
+          "slug": "class-12-chemical-kinetics",
+          "name": "Class 12: Chemical Kinetics",
+          "sort_order": 140
+        },
+        {
+          "slug": "class-12-p-block-elements",
+          "name": "Class 12: p-Block Elements",
+          "sort_order": 150
+        },
+        {
+          "slug": "class-12-d-and-f-block-elements",
+          "name": "Class 12: d and f Block Elements",
+          "sort_order": 160
+        },
+        {
+          "slug": "class-12-coordination-compounds",
+          "name": "Class 12: Coordination Compounds",
+          "sort_order": 170
+        },
+        {
+          "slug": "class-12-halogen-derivatives-of-alkanes-alcohols-phenols-and",
+          "name": "Class 12: Halogen Derivatives of Alkanes, Alcohols, Phenols and Ethers",
+          "sort_order": 180
+        },
+        {
+          "slug": "class-12-aldehydes-ketones-organic-compounds-and-biomolecule",
+          "name": "Class 12: Aldehydes, Ketones, Organic Compounds and Biomolecules",
+          "sort_order": 190
+        },
+        {
+          "slug": "class-12-polymers",
+          "name": "Class 12: Polymers",
+          "sort_order": 200
+        },
+        {
+          "slug": "class-12-chemistry-in-everyday-life",
+          "name": "Class 12: Chemistry in Everyday Life",
+          "sort_order": 210
+        }
+      ]
+    },
+    {
+      "slug": "biology",
+      "name": "Biology",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "class-11-biomolecules",
+          "name": "Class 11: Biomolecules",
+          "sort_order": 10
+        },
+        {
+          "slug": "class-11-respiration-and-energy-transfer",
+          "name": "Class 11: Respiration and Energy Transfer",
+          "sort_order": 20
+        },
+        {
+          "slug": "class-11-human-nutrition",
+          "name": "Class 11: Human Nutrition",
+          "sort_order": 30
+        },
+        {
+          "slug": "class-11-excretion-and-osmoregulation",
+          "name": "Class 11: Excretion and Osmoregulation",
+          "sort_order": 40
+        },
+        {
+          "slug": "class-12-botany-genetic-basis-of-inheritance",
+          "name": "Class 12 Botany: Genetic Basis of Inheritance",
+          "sort_order": 50
+        },
+        {
+          "slug": "class-12-botany-gene-its-nature-expression-and-regulation",
+          "name": "Class 12 Botany: Gene: Its Nature, Expression and Regulation",
+          "sort_order": 60
+        },
+        {
+          "slug": "class-12-botany-biotechnology-process-and-application",
+          "name": "Class 12 Botany: Biotechnology Process and Application",
+          "sort_order": 70
+        },
+        {
+          "slug": "class-12-botany-enhancement-in-food-production",
+          "name": "Class 12 Botany: Enhancement in Food Production",
+          "sort_order": 80
+        },
+        {
+          "slug": "class-12-botany-microbes-in-human-welfare",
+          "name": "Class 12 Botany: Microbes in Human Welfare",
+          "sort_order": 90
+        },
+        {
+          "slug": "class-12-botany-photosynthesis",
+          "name": "Class 12 Botany: Photosynthesis",
+          "sort_order": 100
+        },
+        {
+          "slug": "class-12-botany-respiration",
+          "name": "Class 12 Botany: Respiration",
+          "sort_order": 110
+        },
+        {
+          "slug": "class-12-botany-reproduction-in-plants",
+          "name": "Class 12 Botany: Reproduction in Plants",
+          "sort_order": 120
+        },
+        {
+          "slug": "class-12-botany-organisms-and-environment",
+          "name": "Class 12 Botany: Organisms and Environment",
+          "sort_order": 130
+        },
+        {
+          "slug": "class-12-zoology-origin-and-the-evolution-of-life",
+          "name": "Class 12 Zoology: Origin and the Evolution of Life",
+          "sort_order": 140
+        },
+        {
+          "slug": "class-12-zoology-chromosomal-basis-of-inheritance",
+          "name": "Class 12 Zoology: Chromosomal Basis of Inheritance",
+          "sort_order": 150
+        },
+        {
+          "slug": "class-12-zoology-genetic-engineering-and-genomics",
+          "name": "Class 12 Zoology: Genetic Engineering and Genomics",
+          "sort_order": 160
+        },
+        {
+          "slug": "class-12-zoology-human-health-and-diseases",
+          "name": "Class 12 Zoology: Human Health and Diseases",
+          "sort_order": 170
+        },
+        {
+          "slug": "class-12-zoology-animal-husbandry",
+          "name": "Class 12 Zoology: Animal Husbandry",
+          "sort_order": 180
+        },
+        {
+          "slug": "class-12-zoology-circulation",
+          "name": "Class 12 Zoology: Circulation",
+          "sort_order": 190
+        },
+        {
+          "slug": "class-12-zoology-excretion-and-osmoregulation",
+          "name": "Class 12 Zoology: Excretion and Osmoregulation",
+          "sort_order": 200
+        },
+        {
+          "slug": "class-12-zoology-control-and-coordination",
+          "name": "Class 12 Zoology: Control and Coordination",
+          "sort_order": 210
+        },
+        {
+          "slug": "class-12-zoology-human-reproduction",
+          "name": "Class 12 Zoology: Human Reproduction",
+          "sort_order": 220
+        },
+        {
+          "slug": "class-12-zoology-organisms-and-environment-ii",
+          "name": "Class 12 Zoology: Organisms and Environment-II",
+          "sort_order": 230
+        }
+      ]
+    }
+  ]
+}
