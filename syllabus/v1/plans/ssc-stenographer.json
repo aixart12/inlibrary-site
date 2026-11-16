@@ -1,0 +1,215 @@
+{
+  "schema": 1,
+  "slug": "ssc-stenographer",
+  "kind": "exam",
+  "name": "SSC Stenographer (Grade C and D)",
+  "short_name": "SSC Stenographer",
+  "aliases": [
+    "ssc stenographer",
+    "ssc steno",
+    "steno",
+    "stenographer",
+    "ssc",
+    "grade c",
+    "grade d",
+    "shorthand",
+    "staff selection commission"
+  ],
+  "category": "central-govt",
+  "subject_count": 3,
+  "topic_count": 34,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "general-intelligence-and-reasoning",
+      "name": "General Intelligence and Reasoning",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "analogies",
+          "name": "Analogies",
+          "sort_order": 10
+        },
+        {
+          "slug": "similarities-and-differences",
+          "name": "Similarities and Differences",
+          "sort_order": 20
+        },
+        {
+          "slug": "space-visualization",
+          "name": "Space Visualization",
+          "sort_order": 30
+        },
+        {
+          "slug": "problem-solving",
+          "name": "Problem Solving",
+          "sort_order": 40
+        },
+        {
+          "slug": "analysis",
+          "name": "Analysis",
+          "sort_order": 50
+        },
+        {
+          "slug": "judgment",
+          "name": "Judgment",
+          "sort_order": 60
+        },
+        {
+          "slug": "decision-making",
+          "name": "Decision Making",
+          "sort_order": 70
+        },
+        {
+          "slug": "visual-memory",
+          "name": "Visual Memory",
+          "sort_order": 80
+        },
+        {
+          "slug": "discriminating-observation",
+          "name": "Discriminating Observation",
+          "sort_order": 90
+        },
+        {
+          "slug": "relationship-concepts",
+          "name": "Relationship Concepts",
+          "sort_order": 100
+        },
+        {
+          "slug": "arithmetical-reasoning",
+          "name": "Arithmetical Reasoning",
+          "sort_order": 110
+        },
+        {
+          "slug": "verbal-and-figure-classification",
+          "name": "Verbal and Figure Classification",
+          "sort_order": 120
+        },
+        {
+          "slug": "arithmetical-number-series",
+          "name": "Arithmetical Number Series",
+          "sort_order": 130
+        },
+        {
+          "slug": "non-verbal-series",
+          "name": "Non-Verbal Series",
+          "sort_order": 140
+        },
+        {
+          "slug": "abstract-ideas-and-symbols-and-their-relationship",
+          "name": "Abstract Ideas and Symbols and their Relationship",
+          "sort_order": 150
+        },
+        {
+          "slug": "arithmetical-computation-and-other-analytical-functions",
+          "name": "Arithmetical Computation and other Analytical Functions",
+          "sort_order": 160
+        }
+      ]
+    },
+    {
+      "slug": "general-awareness",
+      "name": "General Awareness",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "awareness-of-the-environment-and-its-application-to-society",
+          "name": "Awareness of the Environment and its Application to Society",
+          "sort_order": 10
+        },
+        {
+          "slug": "current-events",
+          "name": "Current Events",
+          "sort_order": 20
+        },
+        {
+          "slug": "everyday-observation-and-experience-in-their-scientific-aspe",
+          "name": "Everyday Observation and Experience in their Scientific Aspects",
+          "sort_order": 30
+        },
+        {
+          "slug": "india-and-its-neighbouring-countries-sports",
+          "name": "India and its Neighbouring Countries: Sports",
+          "sort_order": 40
+        },
+        {
+          "slug": "india-and-its-neighbouring-countries-history",
+          "name": "India and its Neighbouring Countries: History",
+          "sort_order": 50
+        },
+        {
+          "slug": "india-and-its-neighbouring-countries-culture",
+          "name": "India and its Neighbouring Countries: Culture",
+          "sort_order": 60
+        },
+        {
+          "slug": "india-and-its-neighbouring-countries-geography",
+          "name": "India and its Neighbouring Countries: Geography",
+          "sort_order": 70
+        },
+        {
+          "slug": "india-and-its-neighbouring-countries-economic-scene",
+          "name": "India and its Neighbouring Countries: Economic Scene",
+          "sort_order": 80
+        },
+        {
+          "slug": "india-and-its-neighbouring-countries-general-polity-includin",
+          "name": "India and its Neighbouring Countries: General Polity including Indian Constitution",
+          "sort_order": 90
+        },
+        {
+          "slug": "india-and-its-neighbouring-countries-scientific-research",
+          "name": "India and its Neighbouring Countries: Scientific Research",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "english-language-and-comprehension",
+      "name": "English Language and Comprehension",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "understanding-of-the-english-language",
+          "name": "Understanding of the English Language",
+          "sort_order": 10
+        },
+        {
+          "slug": "vocabulary",
+          "name": "Vocabulary",
+          "sort_order": 20
+        },
+        {
+          "slug": "grammar",
+          "name": "Grammar",
+          "sort_order": 30
+        },
+        {
+          "slug": "sentence-structure",
+          "name": "Sentence Structure",
+          "sort_order": 40
+        },
+        {
+          "slug": "synonyms",
+          "name": "Synonyms",
+          "sort_order": 50
+        },
+        {
+          "slug": "antonyms",
+          "name": "Antonyms",
+          "sort_order": 60
+        },
+        {
+          "slug": "correct-usage",
+          "name": "Correct Usage",
+          "sort_order": 70
+        },
+        {
+          "slug": "writing-ability",
+          "name": "Writing Ability",
+          "sort_order": 80
+        }
+      ]
+    }
+  ]
+}
