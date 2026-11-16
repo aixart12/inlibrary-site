@@ -308,6 +308,38 @@
     "uptet-paper-1": {
       "hash": "1f5b622f0b32d74c",
       "version": 1
+    },
+    "gate-cs": {
+      "hash": "b132148a94a8598d",
+      "version": 1
+    },
+    "gate-ee": {
+      "hash": "1be08aa93bbe0d83",
+      "version": 1
+    },
+    "gate-me": {
+      "hash": "37a8682f8aa8e659",
+      "version": 1
+    },
+    "gate-ce": {
+      "hash": "3eba20d0f832807d",
+      "version": 1
+    },
+    "gate-ec": {
+      "hash": "c36654256d0ac859",
+      "version": 1
+    },
+    "gate-da": {
+      "hash": "bf5f3c3229195822",
+      "version": 1
+    },
+    "gate-ch": {
+      "hash": "1e122e66412e261e",
+      "version": 1
+    },
+    "gate-in": {
+      "hash": "237d4e8706f1dde4",
+      "version": 1
     }
   }
 }
