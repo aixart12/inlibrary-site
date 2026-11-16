@@ -104,6 +104,74 @@
     "class-12-cbse-commerce": {
       "hash": "7242bf3f174cc36a",
       "version": 1
+    },
+    "ugc-net-adult-education": {
+      "hash": "41fc7a0ff16e71e9",
+      "version": 1
+    },
+    "ugc-net-arab-culture-and-islamic-studies": {
+      "hash": "6be32f95f8ad63c3",
+      "version": 1
+    },
+    "ugc-net-comparative-literature": {
+      "hash": "56c8f81b6504e4b5",
+      "version": 1
+    },
+    "ugc-net-comparative-study-of-religions": {
+      "hash": "244b7452ea36f93e",
+      "version": 1
+    },
+    "ugc-net-human-rights-and-duties": {
+      "hash": "6855a4bdace70434",
+      "version": 1
+    },
+    "ugc-net-indian-culture": {
+      "hash": "4a591cfebf333d54",
+      "version": 1
+    },
+    "ugc-net-international-and-area-studies": {
+      "hash": "162a1772641f5b5b",
+      "version": 1
+    },
+    "ugc-net-linguistics": {
+      "hash": "4493437d4ebec6d3",
+      "version": 1
+    },
+    "ugc-net-museology-and-conservation": {
+      "hash": "8449086f0ab3b44c",
+      "version": 1
+    },
+    "ugc-net-population-studies": {
+      "hash": "d56ea9f570e17cb4",
+      "version": 1
+    },
+    "ugc-net-folk-literature": {
+      "hash": "056029fb22e502a0",
+      "version": 1
+    },
+    "ugc-net-tribal-and-regional-languages": {
+      "hash": "9bb9bb8a14e29f21",
+      "version": 1
+    },
+    "ugc-net-social-medicine-and-community-health": {
+      "hash": "8551a77ffff8664b",
+      "version": 1
+    },
+    "ugc-net-disaster-management": {
+      "hash": "1313136ff877d43d",
+      "version": 1
+    },
+    "ugc-net-forestry": {
+      "hash": "5debaf88bfaee0ab",
+      "version": 1
+    },
+    "ugc-net-statistics": {
+      "hash": "f62551b5d3741127",
+      "version": 1
+    },
+    "ugc-net-ayurveda-biology": {
+      "hash": "5b2ab14577af9bcb",
+      "version": 1
     }
   }
 }

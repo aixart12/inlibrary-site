@@ -1,0 +1,154 @@
+{
+  "exam": {
+    "slug": "ugc-net-adult-education",
+    "name": "UGC NET Adult Education (Paper 1 + Paper 2)",
+    "short_name": "UGC NET Adult Education",
+    "kind": "exam",
+    "aliases": [
+      "ugc net",
+      "ugc-net",
+      "net",
+      "nta net",
+      "nta ugc net",
+      "net jrf",
+      "jrf",
+      "assistant professor",
+      "lectureship",
+      "net exam",
+      "ugc",
+      "adult education",
+      "continuing education",
+      "lifelong learning",
+      "extension",
+      "paper 2",
+      "paper ii"
+    ],
+    "category": "teaching",
+    "conducting_body": "National Testing Agency (NTA) for the University Grants Commission (UGC)",
+    "official_url": "https://ugcnet.nta.nic.in",
+    "syllabus_source_url": "https://www.ugcnetonline.in/syllabus-new.php",
+    "syllabus_cycle": "UGC-NET December 2026 (the PDFs themselves are undated; the Paper 1 PDF was created in August 2018)",
+    "verified": false,
+    "verification_note": "Draft from the UGC Paper-I and Adult Education syllabus PDFs (Paper-I_English.pdf, Adult Education_English.pdf) linked from the UGC syllabus page that the NTA UGC-NET December 2026 Information Bulletin names; topics are the PDFs' ten units each, not chapters. The PDF prints the unit titles in capitals; they are written here in title case. Typos in the PDF ('RESEOURCE', 'RESEAERCH') are corrected. Check first whether UGC has issued newer syllabi.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1370
+  },
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "adult-education-paper-2",
+      "name": "Adult Education (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "adult-continuing-education-and-extension-indian-and-global",
+          "name": "Adult, Continuing Education and Extension: Indian and Global",
+          "sort_order": 10
+        },
+        {
+          "slug": "theoretical-and-functional-base-of-adult-education",
+          "name": "Theoretical and Functional Base of Adult Education",
+          "sort_order": 20
+        },
+        {
+          "slug": "alternate-learning-systems",
+          "name": "Alternate Learning Systems",
+          "sort_order": 30
+        },
+        {
+          "slug": "curriculum-planning-and-teaching-learning-materials",
+          "name": "Curriculum Planning and Teaching-Learning Materials",
+          "sort_order": 40
+        },
+        {
+          "slug": "human-resource-management-in-lifelong-learning-and-extension",
+          "name": "Human Resource Management in Lifelong Learning and Extension",
+          "sort_order": 50
+        },
+        {
+          "slug": "communication-for-social-development",
+          "name": "Communication for Social Development",
+          "sort_order": 60
+        },
+        {
+          "slug": "social-and-developmental-concerns",
+          "name": "Social and Developmental Concerns",
+          "sort_order": 70
+        },
+        {
+          "slug": "vocational-education-and-skill-development",
+          "name": "Vocational Education and Skill Development",
+          "sort_order": 80
+        },
+        {
+          "slug": "research-and-research-methods",
+          "name": "Research and Research Methods",
+          "sort_order": 90
+        },
+        {
+          "slug": "lifelong-learning-the-futuristic-vision",
+          "name": "Lifelong Learning: The Futuristic Vision",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}
