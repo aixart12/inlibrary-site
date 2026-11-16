@@ -51,7 +51,7 @@
     "syllabus_source_url": "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
     "syllabus_cycle": "2024-26 (latest Class XI-XII syllabus the board publishes; the PDF's own pages are headed 2007-09)",
     "verified": false,
-    "verification_note": "Draft from the board's scanned PDF via OCR. As of 2026-11-13 this is the only Class XI-XII syllabus linked on biharboardonline.com; no newer official one was found. A person should check it, and confirm with the board whether a newer syllabus exists, before publishing.",
+    "verification_note": "Draft from the contents pages of NCERT's Class XII textbooks (reprint 2026-27, at https://ncert.nic.in/textbook/pdf/), used because page iii of the Bihar board's Class XI-XII syllabus PDF says that, apart from languages, the textbooks of the elective subjects are NCERT's. Files: physics: leph1ps.pdf, leph2ps.pdf; chemistry: lech1ps.pdf, lech2ps.pdf; mathematics: lemh1ps.pdf, lemh2ps.pdf. Topics are the textbooks' chapters (Chemistry's are the books' units). Compulsory languages (Hindi, English) are not included. A person should confirm with the board that it still teaches from this NCERT edition.",
     "last_verified": null,
     "version": 1,
     "is_published": false,
@@ -64,54 +64,74 @@
       "sort_order": 10,
       "topics": [
         {
-          "slug": "electrostatics",
-          "name": "Electrostatics",
+          "slug": "electric-charges-and-fields",
+          "name": "Electric Charges and Fields",
           "sort_order": 10
+        },
+        {
+          "slug": "electrostatic-potential-and-capacitance",
+          "name": "Electrostatic Potential and Capacitance",
+          "sort_order": 20
         },
         {
           "slug": "current-electricity",
           "name": "Current Electricity",
-          "sort_order": 20
-        },
-        {
-          "slug": "magnetic-effects-of-current-and-magnetism",
-          "name": "Magnetic Effects of Current and Magnetism",
           "sort_order": 30
         },
         {
-          "slug": "electromagnetic-induction-and-alternating-currents",
-          "name": "Electromagnetic Induction and Alternating Currents",
+          "slug": "moving-charges-and-magnetism",
+          "name": "Moving Charges and Magnetism",
           "sort_order": 40
+        },
+        {
+          "slug": "magnetism-and-matter",
+          "name": "Magnetism and Matter",
+          "sort_order": 50
+        },
+        {
+          "slug": "electromagnetic-induction",
+          "name": "Electromagnetic Induction",
+          "sort_order": 60
+        },
+        {
+          "slug": "alternating-current",
+          "name": "Alternating Current",
+          "sort_order": 70
         },
         {
           "slug": "electromagnetic-waves",
           "name": "Electromagnetic Waves",
-          "sort_order": 50
-        },
-        {
-          "slug": "optics",
-          "name": "Optics",
-          "sort_order": 60
-        },
-        {
-          "slug": "dual-nature-of-matter-and-radiation",
-          "name": "Dual Nature of Matter and Radiation",
-          "sort_order": 70
-        },
-        {
-          "slug": "atoms-and-nuclei",
-          "name": "Atoms and Nuclei",
           "sort_order": 80
         },
         {
-          "slug": "electronic-devices",
-          "name": "Electronic Devices",
+          "slug": "ray-optics-and-optical-instruments",
+          "name": "Ray Optics and Optical Instruments",
           "sort_order": 90
         },
         {
-          "slug": "communication-systems",
-          "name": "Communication Systems",
+          "slug": "wave-optics",
+          "name": "Wave Optics",
           "sort_order": 100
+        },
+        {
+          "slug": "dual-nature-of-radiation-and-matter",
+          "name": "Dual Nature of Radiation and Matter",
+          "sort_order": 110
+        },
+        {
+          "slug": "atoms",
+          "name": "Atoms",
+          "sort_order": 120
+        },
+        {
+          "slug": "nuclei",
+          "name": "Nuclei",
+          "sort_order": 130
+        },
+        {
+          "slug": "semiconductor-electronics-materials-devices-and-simple-circu",
+          "name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+          "sort_order": 140
         }
       ]
     },
@@ -121,89 +141,54 @@
       "sort_order": 20,
       "topics": [
         {
-          "slug": "solid-state",
-          "name": "Solid State",
-          "sort_order": 10
-        },
-        {
           "slug": "solutions",
           "name": "Solutions",
-          "sort_order": 20
+          "sort_order": 10
         },
         {
           "slug": "electrochemistry",
           "name": "Electrochemistry",
-          "sort_order": 30
+          "sort_order": 20
         },
         {
           "slug": "chemical-kinetics",
           "name": "Chemical Kinetics",
+          "sort_order": 30
+        },
+        {
+          "slug": "the-d-and-f-block-elements",
+          "name": "The d- and f-Block Elements",
           "sort_order": 40
         },
         {
-          "slug": "surface-chemistry",
-          "name": "Surface Chemistry",
+          "slug": "coordination-compounds",
+          "name": "Coordination Compounds",
           "sort_order": 50
-        },
-        {
-          "slug": "general-principles-and-process-of-isolation-of-elements",
-          "name": "General Principles and Process of Isolation of Elements",
-          "sort_order": 60
-        },
-        {
-          "slug": "group-i-and-ii-elements",
-          "name": "Group I & II Elements",
-          "sort_order": 70
-        },
-        {
-          "slug": "p-block-elements",
-          "name": "P-Block Elements",
-          "sort_order": 80
-        },
-        {
-          "slug": "d-and-f-block-elements",
-          "name": "d- and f-Block Elements",
-          "sort_order": 90
-        },
-        {
-          "slug": "co-ordination-compounds",
-          "name": "Co-ordination Compounds",
-          "sort_order": 100
         },
         {
           "slug": "haloalkanes-and-haloarenes",
           "name": "Haloalkanes and Haloarenes",
-          "sort_order": 110
+          "sort_order": 60
         },
         {
           "slug": "alcohols-phenols-and-ethers",
           "name": "Alcohols, Phenols and Ethers",
-          "sort_order": 120
+          "sort_order": 70
         },
         {
           "slug": "aldehydes-ketones-and-carboxylic-acids",
           "name": "Aldehydes, Ketones and Carboxylic Acids",
-          "sort_order": 130
+          "sort_order": 80
         },
         {
-          "slug": "organic-compounds-containing-nitrogen",
-          "name": "Organic Compounds Containing Nitrogen",
-          "sort_order": 140
+          "slug": "amines",
+          "name": "Amines",
+          "sort_order": 90
         },
         {
           "slug": "biomolecules",
           "name": "Biomolecules",
-          "sort_order": 150
-        },
-        {
-          "slug": "polymers",
-          "name": "Polymers",
-          "sort_order": 160
-        },
-        {
-          "slug": "chemistry-in-everyday-life",
-          "name": "Chemistry in Everyday Life",
-          "sort_order": 170
+          "sort_order": 100
         }
       ]
     },
@@ -233,54 +218,49 @@
           "sort_order": 40
         },
         {
-          "slug": "differentiability",
-          "name": "Differentiability",
+          "slug": "continuity-and-differentiability",
+          "name": "Continuity and Differentiability",
           "sort_order": 50
         },
         {
-          "slug": "applications-of-derivatives",
-          "name": "Applications of Derivatives",
+          "slug": "application-of-derivatives",
+          "name": "Application of Derivatives",
           "sort_order": 60
         },
         {
-          "slug": "indefinite-integrals",
-          "name": "Indefinite Integrals",
+          "slug": "integrals",
+          "name": "Integrals",
           "sort_order": 70
         },
         {
-          "slug": "definite-integrals",
-          "name": "Definite Integrals",
+          "slug": "application-of-integrals",
+          "name": "Application of Integrals",
           "sort_order": 80
-        },
-        {
-          "slug": "application-of-the-integrals",
-          "name": "Application of the Integrals",
-          "sort_order": 90
         },
         {
           "slug": "differential-equations",
           "name": "Differential Equations",
+          "sort_order": 90
+        },
+        {
+          "slug": "vector-algebra",
+          "name": "Vector Algebra",
           "sort_order": 100
         },
         {
-          "slug": "vectors",
-          "name": "Vectors",
+          "slug": "three-dimensional-geometry",
+          "name": "Three Dimensional Geometry",
           "sort_order": 110
-        },
-        {
-          "slug": "introduction-to-three-dimensional-geometry",
-          "name": "Introduction to Three-dimensional Geometry",
-          "sort_order": 120
         },
         {
           "slug": "linear-programming",
           "name": "Linear Programming",
-          "sort_order": 130
+          "sort_order": 120
         },
         {
           "slug": "probability",
           "name": "Probability",
-          "sort_order": 140
+          "sort_order": 130
         }
       ]
     }
