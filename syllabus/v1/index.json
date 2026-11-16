@@ -1168,7 +1168,8 @@
       "category": "banking",
       "subject_count": 5,
       "topic_count": 53,
-      "version": 2
+      "version": 2,
+      "unverified": true
     },
     {
       "slug": "ibps-rrb-clerk",
@@ -1194,7 +1195,8 @@
       "category": "banking",
       "subject_count": 5,
       "topic_count": 53,
-      "version": 2
+      "version": 2,
+      "unverified": true
     },
     {
       "slug": "sbi-clerk",
@@ -1216,7 +1218,8 @@
       "category": "banking",
       "subject_count": 4,
       "topic_count": 54,
-      "version": 2
+      "version": 2,
+      "unverified": true
     },
     {
       "slug": "rbi-assistant",
@@ -1235,7 +1238,8 @@
       "category": "banking",
       "subject_count": 5,
       "topic_count": 56,
-      "version": 2
+      "version": 2,
+      "unverified": true
     },
     {
       "slug": "rbi-grade-b",
@@ -1257,7 +1261,8 @@
       "category": "banking",
       "subject_count": 7,
       "topic_count": 65,
-      "version": 2
+      "version": 2,
+      "unverified": true
     },
     {
       "slug": "nabard-grade-a",
@@ -1279,7 +1284,8 @@
       "category": "banking",
       "subject_count": 9,
       "topic_count": 77,
-      "version": 2
+      "version": 2,
+      "unverified": true
     },
     {
       "slug": "lic-aao",
@@ -1300,7 +1306,8 @@
       "category": "banking",
       "subject_count": 6,
       "topic_count": 62,
-      "version": 2
+      "version": 2,
+      "unverified": true
     },
     {
       "slug": "ssc-cpo",
@@ -3198,7 +3205,8 @@
       "category": "banking",
       "subject_count": 4,
       "topic_count": 39,
-      "version": 2
+      "version": 2,
+      "unverified": true
     },
     {
       "slug": "ibps-so-agricultural-field-officer",
@@ -3223,7 +3231,8 @@
       "category": "banking",
       "subject_count": 4,
       "topic_count": 43,
-      "version": 2
+      "version": 2,
+      "unverified": true
     },
     {
       "slug": "ibps-so-hr-officer",
@@ -3248,7 +3257,8 @@
       "category": "banking",
       "subject_count": 4,
       "topic_count": 41,
-      "version": 2
+      "version": 2,
+      "unverified": true
     },
     {
       "slug": "ibps-so-law-officer",
@@ -3272,7 +3282,8 @@
       "category": "banking",
       "subject_count": 4,
       "topic_count": 43,
-      "version": 2
+      "version": 2,
+      "unverified": true
     },
     {
       "slug": "ibps-so-marketing-officer",
@@ -3295,7 +3306,8 @@
       "category": "banking",
       "subject_count": 4,
       "topic_count": 45,
-      "version": 2
+      "version": 2,
+      "unverified": true
     }
   ]
 }

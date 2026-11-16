@@ -295,6 +295,8 @@ def index_entry(doc):
         "topic_count": sum(len(s.get("topics") or []) for s in subjects),
         "version": ex.get("version"),
     })
+    if ex.get("verified") is not True:
+        entry["unverified"] = True
     return entry
 
 

@@ -125,6 +125,7 @@
       var top = el('div', 'lib-card-top');
       top.appendChild(el('strong', null, p.name));
       top.appendChild(el('span', 'tag', CATEGORY_LABEL[p.category] || p.category));
+      if (p.unverified) top.appendChild(el('span', 'tag lib-unverified', 'Unverified'));
       a.appendChild(top);
       a.appendChild(
         el('span', 'lib-meta', p.subject_count + ' subjects · ' + p.topic_count + ' chapters')
@@ -165,6 +166,15 @@
     var meta = el('p', 'lib-meta', CATEGORY_LABEL[p.category] || p.category);
     meta.textContent += ' · ' + p.subject_count + ' subjects · ' + p.topic_count + ' chapters';
     planView.appendChild(meta);
+    if (p.unverified) {
+      planView.appendChild(
+        el(
+          'p',
+          'lib-unverified-note',
+          'Unverified: these topics were collected from coaching websites and have not been checked against the official syllabus. Please confirm with the official notification.'
+        )
+      );
+    }
     if (!d) {
       planView.appendChild(el('p', 'lib-note', 'Loading...'));
       return;

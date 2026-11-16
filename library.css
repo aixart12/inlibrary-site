@@ -198,3 +198,19 @@
   gap: 8px;
   line-height: 1.4;
 }
+
+.lib-unverified {
+  color: var(--ink);
+  background: transparent;
+  border: 1.5px dashed var(--border-strong);
+}
+
+.lib-unverified-note {
+  margin: 8px 0 12px;
+  padding: 10px 12px;
+  color: var(--ink);
+  background: var(--surface);
+  border: 1.5px dashed var(--border-strong);
+  border-radius: 10px;
+  line-height: 1.45;
+}
