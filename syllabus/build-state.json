@@ -480,6 +480,34 @@
     "mht-cet-pcb": {
       "hash": "8250d5a823d8dcb5",
       "version": 1
+    },
+    "reet-level-1": {
+      "hash": "cf377678a47b847d",
+      "version": 1
+    },
+    "reet-level-2-maths-science": {
+      "hash": "8bb33eca62b3d9e2",
+      "version": 1
+    },
+    "reet-level-2-social-studies": {
+      "hash": "63c27d2df73249fb",
+      "version": 1
+    },
+    "uptet-paper-2-maths-science": {
+      "hash": "61c261885a8f8a9c",
+      "version": 1
+    },
+    "uptet-paper-2-social-studies": {
+      "hash": "de564d8a53c5d065",
+      "version": 1
+    },
+    "kvs-prt": {
+      "hash": "13a70c733d79734a",
+      "version": 1
+    },
+    "dsssb-prt": {
+      "hash": "9fe6e20d4d0b7439",
+      "version": 1
     }
   }
 }
