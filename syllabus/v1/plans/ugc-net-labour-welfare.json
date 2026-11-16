@@ -1,0 +1,149 @@
+{
+  "schema": 1,
+  "slug": "ugc-net-labour-welfare",
+  "kind": "exam",
+  "name": "UGC NET Labour Welfare and Human Resource Management (Paper 1 + Paper 2)",
+  "short_name": "UGC NET Labour Welfare",
+  "aliases": [
+    "ugc net",
+    "ugc-net",
+    "net",
+    "nta net",
+    "nta ugc net",
+    "net jrf",
+    "jrf",
+    "assistant professor",
+    "lectureship",
+    "net exam",
+    "ugc",
+    "labour welfare",
+    "labor welfare",
+    "hrm",
+    "human resource management",
+    "personnel management",
+    "industrial relations",
+    "labour and social welfare",
+    "paper 2",
+    "paper ii"
+  ],
+  "category": "teaching",
+  "subject_count": 2,
+  "topic_count": 20,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "labour-welfare-and-human-resource-management-paper-2",
+      "name": "Labour Welfare and Human Resource Management (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "principles-and-practices-of-management",
+          "name": "Principles and Practices of Management",
+          "sort_order": 10
+        },
+        {
+          "slug": "human-resource-management",
+          "name": "Human Resource Management",
+          "sort_order": 20
+        },
+        {
+          "slug": "human-resource-development-hrd",
+          "name": "Human Resource Development (HRD)",
+          "sort_order": 30
+        },
+        {
+          "slug": "organisational-behaviour",
+          "name": "Organisational Behaviour",
+          "sort_order": 40
+        },
+        {
+          "slug": "industrial-relations",
+          "name": "Industrial Relations",
+          "sort_order": 50
+        },
+        {
+          "slug": "industrial-disputes",
+          "name": "Industrial Disputes",
+          "sort_order": 60
+        },
+        {
+          "slug": "labour-legislation",
+          "name": "Labour Legislation",
+          "sort_order": 70
+        },
+        {
+          "slug": "wages",
+          "name": "Wages",
+          "sort_order": 80
+        },
+        {
+          "slug": "labour-welfare",
+          "name": "Labour Welfare",
+          "sort_order": 90
+        },
+        {
+          "slug": "labour-market",
+          "name": "Labour Market",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}
