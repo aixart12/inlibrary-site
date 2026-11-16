@@ -26,11 +26,11 @@
     "official_url": "https://www.csirhrdg.res.in",
     "syllabus_source_url": "https://csirhrdg.res.in/Home/Index/1/InPage/35/26",
     "syllabus_cycle": "Not printed on the PDF (file dated December 2020; exam scheme headed 'from June 2017 and onward'); linked from the CSIR-HRDG syllabus page on 2026-11-15",
-    "verified": false,
-    "verification_note": "Draft from the syllabus PDF (chemical_science_syllabus.pdf) linked on the CSIR-HRDG subject page, read as text; the Part A topics are the three areas named in the exam scheme on that page. Topics are the PDF's numbered items, cut at the colon or shortened; check first the shortened Inorganic and Organic titles against the PDF.",
-    "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "verified": true,
+    "verification_note": "Verified 2026-11-16 against chemical_science_syllabus.pdf on the CSIR-HRDG subject page: the 12 Inorganic, 14 Physical, 13 Organic and 5 Interdisciplinary topics match the PDF's numbered items in order and wording (some titles shortened at the colon); Part A areas match the exam scheme on the page. Topic headings were compared; the sub-points under each were not.",
+    "last_verified": "2026-11-16",
+    "version": 2,
+    "is_published": true,
     "sort_order": 830
   },
   "subjects": [

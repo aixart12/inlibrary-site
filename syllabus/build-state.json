@@ -306,20 +306,20 @@
       "version": 1
     },
     "csir-net-life-sciences": {
-      "hash": "5e036e73aa125499",
-      "version": 1
+      "hash": "c366ee764edc4e6b",
+      "version": 2
     },
     "csir-net-chemical-sciences": {
-      "hash": "56da90ccc8bb2a66",
-      "version": 1
+      "hash": "770e451fbf823b71",
+      "version": 2
     },
     "csir-net-mathematical-sciences": {
-      "hash": "7a999430158d662c",
-      "version": 1
+      "hash": "2b1638e2b7f95fe4",
+      "version": 2
     },
     "csir-net-physical-sciences": {
-      "hash": "d44c3692d013bc14",
-      "version": 1
+      "hash": "e44c0e1eae237f6e",
+      "version": 2
     },
     "uptet-paper-1": {
       "hash": "1f5b622f0b32d74c",
@@ -626,20 +626,20 @@
       "version": 1
     },
     "csir-net-earth-sciences-geology": {
-      "hash": "56f55220d7a235e6",
-      "version": 1
+      "hash": "bafbeeee9d0e5248",
+      "version": 2
     },
     "csir-net-earth-sciences-physical-geography": {
       "hash": "decfcfede710b329",
       "version": 1
     },
     "csir-net-earth-sciences-geophysics": {
-      "hash": "6acb3c10119d20e7",
-      "version": 1
+      "hash": "164b08425356fed4",
+      "version": 2
     },
     "csir-net-earth-sciences-meteorology": {
-      "hash": "bef09ad13e5f7b34",
-      "version": 1
+      "hash": "00c714391615f09b",
+      "version": 2
     },
     "csir-net-earth-sciences-ocean-sciences": {
       "hash": "61f3b6a732c2edd9",

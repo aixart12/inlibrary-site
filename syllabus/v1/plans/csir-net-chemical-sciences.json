@@ -1,0 +1,300 @@
+{
+  "schema": 1,
+  "slug": "csir-net-chemical-sciences",
+  "kind": "exam",
+  "name": "CSIR NET Chemical Sciences",
+  "short_name": "CSIR NET Chemical Sciences",
+  "aliases": [
+    "csir net",
+    "csir",
+    "csir ugc net",
+    "csir-net",
+    "net",
+    "jrf",
+    "net jrf",
+    "csir jrf",
+    "lectureship",
+    "assistant professor",
+    "nta csir",
+    "chemical sciences",
+    "chemical science",
+    "chemistry",
+    "chem"
+  ],
+  "category": "teaching",
+  "subject_count": 5,
+  "topic_count": 47,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "part-a-general-aptitude",
+      "name": "Part A: General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "general-science",
+          "name": "General Science",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-reasoning-and-analysis",
+          "name": "Quantitative Reasoning and Analysis",
+          "sort_order": 20
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "inorganic-chemistry",
+      "name": "Inorganic Chemistry",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "chemical-periodicity",
+          "name": "Chemical Periodicity",
+          "sort_order": 10
+        },
+        {
+          "slug": "structure-and-bonding-in-homo-and-heteronuclear-molecules-vs",
+          "name": "Structure and Bonding in Homo- and Heteronuclear Molecules (VSEPR Theory)",
+          "sort_order": 20
+        },
+        {
+          "slug": "concepts-of-acids-and-bases-hard-soft-acid-base-concept-non",
+          "name": "Concepts of Acids and Bases, Hard-Soft Acid Base Concept, Non-aqueous Solvents",
+          "sort_order": 30
+        },
+        {
+          "slug": "main-group-elements-and-their-compounds",
+          "name": "Main Group Elements and their Compounds",
+          "sort_order": 40
+        },
+        {
+          "slug": "transition-elements-and-coordination-compounds",
+          "name": "Transition Elements and Coordination Compounds",
+          "sort_order": 50
+        },
+        {
+          "slug": "inner-transition-elements",
+          "name": "Inner Transition Elements",
+          "sort_order": 60
+        },
+        {
+          "slug": "organometallic-compounds",
+          "name": "Organometallic Compounds",
+          "sort_order": 70
+        },
+        {
+          "slug": "cages-and-metal-clusters",
+          "name": "Cages and Metal Clusters",
+          "sort_order": 80
+        },
+        {
+          "slug": "analytical-chemistry",
+          "name": "Analytical Chemistry",
+          "sort_order": 90
+        },
+        {
+          "slug": "bioinorganic-chemistry",
+          "name": "Bioinorganic Chemistry",
+          "sort_order": 100
+        },
+        {
+          "slug": "characterisation-of-inorganic-compounds-by-spectroscopic-and",
+          "name": "Characterisation of Inorganic Compounds by Spectroscopic and Microscopic Techniques",
+          "sort_order": 110
+        },
+        {
+          "slug": "nuclear-chemistry",
+          "name": "Nuclear Chemistry",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "physical-chemistry",
+      "name": "Physical Chemistry",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "basic-principles-of-quantum-mechanics",
+          "name": "Basic Principles of Quantum Mechanics",
+          "sort_order": 10
+        },
+        {
+          "slug": "approximate-methods-of-quantum-mechanics",
+          "name": "Approximate Methods of Quantum Mechanics",
+          "sort_order": 20
+        },
+        {
+          "slug": "atomic-structure-and-spectroscopy",
+          "name": "Atomic Structure and Spectroscopy",
+          "sort_order": 30
+        },
+        {
+          "slug": "chemical-bonding-in-diatomics",
+          "name": "Chemical Bonding in Diatomics",
+          "sort_order": 40
+        },
+        {
+          "slug": "chemical-applications-of-group-theory",
+          "name": "Chemical Applications of Group Theory",
+          "sort_order": 50
+        },
+        {
+          "slug": "molecular-spectroscopy",
+          "name": "Molecular Spectroscopy",
+          "sort_order": 60
+        },
+        {
+          "slug": "chemical-thermodynamics",
+          "name": "Chemical Thermodynamics",
+          "sort_order": 70
+        },
+        {
+          "slug": "statistical-thermodynamics",
+          "name": "Statistical Thermodynamics",
+          "sort_order": 80
+        },
+        {
+          "slug": "electrochemistry",
+          "name": "Electrochemistry",
+          "sort_order": 90
+        },
+        {
+          "slug": "chemical-kinetics",
+          "name": "Chemical Kinetics",
+          "sort_order": 100
+        },
+        {
+          "slug": "colloids-and-surfaces",
+          "name": "Colloids and Surfaces",
+          "sort_order": 110
+        },
+        {
+          "slug": "solid-state",
+          "name": "Solid State",
+          "sort_order": 120
+        },
+        {
+          "slug": "polymer-chemistry",
+          "name": "Polymer Chemistry",
+          "sort_order": 130
+        },
+        {
+          "slug": "data-analysis",
+          "name": "Data Analysis",
+          "sort_order": 140
+        }
+      ]
+    },
+    {
+      "slug": "organic-chemistry",
+      "name": "Organic Chemistry",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "iupac-nomenclature-of-organic-molecules",
+          "name": "IUPAC Nomenclature of Organic Molecules",
+          "sort_order": 10
+        },
+        {
+          "slug": "principles-of-stereochemistry",
+          "name": "Principles of Stereochemistry",
+          "sort_order": 20
+        },
+        {
+          "slug": "aromaticity",
+          "name": "Aromaticity",
+          "sort_order": 30
+        },
+        {
+          "slug": "organic-reactive-intermediates",
+          "name": "Organic Reactive Intermediates",
+          "sort_order": 40
+        },
+        {
+          "slug": "organic-reaction-mechanisms",
+          "name": "Organic Reaction Mechanisms",
+          "sort_order": 50
+        },
+        {
+          "slug": "common-named-reactions-and-rearrangements",
+          "name": "Common Named Reactions and Rearrangements",
+          "sort_order": 60
+        },
+        {
+          "slug": "organic-transformations-and-reagents",
+          "name": "Organic Transformations and Reagents",
+          "sort_order": 70
+        },
+        {
+          "slug": "concepts-in-organic-synthesis",
+          "name": "Concepts in Organic Synthesis",
+          "sort_order": 80
+        },
+        {
+          "slug": "asymmetric-synthesis",
+          "name": "Asymmetric Synthesis",
+          "sort_order": 90
+        },
+        {
+          "slug": "pericyclic-reactions-and-photochemical-reactions",
+          "name": "Pericyclic Reactions and Photochemical Reactions",
+          "sort_order": 100
+        },
+        {
+          "slug": "heterocyclic-compounds",
+          "name": "Heterocyclic Compounds",
+          "sort_order": 110
+        },
+        {
+          "slug": "chemistry-of-natural-products",
+          "name": "Chemistry of Natural Products",
+          "sort_order": 120
+        },
+        {
+          "slug": "structure-determination-of-organic-compounds-by-spectroscopi",
+          "name": "Structure Determination of Organic Compounds by Spectroscopic Techniques",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "interdisciplinary-topics",
+      "name": "Interdisciplinary Topics",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "chemistry-in-nanoscience-and-technology",
+          "name": "Chemistry in Nanoscience and Technology",
+          "sort_order": 10
+        },
+        {
+          "slug": "catalysis-and-green-chemistry",
+          "name": "Catalysis and Green Chemistry",
+          "sort_order": 20
+        },
+        {
+          "slug": "medicinal-chemistry",
+          "name": "Medicinal Chemistry",
+          "sort_order": 30
+        },
+        {
+          "slug": "supramolecular-chemistry",
+          "name": "Supramolecular Chemistry",
+          "sort_order": 40
+        },
+        {
+          "slug": "environmental-chemistry",
+          "name": "Environmental Chemistry",
+          "sort_order": 50
+        }
+      ]
+    }
+  ]
+}

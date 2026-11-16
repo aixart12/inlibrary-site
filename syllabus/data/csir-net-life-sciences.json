@@ -28,11 +28,11 @@
     "official_url": "https://www.csirhrdg.res.in",
     "syllabus_source_url": "https://csirhrdg.res.in/Home/Index/1/InPage/37/26",
     "syllabus_cycle": "Revised syllabus (PDF dated 21 January 2026); the page also links an older syllabus 'up to exam cycle June 2026'",
-    "verified": false,
-    "verification_note": "Draft from the syllabus PDF (Merged_Syllabus_CSIR-DBT_21Jan2026.pdf) linked on the CSIR-HRDG subject page, read as text; the Part A topics are the three areas named in the exam scheme on that page. Topics are the PDF's 14 unit titles. Check first that the revised syllabus, not the one marked 'up to exam cycle June 2026', applies to the next exam.",
-    "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "verified": true,
+    "verification_note": "Verified 2026-11-16 against Merged_Syllabus_CSIR-DBT_21Jan2026.pdf, which the CSIR-HRDG page labels 'Syllabus (Revised)'; the 14 units match the PDF's numbered units. The page labels the older 13-unit PDF 'Syllabus up to Exam cycle June 2026', which has passed. Unit headings were compared; the sub-points under each were not.",
+    "last_verified": "2026-11-16",
+    "version": 2,
+    "is_published": true,
     "sort_order": 820
   },
   "subjects": [

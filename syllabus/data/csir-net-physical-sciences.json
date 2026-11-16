@@ -26,11 +26,11 @@
     "official_url": "https://www.csirhrdg.res.in",
     "syllabus_source_url": "https://csirhrdg.res.in/Home/Index/1/InPage/39/26",
     "syllabus_cycle": "Not printed on the PDF (file dated December 2020; exam scheme headed 'from June 2017 and onward'); linked from the CSIR-HRDG syllabus page on 2026-11-15",
-    "verified": false,
-    "verification_note": "Draft from the syllabus PDF (physicalscience_syllbus.pdf) linked on the CSIR-HRDG subject page, read as text; the Part A topics are the three areas named in the exam scheme on that page. Topics are the PDF's Roman-numbered headings under Core and Advanced; check first that the six headings repeated in both parts are wanted as separate topics.",
-    "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "verified": true,
+    "verification_note": "Verified 2026-11-16 against physicalscience_syllbus.pdf on the CSIR-HRDG subject page: the 6 Core and 9 Advanced Roman-numbered headings match the PDF. Six headings appear in both parts in the PDF and are kept as separate topics with a (Core) or (Advanced) suffix. Sub-points were not compared.",
+    "last_verified": "2026-11-16",
+    "version": 2,
+    "is_published": true,
     "sort_order": 850
   },
   "subjects": [
