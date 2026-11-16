@@ -49,7 +49,7 @@
     "syllabus_source_url": "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
     "syllabus_cycle": "2024-26 (latest Class XI-XII syllabus the board publishes; the PDF's own pages are headed 2007-09)",
     "verified": false,
-    "verification_note": "Draft from the board's scanned PDF via OCR. As of 2026-11-13 this is the only Class XI-XII syllabus linked on biharboardonline.com; no newer official one was found. A person should check it, and confirm with the board whether a newer syllabus exists, before publishing. History chapters (NCERT-style, 15) are from Physics Wallah's Bihar Board Class 12 History page, not the board PDF, which lists a different 2007-09 course; confirm with the board.",
+    "verification_note": "Draft from the board's scanned PDF via OCR. As of 2026-11-13 this is the only Class XI-XII syllabus linked on biharboardonline.com; no newer official one was found. A person should check it, and confirm with the board whether a newer syllabus exists, before publishing. History's 12 themes are the contents of NCERT's Class XII 'Themes in Indian History' Parts I-III (ncert.nic.in/textbook/pdf/lehs1ps.pdf, lehs2ps.pdf, lehs3ps.pdf, reprint 2026-27), used because page iii of the board PDF says the textbooks of all elective subjects are the NCERT Class XI-XII ones; the board PDF's own History list is the 2007-09 course and was not used. A person should confirm with the board that it still teaches from the NCERT books.",
     "last_verified": null,
     "version": 1,
     "is_published": false,
@@ -62,79 +62,64 @@
       "sort_order": 10,
       "topics": [
         {
-          "slug": "bricks-beads-and-bones-harappan-civilization",
-          "name": "Bricks, Beads and Bones: Harappan Civilization",
+          "slug": "bricks-beads-and-bones",
+          "name": "Bricks, Beads and Bones: The Harappan Civilisation",
           "sort_order": 10
         },
         {
-          "slug": "kings-peasants-and-towns-early-states-and-economies",
-          "name": "Kings, Peasants and Towns: Early States and Economies",
+          "slug": "kings-farmers-and-towns",
+          "name": "Kings, Farmers and Towns: Early States and Economies",
           "sort_order": 20
         },
         {
-          "slug": "brotherhood-caste-and-class-early-society",
-          "name": "Brotherhood, Caste and Class: Early Society",
+          "slug": "kinship-caste-and-class",
+          "name": "Kinship, Caste and Class: Early Societies",
           "sort_order": 30
         },
         {
           "slug": "thinkers-beliefs-and-buildings",
-          "name": "Thinkers, Beliefs and Buildings",
+          "name": "Thinkers, Beliefs and Buildings: Cultural Developments",
           "sort_order": 40
         },
         {
-          "slug": "from-the-traveller-s-point-of-view",
-          "name": "From the Traveller's Point of View",
+          "slug": "through-the-eyes-of-travellers",
+          "name": "Through the Eyes of Travellers: Perceptions of Society",
           "sort_order": 50
         },
         {
           "slug": "bhakti-sufi-traditions",
-          "name": "Bhakti Sufi Traditions",
+          "name": "Bhakti-Sufi Traditions: Changes in Religious Beliefs and Devotional Texts",
           "sort_order": 60
         },
         {
-          "slug": "capital-of-an-empire-vijayanagara",
-          "name": "Capital of an Empire: Vijayanagara",
+          "slug": "an-imperial-capital",
+          "name": "An Imperial Capital: Vijayanagara",
           "sort_order": 70
         },
         {
-          "slug": "peasants-landlords-and-the-state",
-          "name": "Peasants, Landlords and the State",
+          "slug": "peasants-zamindars-and-the-state",
+          "name": "Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire",
           "sort_order": 80
         },
         {
-          "slug": "rulers-and-mughal-chronicles",
-          "name": "Rulers and Mughal Chronicles",
+          "slug": "colonialism-and-the-countryside",
+          "name": "Colonialism and the Countryside: Exploring Official Archives",
           "sort_order": 90
         },
         {
-          "slug": "colonialism-and-the-countryside",
-          "name": "Colonialism and the Countryside",
+          "slug": "rebels-and-the-raj",
+          "name": "Rebels and the Raj: The Revolt of 1857 and Its Representations",
           "sort_order": 100
         },
         {
-          "slug": "rebellion-and-the-state",
-          "name": "Rebellion and the State",
+          "slug": "mahatma-gandhi-and-the-nationalist-movement",
+          "name": "Mahatma Gandhi and the Nationalist Movement: Civil Disobedience and Beyond",
           "sort_order": 110
         },
         {
-          "slug": "colonial-city",
-          "name": "Colonial City",
+          "slug": "framing-the-constitution",
+          "name": "Framing the Constitution: The Beginning of a New Era",
           "sort_order": 120
-        },
-        {
-          "slug": "mahatma-gandhi-and-the-national-movement",
-          "name": "Mahatma Gandhi and the National Movement",
-          "sort_order": 130
-        },
-        {
-          "slug": "understanding-partition",
-          "name": "Understanding Partition",
-          "sort_order": 140
-        },
-        {
-          "slug": "creation-of-the-constitution",
-          "name": "Creation of the Constitution",
-          "sort_order": 150
         }
       ]
     },
