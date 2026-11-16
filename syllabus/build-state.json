@@ -210,32 +210,32 @@
       "version": 2
     },
     "ibps-rrb-po": {
-      "hash": "1d46f47ce21bf020",
-      "version": 1
+      "hash": "ae87b7dd8869d40c",
+      "version": 2
     },
     "ibps-rrb-clerk": {
-      "hash": "5764c192e005170e",
-      "version": 1
+      "hash": "7342f4970e65f2e9",
+      "version": 2
     },
     "sbi-clerk": {
-      "hash": "dc2c4e87b08014c7",
-      "version": 1
+      "hash": "af3521d9a7ff7db8",
+      "version": 2
     },
     "rbi-assistant": {
-      "hash": "65684378c8cba77c",
-      "version": 1
+      "hash": "417492cbcd517049",
+      "version": 2
     },
     "rbi-grade-b": {
-      "hash": "34759c42589bc0f0",
-      "version": 1
+      "hash": "8493bb3e285c6467",
+      "version": 2
     },
     "nabard-grade-a": {
-      "hash": "5982e1f68fe2af27",
-      "version": 1
+      "hash": "e6a94d70e9414314",
+      "version": 2
     },
     "lic-aao": {
-      "hash": "3903259c78399ffa",
-      "version": 1
+      "hash": "e5f6fa8e4dfee62c",
+      "version": 2
     },
     "cds": {
       "hash": "9647d5b0d421fe93",
@@ -646,24 +646,24 @@
       "version": 2
     },
     "ibps-so-it-officer": {
-      "hash": "31b5d9a2f72ca3a3",
-      "version": 1
+      "hash": "84fa534794c6a4d3",
+      "version": 2
     },
     "ibps-so-agricultural-field-officer": {
-      "hash": "4dade861c0219e14",
-      "version": 1
+      "hash": "ac0e0495b57303d0",
+      "version": 2
     },
     "ibps-so-hr-officer": {
-      "hash": "72bd66e08da25577",
-      "version": 1
+      "hash": "287fa60574105922",
+      "version": 2
     },
     "ibps-so-law-officer": {
-      "hash": "de7a91b7119499d0",
-      "version": 1
+      "hash": "f14684bffc40d58f",
+      "version": 2
     },
     "ibps-so-marketing-officer": {
-      "hash": "afcee5551d66b293",
-      "version": 1
+      "hash": "37a4c79d039c96ca",
+      "version": 2
     }
   }
 }

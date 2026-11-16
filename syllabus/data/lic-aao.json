@@ -21,10 +21,10 @@
     "syllabus_source_url": "https://www.adda247.com/jobs/lic-aao-syllabus",
     "syllabus_cycle": "2026 (as described by the secondary source; official notification not opened)",
     "verified": false,
-    "verification_note": "General syllabus drafted from Adda247's LIC AAO syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. Check first the mains sections and the Insurance and Financial Market Awareness list, which the page gives only in broad words, against the LIC notification; the descriptive English test and the specialist posts are not included.",
+    "verification_note": "General syllabus drafted from Adda247's LIC AAO syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. Check first the mains sections and the Insurance and Financial Market Awareness list, which the page gives only in broad words, against the LIC notification; the descriptive English test and the specialist posts are not included. Published on 2026-11-16 at the owner's request while still unverified: the official documents checked (SBI, LIC, NABARD, RBI) give section names and sample questions, or a topic list for only some sections, so these topic lists have not been compared with an official syllabus.",
     "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "version": 2,
+    "is_published": true,
     "sort_order": 640
   },
   "subjects": [

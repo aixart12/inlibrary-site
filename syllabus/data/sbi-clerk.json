@@ -22,10 +22,10 @@
     "syllabus_source_url": "https://www.adda247.com/sbi-clerk/syllabus",
     "syllabus_cycle": "2026 (as described by the secondary source; official notification not opened)",
     "verified": false,
-    "verification_note": "General syllabus drafted from Adda247's SBI Clerk syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. Check first the mains pattern (sources disagree on 190 or 200 questions) and the topic lists against the SBI notification.",
+    "verification_note": "General syllabus drafted from Adda247's SBI Clerk syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. Check first the mains pattern (sources disagree on 190 or 200 questions) and the topic lists against the SBI notification. Published on 2026-11-16 at the owner's request while still unverified: the official documents checked (SBI, LIC, NABARD, RBI) give section names and sample questions, or a topic list for only some sections, so these topic lists have not been compared with an official syllabus.",
     "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "version": 2,
+    "is_published": true,
     "sort_order": 600
   },
   "subjects": [
