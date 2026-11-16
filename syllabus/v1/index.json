@@ -1570,6 +1570,34 @@
       "version": 2
     },
     {
+      "slug": "class-9-cbse",
+      "kind": "school",
+      "name": "Class 9 · CBSE",
+      "short_name": "Class 9",
+      "class": "9",
+      "board": "CBSE",
+      "aliases": [
+        "9",
+        "9th",
+        "ninth",
+        "class 9",
+        "class ix",
+        "ix",
+        "9 class",
+        "navi",
+        "nauvi",
+        "navin",
+        "secondary",
+        "cbse",
+        "cbse 9",
+        "ncert"
+      ],
+      "category": "school",
+      "subject_count": 4,
+      "topic_count": 52,
+      "version": 2
+    },
+    {
       "slug": "class-11-cbse-arts",
       "kind": "school",
       "name": "Class 11 · CBSE · Arts",
