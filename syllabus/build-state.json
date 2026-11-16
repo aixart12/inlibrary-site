@@ -244,6 +244,26 @@
     "ssc-stenographer": {
       "hash": "789e4d551875aba6",
       "version": 1
+    },
+    "cat": {
+      "hash": "3b10661e4cf1d950",
+      "version": 1
+    },
+    "xat": {
+      "hash": "edbaae775ff355a1",
+      "version": 1
+    },
+    "cmat": {
+      "hash": "5ec4974757842f88",
+      "version": 1
+    },
+    "mat": {
+      "hash": "593fa59024fdb91c",
+      "version": 1
+    },
+    "clat-ug": {
+      "hash": "5c03ba14e60026ff",
+      "version": 1
     }
   }
 }
