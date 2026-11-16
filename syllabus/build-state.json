@@ -104,6 +104,38 @@
     "class-12-cbse-commerce": {
       "hash": "7242bf3f174cc36a",
       "version": 1
+    },
+    "gate-ar-architecture": {
+      "hash": "f10964c4dffa5da3",
+      "version": 1
+    },
+    "gate-ar-planning": {
+      "hash": "60e2554a561af1c2",
+      "version": 1
+    },
+    "gate-ra-electrical": {
+      "hash": "b22eef396ab00dc7",
+      "version": 1
+    },
+    "gate-ra-mechanical": {
+      "hash": "372888ff0e45747f",
+      "version": 1
+    },
+    "gate-ge-surveying-and-mapping": {
+      "hash": "31bbd129047f314b",
+      "version": 1
+    },
+    "gate-ge-image-processing": {
+      "hash": "5fd1b7bdb8e365cc",
+      "version": 1
+    },
+    "gate-gg-geology": {
+      "hash": "81b40b1e4bdb1e29",
+      "version": 1
+    },
+    "gate-gg-geophysics": {
+      "hash": "c07f78a7c87ce0c0",
+      "version": 1
     }
   }
 }

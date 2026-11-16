@@ -1,0 +1,127 @@
+{
+  "exam": {
+    "slug": "gate-ar-architecture",
+    "name": "GATE Architecture (AR, Part B1)",
+    "short_name": "GATE AR Architecture",
+    "kind": "exam",
+    "aliases": [
+      "gate",
+      "gate exam",
+      "gate 2027",
+      "graduate aptitude test in engineering",
+      "mtech",
+      "m.tech",
+      "psu",
+      "iit",
+      "ar",
+      "gate ar",
+      "architecture",
+      "architecture and planning",
+      "arch"
+    ],
+    "category": "entrance",
+    "conducting_body": "Indian Institute of Technology Madras (organising institute, GATE 2027)",
+    "official_url": "https://gate2027.iitm.ac.in",
+    "syllabus_source_url": "https://gate2027.iitm.ac.in/exam_papers_and_syllabus",
+    "syllabus_cycle": "GATE 2027",
+    "verified": false,
+    "verification_note": "Draft from the GATE 2027 syllabus PDFs (GA_GATE2027_Syllabus.pdf, AR_GATE2027_Syllabus.pdf) linked on the official GATE 2027 page, read as text. The paper has a common Part A and then Part B1 (Architecture) or Part B2 (Planning), of which a candidate answers one, so each option is its own plan; topics are the PDF's section titles. Check first each title against the PDF.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1540
+  },
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "common-section-part-a",
+      "name": "Common Section (Part A)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "design-and-graphics",
+          "name": "Design and Graphics",
+          "sort_order": 10
+        },
+        {
+          "slug": "environmental-planning-and-landscape",
+          "name": "Environmental Planning and Landscape",
+          "sort_order": 20
+        },
+        {
+          "slug": "urban-design-and-conservation",
+          "name": "Urban Design and Conservation",
+          "sort_order": 30
+        },
+        {
+          "slug": "town-planning-housing-and-real-estate-development",
+          "name": "Town Planning, Housing and Real Estate Development",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "architecture-part-b1",
+      "name": "Architecture (Part B1)",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "history-and-theory-of-architecture",
+          "name": "History and Theory of Architecture",
+          "sort_order": 10
+        },
+        {
+          "slug": "climatology-and-environmentally-responsive-design",
+          "name": "Climatology and Environmentally Responsive Design",
+          "sort_order": 20
+        },
+        {
+          "slug": "building-construction-materials-and-structural-systems",
+          "name": "Building Construction, Materials and Structural Systems",
+          "sort_order": 30
+        },
+        {
+          "slug": "building-services",
+          "name": "Building Services",
+          "sort_order": 40
+        },
+        {
+          "slug": "computer-applications-in-architecture",
+          "name": "Computer Applications in Architecture",
+          "sort_order": 50
+        },
+        {
+          "slug": "project-management-and-professional-practice",
+          "name": "Project Management and Professional Practice",
+          "sort_order": 60
+        }
+      ]
+    }
+  ]
+}
