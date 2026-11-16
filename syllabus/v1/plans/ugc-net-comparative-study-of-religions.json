@@ -1,0 +1,146 @@
+{
+  "schema": 1,
+  "slug": "ugc-net-comparative-study-of-religions",
+  "kind": "exam",
+  "name": "UGC NET Comparative Study of Religions (Paper 1 + Paper 2)",
+  "short_name": "UGC NET Comparative Study of Religions",
+  "aliases": [
+    "ugc net",
+    "ugc-net",
+    "net",
+    "nta net",
+    "nta ugc net",
+    "net jrf",
+    "jrf",
+    "assistant professor",
+    "lectureship",
+    "net exam",
+    "ugc",
+    "comparative religion",
+    "comparative religions",
+    "religion",
+    "religious studies",
+    "paper 2",
+    "paper ii"
+  ],
+  "category": "teaching",
+  "subject_count": 2,
+  "topic_count": 20,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "comparative-study-of-religions-paper-2",
+      "name": "Comparative Study of Religions (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "study-of-religion",
+          "name": "Study of Religion",
+          "sort_order": 10
+        },
+        {
+          "slug": "pre-historical-religious-forms",
+          "name": "Pre-historical Religious Forms",
+          "sort_order": 20
+        },
+        {
+          "slug": "modern-trends-in-the-study-of-religion",
+          "name": "Modern Trends in the Study of Religion",
+          "sort_order": 30
+        },
+        {
+          "slug": "hinduism",
+          "name": "Hinduism",
+          "sort_order": 40
+        },
+        {
+          "slug": "jainism",
+          "name": "Jainism",
+          "sort_order": 50
+        },
+        {
+          "slug": "buddhism",
+          "name": "Buddhism",
+          "sort_order": 60
+        },
+        {
+          "slug": "judaism",
+          "name": "Judaism",
+          "sort_order": 70
+        },
+        {
+          "slug": "christianity",
+          "name": "Christianity",
+          "sort_order": 80
+        },
+        {
+          "slug": "islam",
+          "name": "Islam",
+          "sort_order": 90
+        },
+        {
+          "slug": "sikhism",
+          "name": "Sikhism",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}
