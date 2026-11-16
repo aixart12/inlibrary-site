@@ -1,0 +1,331 @@
+{
+  "exam": {
+    "slug": "sbi-clerk",
+    "name": "SBI Clerk (Junior Associate)",
+    "short_name": "SBI Clerk",
+    "kind": "exam",
+    "aliases": [
+      "sbi clerk",
+      "sbi",
+      "state bank of india",
+      "junior associate",
+      "sbi ja",
+      "sbi junior associate",
+      "clerk",
+      "bank clerk",
+      "bank exam",
+      "banking"
+    ],
+    "category": "banking",
+    "conducting_body": "State Bank of India (SBI)",
+    "official_url": "https://sbi.bank.in/web/careers",
+    "syllabus_source_url": "https://www.adda247.com/sbi-clerk/syllabus",
+    "syllabus_cycle": "2026 (as described by the secondary source; official notification not opened)",
+    "verified": false,
+    "verification_note": "General syllabus drafted from Adda247's SBI Clerk syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. Check first the mains pattern (sources disagree on 190 or 200 questions) and the topic lists against the SBI notification.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 600
+  },
+  "subjects": [
+    {
+      "slug": "reasoning-ability-and-computer-aptitude",
+      "name": "Reasoning Ability and Computer Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "puzzles-floor-box-day-month-and-age",
+          "name": "Puzzles: Floor, Box, Day, Month and Age",
+          "sort_order": 10
+        },
+        {
+          "slug": "seating-arrangement",
+          "name": "Seating Arrangement",
+          "sort_order": 20
+        },
+        {
+          "slug": "syllogism",
+          "name": "Syllogism",
+          "sort_order": 30
+        },
+        {
+          "slug": "inequalities",
+          "name": "Inequalities",
+          "sort_order": 40
+        },
+        {
+          "slug": "blood-relations",
+          "name": "Blood Relations",
+          "sort_order": 50
+        },
+        {
+          "slug": "direction-and-distance",
+          "name": "Direction and Distance",
+          "sort_order": 60
+        },
+        {
+          "slug": "coding-decoding",
+          "name": "Coding-Decoding",
+          "sort_order": 70
+        },
+        {
+          "slug": "order-and-ranking",
+          "name": "Order and Ranking",
+          "sort_order": 80
+        },
+        {
+          "slug": "alphanumeric-series",
+          "name": "Alphanumeric Series",
+          "sort_order": 90
+        },
+        {
+          "slug": "machine-input-output",
+          "name": "Machine Input-Output",
+          "sort_order": 100
+        },
+        {
+          "slug": "data-sufficiency",
+          "name": "Data Sufficiency",
+          "sort_order": 110
+        },
+        {
+          "slug": "logical-reasoning-assumption-conclusion-cause-and-effect-arg",
+          "name": "Logical Reasoning: Assumption, Conclusion, Cause and Effect, Argument and Inference",
+          "sort_order": 120
+        },
+        {
+          "slug": "computer-awareness-fundamentals-history-and-future-of-comput",
+          "name": "Computer Awareness: Fundamentals, History and Future of Computers",
+          "sort_order": 130
+        },
+        {
+          "slug": "computer-awareness-networking-internet-and-security-tools",
+          "name": "Computer Awareness: Networking, Internet and Security Tools",
+          "sort_order": 140
+        },
+        {
+          "slug": "computer-awareness-languages-databases-input-and-output-devi",
+          "name": "Computer Awareness: Languages, Databases, Input and Output Devices",
+          "sort_order": 150
+        },
+        {
+          "slug": "computer-awareness-ms-office-and-keyboard-shortcuts",
+          "name": "Computer Awareness: MS Office and Keyboard Shortcuts",
+          "sort_order": 160
+        }
+      ]
+    },
+    {
+      "slug": "quantitative-aptitude",
+      "name": "Quantitative Aptitude",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "simplification-and-approximation",
+          "name": "Simplification and Approximation",
+          "sort_order": 10
+        },
+        {
+          "slug": "number-series",
+          "name": "Number Series",
+          "sort_order": 20
+        },
+        {
+          "slug": "quadratic-equations-and-quantity-comparison",
+          "name": "Quadratic Equations and Quantity Comparison",
+          "sort_order": 30
+        },
+        {
+          "slug": "data-interpretation-caselets-missing-di-and-mixed-graphs",
+          "name": "Data Interpretation: Caselets, Missing DI and Mixed Graphs",
+          "sort_order": 40
+        },
+        {
+          "slug": "data-sufficiency-quantitative-aptitude",
+          "name": "Data Sufficiency",
+          "sort_order": 50
+        },
+        {
+          "slug": "percentage-ratio-and-proportion-average",
+          "name": "Percentage, Ratio and Proportion, Average",
+          "sort_order": 60
+        },
+        {
+          "slug": "profit-and-loss",
+          "name": "Profit and Loss",
+          "sort_order": 70
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 80
+        },
+        {
+          "slug": "time-and-work-pipes-and-cisterns",
+          "name": "Time and Work, Pipes and Cisterns",
+          "sort_order": 90
+        },
+        {
+          "slug": "speed-time-and-distance",
+          "name": "Speed, Time and Distance",
+          "sort_order": 100
+        },
+        {
+          "slug": "partnership-mixture-and-alligation-ages",
+          "name": "Partnership, Mixture and Alligation, Ages",
+          "sort_order": 110
+        },
+        {
+          "slug": "mensuration-volume-and-surface-area",
+          "name": "Mensuration, Volume and Surface Area",
+          "sort_order": 120
+        },
+        {
+          "slug": "probability-permutation-and-combination",
+          "name": "Probability, Permutation and Combination",
+          "sort_order": 130
+        },
+        {
+          "slug": "lcm-and-hcf",
+          "name": "LCM and HCF",
+          "sort_order": 140
+        }
+      ]
+    },
+    {
+      "slug": "english-language",
+      "name": "English Language",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 10
+        },
+        {
+          "slug": "cloze-test",
+          "name": "Cloze Test",
+          "sort_order": 20
+        },
+        {
+          "slug": "fill-in-the-blanks",
+          "name": "Fill in the Blanks",
+          "sort_order": 30
+        },
+        {
+          "slug": "error-detection-and-error-correction",
+          "name": "Error Detection and Error Correction",
+          "sort_order": 40
+        },
+        {
+          "slug": "sentence-improvement-and-phrase-replacement",
+          "name": "Sentence Improvement and Phrase Replacement",
+          "sort_order": 50
+        },
+        {
+          "slug": "para-jumbles-and-word-rearrangement",
+          "name": "Para Jumbles and Word Rearrangement",
+          "sort_order": 60
+        },
+        {
+          "slug": "odd-sentence-out",
+          "name": "Odd Sentence Out",
+          "sort_order": 70
+        },
+        {
+          "slug": "sentence-completion-and-paragraph-completion",
+          "name": "Sentence Completion and Paragraph Completion",
+          "sort_order": 80
+        },
+        {
+          "slug": "sentence-connectors",
+          "name": "Sentence Connectors",
+          "sort_order": 90
+        },
+        {
+          "slug": "idioms-phrases-and-phrasal-verbs",
+          "name": "Idioms, Phrases and Phrasal Verbs",
+          "sort_order": 100
+        },
+        {
+          "slug": "vocabulary-word-swap-and-misspelled-words",
+          "name": "Vocabulary, Word Swap and Misspelled Words",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "general-and-financial-awareness",
+      "name": "General and Financial Awareness",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "current-affairs-national-international-state-and-sports-news",
+          "name": "Current Affairs: National, International, State and Sports News",
+          "sort_order": 10
+        },
+        {
+          "slug": "central-government-schemes",
+          "name": "Central Government Schemes",
+          "sort_order": 20
+        },
+        {
+          "slug": "banking-insurance-business-and-economy-news",
+          "name": "Banking, Insurance, Business and Economy News",
+          "sort_order": 30
+        },
+        {
+          "slug": "rbi-related-news",
+          "name": "RBI-related News",
+          "sort_order": 40
+        },
+        {
+          "slug": "static-gk-and-banking-knowledge",
+          "name": "Static GK and Banking Knowledge",
+          "sort_order": 50
+        },
+        {
+          "slug": "union-budget",
+          "name": "Union Budget",
+          "sort_order": 60
+        },
+        {
+          "slug": "agreements-mous-summits-and-conferences",
+          "name": "Agreements, MoUs, Summits and Conferences",
+          "sort_order": 70
+        },
+        {
+          "slug": "ranks-reports-and-indexes",
+          "name": "Ranks, Reports and Indexes",
+          "sort_order": 80
+        },
+        {
+          "slug": "appointments-awards-and-honours-obituaries",
+          "name": "Appointments, Awards and Honours, Obituaries",
+          "sort_order": 90
+        },
+        {
+          "slug": "books-and-authors-important-days",
+          "name": "Books and Authors, Important Days",
+          "sort_order": 100
+        },
+        {
+          "slug": "defence-science-and-technology",
+          "name": "Defence, Science and Technology",
+          "sort_order": 110
+        },
+        {
+          "slug": "committees-councils-apps-and-portals",
+          "name": "Committees, Councils, Apps and Portals",
+          "sort_order": 120
+        },
+        {
+          "slug": "international-loans-and-abbreviations",
+          "name": "International Loans and Abbreviations",
+          "sort_order": 130
+        }
+      ]
+    }
+  ]
+}
