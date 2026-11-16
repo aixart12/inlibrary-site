@@ -105,6 +105,258 @@
       "hash": "7242bf3f174cc36a",
       "version": 1
     },
+    "wbjee": {
+      "hash": "e0fea269905eee9b",
+      "version": 1
+    },
+    "comedk-uget": {
+      "hash": "8229e95d1b2d84bd",
+      "version": 1
+    },
+    "viteee-pcm": {
+      "hash": "5658141411bc7a75",
+      "version": 1
+    },
+    "viteee-pcb": {
+      "hash": "7a00b3b7d95b0a84",
+      "version": 1
+    },
+    "ugc-net-paper-1": {
+      "hash": "dfb41a152610379f",
+      "version": 1
+    },
+    "ugc-net-economics": {
+      "hash": "855f3dab9cfc8dc5",
+      "version": 1
+    },
+    "ugc-net-commerce": {
+      "hash": "59b496e945db4de2",
+      "version": 1
+    },
+    "ugc-net-education": {
+      "hash": "f2e73ead41e8dfaf",
+      "version": 1
+    },
+    "ugc-net-political-science": {
+      "hash": "735f147667cd4214",
+      "version": 1
+    },
+    "ugc-net-history": {
+      "hash": "a9757fb2bed197ad",
+      "version": 1
+    },
+    "ugc-net-sociology": {
+      "hash": "d777d337c5170fb1",
+      "version": 1
+    },
+    "ugc-net-english": {
+      "hash": "63ea9240a06957c7",
+      "version": 1
+    },
+    "ugc-net-law": {
+      "hash": "6b455552f0d94d09",
+      "version": 1
+    },
+    "ugc-net-computer-science": {
+      "hash": "1d4c74a635bca48c",
+      "version": 1
+    },
+    "ugc-net-geography": {
+      "hash": "a03820e258b3779f",
+      "version": 1
+    },
+    "ugc-net-psychology": {
+      "hash": "79213dd8813ae8a4",
+      "version": 1
+    },
+    "ugc-net-home-science": {
+      "hash": "b805fc262bb3bba7",
+      "version": 1
+    },
+    "ugc-net-philosophy": {
+      "hash": "8a637a8e2d55027d",
+      "version": 1
+    },
+    "ugc-net-environmental-sciences": {
+      "hash": "12f8f6ca4fcc93bc",
+      "version": 1
+    },
+    "ugc-net-social-work": {
+      "hash": "3b656ed7096a2289",
+      "version": 1
+    },
+    "ugc-net-mass-communication-and-journalism": {
+      "hash": "424eb803b3ae7c45",
+      "version": 1
+    },
+    "ugc-net-yoga": {
+      "hash": "37b7e1486b19c039",
+      "version": 1
+    },
+    "ibps-rrb-po": {
+      "hash": "1d46f47ce21bf020",
+      "version": 1
+    },
+    "ibps-rrb-clerk": {
+      "hash": "5764c192e005170e",
+      "version": 1
+    },
+    "sbi-clerk": {
+      "hash": "dc2c4e87b08014c7",
+      "version": 1
+    },
+    "rbi-assistant": {
+      "hash": "65684378c8cba77c",
+      "version": 1
+    },
+    "rbi-grade-b": {
+      "hash": "34759c42589bc0f0",
+      "version": 1
+    },
+    "nabard-grade-a": {
+      "hash": "5982e1f68fe2af27",
+      "version": 1
+    },
+    "lic-aao": {
+      "hash": "3903259c78399ffa",
+      "version": 1
+    },
+    "cds": {
+      "hash": "9647d5b0d421fe93",
+      "version": 1
+    },
+    "afcat": {
+      "hash": "33ec2495021f26b6",
+      "version": 1
+    },
+    "capf-ac": {
+      "hash": "18622de0afe1c5fc",
+      "version": 1
+    },
+    "agniveer-army-gd": {
+      "hash": "768eadbf2981998e",
+      "version": 1
+    },
+    "ssc-cpo": {
+      "hash": "e05b846267c0294a",
+      "version": 1
+    },
+    "ssc-stenographer": {
+      "hash": "789e4d551875aba6",
+      "version": 1
+    },
+    "cat": {
+      "hash": "3b10661e4cf1d950",
+      "version": 1
+    },
+    "xat": {
+      "hash": "edbaae775ff355a1",
+      "version": 1
+    },
+    "cmat": {
+      "hash": "5ec4974757842f88",
+      "version": 1
+    },
+    "mat": {
+      "hash": "593fa59024fdb91c",
+      "version": 1
+    },
+    "clat-ug": {
+      "hash": "5c03ba14e60026ff",
+      "version": 1
+    },
+    "uppsc-pcs-prelims": {
+      "hash": "46802e9df410d3ac",
+      "version": 1
+    },
+    "up-police-constable": {
+      "hash": "2c2109a2ae8f380d",
+      "version": 1
+    },
+    "upsssc-pet": {
+      "hash": "b232f7afa9a0e54f",
+      "version": 1
+    },
+    "mppsc-prelims": {
+      "hash": "4f77857e1bfdee5d",
+      "version": 1
+    },
+    "rpsc-ras-prelims": {
+      "hash": "212201fd6d7918cb",
+      "version": 1
+    },
+    "bihar-police-si": {
+      "hash": "309ec6808ad1607e",
+      "version": 1
+    },
+    "csir-net-life-sciences": {
+      "hash": "5e036e73aa125499",
+      "version": 1
+    },
+    "csir-net-chemical-sciences": {
+      "hash": "56da90ccc8bb2a66",
+      "version": 1
+    },
+    "csir-net-mathematical-sciences": {
+      "hash": "7a999430158d662c",
+      "version": 1
+    },
+    "csir-net-physical-sciences": {
+      "hash": "d44c3692d013bc14",
+      "version": 1
+    },
+    "uptet-paper-1": {
+      "hash": "1f5b622f0b32d74c",
+      "version": 1
+    },
+    "gate-cs": {
+      "hash": "b132148a94a8598d",
+      "version": 1
+    },
+    "gate-ee": {
+      "hash": "1be08aa93bbe0d83",
+      "version": 1
+    },
+    "gate-me": {
+      "hash": "37a8682f8aa8e659",
+      "version": 1
+    },
+    "gate-ce": {
+      "hash": "3eba20d0f832807d",
+      "version": 1
+    },
+    "gate-ec": {
+      "hash": "c36654256d0ac859",
+      "version": 1
+    },
+    "gate-da": {
+      "hash": "bf5f3c3229195822",
+      "version": 1
+    },
+    "gate-ch": {
+      "hash": "1e122e66412e261e",
+      "version": 1
+    },
+    "gate-in": {
+      "hash": "237d4e8706f1dde4",
+      "version": 1
+    },
+    "class-11-cbse-pcm": {
+      "hash": "4200ec38dcb089cf",
+      "version": 1
+    },
+    "class-11-cbse-pcb": {
+      "hash": "6563da5ff38f3783",
+      "version": 1
+    },
+    "class-11-cbse-commerce": {
+      "hash": "a37dc779d8933806",
+      "version": 1
+    },
+    "class-9-cbse": {
+      "hash": "def200c987ce2c29",
+      "version": 1
+    },
     "class-11-cbse-arts": {
       "hash": "3246be78fed0bbcc",
       "version": 1

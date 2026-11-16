@@ -1,0 +1,318 @@
+{
+  "exam": {
+    "slug": "cmat",
+    "name": "CMAT (Common Management Admission Test)",
+    "short_name": "CMAT",
+    "kind": "exam",
+    "aliases": [
+      "cmat",
+      "cmat exam",
+      "common management admission test",
+      "nta cmat",
+      "aicte",
+      "mba",
+      "mba entrance",
+      "management",
+      "pgdm",
+      "b school"
+    ],
+    "category": "entrance",
+    "conducting_body": "National Testing Agency (NTA)",
+    "official_url": "https://exams.nta.ac.in/CMAT",
+    "syllabus_source_url": "https://mba.hitbullseye.com/CMAT/Syllabus.php",
+    "syllabus_cycle": "CMAT 2027 (as described by the secondary source)",
+    "verified": false,
+    "verification_note": "General syllabus drafted from Hitbullseye's CMAT syllabus page, a secondary site; the exam body publishes no topic list, so topic names are that page's lists, grouped. Check first the five section names against the NTA CMAT information bulletin.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 730
+  },
+  "subjects": [
+    {
+      "slug": "quantitative-techniques-and-data-interpretation",
+      "name": "Quantitative Techniques and Data Interpretation",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "number-system",
+          "name": "Number System",
+          "sort_order": 10
+        },
+        {
+          "slug": "percentages-and-averages",
+          "name": "Percentages and Averages",
+          "sort_order": 20
+        },
+        {
+          "slug": "profit-and-loss",
+          "name": "Profit and Loss",
+          "sort_order": 30
+        },
+        {
+          "slug": "simple-interest-and-compound-interest",
+          "name": "Simple Interest and Compound Interest",
+          "sort_order": 40
+        },
+        {
+          "slug": "time-speed-and-distance",
+          "name": "Time, Speed and Distance",
+          "sort_order": 50
+        },
+        {
+          "slug": "work-and-time",
+          "name": "Work and Time",
+          "sort_order": 60
+        },
+        {
+          "slug": "time-and-calendar",
+          "name": "Time and Calendar",
+          "sort_order": 70
+        },
+        {
+          "slug": "alligation-and-mixtures",
+          "name": "Alligation and Mixtures",
+          "sort_order": 80
+        },
+        {
+          "slug": "algebra-quadratic-and-linear-equations",
+          "name": "Algebra, Quadratic and Linear Equations",
+          "sort_order": 90
+        },
+        {
+          "slug": "geometry-and-mensuration",
+          "name": "Geometry and Mensuration",
+          "sort_order": 100
+        },
+        {
+          "slug": "sets",
+          "name": "Sets",
+          "sort_order": 110
+        },
+        {
+          "slug": "probability-permutations-and-combinations",
+          "name": "Probability, Permutations and Combinations",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "logical-reasoning",
+      "name": "Logical Reasoning",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "assertion-reasoning",
+          "name": "Assertion-Reasoning",
+          "sort_order": 10
+        },
+        {
+          "slug": "inferences-and-critical-reasoning",
+          "name": "Inferences and Critical Reasoning",
+          "sort_order": 20
+        },
+        {
+          "slug": "assumption-premise-conclusion",
+          "name": "Assumption-Premise-Conclusion",
+          "sort_order": 30
+        },
+        {
+          "slug": "true-and-false-statements",
+          "name": "True and False Statements",
+          "sort_order": 40
+        },
+        {
+          "slug": "linear-arrangements",
+          "name": "Linear Arrangements",
+          "sort_order": 50
+        },
+        {
+          "slug": "sequences-and-series",
+          "name": "Sequences and Series",
+          "sort_order": 60
+        },
+        {
+          "slug": "strong-and-weak-arguments",
+          "name": "Strong and Weak Arguments",
+          "sort_order": 70
+        },
+        {
+          "slug": "statements-and-assumptions",
+          "name": "Statements and Assumptions",
+          "sort_order": 80
+        },
+        {
+          "slug": "coding-decoding",
+          "name": "Coding-Decoding",
+          "sort_order": 90
+        },
+        {
+          "slug": "cause-and-effect",
+          "name": "Cause and Effect",
+          "sort_order": 100
+        },
+        {
+          "slug": "statement-conclusion",
+          "name": "Statement-Conclusion",
+          "sort_order": 110
+        },
+        {
+          "slug": "symbol-based-problems",
+          "name": "Symbol-based Problems",
+          "sort_order": 120
+        },
+        {
+          "slug": "blood-relations",
+          "name": "Blood Relations",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "language-comprehension",
+      "name": "Language Comprehension",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 10
+        },
+        {
+          "slug": "grammar-sentence-correction-fill-in-the-blanks",
+          "name": "Grammar: Sentence Correction, Fill in the Blanks",
+          "sort_order": 20
+        },
+        {
+          "slug": "sentence-rearrangement",
+          "name": "Sentence Rearrangement",
+          "sort_order": 30
+        },
+        {
+          "slug": "antonyms-and-synonyms",
+          "name": "Antonyms and Synonyms",
+          "sort_order": 40
+        },
+        {
+          "slug": "paragraph-completion",
+          "name": "Paragraph Completion",
+          "sort_order": 50
+        },
+        {
+          "slug": "english-usage-errors",
+          "name": "English Usage Errors",
+          "sort_order": 60
+        },
+        {
+          "slug": "one-word-substitution",
+          "name": "One Word Substitution",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "general-awareness",
+      "name": "General Awareness",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "history",
+          "name": "History",
+          "sort_order": 10
+        },
+        {
+          "slug": "indian-constitution",
+          "name": "Indian Constitution",
+          "sort_order": 20
+        },
+        {
+          "slug": "culture",
+          "name": "Culture",
+          "sort_order": 30
+        },
+        {
+          "slug": "geography",
+          "name": "Geography",
+          "sort_order": 40
+        },
+        {
+          "slug": "economy-and-business",
+          "name": "Economy and Business",
+          "sort_order": 50
+        },
+        {
+          "slug": "science-and-technology",
+          "name": "Science and Technology",
+          "sort_order": 60
+        },
+        {
+          "slug": "books-prizes-and-awards",
+          "name": "Books, Prizes and Awards",
+          "sort_order": 70
+        },
+        {
+          "slug": "international-affairs",
+          "name": "International Affairs",
+          "sort_order": 80
+        },
+        {
+          "slug": "current-affairs-and-persons-in-news",
+          "name": "Current Affairs and Persons in News",
+          "sort_order": 90
+        },
+        {
+          "slug": "sports",
+          "name": "Sports",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "innovation-and-entrepreneurship",
+      "name": "Innovation and Entrepreneurship",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "concepts-of-innovation",
+          "name": "Concepts of Innovation",
+          "sort_order": 10
+        },
+        {
+          "slug": "theories-of-entrepreneurship",
+          "name": "Theories of Entrepreneurship",
+          "sort_order": 20
+        },
+        {
+          "slug": "types-of-entrepreneurs",
+          "name": "Types of Entrepreneurs",
+          "sort_order": 30
+        },
+        {
+          "slug": "entrepreneurship-challenges",
+          "name": "Entrepreneurship Challenges",
+          "sort_order": 40
+        },
+        {
+          "slug": "role-of-government-in-promoting-entrepreneurship",
+          "name": "Role of Government in Promoting Entrepreneurship",
+          "sort_order": 50
+        },
+        {
+          "slug": "marketing-and-growth-strategy",
+          "name": "Marketing and Growth Strategy",
+          "sort_order": 60
+        },
+        {
+          "slug": "legal-structure-of-startups",
+          "name": "Legal Structure of Startups",
+          "sort_order": 70
+        },
+        {
+          "slug": "government-schemes-for-startups",
+          "name": "Government Schemes for Startups",
+          "sort_order": 80
+        }
+      ]
+    }
+  ]
+}
