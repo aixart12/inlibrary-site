@@ -28,11 +28,11 @@
     "official_url": "https://ugcnet.nta.nic.in",
     "syllabus_source_url": "https://www.ugcnetonline.in/syllabus-new.php",
     "syllabus_cycle": "UGC-NET December 2026 (the PDFs themselves are undated; the Paper 1 PDF was created in August 2018)",
-    "verified": false,
-    "verification_note": "Draft from the UGC Paper-I syllabus PDF (Paper-I_English.pdf) linked from the UGC syllabus page that the NTA UGC-NET December 2026 Information Bulletin names; topics are the PDF's ten units, not chapters. Check first whether UGC has issued a newer Paper-I syllabus.",
-    "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "verified": true,
+    "verification_note": "Verified 2026-11-16 against Paper-I_English.pdf on the UGC NET portal (ugcnetonline.in, which carries the University Grants Commission's name and a ugc.gov.in contact): the ten units match the PDF's Unit I to X headings in order. Unit titles were compared; the sub-points under each were not. The PDF was created in 2018, and a newer UGC Paper-I syllabus has not been ruled out.",
+    "last_verified": "2026-11-16",
+    "version": 2,
+    "is_published": true,
     "sort_order": 400
   },
   "subjects": [
