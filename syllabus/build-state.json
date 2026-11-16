@@ -220,6 +220,30 @@
     "lic-aao": {
       "hash": "3903259c78399ffa",
       "version": 1
+    },
+    "cds": {
+      "hash": "9647d5b0d421fe93",
+      "version": 1
+    },
+    "afcat": {
+      "hash": "33ec2495021f26b6",
+      "version": 1
+    },
+    "capf-ac": {
+      "hash": "18622de0afe1c5fc",
+      "version": 1
+    },
+    "agniveer-army-gd": {
+      "hash": "768eadbf2981998e",
+      "version": 1
+    },
+    "ssc-cpo": {
+      "hash": "e05b846267c0294a",
+      "version": 1
+    },
+    "ssc-stenographer": {
+      "hash": "789e4d551875aba6",
+      "version": 1
     }
   }
 }
