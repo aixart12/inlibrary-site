@@ -1,0 +1,144 @@
+{
+  "schema": 1,
+  "slug": "ugc-net-home-science",
+  "kind": "exam",
+  "name": "UGC NET Home Science (Paper 1 + Paper 2)",
+  "short_name": "UGC NET Home Science",
+  "aliases": [
+    "ugc net",
+    "ugc-net",
+    "net",
+    "nta net",
+    "nta ugc net",
+    "net jrf",
+    "jrf",
+    "assistant professor",
+    "lectureship",
+    "net exam",
+    "ugc",
+    "home science",
+    "home sc",
+    "paper 2",
+    "paper ii"
+  ],
+  "category": "teaching",
+  "subject_count": 2,
+  "topic_count": 20,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "home-science-paper-2",
+      "name": "Home Science (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "food-science-and-food-service-management",
+          "name": "Food Science and Food Service Management",
+          "sort_order": 10
+        },
+        {
+          "slug": "nutrition-and-dietetics",
+          "name": "Nutrition and Dietetics",
+          "sort_order": 20
+        },
+        {
+          "slug": "textiles",
+          "name": "Textiles",
+          "sort_order": 30
+        },
+        {
+          "slug": "apparel-designing",
+          "name": "Apparel Designing",
+          "sort_order": 40
+        },
+        {
+          "slug": "resource-management-and-consumer-issues",
+          "name": "Resource Management and Consumer Issues",
+          "sort_order": 50
+        },
+        {
+          "slug": "housing-and-interior-design",
+          "name": "Housing and Interior Design",
+          "sort_order": 60
+        },
+        {
+          "slug": "child-human-development",
+          "name": "Child/Human Development",
+          "sort_order": 70
+        },
+        {
+          "slug": "family-studies",
+          "name": "Family Studies",
+          "sort_order": 80
+        },
+        {
+          "slug": "communication-for-development",
+          "name": "Communication for Development",
+          "sort_order": 90
+        },
+        {
+          "slug": "extension-management-and-community-development",
+          "name": "Extension Management and Community Development",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}
