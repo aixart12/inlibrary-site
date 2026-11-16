@@ -25,11 +25,11 @@
     "official_url": "https://www.cbse.gov.in",
     "syllabus_source_url": "https://cbseacademic.nic.in/curriculum_2027.html",
     "syllabus_cycle": "2026-27",
-    "verified": false,
-    "verification_note": "Draft from the CBSE 2026-27 curriculum PDFs (Mathematics, Science, Social Science, English, Hindi for Class IX) linked on the curriculum page, read as text; chapter and unit names are the PDFs' own. Class IX has a new curriculum in 2026-27, so compare every chapter list with the PDFs and the new NCERT books; check Science first, where the marks table refers to 13 chapters and only 12 headings were found, and Hindi, whose PDF text could not be read cleanly.",
-    "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "verified": true,
+    "verification_note": "Verified 2026-11-16 against the CBSE 2026-27 Class IX curriculum PDFs on cbseacademic.nic.in (web_material/CurriculumMain27/SecPart1/): Mathematics (15 chapters, the PDF's course structure), Science (12 chapters; the marks table numbers them 2 to 13), Social Science (9 themes in Part 1 and 7 in Part 2) and English (the numbered items of the assessment scheme, with the Kaveri prose, drama and poetry as the prescribed book) match the PDFs in order and in count. Hindi is not included: its PDF has no readable text, so its topics could not be checked and were removed. The Social Science PDF says the Part 2 course structure and marks split will be provided later. Chapter and theme titles were compared; the sub-points under each were not.",
+    "last_verified": "2026-11-16",
+    "version": 2,
+    "is_published": true,
     "sort_order": 980,
     "class": "9",
     "board": "CBSE"
@@ -320,33 +320,6 @@
           "slug": "kaveri-poetry",
           "name": "Kaveri: Poetry",
           "sort_order": 90
-        }
-      ]
-    },
-    {
-      "slug": "hindi",
-      "name": "Hindi",
-      "sort_order": 50,
-      "topics": [
-        {
-          "slug": "apathit-bodh",
-          "name": "Apathit Bodh",
-          "sort_order": 10
-        },
-        {
-          "slug": "vyakaran",
-          "name": "Vyakaran",
-          "sort_order": 20
-        },
-        {
-          "slug": "pathyapustak",
-          "name": "Pathyapustak",
-          "sort_order": 30
-        },
-        {
-          "slug": "rachnatmak-lekhan-anuchchhed-patra-samvad-suchna",
-          "name": "Rachnatmak Lekhan (Anuchchhed, Patra, Samvad, Suchna)",
-          "sort_order": 40
         }
       ]
     }
