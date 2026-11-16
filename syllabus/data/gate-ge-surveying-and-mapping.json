@@ -1,0 +1,113 @@
+{
+  "exam": {
+    "slug": "gate-ge-surveying-and-mapping",
+    "name": "GATE Geomatics Engineering (GE, Surveying and Mapping, Part B1)",
+    "short_name": "GATE GE Surveying and Mapping",
+    "kind": "exam",
+    "aliases": [
+      "gate",
+      "gate exam",
+      "gate 2027",
+      "graduate aptitude test in engineering",
+      "mtech",
+      "m.tech",
+      "psu",
+      "iit",
+      "ge",
+      "gate ge",
+      "geomatics",
+      "geomatics engineering",
+      "surveying",
+      "mapping"
+    ],
+    "category": "entrance",
+    "conducting_body": "Indian Institute of Technology Madras (organising institute, GATE 2027)",
+    "official_url": "https://gate2027.iitm.ac.in",
+    "syllabus_source_url": "https://gate2027.iitm.ac.in/exam_papers_and_syllabus",
+    "syllabus_cycle": "GATE 2027",
+    "verified": false,
+    "verification_note": "Draft from the GATE 2027 syllabus PDFs (GA_GATE2027_Syllabus.pdf, GE_GATE2027_Syllabus.pdf) linked on the official GATE 2027 page, read as text. The paper has a common Part A and then Part B1 (Surveying and Mapping) or Part B2 (Image Processing and Analysis), of which a candidate answers one, so each option is its own plan. The PDF prints each topic as a heading followed by a colon and its contents; the topics are those headings. Check first each title against the PDF.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1580
+  },
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "common-section-part-a",
+      "name": "Common Section (Part A)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "engineering-mathematics",
+          "name": "Engineering Mathematics",
+          "sort_order": 10
+        },
+        {
+          "slug": "remote-sensing",
+          "name": "Remote Sensing",
+          "sort_order": 20
+        },
+        {
+          "slug": "gnss",
+          "name": "GNSS",
+          "sort_order": 30
+        },
+        {
+          "slug": "gis",
+          "name": "GIS",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "surveying-and-mapping-part-b1",
+      "name": "Surveying and Mapping (Part B1)",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "maps",
+          "name": "Maps",
+          "sort_order": 10
+        },
+        {
+          "slug": "land-surveying",
+          "name": "Land Surveying",
+          "sort_order": 20
+        },
+        {
+          "slug": "aerial-photogrammetry",
+          "name": "Aerial Photogrammetry",
+          "sort_order": 30
+        }
+      ]
+    }
+  ]
+}
