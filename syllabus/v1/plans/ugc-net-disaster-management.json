@@ -1,0 +1,145 @@
+{
+  "schema": 1,
+  "slug": "ugc-net-disaster-management",
+  "kind": "exam",
+  "name": "UGC NET Disaster Management (Paper 1 + Paper 2)",
+  "short_name": "UGC NET Disaster Management",
+  "aliases": [
+    "ugc net",
+    "ugc-net",
+    "net",
+    "nta net",
+    "nta ugc net",
+    "net jrf",
+    "jrf",
+    "assistant professor",
+    "lectureship",
+    "net exam",
+    "ugc",
+    "disaster management",
+    "disaster",
+    "drr",
+    "paper 2",
+    "paper ii"
+  ],
+  "category": "teaching",
+  "subject_count": 2,
+  "topic_count": 20,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "disaster-management-paper-2",
+      "name": "Disaster Management (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "introduction-to-disaster-management",
+          "name": "Introduction to Disaster Management",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-methodology-for-disaster-management",
+          "name": "Research Methodology for Disaster Management",
+          "sort_order": 20
+        },
+        {
+          "slug": "legal-framework-policies-and-governance",
+          "name": "Legal Framework, Policies and Governance",
+          "sort_order": 30
+        },
+        {
+          "slug": "society-development-and-disasters",
+          "name": "Society, Development and Disasters",
+          "sort_order": 40
+        },
+        {
+          "slug": "community-based-disaster-risk-reduction-and-disaster-managem",
+          "name": "Community Based Disaster Risk Reduction and Disaster Management",
+          "sort_order": 50
+        },
+        {
+          "slug": "health-and-disasters",
+          "name": "Health and Disasters",
+          "sort_order": 60
+        },
+        {
+          "slug": "environment-ecology-and-climate-change-aspects",
+          "name": "Environment, Ecology and Climate Change Aspects",
+          "sort_order": 70
+        },
+        {
+          "slug": "remote-sensing-and-geographic-information-system",
+          "name": "Remote Sensing and Geographic Information System",
+          "sort_order": 80
+        },
+        {
+          "slug": "information-and-communications-technology-and-other-emerging",
+          "name": "Information and Communications Technology and Other Emerging Technologies",
+          "sort_order": 90
+        },
+        {
+          "slug": "emergency-response-and-management",
+          "name": "Emergency Response and Management",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}
