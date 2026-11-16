@@ -27,11 +27,11 @@
     "official_url": "https://www.csirhrdg.res.in",
     "syllabus_source_url": "https://csirhrdg.res.in/Home/Index/1/InPage/36/26",
     "syllabus_cycle": "Not printed on the PDF (file dated December 2020; scheme headed 'from June 2017 and onward'); linked from the CSIR-HRDG syllabus page on 2026-11-16",
-    "verified": false,
-    "verification_note": "Draft from the syllabus PDF (earth_science_syllabus.pdf) linked on the CSIR-HRDG subject page, read as text. The syllabus is one PDF for the paper 'Earth, Atmospheric, Ocean and Planetary Sciences' with a common Part B and five Part C branches, of which a candidate answers one, so each branch is its own plan; Part A topics are the three areas named in the exam scheme on the subject page; topics are the PDF's numbered branch headings. Check first that the PDF is still the current one.",
-    "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "verified": true,
+    "verification_note": "Verified 2026-11-16 against earth_science_syllabus.pdf, the only syllabus PDF on the CSIR-HRDG Earth Sciences page: the five Part B areas and the ten Part C Geology headings match the PDF's numbered headings. The PDF is one paper with five Part C branches, so each branch is its own plan. Headings were compared; the sub-points under each were not.",
+    "last_verified": "2026-11-16",
+    "version": 2,
+    "is_published": true,
     "sort_order": 1620
   },
   "subjects": [

@@ -1,0 +1,131 @@
+{
+  "schema": 1,
+  "slug": "csir-net-life-sciences",
+  "kind": "exam",
+  "name": "CSIR NET Life Sciences",
+  "short_name": "CSIR NET Life Sciences",
+  "aliases": [
+    "csir net",
+    "csir",
+    "csir ugc net",
+    "csir-net",
+    "net",
+    "jrf",
+    "net jrf",
+    "csir jrf",
+    "lectureship",
+    "assistant professor",
+    "nta csir",
+    "life sciences",
+    "life science",
+    "biology",
+    "biotechnology",
+    "bio",
+    "dbt"
+  ],
+  "category": "teaching",
+  "subject_count": 2,
+  "topic_count": 17,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "part-a-general-aptitude",
+      "name": "Part A: General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "general-science",
+          "name": "General Science",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-reasoning-and-analysis",
+          "name": "Quantitative Reasoning and Analysis",
+          "sort_order": 20
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "life-sciences-and-biotechnology",
+      "name": "Life Sciences and Biotechnology",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "structure-and-function-of-biomolecules",
+          "name": "Structure and Function of Biomolecules",
+          "sort_order": 10
+        },
+        {
+          "slug": "cellular-organization",
+          "name": "Cellular Organization",
+          "sort_order": 20
+        },
+        {
+          "slug": "fundamental-processes",
+          "name": "Fundamental Processes",
+          "sort_order": 30
+        },
+        {
+          "slug": "cell-communication-and-cell-signaling",
+          "name": "Cell Communication and Cell Signaling",
+          "sort_order": 40
+        },
+        {
+          "slug": "developmental-biology",
+          "name": "Developmental Biology",
+          "sort_order": 50
+        },
+        {
+          "slug": "system-physiology-plant",
+          "name": "System Physiology - Plant",
+          "sort_order": 60
+        },
+        {
+          "slug": "system-physiology-animal",
+          "name": "System Physiology - Animal",
+          "sort_order": 70
+        },
+        {
+          "slug": "inheritance-biology",
+          "name": "Inheritance Biology",
+          "sort_order": 80
+        },
+        {
+          "slug": "evolution-and-diversity-of-life-forms",
+          "name": "Evolution and Diversity of Life Forms",
+          "sort_order": 90
+        },
+        {
+          "slug": "ecology-and-behavioural-biology",
+          "name": "Ecology and Behavioural Biology",
+          "sort_order": 100
+        },
+        {
+          "slug": "bioinformatics-and-computational-biology",
+          "name": "Bioinformatics and Computational Biology",
+          "sort_order": 110
+        },
+        {
+          "slug": "biochemical-engineering-and-industrial-biotechnology",
+          "name": "Biochemical Engineering and Industrial Biotechnology",
+          "sort_order": 120
+        },
+        {
+          "slug": "advances-in-biotechnology",
+          "name": "Advances in Biotechnology",
+          "sort_order": 130
+        },
+        {
+          "slug": "methods-in-biology",
+          "name": "Methods in Biology",
+          "sort_order": 140
+        }
+      ]
+    }
+  ]
+}

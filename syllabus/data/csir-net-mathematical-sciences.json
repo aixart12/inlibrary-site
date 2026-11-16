@@ -28,11 +28,11 @@
     "official_url": "https://www.csirhrdg.res.in",
     "syllabus_source_url": "https://csirhrdg.res.in/Home/Index/1/InPage/38/26",
     "syllabus_cycle": "Not printed on the PDF (file dated December 2020; exam scheme headed 'from June 2017 and onward'); linked from the CSIR-HRDG syllabus page on 2026-11-15",
-    "verified": false,
-    "verification_note": "Draft from the syllabus PDF (mathmeticascience_syllbus.pdf) linked on the CSIR-HRDG subject page, read as text; the Part A topics are the three areas named in the exam scheme on that page. Units 1 to 3 use the PDF's own headings; Unit 4 is printed as untitled paragraphs, so its topic names are labels written for this draft and should be checked first.",
-    "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "verified": true,
+    "verification_note": "Verified 2026-11-16 against mathmeticascience_syllbus.pdf on the CSIR-HRDG subject page: Units 1 to 3 topic names match the PDF's own headings. Unit 4 is printed as 12 untitled paragraphs; the topic names are short labels written for this plan, one per paragraph, and each label was checked against its paragraph. Sub-points were not compared.",
+    "last_verified": "2026-11-16",
+    "version": 2,
+    "is_published": true,
     "sort_order": 840
   },
   "subjects": [

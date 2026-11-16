@@ -1,0 +1,143 @@
+{
+  "schema": 1,
+  "slug": "csir-net-earth-sciences-meteorology",
+  "kind": "exam",
+  "name": "CSIR NET Earth Sciences (Meteorology)",
+  "short_name": "CSIR NET Earth Meteorology",
+  "aliases": [
+    "csir net",
+    "csir",
+    "csir ugc net",
+    "csir-net",
+    "net",
+    "jrf",
+    "net jrf",
+    "csir jrf",
+    "lectureship",
+    "assistant professor",
+    "nta csir",
+    "earth sciences",
+    "earth science",
+    "earth atmospheric ocean and planetary sciences",
+    "meteorology",
+    "atmospheric sciences",
+    "atmospheric science"
+  ],
+  "category": "teaching",
+  "subject_count": 3,
+  "topic_count": 18,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "part-a-general-aptitude",
+      "name": "Part A: General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "general-science",
+          "name": "General Science",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-reasoning-and-analysis",
+          "name": "Quantitative Reasoning and Analysis",
+          "sort_order": 20
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "part-b-common-earth-sciences",
+      "name": "Part B: Common Earth Sciences",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "the-earth-and-the-solar-system",
+          "name": "The Earth and the Solar System",
+          "sort_order": 10
+        },
+        {
+          "slug": "earth-materials-surface-features-and-processes",
+          "name": "Earth Materials, Surface Features and Processes",
+          "sort_order": 20
+        },
+        {
+          "slug": "interior-of-the-earth-deformation-and-tectonics",
+          "name": "Interior of the Earth, Deformation and Tectonics",
+          "sort_order": 30
+        },
+        {
+          "slug": "oceans-and-atmosphere",
+          "name": "Oceans and Atmosphere",
+          "sort_order": 40
+        },
+        {
+          "slug": "environmental-earth-sciences",
+          "name": "Environmental Earth Sciences",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "part-c-meteorology",
+      "name": "Part C: Meteorology",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "climatology-meteorology",
+          "name": "Climatology (Meteorology)",
+          "sort_order": 10
+        },
+        {
+          "slug": "physical-meteorology",
+          "name": "Physical Meteorology",
+          "sort_order": 20
+        },
+        {
+          "slug": "atmospheric-electricity",
+          "name": "Atmospheric Electricity",
+          "sort_order": 30
+        },
+        {
+          "slug": "cloud-physics",
+          "name": "Cloud Physics",
+          "sort_order": 40
+        },
+        {
+          "slug": "dynamic-meteorology",
+          "name": "Dynamic Meteorology",
+          "sort_order": 50
+        },
+        {
+          "slug": "numerical-weather-prediction",
+          "name": "Numerical Weather Prediction",
+          "sort_order": 60
+        },
+        {
+          "slug": "general-circulation-and-climate-modelling",
+          "name": "General Circulation and Climate Modelling",
+          "sort_order": 70
+        },
+        {
+          "slug": "synoptic-meteorology",
+          "name": "Synoptic Meteorology",
+          "sort_order": 80
+        },
+        {
+          "slug": "aviation-meteorology",
+          "name": "Aviation Meteorology",
+          "sort_order": 90
+        },
+        {
+          "slug": "satellite-meteorology",
+          "name": "Satellite Meteorology",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}
