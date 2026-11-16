@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Syllabus Library — InLibrary</title>
+    <meta name="description" content="Search exams and school classes and read the subjects and chapters of each syllabus, free and without signing in.">
+    <meta name="theme-color" content="#fff3dc">
+    <link rel="icon" href="images/favicon.png" type="image/png">
+    <link rel="apple-touch-icon" href="images/icon-180.png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="library.css">
+    <script src="site.js" defer></script>
+    <script src="library.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <header class="site-header">
+      <div class="container">
+        <a class="brand" href="index.html">
+          <span class="brand-mark">
+            <svg viewBox="0 0 100 100" aria-hidden="true"><path class="logo-book" d="M50 78 C41 70 28 68 16 70 V88 C28 86 41 88 50 94 Z"/><path class="logo-book" d="M50 78 C59 70 72 68 84 70 V88 C72 86 59 88 50 94 Z"/><path d="M50 14 C57 30 68 37 68 49 A18 18 0 0 1 32 49 C32 37 43 30 50 14 Z" fill="#FF6A00"/></svg>
+          </span>
+          InLibrary
+        </a>
+        <nav class="site-nav" aria-label="Main">
+          <a href="index.html#features">Features</a>
+          <a href="library.html" aria-current="page">Syllabus library</a>
+          <a href="privacy.html">Privacy</a>
+          <a href="terms.html">Terms</a>
+          <a href="delete-account.html">Delete account</a>
+        </nav>
+        <details class="menu">
+          <summary><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>Menu</summary>
+          <nav class="menu-panel" aria-label="Menu">
+            <a href="index.html#features">Features</a>
+            <a href="library.html" aria-current="page">Syllabus library</a>
+          <a href="privacy.html">Privacy</a>
+            <a href="terms.html">Terms</a>
+            <a href="delete-account.html">Delete account</a>
+          </nav>
+        </details>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="page-hero">
+        <div class="container">
+          <p class="eyebrow">Syllabus library</p>
+          <h1>Find your syllabus</h1>
+          <p class="intro">Search a class or exam, or a subject or chapter, and see what it covers.</p>
+        </div>
+      </section>
+
+      <div class="container lib">
+        <div id="lib-list">
+          <form class="lib-search" role="search" onsubmit="return false">
+            <label for="lib-q" class="sr-only">Search exams, subjects and chapters</label>
+            <input id="lib-q" type="search" placeholder="SSC, class 12, NEET, physics..." autocomplete="off" enterkeyhint="search">
+          </form>
+          <div id="lib-cats" class="lib-cats" role="group" aria-label="Filter by category"></div>
+          <p id="lib-status" class="lib-status" role="status" aria-live="polite">Loading the library...</p>
+          <ul id="lib-results" class="lib-results"></ul>
+          <noscript><p class="lib-note">The library needs JavaScript to search and show syllabi.</p></noscript>
+        </div>
+
+        <article id="lib-plan" class="lib-plan" hidden></article>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <div class="footer-grid">
+          <div>
+            <a class="brand" href="index.html">
+              <span class="brand-mark">
+                <svg viewBox="0 0 100 100" aria-hidden="true"><path class="logo-book" d="M50 78 C41 70 28 68 16 70 V88 C28 86 41 88 50 94 Z"/><path class="logo-book" d="M50 78 C59 70 72 68 84 70 V88 C72 86 59 88 50 94 Z"/><path d="M50 14 C57 30 68 37 68 49 A18 18 0 0 1 32 49 C32 37 43 30 50 14 Z" fill="#FF6A00"/></svg>
+              </span>
+              InLibrary
+            </a>
+            <p>A study timer for exam aspirants. Count the hours you actually studied.</p>
+          </div>
+          <nav aria-label="Product">
+            <h2>Product</h2>
+            <ul>
+              <li><a href="index.html#features">Features</a></li>
+              <li><a href="library.html">Syllabus library</a></li>
+              <li><a href="index.html#screenshots">Screenshots</a></li>
+              <li><a href="index.html#privacy-first">Your privacy</a></li>
+            </ul>
+          </nav>
+          <nav aria-label="Legal">
+            <h2>Legal</h2>
+            <ul>
+              <li><a href="privacy.html">Privacy policy</a></li>
+              <li><a href="terms.html">Terms and conditions</a></li>
+              <li><a href="delete-account.html">Delete account</a></li>
+            </ul>
+          </nav>
+          <div>
+            <h2>Contact</h2>
+            <ul>
+              <li><a href="mailto:yehdhruvkr@gmail.com">yehdhruvkr@gmail.com</a></li>
+              <li>Dhruv Kumar, India</li>
+            </ul>
+          </div>
+        </div>
+        <p class="copyright">© 2026 Dhruv Kumar. All rights reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>

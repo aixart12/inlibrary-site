@@ -15,10 +15,11 @@ opens "On this page" automatically on wide screens.
 
 | File | What it is |
 |---|---|
-| `index.html` | Landing page: hero, features, screenshots, privacy summary, about us (team), policies, contact |
+| `index.html` | Landing page (links to the syllabus library): hero, features, screenshots, privacy summary, about us (team), policies, contact |
 | `privacy.html` | Privacy Policy (includes the India DPDP Act section and grievance officer) |
 | `terms.html` | Terms and Conditions (Indian law, users 13+) |
 | `delete-account.html` | How to delete an account and data, in the app or by email |
+| `library.html` | Syllabus library: search the published plans (name, subject or chapter) and read each plan's subjects and chapters. Styled by `library.css`, driven by `library.js`, which reads `syllabus/v1/`. Shows published plans only. |
 | `404.html` | "Page not found" |
 | `style.css` | All styling, with light and dark mode. Brand colours are in `:root` at the top. |
 | `site.js` | Optional enhancements (menu closing, table of contents open on desktop) |
