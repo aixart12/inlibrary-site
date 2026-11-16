@@ -19,13 +19,13 @@
     "category": "central-govt",
     "conducting_body": "Staff Selection Commission (SSC)",
     "official_url": "https://ssc.gov.in",
-    "syllabus_source_url": "https://www.mahendras.org/blogs/ssc-cpo-syllabus",
-    "syllabus_cycle": "2026 (as described by the secondary source; official notification not opened)",
-    "verified": false,
-    "verification_note": "General syllabus drafted from Mahendras' SSC CPO syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. Check first the Paper 1 and Paper 2 lists against the syllabus in the SSC notice; the page's own pattern figures contradict each other.",
-    "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "syllabus_source_url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_capf_2026.pdf",
+    "syllabus_cycle": "SSC notice for the Sub-Inspector in Delhi Police and CAPFs examination 2026, section 12.9 (indicative syllabus)",
+    "verified": true,
+    "verification_note": "Verified 2026-11-16 against section 12.9 'Indicative syllabus for Computer Based Examination' of the SSC notice for the Sub-Inspector in Delhi Police and CAPFs examination 2026 (ssc.gov.in, Notice_of_adv_capf_2026.pdf). The notice gives one syllabus for Paper-I and Paper-II, in four parts (General Intelligence and Reasoning, General Knowledge and General Awareness, Quantitative Aptitude, English Comprehension), so both papers use the same topics; Paper-II is harder and its English part carries 100 questions. The plan was first drafted from a coaching site and has been rewritten to the notice's own wording: the general knowledge topics now follow the notice's sentences instead of the coaching site's wider list, and the English topics follow the notice's list. Reasoning and Quantitative Aptitude topics group items the notice names; 'Number System', 'Mensuration', 'Trigonometry' and 'Data Interpretation' are labels for items the notice lists. The notice's paper tables (Paper-I four parts of 25 questions; Paper-II 20, 20, 20 and 100) were also read. The Physical Standard and Endurance Tests, which are not part of the written syllabus, are not included.",
+    "last_verified": "2026-11-16",
+    "version": 2,
+    "is_published": true,
     "sort_order": 690
   },
   "subjects": [
@@ -61,7 +61,7 @@
         },
         {
           "slug": "space-visualisation-and-spatial-orientation",
-          "name": "Space Visualisation and Spatial Orientation",
+          "name": "Space Visualization and Space Orientation",
           "sort_order": 60
         },
         {
@@ -76,7 +76,7 @@
         },
         {
           "slug": "word-building-and-alphabet-questions",
-          "name": "Word Building and Alphabet Questions",
+          "name": "Word Building",
           "sort_order": 90
         },
         {
@@ -86,12 +86,12 @@
         },
         {
           "slug": "embedded-figures-and-figure-completion",
-          "name": "Embedded Figures and Figure Completion",
+          "name": "Embedded Figures and Figural Pattern Completion",
           "sort_order": 110
         },
         {
           "slug": "punched-hole-pattern-folding-and-unfolding",
-          "name": "Punched Hole, Pattern Folding and Unfolding",
+          "name": "Punched Hole, Pattern Folding and Un-folding",
           "sort_order": 120
         },
         {
@@ -122,59 +122,49 @@
       "sort_order": 20,
       "topics": [
         {
-          "slug": "current-affairs-national-and-international",
-          "name": "Current Affairs: National and International",
+          "slug": "awareness-of-the-environment-and-its-application-to-society",
+          "name": "Awareness of the Environment and its Application to Society",
           "sort_order": 10
         },
         {
-          "slug": "history-ancient-medieval-and-modern-india",
-          "name": "History: Ancient, Medieval and Modern India",
+          "slug": "current-events",
+          "name": "Current Events",
           "sort_order": 20
         },
         {
-          "slug": "freedom-movement",
-          "name": "Freedom Movement",
+          "slug": "everyday-observation-and-experience-in-their-scientific-aspe",
+          "name": "Everyday Observation and Experience in their Scientific Aspect",
           "sort_order": 30
         },
         {
-          "slug": "culture-art-architecture-literature-dance-music",
-          "name": "Culture: Art, Architecture, Literature, Dance, Music",
+          "slug": "india-and-its-neighbouring-countries-history",
+          "name": "India and its Neighbouring Countries: History",
           "sort_order": 40
         },
         {
-          "slug": "geography-india-and-world-physical-geography",
-          "name": "Geography: India and World, Physical Geography",
+          "slug": "india-and-its-neighbouring-countries-culture",
+          "name": "India and its Neighbouring Countries: Culture",
           "sort_order": 50
         },
         {
-          "slug": "indian-polity-and-governance",
-          "name": "Indian Polity and Governance",
+          "slug": "india-and-its-neighbouring-countries-geography",
+          "name": "India and its Neighbouring Countries: Geography",
           "sort_order": 60
         },
         {
-          "slug": "constitution-articles-schedules-amendments-fundamental-right",
-          "name": "Constitution: Articles, Schedules, Amendments, Fundamental Rights and Duties",
+          "slug": "india-and-its-neighbouring-countries-economic-scene",
+          "name": "India and its Neighbouring Countries: Economic Scene",
           "sort_order": 70
         },
         {
-          "slug": "economy-basic-economics-and-indian-economic-developments",
-          "name": "Economy: Basic Economics and Indian Economic Developments",
+          "slug": "india-and-its-neighbouring-countries-general-polity-and-indi",
+          "name": "India and its Neighbouring Countries: General Polity and Indian Constitution",
           "sort_order": 80
         },
         {
-          "slug": "general-science-physics-chemistry-biology",
-          "name": "General Science: Physics, Chemistry, Biology",
+          "slug": "india-and-its-neighbouring-countries-scientific-research",
+          "name": "India and its Neighbouring Countries: Scientific Research",
           "sort_order": 90
-        },
-        {
-          "slug": "scientific-research",
-          "name": "Scientific Research",
-          "sort_order": 100
-        },
-        {
-          "slug": "india-and-its-neighbouring-countries",
-          "name": "India and its Neighbouring Countries",
-          "sort_order": 110
         }
       ]
     },
@@ -195,7 +185,7 @@
         },
         {
           "slug": "simple-and-compound-interest-profit-and-loss-discount",
-          "name": "Simple and Compound Interest, Profit and Loss, Discount",
+          "name": "Interest, Profit and Loss, Discount",
           "sort_order": 30
         },
         {
@@ -205,7 +195,7 @@
         },
         {
           "slug": "time-speed-and-distance",
-          "name": "Time, Speed and Distance",
+          "name": "Time and Distance",
           "sort_order": 50
         },
         {
@@ -256,49 +246,54 @@
       "sort_order": 40,
       "topics": [
         {
-          "slug": "grammar-parts-of-speech-tenses-articles-prepositions-conjunc",
-          "name": "Grammar: Parts of Speech, Tenses, Articles, Prepositions, Conjunctions",
+          "slug": "error-recognition",
+          "name": "Error Recognition",
           "sort_order": 10
         },
         {
-          "slug": "error-detection",
-          "name": "Error Detection",
+          "slug": "filling-in-the-blanks-verbs-prepositions-articles",
+          "name": "Filling in the Blanks: Verbs, Prepositions, Articles",
           "sort_order": 20
         },
         {
-          "slug": "vocabulary-synonyms-antonyms-word-usage",
-          "name": "Vocabulary: Synonyms, Antonyms, Word Usage",
+          "slug": "vocabulary",
+          "name": "Vocabulary",
           "sort_order": 30
         },
         {
-          "slug": "sentence-improvement",
-          "name": "Sentence Improvement",
+          "slug": "spellings",
+          "name": "Spellings",
           "sort_order": 40
         },
         {
-          "slug": "fill-in-the-blanks-and-sentence-completion",
-          "name": "Fill in the Blanks and Sentence Completion",
+          "slug": "grammar",
+          "name": "Grammar",
           "sort_order": 50
-        },
-        {
-          "slug": "idioms-and-phrases",
-          "name": "Idioms and Phrases",
-          "sort_order": 60
-        },
-        {
-          "slug": "spelling",
-          "name": "Spelling",
-          "sort_order": 70
-        },
-        {
-          "slug": "reading-comprehension",
-          "name": "Reading Comprehension",
-          "sort_order": 80
         },
         {
           "slug": "sentence-structure",
           "name": "Sentence Structure",
+          "sort_order": 60
+        },
+        {
+          "slug": "synonyms-and-antonyms",
+          "name": "Synonyms and Antonyms",
+          "sort_order": 70
+        },
+        {
+          "slug": "sentence-completion",
+          "name": "Sentence Completion",
+          "sort_order": 80
+        },
+        {
+          "slug": "phrases-and-idiomatic-use-of-words",
+          "name": "Phrases and Idiomatic Use of Words",
           "sort_order": 90
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 100
         }
       ]
     },
@@ -308,44 +303,54 @@
       "sort_order": 50,
       "topics": [
         {
-          "slug": "error-recognition",
+          "slug": "paper-2-error-recognition",
           "name": "Error Recognition",
           "sort_order": 10
         },
         {
-          "slug": "fill-in-the-blanks-verbs-prepositions-articles",
-          "name": "Fill in the Blanks: Verbs, Prepositions, Articles",
+          "slug": "paper-2-filling-in-the-blanks-verbs-prepositions-articles",
+          "name": "Filling in the Blanks: Verbs, Prepositions, Articles",
           "sort_order": 20
         },
         {
-          "slug": "vocabulary-synonyms-and-antonyms",
-          "name": "Vocabulary, Synonyms and Antonyms",
+          "slug": "paper-2-vocabulary",
+          "name": "Vocabulary",
           "sort_order": 30
         },
         {
-          "slug": "spellings",
+          "slug": "paper-2-spellings",
           "name": "Spellings",
           "sort_order": 40
         },
         {
-          "slug": "grammar-and-sentence-structure",
-          "name": "Grammar and Sentence Structure",
+          "slug": "paper-2-grammar",
+          "name": "Grammar",
           "sort_order": 50
         },
         {
-          "slug": "sentence-completion",
-          "name": "Sentence Completion",
+          "slug": "paper-2-sentence-structure",
+          "name": "Sentence Structure",
           "sort_order": 60
         },
         {
-          "slug": "phrases-and-idiomatic-use-of-words",
-          "name": "Phrases and Idiomatic Use of Words",
+          "slug": "paper-2-synonyms-and-antonyms",
+          "name": "Synonyms and Antonyms",
           "sort_order": 70
         },
         {
-          "slug": "comprehension",
-          "name": "Comprehension",
+          "slug": "paper-2-sentence-completion",
+          "name": "Sentence Completion",
           "sort_order": 80
+        },
+        {
+          "slug": "paper-2-phrases-and-idiomatic-use-of-words",
+          "name": "Phrases and Idiomatic Use of Words",
+          "sort_order": 90
+        },
+        {
+          "slug": "paper-2-comprehension",
+          "name": "Comprehension",
+          "sort_order": 100
         }
       ]
     }

@@ -1144,6 +1144,28 @@
       "version": 2
     },
     {
+      "slug": "ssc-cpo",
+      "kind": "exam",
+      "name": "SSC CPO (Sub-Inspector in Delhi Police and CAPFs)",
+      "short_name": "SSC CPO",
+      "aliases": [
+        "ssc cpo",
+        "cpo",
+        "ssc",
+        "sub inspector",
+        "si",
+        "delhi police si",
+        "delhi police",
+        "capf si",
+        "staff selection commission",
+        "daroga"
+      ],
+      "category": "central-govt",
+      "subject_count": 5,
+      "topic_count": 58,
+      "version": 2
+    },
+    {
       "slug": "csir-net-life-sciences",
       "kind": "exam",
       "name": "CSIR NET Life Sciences",
