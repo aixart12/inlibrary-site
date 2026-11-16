@@ -334,8 +334,8 @@
       "version": 1
     },
     "gate-me": {
-      "hash": "37a8682f8aa8e659",
-      "version": 1
+      "hash": "ff380e418cd2cd6c",
+      "version": 2
     },
     "gate-ce": {
       "hash": "3eba20d0f832807d",
@@ -618,12 +618,12 @@
       "version": 1
     },
     "gate-gg-geology": {
-      "hash": "81b40b1e4bdb1e29",
-      "version": 1
+      "hash": "8e2aedb77f07c0be",
+      "version": 2
     },
     "gate-gg-geophysics": {
-      "hash": "c07f78a7c87ce0c0",
-      "version": 1
+      "hash": "849b8501d85f6201",
+      "version": 2
     },
     "csir-net-earth-sciences-geology": {
       "hash": "bafbeeee9d0e5248",
