@@ -360,6 +360,14 @@
     "class-11-cbse-arts": {
       "hash": "3246be78fed0bbcc",
       "version": 1
+    },
+    "kcet-pcm": {
+      "hash": "6cc1995b4f4f79f6",
+      "version": 1
+    },
+    "kcet-pcb": {
+      "hash": "8cd78bea63d5b27f",
+      "version": 1
     }
   }
 }
