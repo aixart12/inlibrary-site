@@ -25,10 +25,10 @@
     "syllabus_source_url": "https://engineering.careers360.com/articles/mht-cet-syllabus",
     "syllabus_cycle": "MHT CET 2027 (as described by the secondary source; official syllabus not released)",
     "verified": false,
-    "verification_note": "General syllabus drafted from Careers360's MHT CET syllabus page, a secondary site, not from the exam body's own document; topic names are that page's lists, grouped. The page says Class 11 and Class 12 count 20:80 and that the official syllabus is still to be released by the CET Cell; I corrected two obvious typos ('Comics' to 'Conic Sections' and 'Gene its nature' to 'Gene: Its Nature'). Check first the Biology list, where Class 12 is split into Botany and Zoology chapters, and the same out-of-date-looking Physics items.",
+    "verification_note": "General syllabus drafted from Careers360's MHT CET syllabus page, a secondary site, not from the exam body's own document; topic names are that page's lists, grouped. The page says Class 11 and Class 12 count 20:80 and that the official syllabus is still to be released by the CET Cell; I corrected two obvious typos ('Comics' to 'Conic Sections' and 'Gene its nature' to 'Gene: Its Nature'). Check first the Biology list, where Class 12 is split into Botany and Zoology chapters, and the same out-of-date-looking Physics items. Published on 2026-11-16 at the owner's request while still unverified: the topic lists come from the source named in syllabus_source_url, not from an official syllabus, and have not been compared with one.",
     "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "version": 2,
+    "is_published": true,
     "sort_order": 1290
   },
   "subjects": [

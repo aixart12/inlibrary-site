@@ -106,20 +106,20 @@
       "version": 1
     },
     "class-12-bihar-board-pcm": {
-      "hash": "057176f25cc8c6c5",
-      "version": 1
+      "hash": "34028d3164a9bb08",
+      "version": 2
     },
     "class-12-bihar-board-pcb": {
-      "hash": "c4008cf1a3755166",
-      "version": 1
+      "hash": "655547e8b64ee553",
+      "version": 2
     },
     "class-12-bihar-board-arts": {
-      "hash": "60c03ce928d3b6a0",
-      "version": 1
+      "hash": "c1cc914c117d4c05",
+      "version": 2
     },
     "class-12-bihar-board-commerce": {
-      "hash": "3eb917e8a5e021df",
-      "version": 1
+      "hash": "ad8d77a5bafe1748",
+      "version": 2
     },
     "wbjee": {
       "hash": "7c96189bc2742f26",
@@ -238,20 +238,20 @@
       "version": 2
     },
     "cds": {
-      "hash": "9647d5b0d421fe93",
-      "version": 1
+      "hash": "cdeb2409f39933a1",
+      "version": 2
     },
     "afcat": {
-      "hash": "33ec2495021f26b6",
-      "version": 1
+      "hash": "1f88839f9c4604d5",
+      "version": 2
     },
     "capf-ac": {
-      "hash": "18622de0afe1c5fc",
-      "version": 1
+      "hash": "8d052a6f5652211a",
+      "version": 2
     },
     "agniveer-army-gd": {
-      "hash": "768eadbf2981998e",
-      "version": 1
+      "hash": "a6dd897e078b75d9",
+      "version": 2
     },
     "ssc-cpo": {
       "hash": "7d8ca78274375045",
@@ -262,48 +262,48 @@
       "version": 2
     },
     "cat": {
-      "hash": "3b10661e4cf1d950",
-      "version": 1
+      "hash": "2092e9149e9ff350",
+      "version": 2
     },
     "xat": {
-      "hash": "edbaae775ff355a1",
-      "version": 1
+      "hash": "57d08eb8e9e6e077",
+      "version": 2
     },
     "cmat": {
-      "hash": "5ec4974757842f88",
-      "version": 1
+      "hash": "31434d0cc49f478a",
+      "version": 2
     },
     "mat": {
-      "hash": "593fa59024fdb91c",
-      "version": 1
+      "hash": "b3388e624d6efca9",
+      "version": 2
     },
     "clat-ug": {
-      "hash": "5c03ba14e60026ff",
-      "version": 1
+      "hash": "577b899ab19a0305",
+      "version": 2
     },
     "uppsc-pcs-prelims": {
-      "hash": "46802e9df410d3ac",
-      "version": 1
+      "hash": "531ea4367ab4077c",
+      "version": 2
     },
     "up-police-constable": {
-      "hash": "2c2109a2ae8f380d",
-      "version": 1
+      "hash": "1efbaecb53f92f9d",
+      "version": 2
     },
     "upsssc-pet": {
-      "hash": "b232f7afa9a0e54f",
-      "version": 1
+      "hash": "be3a16586635b5d2",
+      "version": 2
     },
     "mppsc-prelims": {
-      "hash": "4f77857e1bfdee5d",
-      "version": 1
+      "hash": "6af20ea5233122b7",
+      "version": 2
     },
     "rpsc-ras-prelims": {
-      "hash": "212201fd6d7918cb",
-      "version": 1
+      "hash": "65924e629a562c78",
+      "version": 2
     },
     "bihar-police-si": {
-      "hash": "309ec6808ad1607e",
-      "version": 1
+      "hash": "3a1405b8566ca19c",
+      "version": 2
     },
     "csir-net-life-sciences": {
       "hash": "c366ee764edc4e6b",
@@ -322,8 +322,8 @@
       "version": 2
     },
     "uptet-paper-1": {
-      "hash": "1f5b622f0b32d74c",
-      "version": 1
+      "hash": "34e20635b7685151",
+      "version": 2
     },
     "gate-cs": {
       "hash": "065c7bf3a4e840a0",
@@ -378,12 +378,12 @@
       "version": 2
     },
     "kcet-pcm": {
-      "hash": "6cc1995b4f4f79f6",
-      "version": 1
+      "hash": "29e0440c47d2c8d3",
+      "version": 2
     },
     "kcet-pcb": {
-      "hash": "8cd78bea63d5b27f",
-      "version": 1
+      "hash": "63a8d16d20fcd2cf",
+      "version": 2
     },
     "gate-ae": {
       "hash": "fa9ae2e29b59c37d",
@@ -466,64 +466,64 @@
       "version": 2
     },
     "ts-eamcet-mpc": {
-      "hash": "97a454a222c07507",
-      "version": 1
+      "hash": "5ec9d864c8331e0e",
+      "version": 2
     },
     "ap-eapcet-mpc": {
-      "hash": "e2ecb7baa75bd3a8",
-      "version": 1
+      "hash": "957466300990bb17",
+      "version": 2
     },
     "ap-eapcet-bipc": {
-      "hash": "3f0b6ad23d7ca425",
-      "version": 1
+      "hash": "5debae17cdd0d49f",
+      "version": 2
     },
     "keam-engineering": {
-      "hash": "462065f59a6515d5",
-      "version": 1
+      "hash": "ba9e8815c6ff1e4b",
+      "version": 2
     },
     "bitsat-pcm": {
-      "hash": "be8048eb4abdad25",
-      "version": 1
+      "hash": "baa283e1d91ae8cf",
+      "version": 2
     },
     "bitsat-pcb": {
-      "hash": "9ff1a3be33ee8eb4",
-      "version": 1
+      "hash": "2281518bc5c58fcf",
+      "version": 2
     },
     "mht-cet-pcm": {
-      "hash": "1205d64c3a10c2f2",
-      "version": 1
+      "hash": "6176700653e3c463",
+      "version": 2
     },
     "mht-cet-pcb": {
-      "hash": "8250d5a823d8dcb5",
-      "version": 1
+      "hash": "f371a25633670ac2",
+      "version": 2
     },
     "reet-level-1": {
-      "hash": "cf377678a47b847d",
-      "version": 1
+      "hash": "57bba945fca9af9b",
+      "version": 2
     },
     "reet-level-2-maths-science": {
-      "hash": "8bb33eca62b3d9e2",
-      "version": 1
+      "hash": "bb3410e4edf71185",
+      "version": 2
     },
     "reet-level-2-social-studies": {
-      "hash": "63c27d2df73249fb",
-      "version": 1
+      "hash": "0836b6b07aef84ee",
+      "version": 2
     },
     "uptet-paper-2-maths-science": {
-      "hash": "61c261885a8f8a9c",
-      "version": 1
+      "hash": "6c423b9b0e81c220",
+      "version": 2
     },
     "uptet-paper-2-social-studies": {
-      "hash": "de564d8a53c5d065",
-      "version": 1
+      "hash": "991bdaa74393b22b",
+      "version": 2
     },
     "kvs-prt": {
-      "hash": "13a70c733d79734a",
-      "version": 1
+      "hash": "a3c14592cccbb312",
+      "version": 2
     },
     "dsssb-prt": {
-      "hash": "9fe6e20d4d0b7439",
-      "version": 1
+      "hash": "53bc777639db5edc",
+      "version": 2
     },
     "ugc-net-adult-education": {
       "hash": "d00693ef7f70971d",

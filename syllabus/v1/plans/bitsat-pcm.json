@@ -1,0 +1,203 @@
+{
+  "schema": 1,
+  "slug": "bitsat-pcm",
+  "kind": "exam",
+  "name": "BITSAT (PCM)",
+  "short_name": "BITSAT",
+  "aliases": [
+    "bitsat",
+    "bits",
+    "bits pilani",
+    "bits pilani entrance",
+    "birla institute of technology and science",
+    "pilani",
+    "goa",
+    "hyderabad",
+    "engineering",
+    "pcm",
+    "maths",
+    "btech"
+  ],
+  "category": "entrance",
+  "subject_count": 5,
+  "topic_count": 28,
+  "version": 2,
+  "unverified": true,
+  "subjects": [
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "mechanics",
+          "name": "Mechanics",
+          "sort_order": 10
+        },
+        {
+          "slug": "properties-of-matter",
+          "name": "Properties of Matter",
+          "sort_order": 20
+        },
+        {
+          "slug": "heat-and-thermodynamics",
+          "name": "Heat and Thermodynamics",
+          "sort_order": 30
+        },
+        {
+          "slug": "oscillations-and-waves",
+          "name": "Oscillations and Waves",
+          "sort_order": 40
+        },
+        {
+          "slug": "electrostatics",
+          "name": "Electrostatics",
+          "sort_order": 50
+        },
+        {
+          "slug": "current-electricity",
+          "name": "Current Electricity",
+          "sort_order": 60
+        },
+        {
+          "slug": "magnetism",
+          "name": "Magnetism",
+          "sort_order": 70
+        },
+        {
+          "slug": "electromagnetic-induction-and-ac",
+          "name": "Electromagnetic Induction and AC",
+          "sort_order": 80
+        },
+        {
+          "slug": "optics",
+          "name": "Optics",
+          "sort_order": 90
+        },
+        {
+          "slug": "modern-physics",
+          "name": "Modern Physics",
+          "sort_order": 100
+        },
+        {
+          "slug": "electronic-devices",
+          "name": "Electronic Devices",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "physical-chemistry",
+          "name": "Physical Chemistry",
+          "sort_order": 10
+        },
+        {
+          "slug": "inorganic-chemistry",
+          "name": "Inorganic Chemistry",
+          "sort_order": 20
+        },
+        {
+          "slug": "organic-chemistry",
+          "name": "Organic Chemistry",
+          "sort_order": 30
+        },
+        {
+          "slug": "practical-and-applied-chemistry",
+          "name": "Practical and Applied Chemistry",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "english-proficiency",
+      "name": "English Proficiency",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "grammar",
+          "name": "Grammar",
+          "sort_order": 10
+        },
+        {
+          "slug": "vocabulary",
+          "name": "Vocabulary",
+          "sort_order": 20
+        },
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "logical-reasoning",
+      "name": "Logical Reasoning",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "verbal-and-non-verbal-reasoning",
+          "name": "Verbal and Non-Verbal Reasoning",
+          "sort_order": 10
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "sets-relations-and-functions",
+          "name": "Sets, Relations and Functions",
+          "sort_order": 10
+        },
+        {
+          "slug": "algebra",
+          "name": "Algebra",
+          "sort_order": 20
+        },
+        {
+          "slug": "matrices-and-determinants",
+          "name": "Matrices and Determinants",
+          "sort_order": 30
+        },
+        {
+          "slug": "trigonometry",
+          "name": "Trigonometry",
+          "sort_order": 40
+        },
+        {
+          "slug": "coordinate-geometry",
+          "name": "Coordinate Geometry",
+          "sort_order": 50
+        },
+        {
+          "slug": "calculus",
+          "name": "Calculus",
+          "sort_order": 60
+        },
+        {
+          "slug": "vectors-and-3d-geometry",
+          "name": "Vectors and 3D Geometry",
+          "sort_order": 70
+        },
+        {
+          "slug": "probability-and-statistics",
+          "name": "Probability and Statistics",
+          "sort_order": 80
+        },
+        {
+          "slug": "mathematical-reasoning",
+          "name": "Mathematical Reasoning",
+          "sort_order": 90
+        }
+      ]
+    }
+  ]
+}

@@ -24,10 +24,10 @@
     "syllabus_source_url": "https://jeecounselling.in/exam/ts-eapcet-syllabus",
     "syllabus_cycle": "TS EAPCET 2027 (as described by the secondary source; 2027 notification not out)",
     "verified": false,
-    "verification_note": "General syllabus drafted from JEE Counselling's TS EAPCET syllabus page, a secondary site, not from the exam body's own document; topic names are that page's lists, grouped. The page lists both intermediate years together, so the chapters are not split by year; I left out its group headings (Algebra, Mechanics, Physical chemistry and similar). Check first against the official syllabus.",
+    "verification_note": "General syllabus drafted from JEE Counselling's TS EAPCET syllabus page, a secondary site, not from the exam body's own document; topic names are that page's lists, grouped. The page lists both intermediate years together, so the chapters are not split by year; I left out its group headings (Algebra, Mechanics, Physical chemistry and similar). Check first against the official syllabus. Published on 2026-11-16 at the owner's request while still unverified: the topic lists come from the source named in syllabus_source_url, not from an official syllabus, and have not been compared with one.",
     "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "version": 2,
+    "is_published": true,
     "sort_order": 1220
   },
   "subjects": [

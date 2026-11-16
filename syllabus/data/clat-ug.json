@@ -22,10 +22,10 @@
     "syllabus_source_url": "https://consortiumofnlus.ac.in/clat-2027/ug-syllabus.html",
     "syllabus_cycle": "CLAT 2027",
     "verified": false,
-    "verification_note": "Draft from the Consortium's own CLAT 2027 UG syllabus page, read through a page summariser; the page describes skills tested per section and gives no topic list, so the topics are those skills in short form. Check first that each topic matches the page's wording.",
+    "verification_note": "Draft from the Consortium's own CLAT 2027 UG syllabus page, read through a page summariser; the page describes skills tested per section and gives no topic list, so the topics are those skills in short form. Check first that each topic matches the page's wording. Published on 2026-11-16 at the owner's request while still unverified: the topic lists come from the source named in syllabus_source_url, not from an official syllabus, and have not been compared with one.",
     "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "version": 2,
+    "is_published": true,
     "sort_order": 750
   },
   "subjects": [

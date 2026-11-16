@@ -1,0 +1,107 @@
+{
+  "schema": 1,
+  "slug": "capf-ac",
+  "kind": "exam",
+  "name": "UPSC CAPF (Assistant Commandant)",
+  "short_name": "CAPF AC",
+  "aliases": [
+    "capf",
+    "capf ac",
+    "upsc capf",
+    "assistant commandant",
+    "central armed police forces",
+    "bsf",
+    "crpf",
+    "cisf",
+    "itbp",
+    "ssb",
+    "paramilitary",
+    "defence"
+  ],
+  "category": "defence",
+  "subject_count": 2,
+  "topic_count": 13,
+  "version": 2,
+  "unverified": true,
+  "subjects": [
+    {
+      "slug": "paper-i-general-ability-and-intelligence",
+      "name": "Paper I: General Ability and Intelligence",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "general-mental-ability",
+          "name": "General Mental Ability",
+          "sort_order": 10
+        },
+        {
+          "slug": "general-science",
+          "name": "General Science",
+          "sort_order": 20
+        },
+        {
+          "slug": "current-events-of-national-and-international-importance",
+          "name": "Current Events of National and International Importance",
+          "sort_order": 30
+        },
+        {
+          "slug": "indian-polity-and-economy",
+          "name": "Indian Polity and Economy",
+          "sort_order": 40
+        },
+        {
+          "slug": "history-of-india",
+          "name": "History of India",
+          "sort_order": 50
+        },
+        {
+          "slug": "indian-and-world-geography",
+          "name": "Indian and World Geography",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "paper-ii-general-studies-essay-and-comprehension",
+      "name": "Paper II: General Studies, Essay and Comprehension",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "essay-modern-indian-history-and-the-freedom-struggle",
+          "name": "Essay: Modern Indian History and the Freedom Struggle",
+          "sort_order": 10
+        },
+        {
+          "slug": "essay-geography-polity-and-economy",
+          "name": "Essay: Geography, Polity and Economy",
+          "sort_order": 20
+        },
+        {
+          "slug": "essay-security-and-human-rights-issues-analytical-ability",
+          "name": "Essay: Security and Human Rights Issues, Analytical Ability",
+          "sort_order": 30
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 40
+        },
+        {
+          "slug": "precis-writing",
+          "name": "Precis Writing",
+          "sort_order": 50
+        },
+        {
+          "slug": "developing-counter-arguments",
+          "name": "Developing Counter Arguments",
+          "sort_order": 60
+        },
+        {
+          "slug": "simple-grammar-and-other-language-skills",
+          "name": "Simple Grammar and Other Language Skills",
+          "sort_order": 70
+        }
+      ]
+    }
+  ]
+}

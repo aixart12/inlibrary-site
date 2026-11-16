@@ -25,10 +25,10 @@
     "syllabus_source_url": "https://www.adda247.com/exams/up/up-police-constable-syllabus",
     "syllabus_cycle": "2026 (as described by the secondary source; official notification not opened)",
     "verified": false,
-    "verification_note": "General syllabus drafted from Adda247's UP Police Constable syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. Check first the four paper lists against the UPPRPB notification; the Hindi topics are given here by their English names.",
+    "verification_note": "General syllabus drafted from Adda247's UP Police Constable syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. Check first the four paper lists against the UPPRPB notification; the Hindi topics are given here by their English names. Published on 2026-11-16 at the owner's request while still unverified: the topic lists come from the source named in syllabus_source_url, not from an official syllabus, and have not been compared with one.",
     "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "version": 2,
+    "is_published": true,
     "sort_order": 770
   },
   "subjects": [

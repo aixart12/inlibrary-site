@@ -21,10 +21,10 @@
     "syllabus_source_url": "https://www.drishtiias.com/state-pcs/rpsc-exam-syllabus-prelims",
     "syllabus_cycle": "Syllabus updated January 2026 per the secondary source; official document not opened",
     "verified": false,
-    "verification_note": "General syllabus drafted from Drishti IAS's RPSC prelims syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. The page lists 11 units with sub-points; check first that the units match the syllabus RPSC released in January 2026. The mains is not included.",
+    "verification_note": "General syllabus drafted from Drishti IAS's RPSC prelims syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. The page lists 11 units with sub-points; check first that the units match the syllabus RPSC released in January 2026. The mains is not included. Published on 2026-11-16 at the owner's request while still unverified: the topic lists come from the source named in syllabus_source_url, not from an official syllabus, and have not been compared with one.",
     "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "version": 2,
+    "is_published": true,
     "sort_order": 800
   },
   "subjects": [

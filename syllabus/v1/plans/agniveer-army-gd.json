@@ -1,0 +1,307 @@
+{
+  "schema": 1,
+  "slug": "agniveer-army-gd",
+  "kind": "exam",
+  "name": "Indian Army Agniveer (General Duty)",
+  "short_name": "Agniveer GD",
+  "aliases": [
+    "agniveer",
+    "agniveer gd",
+    "army agniveer",
+    "agnipath",
+    "indian army",
+    "army gd",
+    "army bharti",
+    "general duty",
+    "army",
+    "cee",
+    "sena",
+    "fauji",
+    "defence"
+  ],
+  "category": "defence",
+  "subject_count": 4,
+  "topic_count": 50,
+  "version": 2,
+  "unverified": true,
+  "subjects": [
+    {
+      "slug": "general-knowledge",
+      "name": "General Knowledge",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "abbreviations",
+          "name": "Abbreviations",
+          "sort_order": 10
+        },
+        {
+          "slug": "science-inventions-and-discoveries",
+          "name": "Science: Inventions and Discoveries",
+          "sort_order": 20
+        },
+        {
+          "slug": "current-affairs-national-and-international",
+          "name": "Current Affairs: National and International",
+          "sort_order": 30
+        },
+        {
+          "slug": "awards-and-honours",
+          "name": "Awards and Honours",
+          "sort_order": 40
+        },
+        {
+          "slug": "financial-economic-and-banking-news",
+          "name": "Financial, Economic and Banking News",
+          "sort_order": 50
+        },
+        {
+          "slug": "indian-constitution",
+          "name": "Indian Constitution",
+          "sort_order": 60
+        },
+        {
+          "slug": "books-and-authors",
+          "name": "Books and Authors",
+          "sort_order": 70
+        },
+        {
+          "slug": "important-days",
+          "name": "Important Days",
+          "sort_order": 80
+        },
+        {
+          "slug": "history",
+          "name": "History",
+          "sort_order": 90
+        },
+        {
+          "slug": "sports-terminology",
+          "name": "Sports Terminology",
+          "sort_order": 100
+        },
+        {
+          "slug": "geography-and-the-solar-system",
+          "name": "Geography and the Solar System",
+          "sort_order": 110
+        },
+        {
+          "slug": "indian-states-and-capitals",
+          "name": "Indian States and Capitals",
+          "sort_order": 120
+        },
+        {
+          "slug": "countries-and-currencies",
+          "name": "Countries and Currencies",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "general-science",
+      "name": "General Science",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "physics",
+          "name": "Physics",
+          "sort_order": 10
+        },
+        {
+          "slug": "chemistry",
+          "name": "Chemistry",
+          "sort_order": 20
+        },
+        {
+          "slug": "biology",
+          "name": "Biology",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "maths",
+      "name": "Maths",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "number-system",
+          "name": "Number System",
+          "sort_order": 10
+        },
+        {
+          "slug": "hcf-and-lcm",
+          "name": "HCF and LCM",
+          "sort_order": 20
+        },
+        {
+          "slug": "algebraic-expressions-and-inequalities",
+          "name": "Algebraic Expressions and Inequalities",
+          "sort_order": 30
+        },
+        {
+          "slug": "average",
+          "name": "Average",
+          "sort_order": 40
+        },
+        {
+          "slug": "percentage",
+          "name": "Percentage",
+          "sort_order": 50
+        },
+        {
+          "slug": "profit-and-loss",
+          "name": "Profit and Loss",
+          "sort_order": 60
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 70
+        },
+        {
+          "slug": "ratio-and-proportion",
+          "name": "Ratio and Proportion",
+          "sort_order": 80
+        },
+        {
+          "slug": "partnership",
+          "name": "Partnership",
+          "sort_order": 90
+        },
+        {
+          "slug": "mixture-and-allegations",
+          "name": "Mixture and Allegations",
+          "sort_order": 100
+        },
+        {
+          "slug": "time-and-work-pipes-and-cisterns",
+          "name": "Time and Work, Pipes and Cisterns",
+          "sort_order": 110
+        },
+        {
+          "slug": "speed-time-and-distance-trains-boats-and-streams",
+          "name": "Speed, Time and Distance, Trains, Boats and Streams",
+          "sort_order": 120
+        },
+        {
+          "slug": "mensuration",
+          "name": "Mensuration",
+          "sort_order": 130
+        },
+        {
+          "slug": "geometry",
+          "name": "Geometry",
+          "sort_order": 140
+        },
+        {
+          "slug": "trigonometry",
+          "name": "Trigonometry",
+          "sort_order": 150
+        },
+        {
+          "slug": "probability",
+          "name": "Probability",
+          "sort_order": 160
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 170
+        },
+        {
+          "slug": "number-series",
+          "name": "Number Series",
+          "sort_order": 180
+        }
+      ]
+    },
+    {
+      "slug": "logical-reasoning",
+      "name": "Logical Reasoning",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "number-ranking-and-time-sequence",
+          "name": "Number, Ranking and Time Sequence",
+          "sort_order": 10
+        },
+        {
+          "slug": "logical-sequence-of-words",
+          "name": "Logical Sequence of Words",
+          "sort_order": 20
+        },
+        {
+          "slug": "alphabet-test-series",
+          "name": "Alphabet Test Series",
+          "sort_order": 30
+        },
+        {
+          "slug": "alpha-numeric-sequence-puzzle",
+          "name": "Alpha-Numeric Sequence Puzzle",
+          "sort_order": 40
+        },
+        {
+          "slug": "arithmetical-reasoning",
+          "name": "Arithmetical Reasoning",
+          "sort_order": 50
+        },
+        {
+          "slug": "coding-decoding",
+          "name": "Coding-Decoding",
+          "sort_order": 60
+        },
+        {
+          "slug": "direction-sense-test",
+          "name": "Direction Sense Test",
+          "sort_order": 70
+        },
+        {
+          "slug": "analogy",
+          "name": "Analogy",
+          "sort_order": 80
+        },
+        {
+          "slug": "clocks-and-calendars",
+          "name": "Clocks and Calendars",
+          "sort_order": 90
+        },
+        {
+          "slug": "logical-venn-diagrams",
+          "name": "Logical Venn Diagrams",
+          "sort_order": 100
+        },
+        {
+          "slug": "statement-conclusions-and-arguments",
+          "name": "Statement: Conclusions and Arguments",
+          "sort_order": 110
+        },
+        {
+          "slug": "deriving-conclusions-from-passages",
+          "name": "Deriving Conclusions from Passages",
+          "sort_order": 120
+        },
+        {
+          "slug": "inserting-the-missing-character",
+          "name": "Inserting the Missing Character",
+          "sort_order": 130
+        },
+        {
+          "slug": "puzzles",
+          "name": "Puzzles",
+          "sort_order": 140
+        },
+        {
+          "slug": "data-sufficiency",
+          "name": "Data Sufficiency",
+          "sort_order": 150
+        },
+        {
+          "slug": "situation-reaction-test",
+          "name": "Situation Reaction Test",
+          "sort_order": 160
+        }
+      ]
+    }
+  ]
+}

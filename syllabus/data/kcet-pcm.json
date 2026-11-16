@@ -26,10 +26,10 @@
     "syllabus_source_url": "https://engineering.careers360.com/articles/kcet-syllabus",
     "syllabus_cycle": "KCET 2027 (as described by the secondary source; official syllabus not opened)",
     "verified": false,
-    "verification_note": "General syllabus drafted from Careers360's KCET syllabus page, a secondary site, not from the Karnataka Examinations Authority; topic names are that page's unit lists with a First PUC or Second PUC prefix added. Mathematics is given only as broad units (Algebra, Calculus), so check that subject first against the KEA syllabus.",
+    "verification_note": "General syllabus drafted from Careers360's KCET syllabus page, a secondary site, not from the Karnataka Examinations Authority; topic names are that page's unit lists with a First PUC or Second PUC prefix added. Mathematics is given only as broad units (Algebra, Calculus), so check that subject first against the KEA syllabus. Published on 2026-11-16 at the owner's request while still unverified: the topic lists come from the source named in syllabus_source_url, not from an official syllabus, and have not been compared with one.",
     "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "version": 2,
+    "is_published": true,
     "sort_order": 1000
   },
   "subjects": [

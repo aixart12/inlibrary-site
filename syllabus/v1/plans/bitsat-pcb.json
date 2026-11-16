@@ -1,0 +1,210 @@
+{
+  "schema": 1,
+  "slug": "bitsat-pcb",
+  "kind": "exam",
+  "name": "BITSAT (PCB)",
+  "short_name": "BITSAT PCB",
+  "aliases": [
+    "bitsat",
+    "bits",
+    "bits pilani",
+    "bits pilani entrance",
+    "birla institute of technology and science",
+    "pilani",
+    "goa",
+    "hyderabad",
+    "engineering",
+    "pcb",
+    "biology",
+    "pharmacy",
+    "bpharm",
+    "b.pharm"
+  ],
+  "category": "entrance",
+  "subject_count": 5,
+  "topic_count": 29,
+  "version": 2,
+  "unverified": true,
+  "subjects": [
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "mechanics",
+          "name": "Mechanics",
+          "sort_order": 10
+        },
+        {
+          "slug": "properties-of-matter",
+          "name": "Properties of Matter",
+          "sort_order": 20
+        },
+        {
+          "slug": "heat-and-thermodynamics",
+          "name": "Heat and Thermodynamics",
+          "sort_order": 30
+        },
+        {
+          "slug": "oscillations-and-waves",
+          "name": "Oscillations and Waves",
+          "sort_order": 40
+        },
+        {
+          "slug": "electrostatics",
+          "name": "Electrostatics",
+          "sort_order": 50
+        },
+        {
+          "slug": "current-electricity",
+          "name": "Current Electricity",
+          "sort_order": 60
+        },
+        {
+          "slug": "magnetism",
+          "name": "Magnetism",
+          "sort_order": 70
+        },
+        {
+          "slug": "electromagnetic-induction-and-ac",
+          "name": "Electromagnetic Induction and AC",
+          "sort_order": 80
+        },
+        {
+          "slug": "optics",
+          "name": "Optics",
+          "sort_order": 90
+        },
+        {
+          "slug": "modern-physics",
+          "name": "Modern Physics",
+          "sort_order": 100
+        },
+        {
+          "slug": "electronic-devices",
+          "name": "Electronic Devices",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "physical-chemistry",
+          "name": "Physical Chemistry",
+          "sort_order": 10
+        },
+        {
+          "slug": "inorganic-chemistry",
+          "name": "Inorganic Chemistry",
+          "sort_order": 20
+        },
+        {
+          "slug": "organic-chemistry",
+          "name": "Organic Chemistry",
+          "sort_order": 30
+        },
+        {
+          "slug": "practical-and-applied-chemistry",
+          "name": "Practical and Applied Chemistry",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "english-proficiency",
+      "name": "English Proficiency",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "grammar",
+          "name": "Grammar",
+          "sort_order": 10
+        },
+        {
+          "slug": "vocabulary",
+          "name": "Vocabulary",
+          "sort_order": 20
+        },
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "logical-reasoning",
+      "name": "Logical Reasoning",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "verbal-and-non-verbal-reasoning",
+          "name": "Verbal and Non-Verbal Reasoning",
+          "sort_order": 10
+        }
+      ]
+    },
+    {
+      "slug": "biology",
+      "name": "Biology",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "diversity-in-the-living-world",
+          "name": "Diversity in the Living World",
+          "sort_order": 10
+        },
+        {
+          "slug": "structural-organisation",
+          "name": "Structural Organisation",
+          "sort_order": 20
+        },
+        {
+          "slug": "cell-biology",
+          "name": "Cell Biology",
+          "sort_order": 30
+        },
+        {
+          "slug": "plant-physiology",
+          "name": "Plant Physiology",
+          "sort_order": 40
+        },
+        {
+          "slug": "human-physiology",
+          "name": "Human Physiology",
+          "sort_order": 50
+        },
+        {
+          "slug": "reproduction",
+          "name": "Reproduction",
+          "sort_order": 60
+        },
+        {
+          "slug": "genetics-and-evolution",
+          "name": "Genetics and Evolution",
+          "sort_order": 70
+        },
+        {
+          "slug": "biology-and-human-welfare",
+          "name": "Biology and Human Welfare",
+          "sort_order": 80
+        },
+        {
+          "slug": "biotechnology",
+          "name": "Biotechnology",
+          "sort_order": 90
+        },
+        {
+          "slug": "ecology-and-environment",
+          "name": "Ecology and Environment",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}

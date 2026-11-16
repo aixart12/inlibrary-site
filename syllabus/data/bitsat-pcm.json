@@ -24,10 +24,10 @@
     "syllabus_source_url": "https://cracku.in/bitsat-syllabus-2027",
     "syllabus_cycle": "BITSAT 2027 (as described by the secondary source; the page says the official 2027 syllabus is not out)",
     "verified": false,
-    "verification_note": "General syllabus drafted from Cracku's BITSAT syllabus page, a secondary site, not from the exam body's own document; topic names are that page's lists, grouped. The page gives broad areas only (Chemistry has four, Logical Reasoning one), so check this plan against the BITS brochure first.",
+    "verification_note": "General syllabus drafted from Cracku's BITSAT syllabus page, a secondary site, not from the exam body's own document; topic names are that page's lists, grouped. The page gives broad areas only (Chemistry has four, Logical Reasoning one), so check this plan against the BITS brochure first. Published on 2026-11-16 at the owner's request while still unverified: the topic lists come from the source named in syllabus_source_url, not from an official syllabus, and have not been compared with one.",
     "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "version": 2,
+    "is_published": true,
     "sort_order": 1260
   },
   "subjects": [

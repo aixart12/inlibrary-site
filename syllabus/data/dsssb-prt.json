@@ -21,10 +21,10 @@
     "syllabus_source_url": "https://www.drishtiteachingexams.com/blog/dsssb-prt-exam-complete-pattern-syllabus-preparation-guide-for-primary-teachers",
     "syllabus_cycle": "2026 (a blog post dated 30 April 2026; official notification not opened)",
     "verified": false,
-    "verification_note": "General syllabus drafted from Drishti Teaching Exams' DSSSB PRT page, a secondary site, not from the official notification; topic names are that page's lists, grouped. The page gives Section B (pedagogy) as seven headings and no Hindi, English, Maths or EVS topics for it; check first whether Section B has subject lists in the notification. Hindi topics are given by their English names.",
+    "verification_note": "General syllabus drafted from Drishti Teaching Exams' DSSSB PRT page, a secondary site, not from the official notification; topic names are that page's lists, grouped. The page gives Section B (pedagogy) as seven headings and no Hindi, English, Maths or EVS topics for it; check first whether Section B has subject lists in the notification. Hindi topics are given by their English names. Published on 2026-11-16 at the owner's request while still unverified: the topic lists come from the source named in syllabus_source_url, not from an official syllabus, and have not been compared with one.",
     "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "version": 2,
+    "is_published": true,
     "sort_order": 1360
   },
   "subjects": [

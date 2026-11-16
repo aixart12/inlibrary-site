@@ -1,0 +1,294 @@
+{
+  "schema": 1,
+  "slug": "uptet-paper-1",
+  "kind": "exam",
+  "name": "UPTET Paper 1 (Classes 1-5)",
+  "short_name": "UPTET P1",
+  "aliases": [
+    "uptet",
+    "up tet",
+    "tet",
+    "uttar pradesh teacher eligibility test",
+    "teacher eligibility",
+    "teacher",
+    "teaching",
+    "primary teacher",
+    "paper 1",
+    "up",
+    "uttar pradesh",
+    "btc",
+    "deled"
+  ],
+  "category": "teaching",
+  "subject_count": 5,
+  "topic_count": 46,
+  "version": 2,
+  "unverified": true,
+  "subjects": [
+    {
+      "slug": "child-development-and-pedagogy",
+      "name": "Child Development and Pedagogy",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "meaning-need-and-scope-of-child-development",
+          "name": "Meaning, Need and Scope of Child Development",
+          "sort_order": 10
+        },
+        {
+          "slug": "stages-of-development-physical-mental-emotional-language",
+          "name": "Stages of Development: Physical, Mental, Emotional, Language",
+          "sort_order": 20
+        },
+        {
+          "slug": "heredity-and-environment",
+          "name": "Heredity and Environment",
+          "sort_order": 30
+        },
+        {
+          "slug": "meaning-of-learning-factors-and-effective-methods",
+          "name": "Meaning of Learning, Factors and Effective Methods",
+          "sort_order": 40
+        },
+        {
+          "slug": "laws-and-theories-of-learning-thorndike-pavlov-skinner-kohle",
+          "name": "Laws and Theories of Learning: Thorndike, Pavlov, Skinner, Kohler, Piaget, Vygotsky",
+          "sort_order": 50
+        },
+        {
+          "slug": "learning-curves-and-learning-plateaus",
+          "name": "Learning Curves and Learning Plateaus",
+          "sort_order": 60
+        },
+        {
+          "slug": "teaching-aims-maxims-methods-micro-teaching-and-teaching-ski",
+          "name": "Teaching: Aims, Maxims, Methods, Micro-teaching and Teaching Skills",
+          "sort_order": 70
+        },
+        {
+          "slug": "inclusive-education",
+          "name": "Inclusive Education",
+          "sort_order": 80
+        },
+        {
+          "slug": "guidance-and-counselling",
+          "name": "Guidance and Counselling",
+          "sort_order": 90
+        },
+        {
+          "slug": "how-children-think-and-learn-motivation-and-factors-affectin",
+          "name": "How Children Think and Learn, Motivation and Factors Affecting Learning",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "language-i-hindi",
+      "name": "Language I: Hindi",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "unseen-passages-hindi",
+          "name": "Unseen Passages (Hindi)",
+          "sort_order": 10
+        },
+        {
+          "slug": "alphabet-vowels-consonants-and-matra",
+          "name": "Alphabet, Vowels, Consonants and Matra",
+          "sort_order": 20
+        },
+        {
+          "slug": "sentence-formation-and-punctuation-marks",
+          "name": "Sentence Formation and Punctuation Marks",
+          "sort_order": 30
+        },
+        {
+          "slug": "antonyms-synonyms-and-rhyming-words",
+          "name": "Antonyms, Synonyms and Rhyming Words",
+          "sort_order": 40
+        },
+        {
+          "slug": "parts-of-speech-gender-number-and-tense-hindi",
+          "name": "Parts of Speech, Gender, Number and Tense (Hindi)",
+          "sort_order": 50
+        },
+        {
+          "slug": "prefixes-suffixes-tatsam-tadbhav-and-deshaj-words",
+          "name": "Prefixes, Suffixes, Tatsam, Tadbhav and Deshaj Words",
+          "sort_order": 60
+        },
+        {
+          "slug": "idioms-and-proverbs",
+          "name": "Idioms and Proverbs",
+          "sort_order": 70
+        },
+        {
+          "slug": "sandhi-samas-voice-and-figures-of-speech",
+          "name": "Sandhi, Samas, Voice and Figures of Speech",
+          "sort_order": 80
+        },
+        {
+          "slug": "works-of-major-poets-and-writers",
+          "name": "Works of Major Poets and Writers",
+          "sort_order": 90
+        },
+        {
+          "slug": "pedagogy-of-language-teaching",
+          "name": "Pedagogy of Language Teaching",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "language-ii-english",
+      "name": "Language II: English",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "unseen-passages-english",
+          "name": "Unseen Passages (English)",
+          "sort_order": 10
+        },
+        {
+          "slug": "subject-and-predicate-kinds-of-sentences",
+          "name": "Subject and Predicate, Kinds of Sentences",
+          "sort_order": 20
+        },
+        {
+          "slug": "parts-of-speech-and-their-kinds",
+          "name": "Parts of Speech and their Kinds",
+          "sort_order": 30
+        },
+        {
+          "slug": "tenses",
+          "name": "Tenses",
+          "sort_order": 40
+        },
+        {
+          "slug": "articles-and-punctuation",
+          "name": "Articles and Punctuation",
+          "sort_order": 50
+        },
+        {
+          "slug": "word-formation",
+          "name": "Word Formation",
+          "sort_order": 60
+        },
+        {
+          "slug": "active-and-passive-voice",
+          "name": "Active and Passive Voice",
+          "sort_order": 70
+        },
+        {
+          "slug": "singular-and-plural-gender",
+          "name": "Singular and Plural, Gender",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "numbers-and-the-four-operations",
+          "name": "Numbers and the Four Operations",
+          "sort_order": 10
+        },
+        {
+          "slug": "lcm-and-hcf",
+          "name": "LCM and HCF",
+          "sort_order": 20
+        },
+        {
+          "slug": "fractions-and-decimals",
+          "name": "Fractions and Decimals",
+          "sort_order": 30
+        },
+        {
+          "slug": "unitary-method-percentage-profit-and-loss-simple-interest",
+          "name": "Unitary Method, Percentage, Profit and Loss, Simple Interest",
+          "sort_order": 40
+        },
+        {
+          "slug": "geometry-shapes-angles-triangles-circles",
+          "name": "Geometry: Shapes, Angles, Triangles, Circles",
+          "sort_order": 50
+        },
+        {
+          "slug": "money-and-measurement-of-time-weight-capacity-length-tempera",
+          "name": "Money and Measurement of Time, Weight, Capacity, Length, Temperature",
+          "sort_order": 60
+        },
+        {
+          "slug": "perimeter-area-and-volume",
+          "name": "Perimeter, Area and Volume",
+          "sort_order": 70
+        },
+        {
+          "slug": "calendar-clocks-and-timetables",
+          "name": "Calendar, Clocks and Timetables",
+          "sort_order": 80
+        },
+        {
+          "slug": "data-collection-and-representation",
+          "name": "Data Collection and Representation",
+          "sort_order": 90
+        },
+        {
+          "slug": "pedagogy-of-mathematics",
+          "name": "Pedagogy of Mathematics",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "environmental-studies",
+      "name": "Environmental Studies",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "family-food-health-hygiene-and-housing",
+          "name": "Family, Food, Health, Hygiene and Housing",
+          "sort_order": 10
+        },
+        {
+          "slug": "plants-animals-water-and-our-surroundings",
+          "name": "Plants, Animals, Water and Our Surroundings",
+          "sort_order": 20
+        },
+        {
+          "slug": "local-occupations-transport-communication-and-games",
+          "name": "Local Occupations, Transport, Communication and Games",
+          "sort_order": 30
+        },
+        {
+          "slug": "geography-of-india-and-the-state",
+          "name": "Geography of India and the State",
+          "sort_order": 40
+        },
+        {
+          "slug": "constitution-and-governance-local-self-government-to-judicia",
+          "name": "Constitution and Governance: Local Self-government to Judiciary",
+          "sort_order": 50
+        },
+        {
+          "slug": "national-festivals-symbols-and-national-unity",
+          "name": "National Festivals, Symbols and National Unity",
+          "sort_order": 60
+        },
+        {
+          "slug": "environment-need-conservation-and-government-schemes",
+          "name": "Environment: Need, Conservation and Government Schemes",
+          "sort_order": 70
+        },
+        {
+          "slug": "pedagogy-of-environmental-studies",
+          "name": "Pedagogy of Environmental Studies",
+          "sort_order": 80
+        }
+      ]
+    }
+  ]
+}
