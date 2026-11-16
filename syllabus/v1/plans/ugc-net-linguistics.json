@@ -1,0 +1,144 @@
+{
+  "schema": 1,
+  "slug": "ugc-net-linguistics",
+  "kind": "exam",
+  "name": "UGC NET Linguistics (Paper 1 + Paper 2)",
+  "short_name": "UGC NET Linguistics",
+  "aliases": [
+    "ugc net",
+    "ugc-net",
+    "net",
+    "nta net",
+    "nta ugc net",
+    "net jrf",
+    "jrf",
+    "assistant professor",
+    "lectureship",
+    "net exam",
+    "ugc",
+    "linguistics",
+    "language",
+    "paper 2",
+    "paper ii"
+  ],
+  "category": "teaching",
+  "subject_count": 2,
+  "topic_count": 20,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "linguistics-paper-2",
+      "name": "Linguistics (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "language-and-linguistics",
+          "name": "Language and Linguistics",
+          "sort_order": 10
+        },
+        {
+          "slug": "phonetics-and-phonology",
+          "name": "Phonetics and Phonology",
+          "sort_order": 20
+        },
+        {
+          "slug": "morphology",
+          "name": "Morphology",
+          "sort_order": 30
+        },
+        {
+          "slug": "syntax",
+          "name": "Syntax",
+          "sort_order": 40
+        },
+        {
+          "slug": "semantics-and-pragmatics",
+          "name": "Semantics and Pragmatics",
+          "sort_order": 50
+        },
+        {
+          "slug": "historical-linguistics",
+          "name": "Historical Linguistics",
+          "sort_order": 60
+        },
+        {
+          "slug": "sociolinguistics",
+          "name": "Sociolinguistics",
+          "sort_order": 70
+        },
+        {
+          "slug": "areal-typology-and-south-asian-language-families",
+          "name": "Areal Typology and South Asian Language Families",
+          "sort_order": 80
+        },
+        {
+          "slug": "interdisciplinary-and-applied-linguistics-i",
+          "name": "Interdisciplinary and Applied Linguistics I",
+          "sort_order": 90
+        },
+        {
+          "slug": "interdisciplinary-and-applied-linguistics-ii",
+          "name": "Interdisciplinary and Applied Linguistics II",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}

@@ -25,11 +25,11 @@
     "official_url": "https://ugcnet.nta.nic.in",
     "syllabus_source_url": "https://www.ugcnetonline.in/syllabus-new.php",
     "syllabus_cycle": "UGC-NET December 2026 (the PDFs themselves are undated; the Paper 1 PDF was created in August 2018)",
-    "verified": false,
-    "verification_note": "Draft from the UGC Paper-I and Sociology syllabus PDFs (Paper-I_English.pdf, Sociology_English.pdf) linked from the UGC syllabus page that the NTA UGC-NET December 2026 Information Bulletin names; topics are the PDFs' ten units each, not chapters. Check first whether UGC has issued newer syllabi.",
-    "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "verified": true,
+    "verification_note": "Verified 2026-11-16 against the Sociology syllabus PDF on the UGC NET portal (ugcnetonline.in, which carries the University Grants Commission's name and a ugc.gov.in contact): the PDF has ten units and the ten unit titles match the plan's topics in order. Paper 1 units were checked separately against Paper-I_English.pdf. Unit titles were compared; the sub-points under each were not. The PDFs are undated (created 2018 or later), and a newer UGC syllabus has not been ruled out.",
+    "last_verified": "2026-11-16",
+    "version": 2,
+    "is_published": true,
     "sort_order": 460
   },
   "subjects": [

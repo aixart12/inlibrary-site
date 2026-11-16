@@ -1,0 +1,144 @@
+{
+  "schema": 1,
+  "slug": "ugc-net-statistics",
+  "kind": "exam",
+  "name": "UGC NET Statistics (Paper 1 + Paper 2)",
+  "short_name": "UGC NET Statistics",
+  "aliases": [
+    "ugc net",
+    "ugc-net",
+    "net",
+    "nta net",
+    "nta ugc net",
+    "net jrf",
+    "jrf",
+    "assistant professor",
+    "lectureship",
+    "net exam",
+    "ugc",
+    "statistics",
+    "stats",
+    "paper 2",
+    "paper ii"
+  ],
+  "category": "teaching",
+  "subject_count": 2,
+  "topic_count": 20,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "statistics-paper-2",
+      "name": "Statistics (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "probability-and-distributions",
+          "name": "Probability and Distributions",
+          "sort_order": 10
+        },
+        {
+          "slug": "real-analysis-and-matrix-algebra",
+          "name": "Real Analysis and Matrix Algebra",
+          "sort_order": 20
+        },
+        {
+          "slug": "sampling-methods-and-design-of-experiments",
+          "name": "Sampling Methods and Design of Experiments",
+          "sort_order": 30
+        },
+        {
+          "slug": "estimation-theory",
+          "name": "Estimation Theory",
+          "sort_order": 40
+        },
+        {
+          "slug": "testing-of-hypotheses",
+          "name": "Testing of Hypotheses",
+          "sort_order": 50
+        },
+        {
+          "slug": "linear-estimation-regression-analysis-and-econometrics",
+          "name": "Linear Estimation, Regression Analysis and Econometrics",
+          "sort_order": 60
+        },
+        {
+          "slug": "time-series",
+          "name": "Time Series",
+          "sort_order": 70
+        },
+        {
+          "slug": "multivariate-analysis",
+          "name": "Multivariate Analysis",
+          "sort_order": 80
+        },
+        {
+          "slug": "stochastic-processes",
+          "name": "Stochastic Processes",
+          "sort_order": 90
+        },
+        {
+          "slug": "indian-statistical-system-and-research-methodology",
+          "name": "Indian Statistical System and Research Methodology",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}

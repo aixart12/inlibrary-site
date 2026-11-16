@@ -1,0 +1,145 @@
+{
+  "schema": 1,
+  "slug": "ugc-net-management",
+  "kind": "exam",
+  "name": "UGC NET Management (Paper 1 + Paper 2)",
+  "short_name": "UGC NET Management",
+  "aliases": [
+    "ugc net",
+    "ugc-net",
+    "net",
+    "nta net",
+    "nta ugc net",
+    "net jrf",
+    "jrf",
+    "assistant professor",
+    "lectureship",
+    "net exam",
+    "ugc",
+    "management",
+    "mba",
+    "commerce and management",
+    "paper 2",
+    "paper ii"
+  ],
+  "category": "teaching",
+  "subject_count": 2,
+  "topic_count": 20,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "management-paper-2",
+      "name": "Management (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "management",
+          "name": "Management",
+          "sort_order": 10
+        },
+        {
+          "slug": "organisational-behaviour",
+          "name": "Organisational Behaviour",
+          "sort_order": 20
+        },
+        {
+          "slug": "strategic-role-of-human-resource-management",
+          "name": "Strategic Role of Human Resource Management",
+          "sort_order": 30
+        },
+        {
+          "slug": "accounting-principles-and-standards-preparation-of-financial",
+          "name": "Accounting Principles and Standards, Preparation of Financial Statements",
+          "sort_order": 40
+        },
+        {
+          "slug": "value-and-returns",
+          "name": "Value and Returns",
+          "sort_order": 50
+        },
+        {
+          "slug": "strategic-management",
+          "name": "Strategic Management",
+          "sort_order": 60
+        },
+        {
+          "slug": "consumer-and-industrial-buying-behaviour",
+          "name": "Consumer and Industrial Buying Behaviour",
+          "sort_order": 70
+        },
+        {
+          "slug": "statistics-for-management",
+          "name": "Statistics for Management",
+          "sort_order": 80
+        },
+        {
+          "slug": "international-business",
+          "name": "International Business",
+          "sort_order": 90
+        },
+        {
+          "slug": "entrepreneurship-development",
+          "name": "Entrepreneurship Development",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}
