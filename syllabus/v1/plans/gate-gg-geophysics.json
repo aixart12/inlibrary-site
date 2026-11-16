@@ -1,0 +1,184 @@
+{
+  "schema": 1,
+  "slug": "gate-gg-geophysics",
+  "kind": "exam",
+  "name": "GATE Geology and Geophysics (GG, Geophysics, Part B2)",
+  "short_name": "GATE GG Geophysics",
+  "aliases": [
+    "gate",
+    "gate exam",
+    "gate 2027",
+    "graduate aptitude test in engineering",
+    "mtech",
+    "m.tech",
+    "psu",
+    "iit",
+    "gg",
+    "gate gg",
+    "geophysics",
+    "geology and geophysics",
+    "geophysical"
+  ],
+  "category": "entrance",
+  "subject_count": 3,
+  "topic_count": 27,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "common-section-part-a",
+      "name": "Common Section (Part A)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "introduction-to-earth-and-planetary-systems",
+          "name": "Introduction to Earth and Planetary Systems",
+          "sort_order": 10
+        },
+        {
+          "slug": "plate-tectonics",
+          "name": "Plate Tectonics",
+          "sort_order": 20
+        },
+        {
+          "slug": "earth-surface-processes",
+          "name": "Earth Surface Processes",
+          "sort_order": 30
+        },
+        {
+          "slug": "basic-structural-geology",
+          "name": "Basic Structural Geology",
+          "sort_order": 40
+        },
+        {
+          "slug": "mineralogy",
+          "name": "Mineralogy",
+          "sort_order": 50
+        },
+        {
+          "slug": "common-igneous-sedimentary-and-metamorphic-rocks",
+          "name": "Common Igneous, Sedimentary and Metamorphic Rocks",
+          "sort_order": 60
+        },
+        {
+          "slug": "stratigraphy-and-geological-time-scale",
+          "name": "Stratigraphy and Geological Time Scale",
+          "sort_order": 70
+        },
+        {
+          "slug": "introduction-to-remote-sensing",
+          "name": "Introduction to Remote Sensing",
+          "sort_order": 80
+        },
+        {
+          "slug": "elements-of-hydrogeology",
+          "name": "Elements of Hydrogeology",
+          "sort_order": 90
+        }
+      ]
+    },
+    {
+      "slug": "geophysics-part-b2",
+      "name": "Geophysics (Part B2)",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "heat-flow",
+          "name": "Heat Flow",
+          "sort_order": 10
+        },
+        {
+          "slug": "geodesy",
+          "name": "Geodesy",
+          "sort_order": 20
+        },
+        {
+          "slug": "seismology-and-interior-of-the-earth",
+          "name": "Seismology and Interior of the Earth",
+          "sort_order": 30
+        },
+        {
+          "slug": "earthquake-seismology",
+          "name": "Earthquake Seismology",
+          "sort_order": 40
+        },
+        {
+          "slug": "potential-and-time-varying-fields",
+          "name": "Potential and Time Varying Fields",
+          "sort_order": 50
+        },
+        {
+          "slug": "gravity",
+          "name": "Gravity",
+          "sort_order": 60
+        },
+        {
+          "slug": "magnetic-methods",
+          "name": "Magnetic Methods",
+          "sort_order": 70
+        },
+        {
+          "slug": "electrical-methods",
+          "name": "Electrical Methods",
+          "sort_order": 80
+        },
+        {
+          "slug": "electromagnetic-methods",
+          "name": "Electromagnetic Methods",
+          "sort_order": 90
+        },
+        {
+          "slug": "seismic-methods",
+          "name": "Seismic Methods",
+          "sort_order": 100
+        },
+        {
+          "slug": "reservoir-geophysics",
+          "name": "Reservoir Geophysics",
+          "sort_order": 110
+        },
+        {
+          "slug": "geophysical-signal-processing",
+          "name": "Geophysical Signal Processing",
+          "sort_order": 120
+        },
+        {
+          "slug": "geophysical-well-logging",
+          "name": "Geophysical Well Logging",
+          "sort_order": 130
+        },
+        {
+          "slug": "geophysical-inversion",
+          "name": "Geophysical Inversion",
+          "sort_order": 140
+        }
+      ]
+    }
+  ]
+}

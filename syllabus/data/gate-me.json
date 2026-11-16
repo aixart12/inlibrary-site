@@ -25,11 +25,11 @@
     "official_url": "https://gate2027.iitm.ac.in",
     "syllabus_source_url": "https://gate2027.iitm.ac.in/exam_papers_and_syllabus",
     "syllabus_cycle": "GATE 2027",
-    "verified": false,
-    "verification_note": "Draft from the GATE 2027 syllabus PDFs (GA_GATE2027_Syllabus.pdf, ME_GATE2027_Syllabus.pdf) linked on the official GATE 2027 page, read as text. The paper has only four sections, so topics are the sub-headings printed inside each section; check first those sub-headings, and 'Applications of Thermal Sciences', which the PDF prints as 'Applications', against the PDF.",
-    "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "verified": true,
+    "verification_note": "Verified 2026-11-16 against ME_GATE2027_Syllabus.pdf and GA_GATE2027_Syllabus.pdf on gate2027.iitm.ac.in (the official GATE 2027 site, organised by IIT Madras): the four General Aptitude sections and the four Mechanical Engineering sections match the PDFs, and the 23 topics (sub-headings printed inside each section) appear in the same order with the same counts. One title differs: the PDF prints 'Applications' under Section 3, and the plan calls it 'Applications of Thermal Sciences' because its text covers power engineering, I.C. engines, refrigeration and turbomachinery. The topics are the PDF's sub-headings, not chapters. Sub-headings were compared; the text under each was not.",
+    "last_verified": "2026-11-16",
+    "version": 2,
+    "is_published": true,
     "sort_order": 890
   },
   "subjects": [

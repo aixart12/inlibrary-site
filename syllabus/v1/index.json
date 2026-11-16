@@ -1209,6 +1209,32 @@
       "version": 2
     },
     {
+      "slug": "gate-me",
+      "kind": "exam",
+      "name": "GATE Mechanical Engineering (ME)",
+      "short_name": "GATE ME",
+      "aliases": [
+        "gate",
+        "gate exam",
+        "gate 2027",
+        "graduate aptitude test in engineering",
+        "mtech",
+        "m.tech",
+        "psu",
+        "iit",
+        "engineering",
+        "me",
+        "mechanical",
+        "mechanical engineering",
+        "mech",
+        "gate me"
+      ],
+      "category": "entrance",
+      "subject_count": 5,
+      "topic_count": 27,
+      "version": 2
+    },
+    {
       "slug": "ugc-net-management",
       "kind": "exam",
       "name": "UGC NET Management (Paper 1 + Paper 2)",
@@ -1831,6 +1857,56 @@
       "category": "teaching",
       "subject_count": 2,
       "topic_count": 20,
+      "version": 2
+    },
+    {
+      "slug": "gate-gg-geology",
+      "kind": "exam",
+      "name": "GATE Geology and Geophysics (GG, Geology, Part B1)",
+      "short_name": "GATE GG Geology",
+      "aliases": [
+        "gate",
+        "gate exam",
+        "gate 2027",
+        "graduate aptitude test in engineering",
+        "mtech",
+        "m.tech",
+        "psu",
+        "iit",
+        "gg",
+        "gate gg",
+        "geology",
+        "geology and geophysics",
+        "geological"
+      ],
+      "category": "entrance",
+      "subject_count": 3,
+      "topic_count": 27,
+      "version": 2
+    },
+    {
+      "slug": "gate-gg-geophysics",
+      "kind": "exam",
+      "name": "GATE Geology and Geophysics (GG, Geophysics, Part B2)",
+      "short_name": "GATE GG Geophysics",
+      "aliases": [
+        "gate",
+        "gate exam",
+        "gate 2027",
+        "graduate aptitude test in engineering",
+        "mtech",
+        "m.tech",
+        "psu",
+        "iit",
+        "gg",
+        "gate gg",
+        "geophysics",
+        "geology and geophysics",
+        "geophysical"
+      ],
+      "category": "entrance",
+      "subject_count": 3,
+      "topic_count": 27,
       "version": 2
     },
     {

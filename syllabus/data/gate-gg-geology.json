@@ -24,11 +24,11 @@
     "official_url": "https://gate2027.iitm.ac.in",
     "syllabus_source_url": "https://gate2027.iitm.ac.in/exam_papers_and_syllabus",
     "syllabus_cycle": "GATE 2027",
-    "verified": false,
-    "verification_note": "Draft from the GATE 2027 syllabus PDFs (GA_GATE2027_Syllabus.pdf, GG_GATE2027_Syllabus.pdf) linked on the official GATE 2027 page, read as text. The paper has a common Part A and then Part B1 (Geology) or Part B2 (Geophysics), of which a candidate answers one, so each option is its own plan. The PDF prints each topic as a heading followed by a colon and its contents; the topics are those headings. The last Part A heading is printed 'Elements of hydrogeology' although its text describes geophysical prospecting; it is kept as printed, and 'Common Igneous' (printed as 'Common Igneous: Sedimentary, and metamorphic-rocks') is written out as 'Common Igneous, Sedimentary and Metamorphic Rocks'. Check first each title against the PDF.",
-    "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "verified": true,
+    "verification_note": "Verified 2026-11-16 against GG_GATE2027_Syllabus.pdf and GA_GATE2027_Syllabus.pdf on gate2027.iitm.ac.in (the official GATE 2027 site, organised by IIT Madras): the four General Aptitude sections, the nine Part A headings and the fourteen Part B1 (Geology) headings match the PDFs, in order and in count. The PDF prints the Part A heading 'Common Igneous: Sedimentary, and metamorphic-rocks'; the plan writes it as 'Common Igneous, Sedimentary and Metamorphic Rocks'. The PDF's last Part A heading is 'Elements of hydrogeology', kept as printed. The paper has a common Part A and then Part B1 or B2, of which a candidate answers one, so each option is its own plan. Headings were compared; the text under each was not.",
+    "last_verified": "2026-11-16",
+    "version": 2,
+    "is_published": true,
     "sort_order": 1600
   },
   "subjects": [

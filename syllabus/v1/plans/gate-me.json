@@ -1,0 +1,199 @@
+{
+  "schema": 1,
+  "slug": "gate-me",
+  "kind": "exam",
+  "name": "GATE Mechanical Engineering (ME)",
+  "short_name": "GATE ME",
+  "aliases": [
+    "gate",
+    "gate exam",
+    "gate 2027",
+    "graduate aptitude test in engineering",
+    "mtech",
+    "m.tech",
+    "psu",
+    "iit",
+    "engineering",
+    "me",
+    "mechanical",
+    "mechanical engineering",
+    "mech",
+    "gate me"
+  ],
+  "category": "entrance",
+  "subject_count": 5,
+  "topic_count": 27,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "engineering-mathematics",
+      "name": "Engineering Mathematics",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "linear-algebra",
+          "name": "Linear Algebra",
+          "sort_order": 10
+        },
+        {
+          "slug": "calculus",
+          "name": "Calculus",
+          "sort_order": 20
+        },
+        {
+          "slug": "differential-equations",
+          "name": "Differential Equations",
+          "sort_order": 30
+        },
+        {
+          "slug": "complex-variables",
+          "name": "Complex Variables",
+          "sort_order": 40
+        },
+        {
+          "slug": "probability-and-statistics",
+          "name": "Probability and Statistics",
+          "sort_order": 50
+        },
+        {
+          "slug": "numerical-methods",
+          "name": "Numerical Methods",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "applied-mechanics-and-design",
+      "name": "Applied Mechanics and Design",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "engineering-mechanics",
+          "name": "Engineering Mechanics",
+          "sort_order": 10
+        },
+        {
+          "slug": "mechanics-of-materials",
+          "name": "Mechanics of Materials",
+          "sort_order": 20
+        },
+        {
+          "slug": "theory-of-machines",
+          "name": "Theory of Machines",
+          "sort_order": 30
+        },
+        {
+          "slug": "vibrations",
+          "name": "Vibrations",
+          "sort_order": 40
+        },
+        {
+          "slug": "machine-design",
+          "name": "Machine Design",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "fluid-mechanics-and-thermal-sciences",
+      "name": "Fluid Mechanics and Thermal Sciences",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "fluid-mechanics",
+          "name": "Fluid Mechanics",
+          "sort_order": 10
+        },
+        {
+          "slug": "heat-transfer",
+          "name": "Heat Transfer",
+          "sort_order": 20
+        },
+        {
+          "slug": "thermodynamics",
+          "name": "Thermodynamics",
+          "sort_order": 30
+        },
+        {
+          "slug": "applications-of-thermal-sciences",
+          "name": "Applications of Thermal Sciences",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "materials-manufacturing-and-industrial-engineering",
+      "name": "Materials, Manufacturing and Industrial Engineering",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "engineering-materials",
+          "name": "Engineering Materials",
+          "sort_order": 10
+        },
+        {
+          "slug": "casting-forming-and-joining-processes",
+          "name": "Casting, Forming and Joining Processes",
+          "sort_order": 20
+        },
+        {
+          "slug": "machining-and-machine-tool-operations",
+          "name": "Machining and Machine Tool Operations",
+          "sort_order": 30
+        },
+        {
+          "slug": "additive-manufacturing",
+          "name": "Additive Manufacturing",
+          "sort_order": 40
+        },
+        {
+          "slug": "metrology-and-inspection",
+          "name": "Metrology and Inspection",
+          "sort_order": 50
+        },
+        {
+          "slug": "computer-aided-manufacturing-and-automation",
+          "name": "Computer Aided Manufacturing and Automation",
+          "sort_order": 60
+        },
+        {
+          "slug": "production-planning-and-control",
+          "name": "Production Planning and Control",
+          "sort_order": 70
+        },
+        {
+          "slug": "operations-research",
+          "name": "Operations Research",
+          "sort_order": 80
+        }
+      ]
+    }
+  ]
+}
