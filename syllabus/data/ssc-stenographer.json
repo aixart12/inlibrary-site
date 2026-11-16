@@ -18,13 +18,13 @@
     "category": "central-govt",
     "conducting_body": "Staff Selection Commission (SSC)",
     "official_url": "https://ssc.gov.in",
-    "syllabus_source_url": "https://www.mahendras.org/blogs/ssc-stenographer-syllabus",
-    "syllabus_cycle": "2026 (as described by the secondary source; official notification not opened)",
-    "verified": false,
-    "verification_note": "General syllabus drafted from Mahendras' SSC Stenographer syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. Check first the three section lists against the indicative syllabus in the SSC notice; the shorthand skill test is not included.",
-    "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "syllabus_source_url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_steno_2026.pdf",
+    "syllabus_cycle": "SSC notice for the Stenographer Grade C and D examination 2026 (dated 24.04.2026), section 14 (indicative syllabus)",
+    "verified": true,
+    "verification_note": "Verified 2026-11-16 against section 14 'Indicative Syllabus for Computer Based Mode Examination' of the SSC notice for the Stenographer Grade 'C' and 'D' Examination 2026 (ssc.gov.in, Notice_of_adv_steno_2026.pdf): General Intelligence and Reasoning (14.1), General Awareness (14.2) and English Language and Comprehension (14.4). The plan was first drafted from a coaching site and has been rewritten to the notice's own wording: topics now name only what the notice names, and the coaching site's extra items (for example blood relations, syllogism, para jumbles, government schemes, static GK) were removed because the notice does not list them. The notice says General Awareness questions do not need special study of any discipline. The Skill Test in Stenography (dictation at 100 w.p.m. for Grade C and 80 w.p.m. for Grade D, English or Hindi, section 15) is not included. The notice's section 14.3 (no maps, graphs or diagrams for candidates with 40% or more visual disability) is not reflected.",
+    "last_verified": "2026-11-16",
+    "version": 2,
+    "is_published": true,
     "sort_order": 700
   },
   "subjects": [
@@ -34,83 +34,83 @@
       "sort_order": 10,
       "topics": [
         {
-          "slug": "analogy",
-          "name": "Analogy",
+          "slug": "analogies",
+          "name": "Analogies",
           "sort_order": 10
         },
         {
-          "slug": "classification",
-          "name": "Classification",
+          "slug": "similarities-and-differences",
+          "name": "Similarities and Differences",
           "sort_order": 20
         },
         {
-          "slug": "coding-decoding",
-          "name": "Coding-Decoding",
+          "slug": "space-visualization",
+          "name": "Space Visualization",
           "sort_order": 30
         },
         {
-          "slug": "number-series-and-alphabet-series",
-          "name": "Number Series and Alphabet Series",
+          "slug": "problem-solving",
+          "name": "Problem Solving",
           "sort_order": 40
         },
         {
-          "slug": "blood-relations",
-          "name": "Blood Relations",
+          "slug": "analysis",
+          "name": "Analysis",
           "sort_order": 50
         },
         {
-          "slug": "direction",
-          "name": "Direction",
+          "slug": "judgment",
+          "name": "Judgment",
           "sort_order": 60
-        },
-        {
-          "slug": "ranking",
-          "name": "Ranking",
-          "sort_order": 70
-        },
-        {
-          "slug": "venn-diagram",
-          "name": "Venn Diagram",
-          "sort_order": 80
-        },
-        {
-          "slug": "syllogism",
-          "name": "Syllogism",
-          "sort_order": 90
-        },
-        {
-          "slug": "puzzle",
-          "name": "Puzzle",
-          "sort_order": 100
-        },
-        {
-          "slug": "non-verbal-reasoning",
-          "name": "Non-Verbal Reasoning",
-          "sort_order": 110
-        },
-        {
-          "slug": "mathematical-operations",
-          "name": "Mathematical Operations",
-          "sort_order": 120
-        },
-        {
-          "slug": "arithmetical-reasoning",
-          "name": "Arithmetical Reasoning",
-          "sort_order": 130
         },
         {
           "slug": "decision-making",
           "name": "Decision Making",
-          "sort_order": 140
-        },
-        {
-          "slug": "statement-conclusion",
-          "name": "Statement Conclusion",
-          "sort_order": 150
+          "sort_order": 70
         },
         {
           "slug": "visual-memory",
           "name": "Visual Memory",
+          "sort_order": 80
+        },
+        {
+          "slug": "discriminating-observation",
+          "name": "Discriminating Observation",
+          "sort_order": 90
+        },
+        {
+          "slug": "relationship-concepts",
+          "name": "Relationship Concepts",
+          "sort_order": 100
+        },
+        {
+          "slug": "arithmetical-reasoning",
+          "name": "Arithmetical Reasoning",
+          "sort_order": 110
+        },
+        {
+          "slug": "verbal-and-figure-classification",
+          "name": "Verbal and Figure Classification",
+          "sort_order": 120
+        },
+        {
+          "slug": "arithmetical-number-series",
+          "name": "Arithmetical Number Series",
+          "sort_order": 130
+        },
+        {
+          "slug": "non-verbal-series",
+          "name": "Non-Verbal Series",
+          "sort_order": 140
+        },
+        {
+          "slug": "abstract-ideas-and-symbols-and-their-relationship",
+          "name": "Abstract Ideas and Symbols and their Relationship",
+          "sort_order": 150
+        },
+        {
+          "slug": "arithmetical-computation-and-other-analytical-functions",
+          "name": "Arithmetical Computation and other Analytical Functions",
           "sort_order": 160
         }
       ]
@@ -121,59 +121,54 @@
       "sort_order": 20,
       "topics": [
         {
-          "slug": "history",
-          "name": "History",
+          "slug": "awareness-of-the-environment-and-its-application-to-society",
+          "name": "Awareness of the Environment and its Application to Society",
           "sort_order": 10
         },
         {
-          "slug": "geography",
-          "name": "Geography",
+          "slug": "current-events",
+          "name": "Current Events",
           "sort_order": 20
         },
         {
-          "slug": "polity",
-          "name": "Polity",
+          "slug": "everyday-observation-and-experience-in-their-scientific-aspe",
+          "name": "Everyday Observation and Experience in their Scientific Aspects",
           "sort_order": 30
         },
         {
-          "slug": "economy",
-          "name": "Economy",
+          "slug": "india-and-its-neighbouring-countries-sports",
+          "name": "India and its Neighbouring Countries: Sports",
           "sort_order": 40
         },
         {
-          "slug": "science-physics-chemistry-and-biology",
-          "name": "Science: Physics, Chemistry and Biology",
+          "slug": "india-and-its-neighbouring-countries-history",
+          "name": "India and its Neighbouring Countries: History",
           "sort_order": 50
         },
         {
-          "slug": "scientific-research",
-          "name": "Scientific Research",
+          "slug": "india-and-its-neighbouring-countries-culture",
+          "name": "India and its Neighbouring Countries: Culture",
           "sort_order": 60
         },
         {
-          "slug": "current-affairs-national-and-international",
-          "name": "Current Affairs: National and International",
+          "slug": "india-and-its-neighbouring-countries-geography",
+          "name": "India and its Neighbouring Countries: Geography",
           "sort_order": 70
         },
         {
-          "slug": "awards-books-and-sports",
-          "name": "Awards, Books and Sports",
+          "slug": "india-and-its-neighbouring-countries-economic-scene",
+          "name": "India and its Neighbouring Countries: Economic Scene",
           "sort_order": 80
         },
         {
-          "slug": "government-schemes",
-          "name": "Government Schemes",
+          "slug": "india-and-its-neighbouring-countries-general-polity-includin",
+          "name": "India and its Neighbouring Countries: General Polity including Indian Constitution",
           "sort_order": 90
         },
         {
-          "slug": "static-gk",
-          "name": "Static GK",
+          "slug": "india-and-its-neighbouring-countries-scientific-research",
+          "name": "India and its Neighbouring Countries: Scientific Research",
           "sort_order": 100
-        },
-        {
-          "slug": "important-days",
-          "name": "Important Days",
-          "sort_order": 110
         }
       ]
     },
@@ -183,43 +178,43 @@
       "sort_order": 30,
       "topics": [
         {
+          "slug": "understanding-of-the-english-language",
+          "name": "Understanding of the English Language",
+          "sort_order": 10
+        },
+        {
           "slug": "vocabulary",
           "name": "Vocabulary",
-          "sort_order": 10
+          "sort_order": 20
         },
         {
           "slug": "grammar",
           "name": "Grammar",
-          "sort_order": 20
-        },
-        {
-          "slug": "error-detection",
-          "name": "Error Detection",
           "sort_order": 30
         },
         {
-          "slug": "sentence-improvement-and-sentence-correction",
-          "name": "Sentence Improvement and Sentence Correction",
+          "slug": "sentence-structure",
+          "name": "Sentence Structure",
           "sort_order": 40
         },
         {
-          "slug": "fill-in-the-blanks",
-          "name": "Fill in the Blanks",
+          "slug": "synonyms",
+          "name": "Synonyms",
           "sort_order": 50
         },
         {
-          "slug": "reading-comprehension",
-          "name": "Reading Comprehension",
+          "slug": "antonyms",
+          "name": "Antonyms",
           "sort_order": 60
         },
         {
-          "slug": "para-jumbles",
-          "name": "Para Jumbles",
+          "slug": "correct-usage",
+          "name": "Correct Usage",
           "sort_order": 70
         },
         {
-          "slug": "spelling",
-          "name": "Spelling",
+          "slug": "writing-ability",
+          "name": "Writing Ability",
           "sort_order": 80
         }
       ]

@@ -1166,6 +1166,27 @@
       "version": 2
     },
     {
+      "slug": "ssc-stenographer",
+      "kind": "exam",
+      "name": "SSC Stenographer (Grade C and D)",
+      "short_name": "SSC Stenographer",
+      "aliases": [
+        "ssc stenographer",
+        "ssc steno",
+        "steno",
+        "stenographer",
+        "ssc",
+        "grade c",
+        "grade d",
+        "shorthand",
+        "staff selection commission"
+      ],
+      "category": "central-govt",
+      "subject_count": 3,
+      "topic_count": 34,
+      "version": 2
+    },
+    {
       "slug": "csir-net-life-sciences",
       "kind": "exam",
       "name": "CSIR NET Life Sciences",
