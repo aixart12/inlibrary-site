@@ -23,11 +23,11 @@
     "official_url": "https://viteee.vit.ac.in",
     "syllabus_source_url": "https://viteee.vit.ac.in/",
     "syllabus_cycle": "2027 (VITEEE 2027 syllabus PDFs)",
-    "verified": false,
-    "verification_note": "Draft from the five VITEEE 2027 subject syllabus PDFs on vit.ac.in/sites/default/files/VITEEE-2027 (Physics, Chemistry, Biology, English_and_Aptitude); topics are the PDFs' own numbered headings. Chemistry has only six broad sections and English has no topic list, so check those first.",
-    "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "verified": true,
+    "verification_note": "Verified 2026-11-16 against the five VITEEE 2027 syllabus PDFs linked from viteee.vit.ac.in (hosted on vit.ac.in/sites/default/files/VITEEE-2027: Physics_VITEEE2027, Chemistry_VITEEE2027, Biology_VITEEE2027.pdf, English_and_Aptitude_VITEEE2027). Physics (14), Mathematics/Biology (10) and Chemistry (6) topics are the PDFs' numbered headings and match them in order and in count. Chemistry has only six broad sections, so each topic is a large block. The Aptitude PDF lists five numbered items, which are the five aptitude topics; the PDF has no topic list for English (it only says multiple-choice questions on comprehension, grammar and pronunciation at higher secondary level), so English is a single topic. Headings were compared; the sub-points under each were not.",
+    "last_verified": "2026-11-16",
+    "version": 2,
+    "is_published": true,
     "sort_order": 330
   },
   "subjects": [

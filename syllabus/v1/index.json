@@ -602,6 +602,53 @@
       "version": 2
     },
     {
+      "slug": "viteee-pcm",
+      "kind": "exam",
+      "name": "VITEEE (PCM)",
+      "short_name": "VITEEE",
+      "aliases": [
+        "viteee",
+        "vit",
+        "vit engineering",
+        "vit btech",
+        "vellore",
+        "vit vellore",
+        "vit entrance",
+        "engineering",
+        "pcm",
+        "maths",
+        "viteee pcm"
+      ],
+      "category": "entrance",
+      "subject_count": 4,
+      "topic_count": 36,
+      "version": 2
+    },
+    {
+      "slug": "viteee-pcb",
+      "kind": "exam",
+      "name": "VITEEE (PCB)",
+      "short_name": "VITEEE",
+      "aliases": [
+        "viteee",
+        "vit",
+        "vit engineering",
+        "vit btech",
+        "vellore",
+        "vit vellore",
+        "vit entrance",
+        "engineering",
+        "pcb",
+        "biology",
+        "medical",
+        "viteee pcb"
+      ],
+      "category": "entrance",
+      "subject_count": 4,
+      "topic_count": 36,
+      "version": 2
+    },
+    {
       "slug": "ugc-net-paper-1",
       "kind": "exam",
       "name": "UGC NET Paper 1 (Teaching and Research Aptitude)",
