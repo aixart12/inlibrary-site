@@ -1144,6 +1144,28 @@
       "version": 2
     },
     {
+      "slug": "ssc-cpo",
+      "kind": "exam",
+      "name": "SSC CPO (Sub-Inspector in Delhi Police and CAPFs)",
+      "short_name": "SSC CPO",
+      "aliases": [
+        "ssc cpo",
+        "cpo",
+        "ssc",
+        "sub inspector",
+        "si",
+        "delhi police si",
+        "delhi police",
+        "capf si",
+        "staff selection commission",
+        "daroga"
+      ],
+      "category": "central-govt",
+      "subject_count": 5,
+      "topic_count": 58,
+      "version": 2
+    },
+    {
       "slug": "ssc-stenographer",
       "kind": "exam",
       "name": "SSC Stenographer (Grade C and D)",
@@ -1588,6 +1610,34 @@
       "category": "school",
       "subject_count": 4,
       "topic_count": 32,
+      "version": 2
+    },
+    {
+      "slug": "class-9-cbse",
+      "kind": "school",
+      "name": "Class 9 · CBSE",
+      "short_name": "Class 9",
+      "class": "9",
+      "board": "CBSE",
+      "aliases": [
+        "9",
+        "9th",
+        "ninth",
+        "class 9",
+        "class ix",
+        "ix",
+        "9 class",
+        "navi",
+        "nauvi",
+        "navin",
+        "secondary",
+        "cbse",
+        "cbse 9",
+        "ncert"
+      ],
+      "category": "school",
+      "subject_count": 4,
+      "topic_count": 52,
       "version": 2
     },
     {
