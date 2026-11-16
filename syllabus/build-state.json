@@ -608,6 +608,26 @@
     "gate-gg-geophysics": {
       "hash": "c07f78a7c87ce0c0",
       "version": 1
+    },
+    "csir-net-earth-sciences-geology": {
+      "hash": "56f55220d7a235e6",
+      "version": 1
+    },
+    "csir-net-earth-sciences-physical-geography": {
+      "hash": "decfcfede710b329",
+      "version": 1
+    },
+    "csir-net-earth-sciences-geophysics": {
+      "hash": "6acb3c10119d20e7",
+      "version": 1
+    },
+    "csir-net-earth-sciences-meteorology": {
+      "hash": "bef09ad13e5f7b34",
+      "version": 1
+    },
+    "csir-net-earth-sciences-ocean-sciences": {
+      "hash": "61f3b6a732c2edd9",
+      "version": 1
     }
   }
 }
