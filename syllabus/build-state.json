@@ -264,6 +264,30 @@
     "clat-ug": {
       "hash": "5c03ba14e60026ff",
       "version": 1
+    },
+    "uppsc-pcs-prelims": {
+      "hash": "46802e9df410d3ac",
+      "version": 1
+    },
+    "up-police-constable": {
+      "hash": "2c2109a2ae8f380d",
+      "version": 1
+    },
+    "upsssc-pet": {
+      "hash": "b232f7afa9a0e54f",
+      "version": 1
+    },
+    "mppsc-prelims": {
+      "hash": "4f77857e1bfdee5d",
+      "version": 1
+    },
+    "rpsc-ras-prelims": {
+      "hash": "212201fd6d7918cb",
+      "version": 1
+    },
+    "bihar-police-si": {
+      "hash": "309ec6808ad1607e",
+      "version": 1
     }
   }
 }
