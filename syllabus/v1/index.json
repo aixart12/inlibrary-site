@@ -560,6 +560,48 @@
       "version": 1
     },
     {
+      "slug": "wbjee",
+      "kind": "exam",
+      "name": "WBJEE (Engineering)",
+      "short_name": "WBJEE",
+      "aliases": [
+        "wbjee",
+        "wbjee engineering",
+        "wb jee",
+        "west bengal jee",
+        "west bengal joint entrance",
+        "wbjeeb",
+        "jee west bengal",
+        "bengal engineering entrance",
+        "btech west bengal",
+        "engineering"
+      ],
+      "category": "entrance",
+      "subject_count": 3,
+      "topic_count": 71,
+      "version": 2
+    },
+    {
+      "slug": "comedk-uget",
+      "kind": "exam",
+      "name": "COMEDK UGET (Engineering)",
+      "short_name": "COMEDK UGET",
+      "aliases": [
+        "comedk",
+        "comedk uget",
+        "comedk engineering",
+        "uget",
+        "karnataka engineering",
+        "comedk btech",
+        "consortium karnataka",
+        "engineering"
+      ],
+      "category": "entrance",
+      "subject_count": 3,
+      "topic_count": 74,
+      "version": 2
+    },
+    {
       "slug": "ugc-net-paper-1",
       "kind": "exam",
       "name": "UGC NET Paper 1 (Teaching and Research Aptitude)",

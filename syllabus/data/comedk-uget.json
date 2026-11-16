@@ -19,11 +19,11 @@
     "official_url": "https://www.comedk.org",
     "syllabus_source_url": "https://www.comedk.org/about-uget-and-notification-2026",
     "syllabus_cycle": "2026 (Class 11 syllabus 2024-25 and Class 12 syllabus 2025-26 as printed on the PDFs; 2027 syllabus not yet published as of 2026-11)",
-    "verified": false,
-    "verification_note": "Draft from the three COMEDK UGET 2026 syllabus PDFs (Physics-syllabus-2026.pdf, Chemistry-syllabus-2026.pdf, Mathematics-syllabus-2026_final.pdf) linked from the page above; chapter names are the PDFs' own headings. Check first that a 2027 syllabus has not replaced these.",
-    "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "verified": true,
+    "verification_note": "Verified 2026-11-16 against the three COMEDK UGET 2026 syllabus PDFs on comedk.org (Physics-syllabus-2026.pdf, Chemistry-syllabus-2026.pdf, Mathematics-syllabus-2026_final.pdf): every chapter title in the plan appears in its PDF in order, and the counts match (Physics 14 Class 11 and 14 Class 12 chapters, Chemistry 19, Mathematics 27). The PDFs print Class XI as 2024-25 and Class XII as 2025-26. Chapter titles were compared; the sub-points under each were not. A 2027 syllabus is not published on the COMEDK page as of this check.",
+    "last_verified": "2026-11-16",
+    "version": 2,
+    "is_published": true,
     "sort_order": 310
   },
   "subjects": [

@@ -21,11 +21,11 @@
     "official_url": "https://wbjeeb.nic.in",
     "syllabus_source_url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/03/202603101506582412.pdf",
     "syllabus_cycle": "2026 (WBJEE-2026 Information Bulletin, Appendix 9; 2027 bulletin not yet published as of 2026-11)",
-    "verified": false,
-    "verification_note": "Draft from Appendix 9 of the WBJEE-2026 Information Bulletin on wbjeeb.nic.in (text PDF); chapter titles are the bulletin's own numbered items. Check first that the Chemistry chapters (the bulletin numbers sub-parts separately) were merged correctly and whether a 2027 bulletin has appeared.",
-    "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "verified": true,
+    "verification_note": "Verified 2026-11-16 against the WBJEE-2026 Information Bulletin PDF (wbjeeb.nic.in, hosted on the government CDN at cdnbbsr.s3waas.gov.in), syllabus appendix (printed as Appendix 9 in the body; the bulletin's contents page calls it Appendix 10): Mathematics has 22 numbered chapters, Physics 24, and every title in the plan appears in the bulletin in order. Chemistry numbers its sub-parts separately (37 items); the plan merges them into 25 chapters, and the merge was checked item by item (for example items 16 to 18 are Alcohols, Phenols and Ethers; 21 to 24 are Organic compounds containing Nitrogen; 32 to 34 are d and f Block Elements). Chapter titles were compared; the sub-points under each were not. This is the 2026 bulletin; a 2027 bulletin had not been published when this was checked.",
+    "last_verified": "2026-11-16",
+    "version": 2,
+    "is_published": true,
     "sort_order": 300
   },
   "subjects": [
