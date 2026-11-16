@@ -1,0 +1,337 @@
+{
+  "schema": 1,
+  "slug": "rbi-assistant",
+  "kind": "exam",
+  "name": "RBI Assistant",
+  "short_name": "RBI Assistant",
+  "aliases": [
+    "rbi assistant",
+    "rbi",
+    "reserve bank of india",
+    "reserve bank",
+    "assistant",
+    "bank exam",
+    "banking"
+  ],
+  "category": "banking",
+  "subject_count": 5,
+  "topic_count": 56,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "reasoning-ability",
+      "name": "Reasoning Ability",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "puzzles",
+          "name": "Puzzles",
+          "sort_order": 10
+        },
+        {
+          "slug": "seating-arrangements",
+          "name": "Seating Arrangements",
+          "sort_order": 20
+        },
+        {
+          "slug": "coding-and-decoding",
+          "name": "Coding and Decoding",
+          "sort_order": 30
+        },
+        {
+          "slug": "family-relationships",
+          "name": "Family Relationships",
+          "sort_order": 40
+        },
+        {
+          "slug": "directions",
+          "name": "Directions",
+          "sort_order": 50
+        },
+        {
+          "slug": "inequalities",
+          "name": "Inequalities",
+          "sort_order": 60
+        },
+        {
+          "slug": "syllogisms",
+          "name": "Syllogisms",
+          "sort_order": 70
+        },
+        {
+          "slug": "number-series",
+          "name": "Number Series",
+          "sort_order": 80
+        },
+        {
+          "slug": "analogies",
+          "name": "Analogies",
+          "sort_order": 90
+        },
+        {
+          "slug": "odd-one-out",
+          "name": "Odd One Out",
+          "sort_order": 100
+        },
+        {
+          "slug": "statement-based-questions",
+          "name": "Statement-based Questions",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "numerical-ability",
+      "name": "Numerical Ability",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "simplification",
+          "name": "Simplification",
+          "sort_order": 10
+        },
+        {
+          "slug": "percentages",
+          "name": "Percentages",
+          "sort_order": 20
+        },
+        {
+          "slug": "profit-and-loss",
+          "name": "Profit and Loss",
+          "sort_order": 30
+        },
+        {
+          "slug": "ratio-and-proportion",
+          "name": "Ratio and Proportion",
+          "sort_order": 40
+        },
+        {
+          "slug": "time-and-work",
+          "name": "Time and Work",
+          "sort_order": 50
+        },
+        {
+          "slug": "time-and-distance",
+          "name": "Time and Distance",
+          "sort_order": 60
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 70
+        },
+        {
+          "slug": "number-series-numerical-ability",
+          "name": "Number Series",
+          "sort_order": 80
+        },
+        {
+          "slug": "probability",
+          "name": "Probability",
+          "sort_order": 90
+        },
+        {
+          "slug": "permutation-and-combination",
+          "name": "Permutation and Combination",
+          "sort_order": 100
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 110
+        },
+        {
+          "slug": "algebra",
+          "name": "Algebra",
+          "sort_order": 120
+        },
+        {
+          "slug": "mensuration",
+          "name": "Mensuration",
+          "sort_order": 130
+        },
+        {
+          "slug": "geometry",
+          "name": "Geometry",
+          "sort_order": 140
+        },
+        {
+          "slug": "trigonometry",
+          "name": "Trigonometry",
+          "sort_order": 150
+        }
+      ]
+    },
+    {
+      "slug": "english-language",
+      "name": "English Language",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 10
+        },
+        {
+          "slug": "cloze-test",
+          "name": "Cloze Test",
+          "sort_order": 20
+        },
+        {
+          "slug": "error-detection",
+          "name": "Error Detection",
+          "sort_order": 30
+        },
+        {
+          "slug": "sentence-rearrangement",
+          "name": "Sentence Rearrangement",
+          "sort_order": 40
+        },
+        {
+          "slug": "fill-in-the-blanks",
+          "name": "Fill in the Blanks",
+          "sort_order": 50
+        },
+        {
+          "slug": "sentence-improvement",
+          "name": "Sentence Improvement",
+          "sort_order": 60
+        },
+        {
+          "slug": "synonyms-and-antonyms",
+          "name": "Synonyms and Antonyms",
+          "sort_order": 70
+        },
+        {
+          "slug": "one-word-substitution",
+          "name": "One-word Substitution",
+          "sort_order": 80
+        },
+        {
+          "slug": "phrase-replacement",
+          "name": "Phrase Replacement",
+          "sort_order": 90
+        },
+        {
+          "slug": "active-and-passive-voice",
+          "name": "Active and Passive Voice",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "general-awareness",
+      "name": "General Awareness",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "current-affairs",
+          "name": "Current Affairs",
+          "sort_order": 10
+        },
+        {
+          "slug": "banking-awareness",
+          "name": "Banking Awareness",
+          "sort_order": 20
+        },
+        {
+          "slug": "rbi-policies",
+          "name": "RBI Policies",
+          "sort_order": 30
+        },
+        {
+          "slug": "financial-awareness",
+          "name": "Financial Awareness",
+          "sort_order": 40
+        },
+        {
+          "slug": "static-gk",
+          "name": "Static GK",
+          "sort_order": 50
+        },
+        {
+          "slug": "government-schemes",
+          "name": "Government Schemes",
+          "sort_order": 60
+        },
+        {
+          "slug": "important-days",
+          "name": "Important Days",
+          "sort_order": 70
+        },
+        {
+          "slug": "indian-economy",
+          "name": "Indian Economy",
+          "sort_order": 80
+        },
+        {
+          "slug": "banking-terms",
+          "name": "Banking Terms",
+          "sort_order": 90
+        },
+        {
+          "slug": "banking-related-acts-and-laws",
+          "name": "Banking-related Acts and Laws",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "computer-knowledge",
+      "name": "Computer Knowledge",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "computer-fundamentals",
+          "name": "Computer Fundamentals",
+          "sort_order": 10
+        },
+        {
+          "slug": "hardware-and-software",
+          "name": "Hardware and Software",
+          "sort_order": 20
+        },
+        {
+          "slug": "history-of-computers",
+          "name": "History of Computers",
+          "sort_order": 30
+        },
+        {
+          "slug": "networking",
+          "name": "Networking",
+          "sort_order": 40
+        },
+        {
+          "slug": "internet",
+          "name": "Internet",
+          "sort_order": 50
+        },
+        {
+          "slug": "ms-office",
+          "name": "MS Office",
+          "sort_order": 60
+        },
+        {
+          "slug": "input-and-output-devices",
+          "name": "Input and Output Devices",
+          "sort_order": 70
+        },
+        {
+          "slug": "computer-languages",
+          "name": "Computer Languages",
+          "sort_order": 80
+        },
+        {
+          "slug": "basic-cyber-security",
+          "name": "Basic Cyber Security",
+          "sort_order": 90
+        },
+        {
+          "slug": "viruses-and-hacking",
+          "name": "Viruses and Hacking",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}

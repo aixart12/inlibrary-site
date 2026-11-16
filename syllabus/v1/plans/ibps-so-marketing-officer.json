@@ -1,0 +1,279 @@
+{
+  "schema": 1,
+  "slug": "ibps-so-marketing-officer",
+  "kind": "exam",
+  "name": "IBPS SO (Marketing Officer)",
+  "short_name": "IBPS SO Marketing Officer",
+  "aliases": [
+    "ibps so",
+    "ibps specialist officer",
+    "specialist officer",
+    "so",
+    "ibps",
+    "bank so",
+    "bank exam",
+    "banking",
+    "bank officer",
+    "marketing officer",
+    "marketing"
+  ],
+  "category": "banking",
+  "subject_count": 4,
+  "topic_count": 45,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "english-language-prelims",
+      "name": "English Language (Prelims)",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "cloze-test",
+          "name": "Cloze Test",
+          "sort_order": 10
+        },
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 20
+        },
+        {
+          "slug": "spotting-errors",
+          "name": "Spotting Errors",
+          "sort_order": 30
+        },
+        {
+          "slug": "sentence-improvement-and-sentence-correction",
+          "name": "Sentence Improvement and Sentence Correction",
+          "sort_order": 40
+        },
+        {
+          "slug": "para-jumbles",
+          "name": "Para Jumbles",
+          "sort_order": 50
+        },
+        {
+          "slug": "fill-in-the-blanks",
+          "name": "Fill in the Blanks",
+          "sort_order": 60
+        },
+        {
+          "slug": "para-and-sentence-completion",
+          "name": "Para and Sentence Completion",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "reasoning-ability-prelims",
+      "name": "Reasoning Ability (Prelims)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "seating-arrangements",
+          "name": "Seating Arrangements",
+          "sort_order": 10
+        },
+        {
+          "slug": "puzzles",
+          "name": "Puzzles",
+          "sort_order": 20
+        },
+        {
+          "slug": "inequalities",
+          "name": "Inequalities",
+          "sort_order": 30
+        },
+        {
+          "slug": "syllogism",
+          "name": "Syllogism",
+          "sort_order": 40
+        },
+        {
+          "slug": "input-output",
+          "name": "Input-Output",
+          "sort_order": 50
+        },
+        {
+          "slug": "data-sufficiency",
+          "name": "Data Sufficiency",
+          "sort_order": 60
+        },
+        {
+          "slug": "blood-relations",
+          "name": "Blood Relations",
+          "sort_order": 70
+        },
+        {
+          "slug": "order-and-ranking",
+          "name": "Order and Ranking",
+          "sort_order": 80
+        },
+        {
+          "slug": "alphanumeric-series",
+          "name": "Alphanumeric Series",
+          "sort_order": 90
+        },
+        {
+          "slug": "distance-and-direction",
+          "name": "Distance and Direction",
+          "sort_order": 100
+        },
+        {
+          "slug": "verbal-reasoning",
+          "name": "Verbal Reasoning",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "quantitative-aptitude-prelims",
+      "name": "Quantitative Aptitude (Prelims)",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "number-series",
+          "name": "Number Series",
+          "sort_order": 10
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 20
+        },
+        {
+          "slug": "simplification-and-approximation",
+          "name": "Simplification and Approximation",
+          "sort_order": 30
+        },
+        {
+          "slug": "quadratic-equation",
+          "name": "Quadratic Equation",
+          "sort_order": 40
+        },
+        {
+          "slug": "data-sufficiency-quant",
+          "name": "Data Sufficiency (Quant)",
+          "sort_order": 50
+        },
+        {
+          "slug": "mensuration",
+          "name": "Mensuration",
+          "sort_order": 60
+        },
+        {
+          "slug": "average",
+          "name": "Average",
+          "sort_order": 70
+        },
+        {
+          "slug": "profit-and-loss",
+          "name": "Profit and Loss",
+          "sort_order": 80
+        },
+        {
+          "slug": "ratio-and-proportion",
+          "name": "Ratio and Proportion",
+          "sort_order": 90
+        },
+        {
+          "slug": "work-time-and-energy",
+          "name": "Work, Time and Energy",
+          "sort_order": 100
+        },
+        {
+          "slug": "time-and-distance",
+          "name": "Time and Distance",
+          "sort_order": 110
+        },
+        {
+          "slug": "probability",
+          "name": "Probability",
+          "sort_order": 120
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 130
+        },
+        {
+          "slug": "permutation-and-combination",
+          "name": "Permutation and Combination",
+          "sort_order": 140
+        }
+      ]
+    },
+    {
+      "slug": "professional-knowledge-marketing-officer",
+      "name": "Professional Knowledge (Marketing Officer)",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "basics-of-marketing-management",
+          "name": "Basics of Marketing Management",
+          "sort_order": 10
+        },
+        {
+          "slug": "brand-management",
+          "name": "Brand Management",
+          "sort_order": 20
+        },
+        {
+          "slug": "advertising",
+          "name": "Advertising",
+          "sort_order": 30
+        },
+        {
+          "slug": "public-relations",
+          "name": "Public Relations",
+          "sort_order": 40
+        },
+        {
+          "slug": "sales",
+          "name": "Sales",
+          "sort_order": 50
+        },
+        {
+          "slug": "retail",
+          "name": "Retail",
+          "sort_order": 60
+        },
+        {
+          "slug": "business-ethics",
+          "name": "Business Ethics",
+          "sort_order": 70
+        },
+        {
+          "slug": "market-segmentation",
+          "name": "Market Segmentation",
+          "sort_order": 80
+        },
+        {
+          "slug": "market-research-and-demand-forecasting",
+          "name": "Market Research and Demand Forecasting",
+          "sort_order": 90
+        },
+        {
+          "slug": "product-life-cycle",
+          "name": "Product Life Cycle",
+          "sort_order": 100
+        },
+        {
+          "slug": "corporate-social-responsibility",
+          "name": "Corporate Social Responsibility",
+          "sort_order": 110
+        },
+        {
+          "slug": "service-marketing",
+          "name": "Service Marketing",
+          "sort_order": 120
+        },
+        {
+          "slug": "marketing-strategies",
+          "name": "Marketing Strategies",
+          "sort_order": 130
+        }
+      ]
+    }
+  ]
+}

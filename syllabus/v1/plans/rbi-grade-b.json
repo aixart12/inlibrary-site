@@ -1,0 +1,399 @@
+{
+  "schema": 1,
+  "slug": "rbi-grade-b",
+  "kind": "exam",
+  "name": "RBI Grade B (General)",
+  "short_name": "RBI Grade B",
+  "aliases": [
+    "rbi grade b",
+    "rbi",
+    "reserve bank of india",
+    "reserve bank",
+    "grade b",
+    "rbi officer",
+    "rbi gr b",
+    "rbi manager",
+    "bank exam",
+    "banking"
+  ],
+  "category": "banking",
+  "subject_count": 7,
+  "topic_count": 65,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "general-awareness-phase-1",
+      "name": "General Awareness (Phase 1)",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "current-affairs-national-and-financial-news",
+          "name": "Current Affairs: National and Financial News",
+          "sort_order": 10
+        },
+        {
+          "slug": "current-affairs-awards-environment-and-other-news",
+          "name": "Current Affairs: Awards, Environment and Other News",
+          "sort_order": 20
+        },
+        {
+          "slug": "static-ga-chief-ministers-and-ministers-national-parks-bank",
+          "name": "Static GA: Chief Ministers and Ministers, National Parks, Bank Headquarters",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "reasoning-phase-1",
+      "name": "Reasoning (Phase 1)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "alphabetical-and-alphanumeric-series",
+          "name": "Alphabetical and Alphanumeric Series",
+          "sort_order": 10
+        },
+        {
+          "slug": "coding-decoding",
+          "name": "Coding-Decoding",
+          "sort_order": 20
+        },
+        {
+          "slug": "syllogism",
+          "name": "Syllogism",
+          "sort_order": 30
+        },
+        {
+          "slug": "direction-sense",
+          "name": "Direction Sense",
+          "sort_order": 40
+        },
+        {
+          "slug": "inequality",
+          "name": "Inequality",
+          "sort_order": 50
+        },
+        {
+          "slug": "ranking",
+          "name": "Ranking",
+          "sort_order": 60
+        },
+        {
+          "slug": "blood-relation",
+          "name": "Blood Relation",
+          "sort_order": 70
+        },
+        {
+          "slug": "seating-arrangement",
+          "name": "Seating Arrangement",
+          "sort_order": 80
+        },
+        {
+          "slug": "puzzles",
+          "name": "Puzzles",
+          "sort_order": 90
+        },
+        {
+          "slug": "machine-input-output",
+          "name": "Machine Input-Output",
+          "sort_order": 100
+        },
+        {
+          "slug": "statement-assumption-course-of-action-argument-conclusion",
+          "name": "Statement: Assumption, Course of Action, Argument, Conclusion",
+          "sort_order": 110
+        },
+        {
+          "slug": "cause-and-effect",
+          "name": "Cause and Effect",
+          "sort_order": 120
+        },
+        {
+          "slug": "data-sufficiency",
+          "name": "Data Sufficiency",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "quantitative-aptitude-phase-1",
+      "name": "Quantitative Aptitude (Phase 1)",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "percentage",
+          "name": "Percentage",
+          "sort_order": 10
+        },
+        {
+          "slug": "profit-and-loss-discount",
+          "name": "Profit and Loss, Discount",
+          "sort_order": 20
+        },
+        {
+          "slug": "ratio-and-proportion",
+          "name": "Ratio and Proportion",
+          "sort_order": 30
+        },
+        {
+          "slug": "simplification",
+          "name": "Simplification",
+          "sort_order": 40
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 50
+        },
+        {
+          "slug": "time-and-work-pipes-and-cisterns",
+          "name": "Time and Work, Pipes and Cisterns",
+          "sort_order": 60
+        },
+        {
+          "slug": "number-series-and-number-system",
+          "name": "Number Series and Number System",
+          "sort_order": 70
+        },
+        {
+          "slug": "time-speed-and-distance-trains-and-boats",
+          "name": "Time, Speed and Distance, Trains and Boats",
+          "sort_order": 80
+        },
+        {
+          "slug": "mixture-average-ages-and-partnership",
+          "name": "Mixture, Average, Ages and Partnership",
+          "sort_order": 90
+        },
+        {
+          "slug": "area-and-volume",
+          "name": "Area and Volume",
+          "sort_order": 100
+        },
+        {
+          "slug": "probability",
+          "name": "Probability",
+          "sort_order": 110
+        },
+        {
+          "slug": "data-interpretation-and-data-sufficiency",
+          "name": "Data Interpretation and Data Sufficiency",
+          "sort_order": 120
+        },
+        {
+          "slug": "quadratic-equations-and-quantity-comparison",
+          "name": "Quadratic Equations and Quantity Comparison",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "english-language-phase-1",
+      "name": "English Language (Phase 1)",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "grammar",
+          "name": "Grammar",
+          "sort_order": 10
+        },
+        {
+          "slug": "error-spotting",
+          "name": "Error Spotting",
+          "sort_order": 20
+        },
+        {
+          "slug": "sentence-improvement",
+          "name": "Sentence Improvement",
+          "sort_order": 30
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 40
+        },
+        {
+          "slug": "cloze-test",
+          "name": "Cloze Test",
+          "sort_order": 50
+        },
+        {
+          "slug": "rearrangement-and-para-jumbles",
+          "name": "Rearrangement and Para Jumbles",
+          "sort_order": 60
+        },
+        {
+          "slug": "double-fillers",
+          "name": "Double Fillers",
+          "sort_order": 70
+        },
+        {
+          "slug": "vocabulary-synonyms-antonyms-one-word-substitution-phrasal-v",
+          "name": "Vocabulary: Synonyms, Antonyms, One-word Substitution, Phrasal Verbs",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "economic-and-social-issues-phase-2",
+      "name": "Economic and Social Issues (Phase 2)",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "measurement-of-growth-national-income",
+          "name": "Measurement of Growth: National Income",
+          "sort_order": 10
+        },
+        {
+          "slug": "poverty-and-employment",
+          "name": "Poverty and Employment",
+          "sort_order": 20
+        },
+        {
+          "slug": "sustainable-development",
+          "name": "Sustainable Development",
+          "sort_order": 30
+        },
+        {
+          "slug": "indian-economy-economic-history-and-reforms-since-1991",
+          "name": "Indian Economy: Economic History and Reforms since 1991",
+          "sort_order": 40
+        },
+        {
+          "slug": "public-finance",
+          "name": "Public Finance",
+          "sort_order": 50
+        },
+        {
+          "slug": "agriculture-and-services",
+          "name": "Agriculture and Services",
+          "sort_order": 60
+        },
+        {
+          "slug": "globalization-balance-of-payments",
+          "name": "Globalization: Balance of Payments",
+          "sort_order": 70
+        },
+        {
+          "slug": "imf-world-bank-and-wto",
+          "name": "IMF, World Bank and WTO",
+          "sort_order": 80
+        },
+        {
+          "slug": "regional-economic-cooperation",
+          "name": "Regional Economic Cooperation",
+          "sort_order": 90
+        },
+        {
+          "slug": "social-structure-in-india-multiculturalism-and-demographics",
+          "name": "Social Structure in India: Multiculturalism and Demographics",
+          "sort_order": 100
+        },
+        {
+          "slug": "urbanisation",
+          "name": "Urbanisation",
+          "sort_order": 110
+        },
+        {
+          "slug": "gender-issues",
+          "name": "Gender Issues",
+          "sort_order": 120
+        },
+        {
+          "slug": "social-justice",
+          "name": "Social Justice",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "finance-and-management-phase-2",
+      "name": "Finance and Management (Phase 2)",
+      "sort_order": 60,
+      "topics": [
+        {
+          "slug": "financial-system-institutions-banking-and-nbfcs",
+          "name": "Financial System: Institutions, Banking and NBFCs",
+          "sort_order": 10
+        },
+        {
+          "slug": "digital-payments",
+          "name": "Digital Payments",
+          "sort_order": 20
+        },
+        {
+          "slug": "financial-markets",
+          "name": "Financial Markets",
+          "sort_order": 30
+        },
+        {
+          "slug": "risk-management",
+          "name": "Risk Management",
+          "sort_order": 40
+        },
+        {
+          "slug": "derivatives",
+          "name": "Derivatives",
+          "sort_order": 50
+        },
+        {
+          "slug": "financial-inclusion",
+          "name": "Financial Inclusion",
+          "sort_order": 60
+        },
+        {
+          "slug": "corporate-governance",
+          "name": "Corporate Governance",
+          "sort_order": 70
+        },
+        {
+          "slug": "basics-of-accounting",
+          "name": "Basics of Accounting",
+          "sort_order": 80
+        },
+        {
+          "slug": "inflation",
+          "name": "Inflation",
+          "sort_order": 90
+        },
+        {
+          "slug": "fundamentals-of-management-and-organizational-behaviour",
+          "name": "Fundamentals of Management and Organizational Behaviour",
+          "sort_order": 100
+        },
+        {
+          "slug": "ethics-and-corporate-governance",
+          "name": "Ethics and Corporate Governance",
+          "sort_order": 110
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "descriptive-english-phase-2",
+      "name": "Descriptive English (Phase 2)",
+      "sort_order": 70,
+      "topics": [
+        {
+          "slug": "essay",
+          "name": "Essay",
+          "sort_order": 10
+        },
+        {
+          "slug": "precis",
+          "name": "Precis",
+          "sort_order": 20
+        },
+        {
+          "slug": "reading-comprehension-descriptive",
+          "name": "Reading Comprehension (Descriptive)",
+          "sort_order": 30
+        }
+      ]
+    }
+  ]
+}

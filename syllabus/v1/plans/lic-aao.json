@@ -1,0 +1,376 @@
+{
+  "schema": 1,
+  "slug": "lic-aao",
+  "kind": "exam",
+  "name": "LIC AAO (Generalist)",
+  "short_name": "LIC AAO",
+  "aliases": [
+    "lic aao",
+    "lic",
+    "aao",
+    "assistant administrative officer",
+    "life insurance corporation",
+    "lic officer",
+    "lic generalist",
+    "insurance exam",
+    "insurance"
+  ],
+  "category": "banking",
+  "subject_count": 6,
+  "topic_count": 62,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "reasoning-ability",
+      "name": "Reasoning Ability",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "seating-arrangement",
+          "name": "Seating Arrangement",
+          "sort_order": 10
+        },
+        {
+          "slug": "puzzles",
+          "name": "Puzzles",
+          "sort_order": 20
+        },
+        {
+          "slug": "coding-decoding",
+          "name": "Coding-Decoding",
+          "sort_order": 30
+        },
+        {
+          "slug": "blood-relations",
+          "name": "Blood Relations",
+          "sort_order": 40
+        },
+        {
+          "slug": "direction-test",
+          "name": "Direction Test",
+          "sort_order": 50
+        },
+        {
+          "slug": "order-and-ranking",
+          "name": "Order and Ranking",
+          "sort_order": 60
+        },
+        {
+          "slug": "machine-input-output",
+          "name": "Machine Input-Output",
+          "sort_order": 70
+        },
+        {
+          "slug": "inequalities",
+          "name": "Inequalities",
+          "sort_order": 80
+        },
+        {
+          "slug": "alphabet-number-and-alphanumeric-symbol-series",
+          "name": "Alphabet, Number and Alphanumeric-symbol Series",
+          "sort_order": 90
+        },
+        {
+          "slug": "syllogism",
+          "name": "Syllogism",
+          "sort_order": 100
+        },
+        {
+          "slug": "statements-arguments-and-conclusions",
+          "name": "Statements, Arguments and Conclusions",
+          "sort_order": 110
+        },
+        {
+          "slug": "analytical-and-logical-reasoning",
+          "name": "Analytical and Logical Reasoning",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "quantitative-aptitude",
+      "name": "Quantitative Aptitude",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "simplification-and-approximation",
+          "name": "Simplification and Approximation",
+          "sort_order": 10
+        },
+        {
+          "slug": "number-series",
+          "name": "Number Series",
+          "sort_order": 20
+        },
+        {
+          "slug": "hcf-and-lcm-surds-and-indices",
+          "name": "HCF and LCM, Surds and Indices",
+          "sort_order": 30
+        },
+        {
+          "slug": "percentage-average-ratio-and-proportion",
+          "name": "Percentage, Average, Ratio and Proportion",
+          "sort_order": 40
+        },
+        {
+          "slug": "profit-and-loss-partnership",
+          "name": "Profit and Loss, Partnership",
+          "sort_order": 50
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 60
+        },
+        {
+          "slug": "problems-on-ages",
+          "name": "Problems on Ages",
+          "sort_order": 70
+        },
+        {
+          "slug": "work-and-time-cistern-and-pipes",
+          "name": "Work and Time, Cistern and Pipes",
+          "sort_order": 80
+        },
+        {
+          "slug": "speed-distance-and-time-boats-and-streams",
+          "name": "Speed, Distance and Time, Boats and Streams",
+          "sort_order": 90
+        },
+        {
+          "slug": "mixtures-and-alligations",
+          "name": "Mixtures and Alligations",
+          "sort_order": 100
+        },
+        {
+          "slug": "quadratic-equations",
+          "name": "Quadratic Equations",
+          "sort_order": 110
+        },
+        {
+          "slug": "mensuration",
+          "name": "Mensuration",
+          "sort_order": 120
+        },
+        {
+          "slug": "probability-permutation-and-combination",
+          "name": "Probability, Permutation and Combination",
+          "sort_order": 130
+        },
+        {
+          "slug": "data-sufficiency",
+          "name": "Data Sufficiency",
+          "sort_order": 140
+        },
+        {
+          "slug": "data-interpretation-bar-graph-line-chart-table-radar-pie-cha",
+          "name": "Data Interpretation: Bar Graph, Line Chart, Table, Radar, Pie Chart",
+          "sort_order": 150
+        }
+      ]
+    },
+    {
+      "slug": "english-language",
+      "name": "English Language",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 10
+        },
+        {
+          "slug": "cloze-test-and-passage-completion",
+          "name": "Cloze Test and Passage Completion",
+          "sort_order": 20
+        },
+        {
+          "slug": "spotting-errors-and-error-correction",
+          "name": "Spotting Errors and Error Correction",
+          "sort_order": 30
+        },
+        {
+          "slug": "sentence-improvement",
+          "name": "Sentence Improvement",
+          "sort_order": 40
+        },
+        {
+          "slug": "para-jumbles",
+          "name": "Para-jumbles",
+          "sort_order": 50
+        },
+        {
+          "slug": "fillers",
+          "name": "Fillers",
+          "sort_order": 60
+        },
+        {
+          "slug": "parts-of-speech-and-subject-verb-agreement",
+          "name": "Parts of Speech and Subject-verb Agreement",
+          "sort_order": 70
+        },
+        {
+          "slug": "active-and-passive-voice-direct-and-indirect-speech",
+          "name": "Active and Passive Voice, Direct and Indirect Speech",
+          "sort_order": 80
+        },
+        {
+          "slug": "antonyms-and-synonyms",
+          "name": "Antonyms and Synonyms",
+          "sort_order": 90
+        },
+        {
+          "slug": "idioms-and-phrases",
+          "name": "Idioms and Phrases",
+          "sort_order": 100
+        },
+        {
+          "slug": "vocabulary-and-word-usage",
+          "name": "Vocabulary and Word Usage",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "general-knowledge-and-current-affairs",
+      "name": "General Knowledge and Current Affairs",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "indian-constitution",
+          "name": "Indian Constitution",
+          "sort_order": 10
+        },
+        {
+          "slug": "environment",
+          "name": "Environment",
+          "sort_order": 20
+        },
+        {
+          "slug": "national-and-international-events",
+          "name": "National and International Events",
+          "sort_order": 30
+        },
+        {
+          "slug": "government-schemes-and-policies",
+          "name": "Government Schemes and Policies",
+          "sort_order": 40
+        },
+        {
+          "slug": "new-legislation",
+          "name": "New Legislation",
+          "sort_order": 50
+        },
+        {
+          "slug": "sports-news",
+          "name": "Sports News",
+          "sort_order": 60
+        },
+        {
+          "slug": "awards-and-honours",
+          "name": "Awards and Honours",
+          "sort_order": 70
+        },
+        {
+          "slug": "science-and-technology-inventions-and-discoveries",
+          "name": "Science and Technology, Inventions and Discoveries",
+          "sort_order": 80
+        },
+        {
+          "slug": "books-and-authors",
+          "name": "Books and Authors",
+          "sort_order": 90
+        },
+        {
+          "slug": "important-days",
+          "name": "Important Days",
+          "sort_order": 100
+        },
+        {
+          "slug": "committees-commissions-and-reports",
+          "name": "Committees, Commissions and Reports",
+          "sort_order": 110
+        },
+        {
+          "slug": "persons-in-the-news",
+          "name": "Persons in the News",
+          "sort_order": 120
+        },
+        {
+          "slug": "national-and-international-organisations",
+          "name": "National and International Organisations",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "data-analysis-and-interpretation",
+      "name": "Data Analysis and Interpretation",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "pie-charts",
+          "name": "Pie Charts",
+          "sort_order": 10
+        },
+        {
+          "slug": "bar-graphs",
+          "name": "Bar Graphs",
+          "sort_order": 20
+        },
+        {
+          "slug": "data-handling",
+          "name": "Data Handling",
+          "sort_order": 30
+        },
+        {
+          "slug": "data-derivation",
+          "name": "Data Derivation",
+          "sort_order": 40
+        },
+        {
+          "slug": "data-implementation",
+          "name": "Data Implementation",
+          "sort_order": 50
+        },
+        {
+          "slug": "elementary-mathematics",
+          "name": "Elementary Mathematics",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "insurance-and-financial-market-awareness",
+      "name": "Insurance and Financial Market Awareness",
+      "sort_order": 60,
+      "topics": [
+        {
+          "slug": "history-of-banking-and-insurance",
+          "name": "History of Banking and Insurance",
+          "sort_order": 10
+        },
+        {
+          "slug": "financial-institutions-and-terminology",
+          "name": "Financial Institutions and Terminology",
+          "sort_order": 20
+        },
+        {
+          "slug": "laws-and-policies",
+          "name": "Laws and Policies",
+          "sort_order": 30
+        },
+        {
+          "slug": "business-and-finance",
+          "name": "Business and Finance",
+          "sort_order": 40
+        },
+        {
+          "slug": "current-banking-insurance-and-financial-market-news",
+          "name": "Current Banking, Insurance and Financial Market News",
+          "sort_order": 50
+        }
+      ]
+    }
+  ]
+}
