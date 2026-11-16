@@ -24,6 +24,7 @@
   "subject_count": 5,
   "topic_count": 53,
   "version": 2,
+  "unverified": true,
   "subjects": [
     {
       "slug": "reasoning",
