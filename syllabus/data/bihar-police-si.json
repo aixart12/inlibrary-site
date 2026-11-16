@@ -1,0 +1,428 @@
+{
+  "exam": {
+    "slug": "bihar-police-si",
+    "name": "Bihar Police SI (Daroga)",
+    "short_name": "Bihar Police SI",
+    "kind": "exam",
+    "aliases": [
+      "bihar police si",
+      "bihar si",
+      "bihar daroga",
+      "daroga",
+      "bpssc",
+      "bpssc si",
+      "sub inspector",
+      "si",
+      "bihar police",
+      "bihar",
+      "police"
+    ],
+    "category": "state-bihar",
+    "conducting_body": "Bihar Police Subordinate Services Commission (BPSSC)",
+    "official_url": "https://bpssc.bihar.gov.in",
+    "syllabus_source_url": "https://www.adda247.com/jobs/bihar-police-si-syllabus",
+    "syllabus_cycle": "2026 (as described by the secondary source; official notification not opened)",
+    "verified": false,
+    "verification_note": "General syllabus drafted from Adda247's Bihar Police SI syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. The General Studies lists read like school chapter names and may be the site's own; check first against the BPSSC advertisement. Hindi topics are given by their English names.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 810
+  },
+  "subjects": [
+    {
+      "slug": "general-knowledge-and-current-affairs-prelims",
+      "name": "General Knowledge and Current Affairs (Prelims)",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "current-affairs-with-focus-on-bihar",
+          "name": "Current Affairs with Focus on Bihar",
+          "sort_order": 10
+        },
+        {
+          "slug": "history-and-freedom-movement",
+          "name": "History and Freedom Movement",
+          "sort_order": 20
+        },
+        {
+          "slug": "geography-rivers-and-mountains-ports",
+          "name": "Geography, Rivers and Mountains, Ports",
+          "sort_order": 30
+        },
+        {
+          "slug": "polity",
+          "name": "Polity",
+          "sort_order": 40
+        },
+        {
+          "slug": "economy",
+          "name": "Economy",
+          "sort_order": 50
+        },
+        {
+          "slug": "important-national-facts-about-india",
+          "name": "Important National Facts about India",
+          "sort_order": 60
+        },
+        {
+          "slug": "international-organisations",
+          "name": "International Organisations",
+          "sort_order": 70
+        },
+        {
+          "slug": "awards-authors-and-eminent-personalities",
+          "name": "Awards, Authors and Eminent Personalities",
+          "sort_order": 80
+        },
+        {
+          "slug": "capitals-and-currencies",
+          "name": "Capitals and Currencies",
+          "sort_order": 90
+        },
+        {
+          "slug": "discoveries-diseases-and-nutrition",
+          "name": "Discoveries, Diseases and Nutrition",
+          "sort_order": 100
+        },
+        {
+          "slug": "heritage-arts-and-dance",
+          "name": "Heritage, Arts and Dance",
+          "sort_order": 110
+        },
+        {
+          "slug": "full-forms-and-abbreviations",
+          "name": "Full Forms and Abbreviations",
+          "sort_order": 120
+        },
+        {
+          "slug": "sports",
+          "name": "Sports",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "general-hindi-mains-paper-1",
+      "name": "General Hindi (Mains Paper 1)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "unseen-passage",
+          "name": "Unseen Passage",
+          "sort_order": 10
+        },
+        {
+          "slug": "fill-in-the-blanks",
+          "name": "Fill in the Blanks",
+          "sort_order": 20
+        },
+        {
+          "slug": "noun-pronoun-adjective",
+          "name": "Noun, Pronoun, Adjective",
+          "sort_order": 30
+        },
+        {
+          "slug": "verb-and-adverb",
+          "name": "Verb and Adverb",
+          "sort_order": 40
+        },
+        {
+          "slug": "gender-number-and-case",
+          "name": "Gender, Number and Case",
+          "sort_order": 50
+        },
+        {
+          "slug": "indeclinables-and-particles",
+          "name": "Indeclinables and Particles",
+          "sort_order": 60
+        },
+        {
+          "slug": "sandhi-and-samas",
+          "name": "Sandhi and Samas",
+          "sort_order": 70
+        },
+        {
+          "slug": "phonetics-words-and-word-forms",
+          "name": "Phonetics, Words and Word Forms",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "general-science-mains-paper-2",
+      "name": "General Science (Mains Paper 2)",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "motion-force-work-and-energy",
+          "name": "Motion, Force, Work and Energy",
+          "sort_order": 10
+        },
+        {
+          "slug": "sound-and-light",
+          "name": "Sound and Light",
+          "sort_order": 20
+        },
+        {
+          "slug": "electric-current-circuits-and-magnetism",
+          "name": "Electric Current, Circuits and Magnetism",
+          "sort_order": 30
+        },
+        {
+          "slug": "structure-of-an-atom-and-molecules",
+          "name": "Structure of an Atom and Molecules",
+          "sort_order": 40
+        },
+        {
+          "slug": "acids-bases-and-salts",
+          "name": "Acids, Bases and Salts",
+          "sort_order": 50
+        },
+        {
+          "slug": "metals-non-metals-and-carbon",
+          "name": "Metals, Non-metals and Carbon",
+          "sort_order": 60
+        },
+        {
+          "slug": "change-of-matter",
+          "name": "Change of Matter",
+          "sort_order": 70
+        },
+        {
+          "slug": "the-universe-and-natural-phenomena",
+          "name": "The Universe and Natural Phenomena",
+          "sort_order": 80
+        },
+        {
+          "slug": "soil-and-natural-resources",
+          "name": "Soil and Natural Resources",
+          "sort_order": 90
+        },
+        {
+          "slug": "environmental-concerns-and-pollution",
+          "name": "Environmental Concerns and Pollution",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "civics-mains-paper-2",
+      "name": "Civics (Mains Paper 2)",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "indian-constitution-and-democracy",
+          "name": "Indian Constitution and Democracy",
+          "sort_order": 10
+        },
+        {
+          "slug": "parliamentary-government",
+          "name": "Parliamentary Government",
+          "sort_order": 20
+        },
+        {
+          "slug": "central-government",
+          "name": "Central Government",
+          "sort_order": 30
+        },
+        {
+          "slug": "state-government",
+          "name": "State Government",
+          "sort_order": 40
+        },
+        {
+          "slug": "local-government",
+          "name": "Local Government",
+          "sort_order": 50
+        },
+        {
+          "slug": "the-judiciary",
+          "name": "The Judiciary",
+          "sort_order": 60
+        },
+        {
+          "slug": "diversity",
+          "name": "Diversity",
+          "sort_order": 70
+        },
+        {
+          "slug": "social-justice-and-marginalised-groups",
+          "name": "Social Justice and Marginalised Groups",
+          "sort_order": 80
+        },
+        {
+          "slug": "understanding-media-and-gender",
+          "name": "Understanding Media and Gender",
+          "sort_order": 90
+        }
+      ]
+    },
+    {
+      "slug": "indian-history-mains-paper-2",
+      "name": "Indian History (Mains Paper 2)",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "first-empire-and-contacts-with-distant-lands",
+          "name": "First Empire and Contacts with Distant Lands",
+          "sort_order": 10
+        },
+        {
+          "slug": "new-kings-and-kingdoms",
+          "name": "New Kings and Kingdoms",
+          "sort_order": 20
+        },
+        {
+          "slug": "sultans-of-delhi-and-creation-of-an-empire",
+          "name": "Sultans of Delhi and Creation of an Empire",
+          "sort_order": 30
+        },
+        {
+          "slug": "architecture-culture-and-science-regional-cultures",
+          "name": "Architecture, Culture and Science, Regional Cultures",
+          "sort_order": 40
+        },
+        {
+          "slug": "establishment-of-company-power",
+          "name": "Establishment of Company Power",
+          "sort_order": 50
+        },
+        {
+          "slug": "rural-life-colonialism-and-tribal-societies",
+          "name": "Rural Life, Colonialism and Tribal Societies",
+          "sort_order": 60
+        },
+        {
+          "slug": "revolt-of-1857-58",
+          "name": "Revolt of 1857-58",
+          "sort_order": 70
+        },
+        {
+          "slug": "women-reform-and-social-change",
+          "name": "Women, Reform and Social Change",
+          "sort_order": 80
+        },
+        {
+          "slug": "nationalist-movement",
+          "name": "Nationalist Movement",
+          "sort_order": 90
+        },
+        {
+          "slug": "india-after-independence",
+          "name": "India after Independence",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "indian-geography-mains-paper-2",
+      "name": "Indian Geography (Mains Paper 2)",
+      "sort_order": 60,
+      "topics": [
+        {
+          "slug": "planet-earth-in-the-solar-system-globe",
+          "name": "Planet Earth in the Solar System, Globe",
+          "sort_order": 10
+        },
+        {
+          "slug": "air-and-water",
+          "name": "Air and Water",
+          "sort_order": 20
+        },
+        {
+          "slug": "human-environment",
+          "name": "Human Environment",
+          "sort_order": 30
+        },
+        {
+          "slug": "natural-and-human-resources",
+          "name": "Natural and Human Resources",
+          "sort_order": 40
+        },
+        {
+          "slug": "agriculture",
+          "name": "Agriculture",
+          "sort_order": 50
+        },
+        {
+          "slug": "political-map-of-india",
+          "name": "Political Map of India",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "mathematics-and-mental-ability-mains-paper-2",
+      "name": "Mathematics and Mental Ability (Mains Paper 2)",
+      "sort_order": 70,
+      "topics": [
+        {
+          "slug": "number-system-whole-numbers-and-integers",
+          "name": "Number System, Whole Numbers and Integers",
+          "sort_order": 10
+        },
+        {
+          "slug": "fractions-exponents-and-cube-root",
+          "name": "Fractions, Exponents and Cube Root",
+          "sort_order": 20
+        },
+        {
+          "slug": "ratio-and-proportion",
+          "name": "Ratio and Proportion",
+          "sort_order": 30
+        },
+        {
+          "slug": "profit-and-loss-discount",
+          "name": "Profit and Loss, Discount",
+          "sort_order": 40
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 50
+        },
+        {
+          "slug": "introduction-to-algebra",
+          "name": "Introduction to Algebra",
+          "sort_order": 60
+        },
+        {
+          "slug": "basic-geometrical-ideas-elementary-shapes-and-quadrilaterals",
+          "name": "Basic Geometrical Ideas, Elementary Shapes and Quadrilaterals",
+          "sort_order": 70
+        },
+        {
+          "slug": "symmetry-construction-and-measurement",
+          "name": "Symmetry, Construction and Measurement",
+          "sort_order": 80
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 90
+        },
+        {
+          "slug": "blood-relations-and-syllogism",
+          "name": "Blood Relations and Syllogism",
+          "sort_order": 100
+        },
+        {
+          "slug": "analogies-and-odd-one-out",
+          "name": "Analogies and Odd One Out",
+          "sort_order": 110
+        },
+        {
+          "slug": "figure-series-and-alphanumeric-series",
+          "name": "Figure Series and Alphanumeric Series",
+          "sort_order": 120
+        },
+        {
+          "slug": "puzzles",
+          "name": "Puzzles",
+          "sort_order": 130
+        }
+      ]
+    }
+  ]
+}
