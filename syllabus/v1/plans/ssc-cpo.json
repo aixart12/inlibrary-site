@@ -1,0 +1,350 @@
+{
+  "schema": 1,
+  "slug": "ssc-cpo",
+  "kind": "exam",
+  "name": "SSC CPO (Sub-Inspector in Delhi Police and CAPFs)",
+  "short_name": "SSC CPO",
+  "aliases": [
+    "ssc cpo",
+    "cpo",
+    "ssc",
+    "sub inspector",
+    "si",
+    "delhi police si",
+    "delhi police",
+    "capf si",
+    "staff selection commission",
+    "daroga"
+  ],
+  "category": "central-govt",
+  "subject_count": 5,
+  "topic_count": 58,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "general-intelligence-and-reasoning",
+      "name": "General Intelligence and Reasoning",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "analogies-semantic-symbolic-number-figural",
+          "name": "Analogies: Semantic, Symbolic, Number, Figural",
+          "sort_order": 10
+        },
+        {
+          "slug": "classification-semantic-symbolic-number-figural",
+          "name": "Classification: Semantic, Symbolic, Number, Figural",
+          "sort_order": 20
+        },
+        {
+          "slug": "series-semantic-number-figural",
+          "name": "Series: Semantic, Number, Figural",
+          "sort_order": 30
+        },
+        {
+          "slug": "coding-and-decoding",
+          "name": "Coding and Decoding",
+          "sort_order": 40
+        },
+        {
+          "slug": "problem-solving-analysis-judgment-and-decision-making",
+          "name": "Problem Solving, Analysis, Judgment and Decision Making",
+          "sort_order": 50
+        },
+        {
+          "slug": "space-visualisation-and-spatial-orientation",
+          "name": "Space Visualization and Space Orientation",
+          "sort_order": 60
+        },
+        {
+          "slug": "statement-conclusion-syllogistic-reasoning-and-inferences",
+          "name": "Statement Conclusion, Syllogistic Reasoning and Inferences",
+          "sort_order": 70
+        },
+        {
+          "slug": "arithmetical-reasoning-and-numerical-operations",
+          "name": "Arithmetical Reasoning and Numerical Operations",
+          "sort_order": 80
+        },
+        {
+          "slug": "word-building-and-alphabet-questions",
+          "name": "Word Building",
+          "sort_order": 90
+        },
+        {
+          "slug": "venn-diagrams",
+          "name": "Venn Diagrams",
+          "sort_order": 100
+        },
+        {
+          "slug": "embedded-figures-and-figure-completion",
+          "name": "Embedded Figures and Figural Pattern Completion",
+          "sort_order": 110
+        },
+        {
+          "slug": "punched-hole-pattern-folding-and-unfolding",
+          "name": "Punched Hole, Pattern Folding and Un-folding",
+          "sort_order": 120
+        },
+        {
+          "slug": "address-date-and-city-matching",
+          "name": "Address, Date and City Matching",
+          "sort_order": 130
+        },
+        {
+          "slug": "visual-memory-observation-and-discrimination",
+          "name": "Visual Memory, Observation and Discrimination",
+          "sort_order": 140
+        },
+        {
+          "slug": "relationship-concepts-and-critical-thinking",
+          "name": "Relationship Concepts and Critical Thinking",
+          "sort_order": 150
+        },
+        {
+          "slug": "emotional-intelligence-and-social-intelligence",
+          "name": "Emotional Intelligence and Social Intelligence",
+          "sort_order": 160
+        }
+      ]
+    },
+    {
+      "slug": "general-knowledge-and-general-awareness",
+      "name": "General Knowledge and General Awareness",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "awareness-of-the-environment-and-its-application-to-society",
+          "name": "Awareness of the Environment and its Application to Society",
+          "sort_order": 10
+        },
+        {
+          "slug": "current-events",
+          "name": "Current Events",
+          "sort_order": 20
+        },
+        {
+          "slug": "everyday-observation-and-experience-in-their-scientific-aspe",
+          "name": "Everyday Observation and Experience in their Scientific Aspect",
+          "sort_order": 30
+        },
+        {
+          "slug": "india-and-its-neighbouring-countries-history",
+          "name": "India and its Neighbouring Countries: History",
+          "sort_order": 40
+        },
+        {
+          "slug": "india-and-its-neighbouring-countries-culture",
+          "name": "India and its Neighbouring Countries: Culture",
+          "sort_order": 50
+        },
+        {
+          "slug": "india-and-its-neighbouring-countries-geography",
+          "name": "India and its Neighbouring Countries: Geography",
+          "sort_order": 60
+        },
+        {
+          "slug": "india-and-its-neighbouring-countries-economic-scene",
+          "name": "India and its Neighbouring Countries: Economic Scene",
+          "sort_order": 70
+        },
+        {
+          "slug": "india-and-its-neighbouring-countries-general-polity-and-indi",
+          "name": "India and its Neighbouring Countries: General Polity and Indian Constitution",
+          "sort_order": 80
+        },
+        {
+          "slug": "india-and-its-neighbouring-countries-scientific-research",
+          "name": "India and its Neighbouring Countries: Scientific Research",
+          "sort_order": 90
+        }
+      ]
+    },
+    {
+      "slug": "quantitative-aptitude",
+      "name": "Quantitative Aptitude",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "number-system-whole-numbers-decimals-fractions",
+          "name": "Number System: Whole Numbers, Decimals, Fractions",
+          "sort_order": 10
+        },
+        {
+          "slug": "percentage-ratio-and-proportion-square-roots-averages",
+          "name": "Percentage, Ratio and Proportion, Square Roots, Averages",
+          "sort_order": 20
+        },
+        {
+          "slug": "simple-and-compound-interest-profit-and-loss-discount",
+          "name": "Interest, Profit and Loss, Discount",
+          "sort_order": 30
+        },
+        {
+          "slug": "partnership-mixture-and-alligation",
+          "name": "Partnership, Mixture and Alligation",
+          "sort_order": 40
+        },
+        {
+          "slug": "time-speed-and-distance",
+          "name": "Time and Distance",
+          "sort_order": 50
+        },
+        {
+          "slug": "time-and-work",
+          "name": "Time and Work",
+          "sort_order": 60
+        },
+        {
+          "slug": "algebra-basic-identities-elementary-surds-graphs-of-linear-e",
+          "name": "Algebra: Basic Identities, Elementary Surds, Graphs of Linear Equations",
+          "sort_order": 70
+        },
+        {
+          "slug": "triangles-centres-congruence-similarity",
+          "name": "Triangles: Centres, Congruence, Similarity",
+          "sort_order": 80
+        },
+        {
+          "slug": "circles-chords-tangents-angles-subtended-by-chords",
+          "name": "Circles: Chords, Tangents, Angles Subtended by Chords",
+          "sort_order": 90
+        },
+        {
+          "slug": "quadrilaterals-and-regular-polygons",
+          "name": "Quadrilaterals and Regular Polygons",
+          "sort_order": 100
+        },
+        {
+          "slug": "mensuration-prism-cone-cylinder-sphere-hemisphere-parallelep",
+          "name": "Mensuration: Prism, Cone, Cylinder, Sphere, Hemisphere, Parallelepiped, Pyramid",
+          "sort_order": 110
+        },
+        {
+          "slug": "trigonometry-ratios-identities-complementary-angles-heights",
+          "name": "Trigonometry: Ratios, Identities, Complementary Angles, Heights and Distances",
+          "sort_order": 120
+        },
+        {
+          "slug": "data-interpretation-histogram-frequency-polygon-bar-diagram",
+          "name": "Data Interpretation: Histogram, Frequency Polygon, Bar Diagram, Pie Chart",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "english-comprehension-paper-1",
+      "name": "English Comprehension (Paper 1)",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "error-recognition",
+          "name": "Error Recognition",
+          "sort_order": 10
+        },
+        {
+          "slug": "filling-in-the-blanks-verbs-prepositions-articles",
+          "name": "Filling in the Blanks: Verbs, Prepositions, Articles",
+          "sort_order": 20
+        },
+        {
+          "slug": "vocabulary",
+          "name": "Vocabulary",
+          "sort_order": 30
+        },
+        {
+          "slug": "spellings",
+          "name": "Spellings",
+          "sort_order": 40
+        },
+        {
+          "slug": "grammar",
+          "name": "Grammar",
+          "sort_order": 50
+        },
+        {
+          "slug": "sentence-structure",
+          "name": "Sentence Structure",
+          "sort_order": 60
+        },
+        {
+          "slug": "synonyms-and-antonyms",
+          "name": "Synonyms and Antonyms",
+          "sort_order": 70
+        },
+        {
+          "slug": "sentence-completion",
+          "name": "Sentence Completion",
+          "sort_order": 80
+        },
+        {
+          "slug": "phrases-and-idiomatic-use-of-words",
+          "name": "Phrases and Idiomatic Use of Words",
+          "sort_order": 90
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "english-language-and-comprehension-paper-2",
+      "name": "English Language and Comprehension (Paper 2)",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "paper-2-error-recognition",
+          "name": "Error Recognition",
+          "sort_order": 10
+        },
+        {
+          "slug": "paper-2-filling-in-the-blanks-verbs-prepositions-articles",
+          "name": "Filling in the Blanks: Verbs, Prepositions, Articles",
+          "sort_order": 20
+        },
+        {
+          "slug": "paper-2-vocabulary",
+          "name": "Vocabulary",
+          "sort_order": 30
+        },
+        {
+          "slug": "paper-2-spellings",
+          "name": "Spellings",
+          "sort_order": 40
+        },
+        {
+          "slug": "paper-2-grammar",
+          "name": "Grammar",
+          "sort_order": 50
+        },
+        {
+          "slug": "paper-2-sentence-structure",
+          "name": "Sentence Structure",
+          "sort_order": 60
+        },
+        {
+          "slug": "paper-2-synonyms-and-antonyms",
+          "name": "Synonyms and Antonyms",
+          "sort_order": 70
+        },
+        {
+          "slug": "paper-2-sentence-completion",
+          "name": "Sentence Completion",
+          "sort_order": 80
+        },
+        {
+          "slug": "paper-2-phrases-and-idiomatic-use-of-words",
+          "name": "Phrases and Idiomatic Use of Words",
+          "sort_order": 90
+        },
+        {
+          "slug": "paper-2-comprehension",
+          "name": "Comprehension",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}
