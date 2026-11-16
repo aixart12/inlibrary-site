@@ -628,6 +628,26 @@
     "csir-net-earth-sciences-ocean-sciences": {
       "hash": "61f3b6a732c2edd9",
       "version": 1
+    },
+    "ibps-so-it-officer": {
+      "hash": "31b5d9a2f72ca3a3",
+      "version": 1
+    },
+    "ibps-so-agricultural-field-officer": {
+      "hash": "4dade861c0219e14",
+      "version": 1
+    },
+    "ibps-so-hr-officer": {
+      "hash": "72bd66e08da25577",
+      "version": 1
+    },
+    "ibps-so-law-officer": {
+      "hash": "de7a91b7119499d0",
+      "version": 1
+    },
+    "ibps-so-marketing-officer": {
+      "hash": "afcee5551d66b293",
+      "version": 1
     }
   }
 }
