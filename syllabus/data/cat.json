@@ -1,0 +1,184 @@
+{
+  "exam": {
+    "slug": "cat",
+    "name": "CAT (Common Admission Test)",
+    "short_name": "CAT",
+    "kind": "exam",
+    "aliases": [
+      "cat",
+      "cat exam",
+      "common admission test",
+      "iim",
+      "iim cat",
+      "mba",
+      "mba entrance",
+      "management",
+      "pgdm",
+      "b school"
+    ],
+    "category": "entrance",
+    "conducting_body": "Indian Institutes of Management (IIMs)",
+    "official_url": "https://iimcat.ac.in",
+    "syllabus_source_url": "https://www.pw.live/exams/mba/cat-syllabus/",
+    "syllabus_cycle": "CAT 2026 (as described by the secondary source)",
+    "verified": false,
+    "verification_note": "General syllabus drafted from Physics Wallah's CAT syllabus page, a secondary site; the exam body publishes no topic list, so topic names are that page's lists, grouped. The page itself says the list is indicative; check first the three section names against the latest CAT information on iimcat.ac.in.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 710
+  },
+  "subjects": [
+    {
+      "slug": "verbal-ability-and-reading-comprehension-varc",
+      "name": "Verbal Ability and Reading Comprehension (VARC)",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 10
+        },
+        {
+          "slug": "para-jumbles",
+          "name": "Para Jumbles",
+          "sort_order": 20
+        },
+        {
+          "slug": "para-summary",
+          "name": "Para Summary",
+          "sort_order": 30
+        },
+        {
+          "slug": "odd-sentence-out",
+          "name": "Odd Sentence Out",
+          "sort_order": 40
+        },
+        {
+          "slug": "para-completion",
+          "name": "Para Completion",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "data-interpretation-and-logical-reasoning-dilr",
+      "name": "Data Interpretation and Logical Reasoning (DILR)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "data-interpretation-bar-graphs-pie-charts-line-graphs",
+          "name": "Data Interpretation: Bar Graphs, Pie Charts, Line Graphs",
+          "sort_order": 10
+        },
+        {
+          "slug": "data-interpretation-tables-caselets-combined-charts",
+          "name": "Data Interpretation: Tables, Caselets, Combined Charts",
+          "sort_order": 20
+        },
+        {
+          "slug": "seating-arrangements",
+          "name": "Seating Arrangements",
+          "sort_order": 30
+        },
+        {
+          "slug": "venn-diagrams",
+          "name": "Venn Diagrams",
+          "sort_order": 40
+        },
+        {
+          "slug": "syllogisms",
+          "name": "Syllogisms",
+          "sort_order": 50
+        },
+        {
+          "slug": "blood-relations",
+          "name": "Blood Relations",
+          "sort_order": 60
+        },
+        {
+          "slug": "games-and-tournaments",
+          "name": "Games and Tournaments",
+          "sort_order": 70
+        },
+        {
+          "slug": "binary-logic",
+          "name": "Binary Logic",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "quantitative-aptitude",
+      "name": "Quantitative Aptitude",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "arithmetic-percentages-profit-and-loss",
+          "name": "Arithmetic: Percentages, Profit and Loss",
+          "sort_order": 10
+        },
+        {
+          "slug": "arithmetic-simple-and-compound-interest",
+          "name": "Arithmetic: Simple and Compound Interest",
+          "sort_order": 20
+        },
+        {
+          "slug": "arithmetic-averages-ratio-and-proportion",
+          "name": "Arithmetic: Averages, Ratio and Proportion",
+          "sort_order": 30
+        },
+        {
+          "slug": "arithmetic-time-speed-and-distance-time-and-work",
+          "name": "Arithmetic: Time, Speed and Distance, Time and Work",
+          "sort_order": 40
+        },
+        {
+          "slug": "algebra-linear-and-quadratic-equations-inequalities",
+          "name": "Algebra: Linear and Quadratic Equations, Inequalities",
+          "sort_order": 50
+        },
+        {
+          "slug": "algebra-logarithms-functions",
+          "name": "Algebra: Logarithms, Functions",
+          "sort_order": 60
+        },
+        {
+          "slug": "algebra-sequences-and-series",
+          "name": "Algebra: Sequences and Series",
+          "sort_order": 70
+        },
+        {
+          "slug": "geometry-triangles-circles-polygons",
+          "name": "Geometry: Triangles, Circles, Polygons",
+          "sort_order": 80
+        },
+        {
+          "slug": "coordinate-geometry",
+          "name": "Coordinate Geometry",
+          "sort_order": 90
+        },
+        {
+          "slug": "3d-mensuration",
+          "name": "3D Mensuration",
+          "sort_order": 100
+        },
+        {
+          "slug": "number-system-hcf-and-lcm-divisibility-remainders-factors-ba",
+          "name": "Number System: HCF and LCM, Divisibility, Remainders, Factors, Base Systems",
+          "sort_order": 110
+        },
+        {
+          "slug": "modern-math-permutations-and-combinations-probability",
+          "name": "Modern Math: Permutations and Combinations, Probability",
+          "sort_order": 120
+        },
+        {
+          "slug": "modern-math-set-theory-binomial-theorem",
+          "name": "Modern Math: Set Theory, Binomial Theorem",
+          "sort_order": 130
+        }
+      ]
+    }
+  ]
+}

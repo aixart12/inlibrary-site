@@ -1,0 +1,154 @@
+{
+  "exam": {
+    "slug": "ugc-net-social-medicine-and-community-health",
+    "name": "UGC NET Social Medicine and Community Health (Paper 1 + Paper 2)",
+    "short_name": "UGC NET Social Medicine and Community Health",
+    "kind": "exam",
+    "aliases": [
+      "ugc net",
+      "ugc-net",
+      "net",
+      "nta net",
+      "nta ugc net",
+      "net jrf",
+      "jrf",
+      "assistant professor",
+      "lectureship",
+      "net exam",
+      "ugc",
+      "social medicine",
+      "community health",
+      "public health",
+      "preventive medicine",
+      "paper 2",
+      "paper ii"
+    ],
+    "category": "teaching",
+    "conducting_body": "National Testing Agency (NTA) for the University Grants Commission (UGC)",
+    "official_url": "https://ugcnet.nta.nic.in",
+    "syllabus_source_url": "https://www.ugcnetonline.in/syllabus-new.php",
+    "syllabus_cycle": "UGC-NET December 2026 (the PDFs themselves are undated; the Paper 1 PDF was created in August 2018)",
+    "verified": false,
+    "verification_note": "Draft from the UGC Paper-I and Social Medicine and Community Health syllabus PDFs (Paper-I_English.pdf, Social Med. and Comm.Health_English.pdf) linked from the UGC syllabus page that the NTA UGC-NET December 2026 Information Bulletin names; topics are the PDFs' ten units each, not chapters. Titles are printed on the unit heading line; titles that run over two lines are joined and slashes are written as commas. Check first whether UGC has issued newer syllabi.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1490
+  },
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "social-medicine-and-community-health-paper-2",
+      "name": "Social Medicine and Community Health (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "evolution-and-basic-concepts-of-public-health-social-medicin",
+          "name": "Evolution and Basic Concepts of Public Health, Social Medicine and Community Health",
+          "sort_order": 10
+        },
+        {
+          "slug": "evolution-of-health-policies-and-health-services-in-india",
+          "name": "Evolution of Health Policies and Health Services in India",
+          "sort_order": 20
+        },
+        {
+          "slug": "general-epidemiology-and-bio-statistics",
+          "name": "General Epidemiology and Bio-statistics",
+          "sort_order": 30
+        },
+        {
+          "slug": "social-sciences-and-health",
+          "name": "Social Sciences and Health",
+          "sort_order": 40
+        },
+        {
+          "slug": "epidemiology-of-common-health-problems-in-india-and-national",
+          "name": "Epidemiology of Common Health Problems in India and National Health Programmes",
+          "sort_order": 50
+        },
+        {
+          "slug": "basic-determinants-of-health",
+          "name": "Basic Determinants of Health",
+          "sort_order": 60
+        },
+        {
+          "slug": "demography-family-welfare-and-rch",
+          "name": "Demography, Family Welfare and RCH",
+          "sort_order": 70
+        },
+        {
+          "slug": "health-education-iec-bcc-and-information-technology-in-healt",
+          "name": "Health Education, IEC, BCC and Information Technology in Health",
+          "sort_order": 80
+        },
+        {
+          "slug": "health-systems-research-planning-and-management-and-recent-a",
+          "name": "Health Systems Research, Planning and Management and Recent Advances in Public Health",
+          "sort_order": 90
+        },
+        {
+          "slug": "international-health",
+          "name": "International Health",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}
