@@ -1,0 +1,481 @@
+{
+  "exam": {
+    "slug": "nabard-grade-a",
+    "name": "NABARD Grade A (Assistant Manager, RDBS)",
+    "short_name": "NABARD Grade A",
+    "kind": "exam",
+    "aliases": [
+      "nabard",
+      "nabard grade a",
+      "nabard assistant manager",
+      "nabard officer",
+      "rdbs",
+      "national bank for agriculture and rural development",
+      "grade a",
+      "agriculture",
+      "bank exam",
+      "banking"
+    ],
+    "category": "banking",
+    "conducting_body": "National Bank for Agriculture and Rural Development (NABARD)",
+    "official_url": "https://www.nabard.org",
+    "syllabus_source_url": "https://edutap.in/nabard-grade-a/syllabus/",
+    "syllabus_cycle": "2026 as titled by the secondary source (other sites say it follows the 2025 notification); official notification not opened",
+    "verified": false,
+    "verification_note": "General syllabus drafted from EduTap's NABARD Grade A syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. The page says its Economic and Social Issues and Agriculture and Rural Development lists follow the official notification and the other lists are its own; check those two first against the NABARD notification.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 630
+  },
+  "subjects": [
+    {
+      "slug": "reasoning-ability",
+      "name": "Reasoning Ability",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "alphanumeric-series",
+          "name": "Alphanumeric Series",
+          "sort_order": 10
+        },
+        {
+          "slug": "coding-decoding",
+          "name": "Coding-Decoding",
+          "sort_order": 20
+        },
+        {
+          "slug": "syllogism",
+          "name": "Syllogism",
+          "sort_order": 30
+        },
+        {
+          "slug": "direction-sense",
+          "name": "Direction Sense",
+          "sort_order": 40
+        },
+        {
+          "slug": "inequalities",
+          "name": "Inequalities",
+          "sort_order": 50
+        },
+        {
+          "slug": "ranking-and-order",
+          "name": "Ranking and Order",
+          "sort_order": 60
+        },
+        {
+          "slug": "blood-relations",
+          "name": "Blood Relations",
+          "sort_order": 70
+        },
+        {
+          "slug": "puzzles-and-seating-arrangements",
+          "name": "Puzzles and Seating Arrangements",
+          "sort_order": 80
+        },
+        {
+          "slug": "input-output",
+          "name": "Input-Output",
+          "sort_order": 90
+        },
+        {
+          "slug": "statement-based-questions",
+          "name": "Statement-based Questions",
+          "sort_order": 100
+        },
+        {
+          "slug": "data-sufficiency",
+          "name": "Data Sufficiency",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "quantitative-aptitude",
+      "name": "Quantitative Aptitude",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "ratio-and-proportion",
+          "name": "Ratio and Proportion",
+          "sort_order": 10
+        },
+        {
+          "slug": "percentage",
+          "name": "Percentage",
+          "sort_order": 20
+        },
+        {
+          "slug": "profit-and-loss",
+          "name": "Profit and Loss",
+          "sort_order": 30
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 40
+        },
+        {
+          "slug": "average-and-age",
+          "name": "Average and Age",
+          "sort_order": 50
+        },
+        {
+          "slug": "time-and-work-pipes-and-cisterns",
+          "name": "Time and Work, Pipes and Cisterns",
+          "sort_order": 60
+        },
+        {
+          "slug": "time-and-distance",
+          "name": "Time and Distance",
+          "sort_order": 70
+        },
+        {
+          "slug": "mixture-and-alligation",
+          "name": "Mixture and Alligation",
+          "sort_order": 80
+        },
+        {
+          "slug": "number-series-and-quadratic-equations",
+          "name": "Number Series and Quadratic Equations",
+          "sort_order": 90
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 100
+        },
+        {
+          "slug": "simplification-and-approximation",
+          "name": "Simplification and Approximation",
+          "sort_order": 110
+        },
+        {
+          "slug": "quantity-comparison",
+          "name": "Quantity Comparison",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "english-language",
+      "name": "English Language",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 10
+        },
+        {
+          "slug": "sentence-rearrangement-and-parajumbles",
+          "name": "Sentence Rearrangement and Parajumbles",
+          "sort_order": 20
+        },
+        {
+          "slug": "cloze-test",
+          "name": "Cloze Test",
+          "sort_order": 30
+        },
+        {
+          "slug": "double-fillers",
+          "name": "Double Fillers",
+          "sort_order": 40
+        },
+        {
+          "slug": "error-detection-and-sentence-improvement",
+          "name": "Error Detection and Sentence Improvement",
+          "sort_order": 50
+        },
+        {
+          "slug": "vocabulary-synonyms-antonyms-one-word-substitution-phrasal-v",
+          "name": "Vocabulary: Synonyms, Antonyms, One-word Substitution, Phrasal Verbs",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "computer-knowledge",
+      "name": "Computer Knowledge",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "computer-awareness",
+          "name": "Computer Awareness",
+          "sort_order": 10
+        },
+        {
+          "slug": "hardware-and-memory",
+          "name": "Hardware and Memory",
+          "sort_order": 20
+        },
+        {
+          "slug": "software-and-operating-systems",
+          "name": "Software and Operating Systems",
+          "sort_order": 30
+        },
+        {
+          "slug": "ms-office",
+          "name": "MS Office",
+          "sort_order": 40
+        },
+        {
+          "slug": "database-management",
+          "name": "Database Management",
+          "sort_order": 50
+        },
+        {
+          "slug": "internet-and-security",
+          "name": "Internet and Security",
+          "sort_order": 60
+        },
+        {
+          "slug": "computer-history-and-generations",
+          "name": "Computer History and Generations",
+          "sort_order": 70
+        },
+        {
+          "slug": "shortcuts",
+          "name": "Shortcuts",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "decision-making",
+      "name": "Decision Making",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "basics-of-decision-making",
+          "name": "Basics of Decision Making",
+          "sort_order": 10
+        },
+        {
+          "slug": "types-of-decisions",
+          "name": "Types of Decisions",
+          "sort_order": 20
+        },
+        {
+          "slug": "decision-making-models",
+          "name": "Decision Making Models",
+          "sort_order": 30
+        },
+        {
+          "slug": "approaches-to-decision-making",
+          "name": "Approaches to Decision Making",
+          "sort_order": 40
+        },
+        {
+          "slug": "factors-influencing-decisions",
+          "name": "Factors Influencing Decisions",
+          "sort_order": 50
+        },
+        {
+          "slug": "types-of-problems",
+          "name": "Types of Problems",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "general-awareness",
+      "name": "General Awareness",
+      "sort_order": 60,
+      "topics": [
+        {
+          "slug": "static-gk-chief-ministers-national-parks-headquarters-capita",
+          "name": "Static GK: Chief Ministers, National Parks, Headquarters, Capitals and Currencies",
+          "sort_order": 10
+        },
+        {
+          "slug": "current-affairs-national-and-international-events-defence",
+          "name": "Current Affairs: National and International Events, Defence",
+          "sort_order": 20
+        },
+        {
+          "slug": "current-affairs-banking-and-economy",
+          "name": "Current Affairs: Banking and Economy",
+          "sort_order": 30
+        },
+        {
+          "slug": "current-affairs-sports-awards-persons-in-news-books-and-auth",
+          "name": "Current Affairs: Sports, Awards, Persons in News, Books and Authors",
+          "sort_order": 40
+        },
+        {
+          "slug": "current-affairs-science-and-technology-environment",
+          "name": "Current Affairs: Science and Technology, Environment",
+          "sort_order": 50
+        },
+        {
+          "slug": "important-days-and-themes",
+          "name": "Important Days and Themes",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "economic-and-social-issues",
+      "name": "Economic and Social Issues",
+      "sort_order": 70,
+      "topics": [
+        {
+          "slug": "nature-of-the-indian-economy-structure-liberalisation-reform",
+          "name": "Nature of the Indian Economy: Structure, Liberalisation, Reforms, Inflation",
+          "sort_order": 10
+        },
+        {
+          "slug": "poverty-employment-generation-and-poverty-alleviation-progra",
+          "name": "Poverty, Employment Generation and Poverty Alleviation Programmes",
+          "sort_order": 20
+        },
+        {
+          "slug": "population-trends-and-policy",
+          "name": "Population Trends and Policy",
+          "sort_order": 30
+        },
+        {
+          "slug": "agriculture-technical-and-institutional-change-food-security",
+          "name": "Agriculture: Technical and Institutional Change, Food Security, Rural Credit",
+          "sort_order": 40
+        },
+        {
+          "slug": "industry-industrial-and-labour-policy-public-sector-enterpri",
+          "name": "Industry: Industrial and Labour Policy, Public Sector Enterprises",
+          "sort_order": 50
+        },
+        {
+          "slug": "rural-banking-financial-institutions-and-banking-reforms",
+          "name": "Rural Banking, Financial Institutions and Banking Reforms",
+          "sort_order": 60
+        },
+        {
+          "slug": "globalisation-imf-world-bank-wto-regional-cooperation",
+          "name": "Globalisation: IMF, World Bank, WTO, Regional Cooperation",
+          "sort_order": 70
+        },
+        {
+          "slug": "social-structure-demographics-urbanisation-migration-gender",
+          "name": "Social Structure: Demographics, Urbanisation, Migration, Gender",
+          "sort_order": 80
+        },
+        {
+          "slug": "education-health-and-environment",
+          "name": "Education, Health and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "social-justice-problems-and-programmes-for-sc-st-and-obc",
+          "name": "Social Justice: Problems and Programmes for SC, ST and OBC",
+          "sort_order": 100
+        },
+        {
+          "slug": "positive-discrimination-social-movements-political-system-hu",
+          "name": "Positive Discrimination, Social Movements, Political System, Human Development",
+          "sort_order": 110
+        },
+        {
+          "slug": "current-economic-and-social-issues",
+          "name": "Current Economic and Social Issues",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "agriculture-and-rural-development",
+      "name": "Agriculture and Rural Development",
+      "sort_order": 80,
+      "topics": [
+        {
+          "slug": "crop-production-and-agro-climatic-zones",
+          "name": "Crop Production and Agro-climatic Zones",
+          "sort_order": 10
+        },
+        {
+          "slug": "soil-and-water-conservation-watershed-management",
+          "name": "Soil and Water Conservation, Watershed Management",
+          "sort_order": 20
+        },
+        {
+          "slug": "irrigation-and-water-resource-management",
+          "name": "Irrigation and Water Resource Management",
+          "sort_order": 30
+        },
+        {
+          "slug": "farm-engineering-machinery-power-storage-agro-processing",
+          "name": "Farm Engineering: Machinery, Power, Storage, Agro-processing",
+          "sort_order": 40
+        },
+        {
+          "slug": "horticulture-post-harvest-management-and-value-chains",
+          "name": "Horticulture: Post-harvest Management and Value Chains",
+          "sort_order": 50
+        },
+        {
+          "slug": "animal-husbandry-livestock-feed-poultry-mixed-farming",
+          "name": "Animal Husbandry: Livestock, Feed, Poultry, Mixed Farming",
+          "sort_order": 60
+        },
+        {
+          "slug": "fisheries-and-aquaculture",
+          "name": "Fisheries and Aquaculture",
+          "sort_order": 70
+        },
+        {
+          "slug": "forestry-silviculture-social-and-joint-forest-management-for",
+          "name": "Forestry: Silviculture, Social and Joint Forest Management, Forest Policy",
+          "sort_order": 80
+        },
+        {
+          "slug": "agricultural-extension-and-krishi-vigyan-kendras",
+          "name": "Agricultural Extension and Krishi Vigyan Kendras",
+          "sort_order": 90
+        },
+        {
+          "slug": "climate-change-greenhouse-gases-carbon-credits-national-acti",
+          "name": "Climate Change: Greenhouse Gases, Carbon Credits, National Action Plans",
+          "sort_order": 100
+        },
+        {
+          "slug": "present-state-of-indian-agriculture-finance-marketing-food-s",
+          "name": "Present State of Indian Agriculture: Finance, Marketing, Food Security",
+          "sort_order": 110
+        },
+        {
+          "slug": "rural-development-panchayati-raj-mgnrega-rural-livelihoods-h",
+          "name": "Rural Development: Panchayati Raj, MGNREGA, Rural Livelihoods, Housing, Sanitation",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "descriptive-english",
+      "name": "Descriptive English",
+      "sort_order": 90,
+      "topics": [
+        {
+          "slug": "essay",
+          "name": "Essay",
+          "sort_order": 10
+        },
+        {
+          "slug": "precis",
+          "name": "Precis",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "business-and-office-correspondence",
+          "name": "Business and Office Correspondence",
+          "sort_order": 40
+        }
+      ]
+    }
+  ]
+}

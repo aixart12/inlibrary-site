@@ -1,0 +1,446 @@
+{
+  "exam": {
+    "slug": "ts-eamcet-mpc",
+    "name": "TS EAMCET / TG EAPCET (Engineering, MPC)",
+    "short_name": "TG EAPCET",
+    "kind": "exam",
+    "aliases": [
+      "ts eamcet",
+      "tg eapcet",
+      "ts eapcet",
+      "eamcet",
+      "eapcet",
+      "telangana eamcet",
+      "telangana",
+      "tg",
+      "mpc",
+      "engineering",
+      "btech",
+      "jntuh"
+    ],
+    "category": "entrance",
+    "conducting_body": "Jawaharlal Nehru Technological University Hyderabad (for the Telangana State Council of Higher Education)",
+    "official_url": "https://eapcet.tgche.ac.in",
+    "syllabus_source_url": "https://jeecounselling.in/exam/ts-eapcet-syllabus",
+    "syllabus_cycle": "TS EAPCET 2027 (as described by the secondary source; 2027 notification not out)",
+    "verified": false,
+    "verification_note": "General syllabus drafted from JEE Counselling's TS EAPCET syllabus page, a secondary site, not from the exam body's own document; topic names are that page's lists, grouped. The page lists both intermediate years together, so the chapters are not split by year; I left out its group headings (Algebra, Mechanics, Physical chemistry and similar). Check first against the official syllabus.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1220
+  },
+  "subjects": [
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "functions",
+          "name": "Functions",
+          "sort_order": 10
+        },
+        {
+          "slug": "mathematical-induction",
+          "name": "Mathematical Induction",
+          "sort_order": 20
+        },
+        {
+          "slug": "matrices",
+          "name": "Matrices",
+          "sort_order": 30
+        },
+        {
+          "slug": "complex-numbers",
+          "name": "Complex Numbers",
+          "sort_order": 40
+        },
+        {
+          "slug": "quadratic-expressions",
+          "name": "Quadratic Expressions",
+          "sort_order": 50
+        },
+        {
+          "slug": "theory-of-equations",
+          "name": "Theory of Equations",
+          "sort_order": 60
+        },
+        {
+          "slug": "permutations-and-combinations",
+          "name": "Permutations and Combinations",
+          "sort_order": 70
+        },
+        {
+          "slug": "binomial-theorem",
+          "name": "Binomial Theorem",
+          "sort_order": 80
+        },
+        {
+          "slug": "partial-fractions",
+          "name": "Partial Fractions",
+          "sort_order": 90
+        },
+        {
+          "slug": "trigonometric-ratios-and-equations",
+          "name": "Trigonometric Ratios and Equations",
+          "sort_order": 100
+        },
+        {
+          "slug": "inverse-trigonometric-functions",
+          "name": "Inverse Trigonometric Functions",
+          "sort_order": 110
+        },
+        {
+          "slug": "hyperbolic-functions",
+          "name": "Hyperbolic Functions",
+          "sort_order": 120
+        },
+        {
+          "slug": "properties-of-triangles",
+          "name": "Properties of Triangles",
+          "sort_order": 130
+        },
+        {
+          "slug": "vector-algebra",
+          "name": "Vector Algebra",
+          "sort_order": 140
+        },
+        {
+          "slug": "products-of-vectors",
+          "name": "Products of Vectors",
+          "sort_order": 150
+        },
+        {
+          "slug": "three-dimensional-geometry",
+          "name": "Three-dimensional Geometry",
+          "sort_order": 160
+        },
+        {
+          "slug": "locus",
+          "name": "Locus",
+          "sort_order": 170
+        },
+        {
+          "slug": "straight-lines",
+          "name": "Straight Lines",
+          "sort_order": 180
+        },
+        {
+          "slug": "pair-of-lines",
+          "name": "Pair of Lines",
+          "sort_order": 190
+        },
+        {
+          "slug": "circles",
+          "name": "Circles",
+          "sort_order": 200
+        },
+        {
+          "slug": "conic-sections",
+          "name": "Conic Sections",
+          "sort_order": 210
+        },
+        {
+          "slug": "limits-and-continuity",
+          "name": "Limits and Continuity",
+          "sort_order": 220
+        },
+        {
+          "slug": "differentiation-and-applications",
+          "name": "Differentiation and Applications",
+          "sort_order": 230
+        },
+        {
+          "slug": "integration",
+          "name": "Integration",
+          "sort_order": 240
+        },
+        {
+          "slug": "definite-integrals",
+          "name": "Definite Integrals",
+          "sort_order": 250
+        },
+        {
+          "slug": "differential-equations",
+          "name": "Differential Equations",
+          "sort_order": 260
+        },
+        {
+          "slug": "measures-of-dispersion",
+          "name": "Measures of Dispersion",
+          "sort_order": 270
+        },
+        {
+          "slug": "probability",
+          "name": "Probability",
+          "sort_order": 280
+        },
+        {
+          "slug": "random-variables",
+          "name": "Random Variables",
+          "sort_order": 290
+        }
+      ]
+    },
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "units-and-measurements",
+          "name": "Units and Measurements",
+          "sort_order": 10
+        },
+        {
+          "slug": "kinematics",
+          "name": "Kinematics",
+          "sort_order": 20
+        },
+        {
+          "slug": "laws-of-motion",
+          "name": "Laws of Motion",
+          "sort_order": 30
+        },
+        {
+          "slug": "work-energy-and-power",
+          "name": "Work, Energy and Power",
+          "sort_order": 40
+        },
+        {
+          "slug": "rotational-motion",
+          "name": "Rotational Motion",
+          "sort_order": 50
+        },
+        {
+          "slug": "gravitation",
+          "name": "Gravitation",
+          "sort_order": 60
+        },
+        {
+          "slug": "oscillations",
+          "name": "Oscillations",
+          "sort_order": 70
+        },
+        {
+          "slug": "mechanical-properties-of-solids-and-fluids",
+          "name": "Mechanical Properties of Solids and Fluids",
+          "sort_order": 80
+        },
+        {
+          "slug": "thermal-properties",
+          "name": "Thermal Properties",
+          "sort_order": 90
+        },
+        {
+          "slug": "thermodynamics",
+          "name": "Thermodynamics",
+          "sort_order": 100
+        },
+        {
+          "slug": "kinetic-theory",
+          "name": "Kinetic Theory",
+          "sort_order": 110
+        },
+        {
+          "slug": "waves",
+          "name": "Waves",
+          "sort_order": 120
+        },
+        {
+          "slug": "ray-optics",
+          "name": "Ray Optics",
+          "sort_order": 130
+        },
+        {
+          "slug": "wave-optics",
+          "name": "Wave Optics",
+          "sort_order": 140
+        },
+        {
+          "slug": "electrostatics",
+          "name": "Electrostatics",
+          "sort_order": 150
+        },
+        {
+          "slug": "current-electricity",
+          "name": "Current Electricity",
+          "sort_order": 160
+        },
+        {
+          "slug": "magnetism",
+          "name": "Magnetism",
+          "sort_order": 170
+        },
+        {
+          "slug": "electromagnetic-induction",
+          "name": "Electromagnetic Induction",
+          "sort_order": 180
+        },
+        {
+          "slug": "alternating-current",
+          "name": "Alternating Current",
+          "sort_order": 190
+        },
+        {
+          "slug": "electromagnetic-waves",
+          "name": "Electromagnetic Waves",
+          "sort_order": 200
+        },
+        {
+          "slug": "dual-nature",
+          "name": "Dual Nature",
+          "sort_order": 210
+        },
+        {
+          "slug": "atoms",
+          "name": "Atoms",
+          "sort_order": 220
+        },
+        {
+          "slug": "nuclei",
+          "name": "Nuclei",
+          "sort_order": 230
+        },
+        {
+          "slug": "semiconductors",
+          "name": "Semiconductors",
+          "sort_order": 240
+        },
+        {
+          "slug": "communication-systems",
+          "name": "Communication Systems",
+          "sort_order": 250
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "atomic-structure",
+          "name": "Atomic Structure",
+          "sort_order": 10
+        },
+        {
+          "slug": "stoichiometry",
+          "name": "Stoichiometry",
+          "sort_order": 20
+        },
+        {
+          "slug": "states-of-matter",
+          "name": "States of Matter",
+          "sort_order": 30
+        },
+        {
+          "slug": "thermodynamics-chemistry",
+          "name": "Thermodynamics (Chemistry)",
+          "sort_order": 40
+        },
+        {
+          "slug": "chemical-equilibrium",
+          "name": "Chemical Equilibrium",
+          "sort_order": 50
+        },
+        {
+          "slug": "solutions",
+          "name": "Solutions",
+          "sort_order": 60
+        },
+        {
+          "slug": "electrochemistry",
+          "name": "Electrochemistry",
+          "sort_order": 70
+        },
+        {
+          "slug": "chemical-kinetics",
+          "name": "Chemical Kinetics",
+          "sort_order": 80
+        },
+        {
+          "slug": "solid-state",
+          "name": "Solid State",
+          "sort_order": 90
+        },
+        {
+          "slug": "surface-chemistry",
+          "name": "Surface Chemistry",
+          "sort_order": 100
+        },
+        {
+          "slug": "periodic-table",
+          "name": "Periodic Table",
+          "sort_order": 110
+        },
+        {
+          "slug": "chemical-bonding",
+          "name": "Chemical Bonding",
+          "sort_order": 120
+        },
+        {
+          "slug": "s-block-and-p-block-elements",
+          "name": "s-block and p-block Elements",
+          "sort_order": 130
+        },
+        {
+          "slug": "d-and-f-block-elements",
+          "name": "d and f-block Elements",
+          "sort_order": 140
+        },
+        {
+          "slug": "coordination-compounds",
+          "name": "Coordination Compounds",
+          "sort_order": 150
+        },
+        {
+          "slug": "metallurgy",
+          "name": "Metallurgy",
+          "sort_order": 160
+        },
+        {
+          "slug": "general-organic-chemistry-and-hydrocarbons",
+          "name": "General Organic Chemistry and Hydrocarbons",
+          "sort_order": 170
+        },
+        {
+          "slug": "haloalkanes-and-haloarenes",
+          "name": "Haloalkanes and Haloarenes",
+          "sort_order": 180
+        },
+        {
+          "slug": "alcohols-phenols-and-ethers",
+          "name": "Alcohols, Phenols and Ethers",
+          "sort_order": 190
+        },
+        {
+          "slug": "aldehydes-ketones-and-acids",
+          "name": "Aldehydes, Ketones and Acids",
+          "sort_order": 200
+        },
+        {
+          "slug": "amines",
+          "name": "Amines",
+          "sort_order": 210
+        },
+        {
+          "slug": "biomolecules",
+          "name": "Biomolecules",
+          "sort_order": 220
+        },
+        {
+          "slug": "polymers",
+          "name": "Polymers",
+          "sort_order": 230
+        },
+        {
+          "slug": "chemistry-in-everyday-life",
+          "name": "Chemistry in Everyday Life",
+          "sort_order": 240
+        }
+      ]
+    }
+  ]
+}

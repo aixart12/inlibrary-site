@@ -1,0 +1,118 @@
+{
+  "exam": {
+    "slug": "keam-engineering",
+    "name": "KEAM (Engineering)",
+    "short_name": "KEAM",
+    "kind": "exam",
+    "aliases": [
+      "keam",
+      "keam engineering",
+      "kerala engineering",
+      "kerala engineering architecture medical",
+      "cee kerala",
+      "kerala entrance",
+      "kerala",
+      "engineering",
+      "btech"
+    ],
+    "category": "entrance",
+    "conducting_body": "Commissioner for Entrance Examinations (CEE), Kerala",
+    "official_url": "https://cee.kerala.gov.in",
+    "syllabus_source_url": "https://jeecounselling.in/exam/keam-syllabus",
+    "syllabus_cycle": "KEAM 2027 (as described by the secondary source; prospectus not out)",
+    "verified": false,
+    "verification_note": "General syllabus drafted from JEE Counselling's KEAM syllabus page, a secondary site, not from the exam body's own document; topic names are that page's lists, grouped. The page gives only five broad areas for Physics, three for Chemistry and five for Mathematics, so this plan is very coarse; check it against the CEE Kerala prospectus once it is out.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1250
+  },
+  "subjects": [
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "mechanics",
+          "name": "Mechanics",
+          "sort_order": 10
+        },
+        {
+          "slug": "thermal-physics-and-matter",
+          "name": "Thermal Physics and Matter",
+          "sort_order": 20
+        },
+        {
+          "slug": "oscillations-and-waves",
+          "name": "Oscillations and Waves",
+          "sort_order": 30
+        },
+        {
+          "slug": "electricity-and-magnetism",
+          "name": "Electricity and Magnetism",
+          "sort_order": 40
+        },
+        {
+          "slug": "optics-and-modern-physics",
+          "name": "Optics and Modern Physics",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "physical-chemistry",
+          "name": "Physical Chemistry",
+          "sort_order": 10
+        },
+        {
+          "slug": "inorganic-chemistry",
+          "name": "Inorganic Chemistry",
+          "sort_order": 20
+        },
+        {
+          "slug": "organic-chemistry",
+          "name": "Organic Chemistry",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "algebra",
+          "name": "Algebra",
+          "sort_order": 10
+        },
+        {
+          "slug": "trigonometry",
+          "name": "Trigonometry",
+          "sort_order": 20
+        },
+        {
+          "slug": "geometry",
+          "name": "Geometry",
+          "sort_order": 30
+        },
+        {
+          "slug": "statistics-and-probability",
+          "name": "Statistics and Probability",
+          "sort_order": 40
+        },
+        {
+          "slug": "calculus",
+          "name": "Calculus",
+          "sort_order": 50
+        }
+      ]
+    }
+  ]
+}

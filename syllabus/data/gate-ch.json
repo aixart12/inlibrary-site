@@ -1,0 +1,120 @@
+{
+  "exam": {
+    "slug": "gate-ch",
+    "name": "GATE Chemical Engineering (CH)",
+    "short_name": "GATE CH",
+    "kind": "exam",
+    "aliases": [
+      "gate",
+      "gate exam",
+      "gate 2027",
+      "graduate aptitude test in engineering",
+      "mtech",
+      "m.tech",
+      "psu",
+      "iit",
+      "engineering",
+      "ch",
+      "chemical",
+      "chemical engineering",
+      "gate ch"
+    ],
+    "category": "entrance",
+    "conducting_body": "Indian Institute of Technology Madras (organising institute, GATE 2027)",
+    "official_url": "https://gate2027.iitm.ac.in",
+    "syllabus_source_url": "https://gate2027.iitm.ac.in/exam_papers_and_syllabus",
+    "syllabus_cycle": "GATE 2027",
+    "verified": false,
+    "verification_note": "Draft from the GATE 2027 syllabus PDFs (GA_GATE2027_Syllabus.pdf, CH_GATE2027_Syllabus.pdf) linked on the official GATE 2027 page, read as text. Topics are the PDFs' section titles, not chapters; check first each title against the PDF.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 930
+  },
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "chemical-engineering",
+      "name": "Chemical Engineering",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "engineering-mathematics",
+          "name": "Engineering Mathematics",
+          "sort_order": 10
+        },
+        {
+          "slug": "process-calculations",
+          "name": "Process Calculations",
+          "sort_order": 20
+        },
+        {
+          "slug": "thermodynamics",
+          "name": "Thermodynamics",
+          "sort_order": 30
+        },
+        {
+          "slug": "fluid-mechanics-and-mechanical-operations",
+          "name": "Fluid Mechanics and Mechanical Operations",
+          "sort_order": 40
+        },
+        {
+          "slug": "heat-transfer",
+          "name": "Heat Transfer",
+          "sort_order": 50
+        },
+        {
+          "slug": "mass-transfer",
+          "name": "Mass Transfer",
+          "sort_order": 60
+        },
+        {
+          "slug": "chemical-reaction-engineering",
+          "name": "Chemical Reaction Engineering",
+          "sort_order": 70
+        },
+        {
+          "slug": "instrumentation-and-process-control",
+          "name": "Instrumentation and Process Control",
+          "sort_order": 80
+        },
+        {
+          "slug": "plant-design-and-economics",
+          "name": "Plant Design and Economics",
+          "sort_order": 90
+        },
+        {
+          "slug": "chemical-technology",
+          "name": "Chemical Technology",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}
