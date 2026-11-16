@@ -1,0 +1,429 @@
+{
+  "exam": {
+    "slug": "up-police-constable",
+    "name": "UP Police Constable",
+    "short_name": "UP Police Constable",
+    "kind": "exam",
+    "aliases": [
+      "up police",
+      "up police constable",
+      "upp",
+      "uppbpb",
+      "uppbpb constable",
+      "constable",
+      "police constable",
+      "sipahi",
+      "up police bharti",
+      "uttar pradesh police",
+      "up",
+      "uttar pradesh",
+      "police"
+    ],
+    "category": "state-other",
+    "conducting_body": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB)",
+    "official_url": "https://uppbpb.gov.in",
+    "syllabus_source_url": "https://www.adda247.com/exams/up/up-police-constable-syllabus",
+    "syllabus_cycle": "2026 (as described by the secondary source; official notification not opened)",
+    "verified": false,
+    "verification_note": "General syllabus drafted from Adda247's UP Police Constable syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. Check first the four paper lists against the UPPRPB notification; the Hindi topics are given here by their English names.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 770
+  },
+  "subjects": [
+    {
+      "slug": "general-knowledge",
+      "name": "General Knowledge",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "general-science",
+          "name": "General Science",
+          "sort_order": 10
+        },
+        {
+          "slug": "indian-history",
+          "name": "Indian History",
+          "sort_order": 20
+        },
+        {
+          "slug": "indian-constitution",
+          "name": "Indian Constitution",
+          "sort_order": 30
+        },
+        {
+          "slug": "indian-economy-and-culture",
+          "name": "Indian Economy and Culture",
+          "sort_order": 40
+        },
+        {
+          "slug": "indian-agriculture-commerce-and-trade",
+          "name": "Indian Agriculture, Commerce and Trade",
+          "sort_order": 50
+        },
+        {
+          "slug": "population-environment-and-urbanization",
+          "name": "Population, Environment and Urbanization",
+          "sort_order": 60
+        },
+        {
+          "slug": "india-and-world-geography-natural-resources",
+          "name": "India and World Geography, Natural Resources",
+          "sort_order": 70
+        },
+        {
+          "slug": "education-culture-and-social-practices-of-uttar-pradesh",
+          "name": "Education, Culture and Social Practices of Uttar Pradesh",
+          "sort_order": 80
+        },
+        {
+          "slug": "revenue-police-and-general-administration-of-uttar-pradesh",
+          "name": "Revenue, Police and General Administration of Uttar Pradesh",
+          "sort_order": 90
+        },
+        {
+          "slug": "human-rights",
+          "name": "Human Rights",
+          "sort_order": 100
+        },
+        {
+          "slug": "internal-security-and-terrorism",
+          "name": "Internal Security and Terrorism",
+          "sort_order": 110
+        },
+        {
+          "slug": "indias-relations-with-neighbouring-countries",
+          "name": "India's Relations with Neighbouring Countries",
+          "sort_order": 120
+        },
+        {
+          "slug": "national-and-international-organizations",
+          "name": "National and International Organizations",
+          "sort_order": 130
+        },
+        {
+          "slug": "demonetization-gst",
+          "name": "Demonetization, GST",
+          "sort_order": 140
+        },
+        {
+          "slug": "cyber-crime-and-social-media-communication",
+          "name": "Cyber Crime and Social Media Communication",
+          "sort_order": 150
+        },
+        {
+          "slug": "awards-and-honours-books-and-authors",
+          "name": "Awards and Honours, Books and Authors",
+          "sort_order": 160
+        },
+        {
+          "slug": "countries-capitals-and-currencies",
+          "name": "Countries, Capitals and Currencies",
+          "sort_order": 170
+        },
+        {
+          "slug": "important-days-research-and-discoveries",
+          "name": "Important Days, Research and Discoveries",
+          "sort_order": 180
+        }
+      ]
+    },
+    {
+      "slug": "general-hindi",
+      "name": "General Hindi",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "hindi-and-other-indian-languages",
+          "name": "Hindi and Other Indian Languages",
+          "sort_order": 10
+        },
+        {
+          "slug": "hindi-grammar-and-hindi-alphabet",
+          "name": "Hindi Grammar and Hindi Alphabet",
+          "sort_order": 20
+        },
+        {
+          "slug": "synonyms-and-antonyms",
+          "name": "Synonyms and Antonyms",
+          "sort_order": 30
+        },
+        {
+          "slug": "words-with-multiple-meanings",
+          "name": "Words with Multiple Meanings",
+          "sort_order": 40
+        },
+        {
+          "slug": "one-word-substitution",
+          "name": "One-word Substitution",
+          "sort_order": 50
+        },
+        {
+          "slug": "correction-of-incorrect-sentences",
+          "name": "Correction of Incorrect Sentences",
+          "sort_order": 60
+        },
+        {
+          "slug": "gender-pronoun-adjective-and-verb",
+          "name": "Gender, Pronoun, Adjective and Verb",
+          "sort_order": 70
+        },
+        {
+          "slug": "tense-and-causative-verb",
+          "name": "Tense and Causative Verb",
+          "sort_order": 80
+        },
+        {
+          "slug": "prefix-and-suffix",
+          "name": "Prefix and Suffix",
+          "sort_order": 90
+        },
+        {
+          "slug": "conjunction-and-indeclinables",
+          "name": "Conjunction and Indeclinables",
+          "sort_order": 100
+        },
+        {
+          "slug": "punctuation",
+          "name": "Punctuation",
+          "sort_order": 110
+        },
+        {
+          "slug": "idioms-and-proverbs",
+          "name": "Idioms and Proverbs",
+          "sort_order": 120
+        },
+        {
+          "slug": "metre-and-figures-of-speech",
+          "name": "Metre and Figures of Speech",
+          "sort_order": 130
+        },
+        {
+          "slug": "unseen-passage",
+          "name": "Unseen Passage",
+          "sort_order": 140
+        },
+        {
+          "slug": "famous-poets-writers-and-their-works",
+          "name": "Famous Poets, Writers and their Works",
+          "sort_order": 150
+        },
+        {
+          "slug": "awards-in-hindi-language",
+          "name": "Awards in Hindi Language",
+          "sort_order": 160
+        }
+      ]
+    },
+    {
+      "slug": "numerical-and-mental-ability",
+      "name": "Numerical and Mental Ability",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "number-system",
+          "name": "Number System",
+          "sort_order": 10
+        },
+        {
+          "slug": "simplification",
+          "name": "Simplification",
+          "sort_order": 20
+        },
+        {
+          "slug": "decimals-and-fractions",
+          "name": "Decimals and Fractions",
+          "sort_order": 30
+        },
+        {
+          "slug": "hcf-and-lcm",
+          "name": "HCF and LCM",
+          "sort_order": 40
+        },
+        {
+          "slug": "ratio-and-proportion",
+          "name": "Ratio and Proportion",
+          "sort_order": 50
+        },
+        {
+          "slug": "percentage",
+          "name": "Percentage",
+          "sort_order": 60
+        },
+        {
+          "slug": "profit-and-loss-discount",
+          "name": "Profit and Loss, Discount",
+          "sort_order": 70
+        },
+        {
+          "slug": "simple-interest-and-compound-interest",
+          "name": "Simple Interest and Compound Interest",
+          "sort_order": 80
+        },
+        {
+          "slug": "partnership",
+          "name": "Partnership",
+          "sort_order": 90
+        },
+        {
+          "slug": "average",
+          "name": "Average",
+          "sort_order": 100
+        },
+        {
+          "slug": "time-and-work",
+          "name": "Time and Work",
+          "sort_order": 110
+        },
+        {
+          "slug": "time-and-distance",
+          "name": "Time and Distance",
+          "sort_order": 120
+        },
+        {
+          "slug": "use-of-tables-and-graphs",
+          "name": "Use of Tables and Graphs",
+          "sort_order": 130
+        },
+        {
+          "slug": "mensuration",
+          "name": "Mensuration",
+          "sort_order": 140
+        },
+        {
+          "slug": "logical-diagrams-and-symbol-relationships",
+          "name": "Logical Diagrams and Symbol Relationships",
+          "sort_order": 150
+        },
+        {
+          "slug": "interpretation-and-perception-test",
+          "name": "Interpretation and Perception Test",
+          "sort_order": 160
+        },
+        {
+          "slug": "word-formation-test",
+          "name": "Word Formation Test",
+          "sort_order": 170
+        },
+        {
+          "slug": "letter-and-number-series",
+          "name": "Letter and Number Series",
+          "sort_order": 180
+        },
+        {
+          "slug": "word-and-alphabet-analogy",
+          "name": "Word and Alphabet Analogy",
+          "sort_order": 190
+        },
+        {
+          "slug": "common-sense-test",
+          "name": "Common Sense Test",
+          "sort_order": 200
+        },
+        {
+          "slug": "direction-test",
+          "name": "Direction Test",
+          "sort_order": 210
+        },
+        {
+          "slug": "logical-interpretation-of-data",
+          "name": "Logical Interpretation of Data",
+          "sort_order": 220
+        },
+        {
+          "slug": "strength-of-argument-and-implied-meanings",
+          "name": "Strength of Argument and Implied Meanings",
+          "sort_order": 230
+        }
+      ]
+    },
+    {
+      "slug": "mental-aptitude-iq-and-reasoning-ability",
+      "name": "Mental Aptitude, IQ and Reasoning Ability",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "relationship-and-analogy",
+          "name": "Relationship and Analogy",
+          "sort_order": 10
+        },
+        {
+          "slug": "spotting-the-dissimilar",
+          "name": "Spotting the Dissimilar",
+          "sort_order": 20
+        },
+        {
+          "slug": "series-completion",
+          "name": "Series Completion",
+          "sort_order": 30
+        },
+        {
+          "slug": "coding-and-decoding",
+          "name": "Coding and Decoding",
+          "sort_order": 40
+        },
+        {
+          "slug": "direction-sense-test",
+          "name": "Direction Sense Test",
+          "sort_order": 50
+        },
+        {
+          "slug": "blood-relations",
+          "name": "Blood Relations",
+          "sort_order": 60
+        },
+        {
+          "slug": "alphabet-based-problems",
+          "name": "Alphabet-based Problems",
+          "sort_order": 70
+        },
+        {
+          "slug": "venn-diagrams-and-chart-based-questions",
+          "name": "Venn Diagrams and Chart-based Questions",
+          "sort_order": 80
+        },
+        {
+          "slug": "similarities-and-differences",
+          "name": "Similarities and Differences",
+          "sort_order": 90
+        },
+        {
+          "slug": "space-visualisation",
+          "name": "Space Visualisation",
+          "sort_order": 100
+        },
+        {
+          "slug": "problem-solving-analysis-and-judgement",
+          "name": "Problem Solving, Analysis and Judgement",
+          "sort_order": 110
+        },
+        {
+          "slug": "decision-making",
+          "name": "Decision Making",
+          "sort_order": 120
+        },
+        {
+          "slug": "visual-memory-discrimination-and-observation",
+          "name": "Visual Memory, Discrimination and Observation",
+          "sort_order": 130
+        },
+        {
+          "slug": "arithmetical-reasoning-and-arithmetical-number-series",
+          "name": "Arithmetical Reasoning and Arithmetical Number Series",
+          "sort_order": 140
+        },
+        {
+          "slug": "verbal-and-figure-classification",
+          "name": "Verbal and Figure Classification",
+          "sort_order": 150
+        },
+        {
+          "slug": "abstract-ideas-and-symbol-relationships",
+          "name": "Abstract Ideas and Symbol Relationships",
+          "sort_order": 160
+        }
+      ]
+    }
+  ]
+}
