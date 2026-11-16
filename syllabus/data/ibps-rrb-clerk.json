@@ -1,0 +1,337 @@
+{
+  "exam": {
+    "slug": "ibps-rrb-clerk",
+    "name": "IBPS RRB Clerk (Office Assistant)",
+    "short_name": "IBPS RRB Clerk",
+    "kind": "exam",
+    "aliases": [
+      "ibps rrb",
+      "rrb",
+      "ibps",
+      "gramin bank",
+      "regional rural bank",
+      "rrb bank",
+      "bank exam",
+      "banking",
+      "rrb clerk",
+      "ibps rrb clerk",
+      "office assistant",
+      "rrb office assistant",
+      "clerk",
+      "bank clerk"
+    ],
+    "category": "banking",
+    "conducting_body": "Institute of Banking Personnel Selection (IBPS)",
+    "official_url": "https://www.ibps.in",
+    "syllabus_source_url": "https://competition.careers360.com/articles/ibps-rrb-syllabus",
+    "syllabus_cycle": "2026 (as described by the secondary source; official notification not opened)",
+    "verified": false,
+    "verification_note": "General syllabus drafted from Careers360's IBPS RRB syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. Check first the mains sections for this post and the topic lists against the IBPS CRP RRBs notification; Hindi Language, which a candidate may take in place of English, is not included.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 590
+  },
+  "subjects": [
+    {
+      "slug": "reasoning",
+      "name": "Reasoning",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "series-and-alphabet-tests",
+          "name": "Series and Alphabet Tests",
+          "sort_order": 10
+        },
+        {
+          "slug": "analogy-and-classification",
+          "name": "Analogy and Classification",
+          "sort_order": 20
+        },
+        {
+          "slug": "coding-decoding",
+          "name": "Coding-Decoding",
+          "sort_order": 30
+        },
+        {
+          "slug": "blood-relations",
+          "name": "Blood Relations",
+          "sort_order": 40
+        },
+        {
+          "slug": "direction-sense",
+          "name": "Direction Sense",
+          "sort_order": 50
+        },
+        {
+          "slug": "ranking-and-time",
+          "name": "Ranking and Time",
+          "sort_order": 60
+        },
+        {
+          "slug": "seating-arrangement",
+          "name": "Seating Arrangement",
+          "sort_order": 70
+        },
+        {
+          "slug": "syllogisms",
+          "name": "Syllogisms",
+          "sort_order": 80
+        },
+        {
+          "slug": "word-formation",
+          "name": "Word Formation",
+          "sort_order": 90
+        },
+        {
+          "slug": "figure-series",
+          "name": "Figure Series",
+          "sort_order": 100
+        },
+        {
+          "slug": "decision-making",
+          "name": "Decision Making",
+          "sort_order": 110
+        },
+        {
+          "slug": "assertion-and-reasoning-cause-and-effect",
+          "name": "Assertion and Reasoning, Cause and Effect",
+          "sort_order": 120
+        },
+        {
+          "slug": "statements-assumptions-arguments-conclusions-and-courses-of",
+          "name": "Statements: Assumptions, Arguments, Conclusions and Courses of Action",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "numerical-ability",
+      "name": "Numerical Ability",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "number-system",
+          "name": "Number System",
+          "sort_order": 10
+        },
+        {
+          "slug": "simplification",
+          "name": "Simplification",
+          "sort_order": 20
+        },
+        {
+          "slug": "hcf-and-lcm",
+          "name": "HCF and LCM",
+          "sort_order": 30
+        },
+        {
+          "slug": "decimals-and-fractions",
+          "name": "Decimals and Fractions",
+          "sort_order": 40
+        },
+        {
+          "slug": "percentages",
+          "name": "Percentages",
+          "sort_order": 50
+        },
+        {
+          "slug": "ratio-and-proportion",
+          "name": "Ratio and Proportion",
+          "sort_order": 60
+        },
+        {
+          "slug": "averages",
+          "name": "Averages",
+          "sort_order": 70
+        },
+        {
+          "slug": "profit-and-loss",
+          "name": "Profit and Loss",
+          "sort_order": 80
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 90
+        },
+        {
+          "slug": "partnership",
+          "name": "Partnership",
+          "sort_order": 100
+        },
+        {
+          "slug": "time-and-work",
+          "name": "Time and Work",
+          "sort_order": 110
+        },
+        {
+          "slug": "time-and-distance",
+          "name": "Time and Distance",
+          "sort_order": 120
+        },
+        {
+          "slug": "probability-permutation-and-combination",
+          "name": "Probability, Permutation and Combination",
+          "sort_order": 130
+        },
+        {
+          "slug": "data-interpretation-charts-graphs-and-case-studies",
+          "name": "Data Interpretation: Charts, Graphs and Case Studies",
+          "sort_order": 140
+        }
+      ]
+    },
+    {
+      "slug": "english-language",
+      "name": "English Language",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "spotting-errors-and-error-correction",
+          "name": "Spotting Errors and Error Correction",
+          "sort_order": 10
+        },
+        {
+          "slug": "cloze-test",
+          "name": "Cloze Test",
+          "sort_order": 20
+        },
+        {
+          "slug": "fill-in-the-blanks",
+          "name": "Fill in the Blanks",
+          "sort_order": 30
+        },
+        {
+          "slug": "phrase-or-sentence-substitution",
+          "name": "Phrase or Sentence Substitution",
+          "sort_order": 40
+        },
+        {
+          "slug": "jumbled-sentences-and-jumbled-words",
+          "name": "Jumbled Sentences and Jumbled Words",
+          "sort_order": 50
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 60
+        },
+        {
+          "slug": "one-word-substitution",
+          "name": "One-word Substitution",
+          "sort_order": 70
+        },
+        {
+          "slug": "idioms-and-phrases",
+          "name": "Idioms and Phrases",
+          "sort_order": 80
+        },
+        {
+          "slug": "commonly-misspelled-words",
+          "name": "Commonly Misspelled Words",
+          "sort_order": 90
+        }
+      ]
+    },
+    {
+      "slug": "general-awareness",
+      "name": "General Awareness",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "current-affairs",
+          "name": "Current Affairs",
+          "sort_order": 10
+        },
+        {
+          "slug": "banking-terms-and-history",
+          "name": "Banking Terms and History",
+          "sort_order": 20
+        },
+        {
+          "slug": "rbi-repo-and-reverse-repo-rates",
+          "name": "RBI, Repo and Reverse Repo Rates",
+          "sort_order": 30
+        },
+        {
+          "slug": "fiscal-and-monetary-policy",
+          "name": "Fiscal and Monetary Policy",
+          "sort_order": 40
+        },
+        {
+          "slug": "indian-and-international-economy",
+          "name": "Indian and International Economy",
+          "sort_order": 50
+        },
+        {
+          "slug": "countries-and-currencies",
+          "name": "Countries and Currencies",
+          "sort_order": 60
+        },
+        {
+          "slug": "awards-and-honours-books-and-authors-sports",
+          "name": "Awards and Honours, Books and Authors, Sports",
+          "sort_order": 70
+        },
+        {
+          "slug": "uno",
+          "name": "UNO",
+          "sort_order": 80
+        },
+        {
+          "slug": "agriculture",
+          "name": "Agriculture",
+          "sort_order": 90
+        },
+        {
+          "slug": "marketing-and-finance",
+          "name": "Marketing and Finance",
+          "sort_order": 100
+        },
+        {
+          "slug": "social-functions-of-banks",
+          "name": "Social Functions of Banks",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "computer-knowledge",
+      "name": "Computer Knowledge",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "computer-fundamentals",
+          "name": "Computer Fundamentals",
+          "sort_order": 10
+        },
+        {
+          "slug": "hardware-and-software",
+          "name": "Hardware and Software",
+          "sort_order": 20
+        },
+        {
+          "slug": "databases",
+          "name": "Databases",
+          "sort_order": 30
+        },
+        {
+          "slug": "networking",
+          "name": "Networking",
+          "sort_order": 40
+        },
+        {
+          "slug": "ms-office",
+          "name": "MS Office",
+          "sort_order": 50
+        },
+        {
+          "slug": "history-and-future-of-computers",
+          "name": "History and Future of Computers",
+          "sort_order": 60
+        }
+      ]
+    }
+  ]
+}

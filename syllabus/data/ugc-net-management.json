@@ -1,0 +1,153 @@
+{
+  "exam": {
+    "slug": "ugc-net-management",
+    "name": "UGC NET Management (Paper 1 + Paper 2)",
+    "short_name": "UGC NET Management",
+    "kind": "exam",
+    "aliases": [
+      "ugc net",
+      "ugc-net",
+      "net",
+      "nta net",
+      "nta ugc net",
+      "net jrf",
+      "jrf",
+      "assistant professor",
+      "lectureship",
+      "net exam",
+      "ugc",
+      "management",
+      "mba",
+      "commerce and management",
+      "paper 2",
+      "paper ii"
+    ],
+    "category": "teaching",
+    "conducting_body": "National Testing Agency (NTA) for the University Grants Commission (UGC)",
+    "official_url": "https://ugcnet.nta.nic.in",
+    "syllabus_source_url": "https://www.ugcnetonline.in/syllabus-new.php",
+    "syllabus_cycle": "UGC-NET December 2026 (the PDFs themselves are undated; the Paper 1 PDF was created in August 2018)",
+    "verified": false,
+    "verification_note": "Draft from the UGC Paper-I and Management syllabus PDFs (Paper-I_English.pdf, Management_English.pdf) linked from the UGC syllabus page that the NTA UGC-NET December 2026 Information Bulletin names; topics are the PDFs' ten units each, not chapters. Cut at the first dash or colon of each unit's first line; the units are printed with long subject lists, so check these short titles first. Check first whether UGC has issued newer syllabi.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1170
+  },
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "management-paper-2",
+      "name": "Management (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "management",
+          "name": "Management",
+          "sort_order": 10
+        },
+        {
+          "slug": "organisational-behaviour",
+          "name": "Organisational Behaviour",
+          "sort_order": 20
+        },
+        {
+          "slug": "strategic-role-of-human-resource-management",
+          "name": "Strategic Role of Human Resource Management",
+          "sort_order": 30
+        },
+        {
+          "slug": "accounting-principles-and-standards-preparation-of-financial",
+          "name": "Accounting Principles and Standards, Preparation of Financial Statements",
+          "sort_order": 40
+        },
+        {
+          "slug": "value-and-returns",
+          "name": "Value and Returns",
+          "sort_order": 50
+        },
+        {
+          "slug": "strategic-management",
+          "name": "Strategic Management",
+          "sort_order": 60
+        },
+        {
+          "slug": "consumer-and-industrial-buying-behaviour",
+          "name": "Consumer and Industrial Buying Behaviour",
+          "sort_order": 70
+        },
+        {
+          "slug": "statistics-for-management",
+          "name": "Statistics for Management",
+          "sort_order": 80
+        },
+        {
+          "slug": "international-business",
+          "name": "International Business",
+          "sort_order": 90
+        },
+        {
+          "slug": "entrepreneurship-development",
+          "name": "Entrepreneurship Development",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}
