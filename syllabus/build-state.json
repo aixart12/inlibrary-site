@@ -104,6 +104,38 @@
     "class-12-cbse-commerce": {
       "hash": "7242bf3f174cc36a",
       "version": 1
+    },
+    "ts-eamcet-mpc": {
+      "hash": "97a454a222c07507",
+      "version": 1
+    },
+    "ap-eapcet-mpc": {
+      "hash": "e2ecb7baa75bd3a8",
+      "version": 1
+    },
+    "ap-eapcet-bipc": {
+      "hash": "3f0b6ad23d7ca425",
+      "version": 1
+    },
+    "keam-engineering": {
+      "hash": "462065f59a6515d5",
+      "version": 1
+    },
+    "bitsat-pcm": {
+      "hash": "be8048eb4abdad25",
+      "version": 1
+    },
+    "bitsat-pcb": {
+      "hash": "9ff1a3be33ee8eb4",
+      "version": 1
+    },
+    "mht-cet-pcm": {
+      "hash": "1205d64c3a10c2f2",
+      "version": 1
+    },
+    "mht-cet-pcb": {
+      "hash": "8250d5a823d8dcb5",
+      "version": 1
     }
   }
 }
