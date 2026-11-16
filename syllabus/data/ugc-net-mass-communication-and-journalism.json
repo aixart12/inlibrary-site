@@ -1,0 +1,155 @@
+{
+  "exam": {
+    "slug": "ugc-net-mass-communication-and-journalism",
+    "name": "UGC NET Mass Communication and Journalism (Paper 1 + Paper 2)",
+    "short_name": "UGC NET Mass Communication and Journalism",
+    "kind": "exam",
+    "aliases": [
+      "ugc net",
+      "ugc-net",
+      "net",
+      "nta net",
+      "nta ugc net",
+      "net jrf",
+      "jrf",
+      "assistant professor",
+      "lectureship",
+      "net exam",
+      "ugc",
+      "mass communication",
+      "journalism",
+      "mass comm",
+      "mass communication and journalism",
+      "media",
+      "paper 2",
+      "paper ii"
+    ],
+    "category": "teaching",
+    "conducting_body": "National Testing Agency (NTA) for the University Grants Commission (UGC)",
+    "official_url": "https://ugcnet.nta.nic.in",
+    "syllabus_source_url": "https://www.ugcnetonline.in/syllabus-new.php",
+    "syllabus_cycle": "UGC-NET December 2026 (the PDFs themselves are undated; the Paper 1 PDF was created in August 2018)",
+    "verified": false,
+    "verification_note": "Draft from the UGC Paper-I and Mass Communication and Journalism syllabus PDFs (Paper-I_English.pdf, Mass communication and  journalism_English.pdf) linked from the UGC syllabus page that the NTA UGC-NET December 2026 Information Bulletin names; topics are the PDFs' ten units each, not chapters. Check first whether UGC has issued newer syllabi.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 560
+  },
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "mass-communication-and-journalism-paper-2",
+      "name": "Mass Communication and Journalism (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "introduction-to-journalism-and-mass-communication",
+          "name": "Introduction to Journalism and Mass Communication",
+          "sort_order": 10
+        },
+        {
+          "slug": "communication-for-development-and-social-change",
+          "name": "Communication for Development and Social Change",
+          "sort_order": 20
+        },
+        {
+          "slug": "reporting-and-editing",
+          "name": "Reporting and Editing",
+          "sort_order": 30
+        },
+        {
+          "slug": "advertising-and-marketing-communication",
+          "name": "Advertising and Marketing Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "public-relations-and-corporate-communication",
+          "name": "Public Relations and Corporate Communication",
+          "sort_order": 50
+        },
+        {
+          "slug": "media-laws-and-ethics",
+          "name": "Media Laws and Ethics",
+          "sort_order": 60
+        },
+        {
+          "slug": "media-management-and-production",
+          "name": "Media Management and Production",
+          "sort_order": 70
+        },
+        {
+          "slug": "ict-and-media",
+          "name": "ICT and Media",
+          "sort_order": 80
+        },
+        {
+          "slug": "film-and-visual-communication",
+          "name": "Film and Visual Communication",
+          "sort_order": 90
+        },
+        {
+          "slug": "communication-research",
+          "name": "Communication Research",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}
