@@ -1,0 +1,469 @@
+{
+  "exam": {
+    "slug": "rpsc-ras-prelims",
+    "name": "RPSC RAS Prelims",
+    "short_name": "RPSC RAS",
+    "kind": "exam",
+    "aliases": [
+      "rpsc",
+      "ras",
+      "rpsc ras",
+      "ras pre",
+      "rajasthan administrative service",
+      "rajasthan public service commission",
+      "rajasthan pcs",
+      "rajasthan",
+      "prelims"
+    ],
+    "category": "state-other",
+    "conducting_body": "Rajasthan Public Service Commission (RPSC)",
+    "official_url": "https://rpsc.rajasthan.gov.in",
+    "syllabus_source_url": "https://www.drishtiias.com/state-pcs/rpsc-exam-syllabus-prelims",
+    "syllabus_cycle": "Syllabus updated January 2026 per the secondary source; official document not opened",
+    "verified": false,
+    "verification_note": "General syllabus drafted from Drishti IAS's RPSC prelims syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. The page lists 11 units with sub-points; check first that the units match the syllabus RPSC released in January 2026. The mains is not included.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 800
+  },
+  "subjects": [
+    {
+      "slug": "rajasthan-history-art-culture-literature-tradition-and-herit",
+      "name": "Rajasthan History, Art, Culture, Literature, Tradition and Heritage",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "pre-historic-sites-and-ancient-society-and-culture-of-rajast",
+          "name": "Pre-historic Sites and Ancient Society and Culture of Rajasthan",
+          "sort_order": 10
+        },
+        {
+          "slug": "sources-of-rajasthan-history",
+          "name": "Sources of Rajasthan History",
+          "sort_order": 20
+        },
+        {
+          "slug": "major-dynasties-medieval-administration-and-revenue-systems",
+          "name": "Major Dynasties, Medieval Administration and Revenue Systems",
+          "sort_order": 30
+        },
+        {
+          "slug": "peasant-tribal-and-praja-mandal-movements-integration-of-raj",
+          "name": "Peasant, Tribal and Praja Mandal Movements, Integration of Rajasthan",
+          "sort_order": 40
+        },
+        {
+          "slug": "architecture-painting-handicrafts-performing-arts-and-music",
+          "name": "Architecture, Painting, Handicrafts, Performing Arts and Music",
+          "sort_order": 50
+        },
+        {
+          "slug": "language-literature-saints-sects-and-folk-deities",
+          "name": "Language, Literature, Saints, Sects and Folk Deities",
+          "sort_order": 60
+        },
+        {
+          "slug": "fairs-festivals-customs-attire-and-ornaments",
+          "name": "Fairs, Festivals, Customs, Attire and Ornaments",
+          "sort_order": 70
+        },
+        {
+          "slug": "leading-personalities-of-rajasthan",
+          "name": "Leading Personalities of Rajasthan",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "indian-history",
+      "name": "Indian History",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "indus-and-vedic-age-religious-ideas-of-the-6th-century-bc",
+          "name": "Indus and Vedic Age, Religious Ideas of the 6th Century BC",
+          "sort_order": 10
+        },
+        {
+          "slug": "major-dynasties-art-architecture-and-science-in-ancient-indi",
+          "name": "Major Dynasties, Art, Architecture and Science in Ancient India",
+          "sort_order": 20
+        },
+        {
+          "slug": "sultanate-vijayanagara-mughals-and-marathas",
+          "name": "Sultanate, Vijayanagara, Mughals and Marathas",
+          "sort_order": 30
+        },
+        {
+          "slug": "medieval-art-literature-bhakti-and-sufi-movements",
+          "name": "Medieval Art, Literature, Bhakti and Sufi Movements",
+          "sort_order": 40
+        },
+        {
+          "slug": "british-imperialism-resistance-and-the-revolt-of-1857",
+          "name": "British Imperialism, Resistance and the Revolt of 1857",
+          "sort_order": 50
+        },
+        {
+          "slug": "nationalism-socio-religious-movements-and-the-freedom-strugg",
+          "name": "Nationalism, Socio-religious Movements and the Freedom Struggle",
+          "sort_order": 60
+        },
+        {
+          "slug": "post-independence-nation-building-up-to-2000",
+          "name": "Post-independence Nation Building up to 2000",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "geography-of-world-and-india",
+      "name": "Geography of World and India",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "world-physical-features-rivers-lakes-and-natural-vegetation",
+          "name": "World: Physical Features, Rivers, Lakes and Natural Vegetation",
+          "sort_order": 10
+        },
+        {
+          "slug": "world-agriculture-industrial-regions-transport-and-environme",
+          "name": "World: Agriculture, Industrial Regions, Transport and Environmental Issues",
+          "sort_order": 20
+        },
+        {
+          "slug": "india-physiographic-divisions-climate-rivers-and-lakes",
+          "name": "India: Physiographic Divisions, Climate, Rivers and Lakes",
+          "sort_order": 30
+        },
+        {
+          "slug": "india-irrigation-agriculture-minerals-and-industrial-regions",
+          "name": "India: Irrigation, Agriculture, Minerals and Industrial Regions",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "geography-of-rajasthan",
+      "name": "Geography of Rajasthan",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "location-physiography-rivers-lakes-and-climate",
+          "name": "Location, Physiography, Rivers, Lakes and Climate",
+          "sort_order": 10
+        },
+        {
+          "slug": "vegetation-biodiversity-soil-agriculture-livestock-and-irrig",
+          "name": "Vegetation, Biodiversity, Soil, Agriculture, Livestock and Irrigation",
+          "sort_order": 20
+        },
+        {
+          "slug": "population-urbanization-and-tribes",
+          "name": "Population, Urbanization and Tribes",
+          "sort_order": 30
+        },
+        {
+          "slug": "minerals-and-tourism",
+          "name": "Minerals and Tourism",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "indian-constitution-political-system-and-governance",
+      "name": "Indian Constitution, Political System and Governance",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "framing-of-the-constitution-preamble-citizenship",
+          "name": "Framing of the Constitution, Preamble, Citizenship",
+          "sort_order": 10
+        },
+        {
+          "slug": "fundamental-rights-directive-principles-and-fundamental-duti",
+          "name": "Fundamental Rights, Directive Principles and Fundamental Duties",
+          "sort_order": 20
+        },
+        {
+          "slug": "union-executive-legislature-and-judiciary",
+          "name": "Union Executive, Legislature and Judiciary",
+          "sort_order": 30
+        },
+        {
+          "slug": "union-state-relations-and-emergency-provisions",
+          "name": "Union-State Relations and Emergency Provisions",
+          "sort_order": 40
+        },
+        {
+          "slug": "urban-and-rural-local-government",
+          "name": "Urban and Rural Local Government",
+          "sort_order": 50
+        },
+        {
+          "slug": "election-commission-upsc-nhrc-ncw-ncpcr-niti-aayog",
+          "name": "Election Commission, UPSC, NHRC, NCW, NCPCR, NITI Aayog",
+          "sort_order": 60
+        },
+        {
+          "slug": "public-policy-citizen-charter-social-audit-grievance-redress",
+          "name": "Public Policy, Citizen Charter, Social Audit, Grievance Redressal",
+          "sort_order": 70
+        },
+        {
+          "slug": "lokpal-central-vigilance-commission-central-information-comm",
+          "name": "Lokpal, Central Vigilance Commission, Central Information Commission",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "political-and-administrative-system-of-rajasthan",
+      "name": "Political and Administrative System of Rajasthan",
+      "sort_order": 60,
+      "topics": [
+        {
+          "slug": "governor-chief-minister-council-of-ministers-and-legislative",
+          "name": "Governor, Chief Minister, Council of Ministers and Legislative Assembly",
+          "sort_order": 10
+        },
+        {
+          "slug": "high-court-subordinate-courts-and-advocate-general",
+          "name": "High Court, Subordinate Courts and Advocate General",
+          "sort_order": 20
+        },
+        {
+          "slug": "secretariat-directorates-division-and-district-administratio",
+          "name": "Secretariat, Directorates, Division and District Administration",
+          "sort_order": 30
+        },
+        {
+          "slug": "rpsc-state-commissions-board-of-revenue-and-lokayukt",
+          "name": "RPSC, State Commissions, Board of Revenue and Lokayukt",
+          "sort_order": 40
+        },
+        {
+          "slug": "panchayati-raj-and-municipal-administration",
+          "name": "Panchayati Raj and Municipal Administration",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "economic-concepts-and-indian-economy",
+      "name": "Economic Concepts and Indian Economy",
+      "sort_order": 70,
+      "topics": [
+        {
+          "slug": "economic-growth-development-and-sustainable-development",
+          "name": "Economic Growth, Development and Sustainable Development",
+          "sort_order": 10
+        },
+        {
+          "slug": "measurement-of-development-hdi-and-related-indices",
+          "name": "Measurement of Development: HDI and Related Indices",
+          "sort_order": 20
+        },
+        {
+          "slug": "monetary-and-fiscal-policy-union-budget",
+          "name": "Monetary and Fiscal Policy, Union Budget",
+          "sort_order": 30
+        },
+        {
+          "slug": "fiscal-federalism-and-the-finance-commission",
+          "name": "Fiscal Federalism and the Finance Commission",
+          "sort_order": 40
+        },
+        {
+          "slug": "agricultural-development-and-reforms",
+          "name": "Agricultural Development and Reforms",
+          "sort_order": 50
+        },
+        {
+          "slug": "industrial-policy-liberalization-privatization-and-globaliza",
+          "name": "Industrial Policy, Liberalization, Privatization and Globalization",
+          "sort_order": 60
+        },
+        {
+          "slug": "service-sector-energy-transport-and-communication",
+          "name": "Service Sector, Energy, Transport and Communication",
+          "sort_order": 70
+        },
+        {
+          "slug": "skill-development-employment-and-social-justice",
+          "name": "Skill Development, Employment and Social Justice",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "economy-of-rajasthan",
+      "name": "Economy of Rajasthan",
+      "sort_order": 80,
+      "topics": [
+        {
+          "slug": "macro-overview-and-state-budget",
+          "name": "Macro Overview and State Budget",
+          "sort_order": 10
+        },
+        {
+          "slug": "agriculture-industry-and-services-in-rajasthan",
+          "name": "Agriculture, Industry and Services in Rajasthan",
+          "sort_order": 20
+        },
+        {
+          "slug": "infrastructure-energy-transport-communication",
+          "name": "Infrastructure: Energy, Transport, Communication",
+          "sort_order": 30
+        },
+        {
+          "slug": "rural-development-and-state-finance-commission",
+          "name": "Rural Development and State Finance Commission",
+          "sort_order": 40
+        },
+        {
+          "slug": "education-health-and-welfare-schemes-of-rajasthan",
+          "name": "Education, Health and Welfare Schemes of Rajasthan",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "science-and-technology",
+      "name": "Science and Technology",
+      "sort_order": 90,
+      "topics": [
+        {
+          "slug": "basics-of-everyday-science",
+          "name": "Basics of Everyday Science",
+          "sort_order": 10
+        },
+        {
+          "slug": "computers-information-and-communication-technology",
+          "name": "Computers, Information and Communication Technology",
+          "sort_order": 20
+        },
+        {
+          "slug": "defence-and-space-technology",
+          "name": "Defence and Space Technology",
+          "sort_order": 30
+        },
+        {
+          "slug": "genetics-biotechnology-and-nanotechnology",
+          "name": "Genetics, Biotechnology and Nanotechnology",
+          "sort_order": 40
+        },
+        {
+          "slug": "human-health-food-nutrition-and-diseases",
+          "name": "Human Health, Food, Nutrition and Diseases",
+          "sort_order": 50
+        },
+        {
+          "slug": "environment-ecology-biodiversity-and-conservation",
+          "name": "Environment, Ecology, Biodiversity and Conservation",
+          "sort_order": 60
+        },
+        {
+          "slug": "agriculture-horticulture-forestry-and-animal-husbandry-in-ra",
+          "name": "Agriculture, Horticulture, Forestry and Animal Husbandry in Rajasthan",
+          "sort_order": 70
+        },
+        {
+          "slug": "science-and-technology-policies-and-recent-advances",
+          "name": "Science and Technology Policies and Recent Advances",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "reasoning-and-mental-ability",
+      "name": "Reasoning and Mental Ability",
+      "sort_order": 100,
+      "topics": [
+        {
+          "slug": "statements-assumptions-arguments-conclusions-courses-of-acti",
+          "name": "Statements: Assumptions, Arguments, Conclusions, Courses of Action",
+          "sort_order": 10
+        },
+        {
+          "slug": "analytical-and-critical-reasoning",
+          "name": "Analytical and Critical Reasoning",
+          "sort_order": 20
+        },
+        {
+          "slug": "number-and-letter-sequences-coding-decoding",
+          "name": "Number and Letter Sequences, Coding-Decoding",
+          "sort_order": 30
+        },
+        {
+          "slug": "relations-direction-sense-ranking-and-sitting-arrangements",
+          "name": "Relations, Direction Sense, Ranking and Sitting Arrangements",
+          "sort_order": 40
+        },
+        {
+          "slug": "logical-venn-diagrams-and-shapes",
+          "name": "Logical Venn Diagrams and Shapes",
+          "sort_order": 50
+        },
+        {
+          "slug": "ratio-proportion-partnership-percentage-profit-and-loss",
+          "name": "Ratio, Proportion, Partnership, Percentage, Profit and Loss",
+          "sort_order": 60
+        },
+        {
+          "slug": "simple-and-compound-interest-perimeter-and-area",
+          "name": "Simple and Compound Interest, Perimeter and Area",
+          "sort_order": 70
+        },
+        {
+          "slug": "data-analysis-mean-median-mode",
+          "name": "Data Analysis, Mean, Median, Mode",
+          "sort_order": 80
+        },
+        {
+          "slug": "permutation-combination-and-simple-probability",
+          "name": "Permutation, Combination and Simple Probability",
+          "sort_order": 90
+        }
+      ]
+    },
+    {
+      "slug": "current-affairs-and-issues",
+      "name": "Current Affairs and Issues",
+      "sort_order": 110,
+      "topics": [
+        {
+          "slug": "important-personalities-places-and-contemporary-issues",
+          "name": "Important Personalities, Places and Contemporary Issues",
+          "sort_order": 10
+        },
+        {
+          "slug": "new-welfare-and-development-schemes",
+          "name": "New Welfare and Development Schemes",
+          "sort_order": 20
+        },
+        {
+          "slug": "major-economic-and-political-developments",
+          "name": "Major Economic and Political Developments",
+          "sort_order": 30
+        },
+        {
+          "slug": "sports-and-games",
+          "name": "Sports and Games",
+          "sort_order": 40
+        },
+        {
+          "slug": "awards-publications-and-authors",
+          "name": "Awards, Publications and Authors",
+          "sort_order": 50
+        },
+        {
+          "slug": "rajasthan-public-examination-prevention-of-unfair-means-in-r",
+          "name": "Rajasthan Public Examination (Prevention of Unfair Means in Recruitment) Act, 2022",
+          "sort_order": 60
+        }
+      ]
+    }
+  ]
+}

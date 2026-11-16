@@ -1,0 +1,178 @@
+{
+  "exam": {
+    "slug": "clat-ug",
+    "name": "CLAT UG (Common Law Admission Test)",
+    "short_name": "CLAT",
+    "kind": "exam",
+    "aliases": [
+      "clat",
+      "clat ug",
+      "clat exam",
+      "common law admission test",
+      "law entrance",
+      "nlu",
+      "llb",
+      "ba llb",
+      "law",
+      "consortium of nlus"
+    ],
+    "category": "entrance",
+    "conducting_body": "Consortium of National Law Universities",
+    "official_url": "https://consortiumofnlus.ac.in",
+    "syllabus_source_url": "https://consortiumofnlus.ac.in/clat-2027/ug-syllabus.html",
+    "syllabus_cycle": "CLAT 2027",
+    "verified": false,
+    "verification_note": "Draft from the Consortium's own CLAT 2027 UG syllabus page, read through a page summariser; the page describes skills tested per section and gives no topic list, so the topics are those skills in short form. Check first that each topic matches the page's wording.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 750
+  },
+  "subjects": [
+    {
+      "slug": "english-language",
+      "name": "English Language",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "comprehending-the-main-point-arguments-and-viewpoints-of-a-p",
+          "name": "Comprehending the Main Point, Arguments and Viewpoints of a Passage",
+          "sort_order": 10
+        },
+        {
+          "slug": "drawing-inferences-and-conclusions",
+          "name": "Drawing Inferences and Conclusions",
+          "sort_order": 20
+        },
+        {
+          "slug": "summarising-the-passage",
+          "name": "Summarising the Passage",
+          "sort_order": 30
+        },
+        {
+          "slug": "comparing-and-contrasting-arguments-or-viewpoints",
+          "name": "Comparing and Contrasting Arguments or Viewpoints",
+          "sort_order": 40
+        },
+        {
+          "slug": "meaning-of-words-and-phrases-in-context",
+          "name": "Meaning of Words and Phrases in Context",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "current-affairs-including-general-knowledge",
+      "name": "Current Affairs Including General Knowledge",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "contemporary-events-of-significance-from-india-and-the-world",
+          "name": "Contemporary Events of Significance from India and the World",
+          "sort_order": 10
+        },
+        {
+          "slug": "arts-and-culture",
+          "name": "Arts and Culture",
+          "sort_order": 20
+        },
+        {
+          "slug": "international-affairs",
+          "name": "International Affairs",
+          "sort_order": 30
+        },
+        {
+          "slug": "historical-events-of-continuing-significance",
+          "name": "Historical Events of Continuing Significance",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "legal-reasoning",
+      "name": "Legal Reasoning",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "identifying-and-inferring-rules-and-principles-in-a-passage",
+          "name": "Identifying and Inferring Rules and Principles in a Passage",
+          "sort_order": 10
+        },
+        {
+          "slug": "applying-rules-and-principles-to-fact-situations",
+          "name": "Applying Rules and Principles to Fact Situations",
+          "sort_order": 20
+        },
+        {
+          "slug": "how-changes-to-rules-or-principles-alter-their-application",
+          "name": "How Changes to Rules or Principles Alter their Application",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "logical-reasoning",
+      "name": "Logical Reasoning",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "recognising-an-argument-its-premises-and-conclusions",
+          "name": "Recognising an Argument, its Premises and Conclusions",
+          "sort_order": 10
+        },
+        {
+          "slug": "critically-analysing-patterns-of-reasoning",
+          "name": "Critically Analysing Patterns of Reasoning",
+          "sort_order": 20
+        },
+        {
+          "slug": "strengthening-and-weakening-conclusions",
+          "name": "Strengthening and Weakening Conclusions",
+          "sort_order": 30
+        },
+        {
+          "slug": "inferring-from-a-passage-and-applying-inferences-to-new-situ",
+          "name": "Inferring from a Passage and Applying Inferences to New Situations",
+          "sort_order": 40
+        },
+        {
+          "slug": "relationships-analogies-contradictions-and-equivalence",
+          "name": "Relationships, Analogies, Contradictions and Equivalence",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "quantitative-techniques",
+      "name": "Quantitative Techniques",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "deriving-and-manipulating-numerical-information-from-passage",
+          "name": "Deriving and Manipulating Numerical Information from Passages",
+          "sort_order": 10
+        },
+        {
+          "slug": "ratios-and-proportions",
+          "name": "Ratios and Proportions",
+          "sort_order": 20
+        },
+        {
+          "slug": "basic-algebra",
+          "name": "Basic Algebra",
+          "sort_order": 30
+        },
+        {
+          "slug": "mensuration",
+          "name": "Mensuration",
+          "sort_order": 40
+        },
+        {
+          "slug": "statistical-estimation",
+          "name": "Statistical Estimation",
+          "sort_order": 50
+        }
+      ]
+    }
+  ]
+}

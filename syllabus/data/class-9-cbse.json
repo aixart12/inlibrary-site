@@ -1,0 +1,354 @@
+{
+  "exam": {
+    "slug": "class-9-cbse",
+    "name": "Class 9 · CBSE",
+    "short_name": "Class 9",
+    "kind": "school",
+    "aliases": [
+      "9",
+      "9th",
+      "ninth",
+      "class 9",
+      "class ix",
+      "ix",
+      "9 class",
+      "navi",
+      "nauvi",
+      "navin",
+      "secondary",
+      "cbse",
+      "cbse 9",
+      "ncert"
+    ],
+    "category": "school",
+    "conducting_body": "Central Board of Secondary Education (CBSE)",
+    "official_url": "https://www.cbse.gov.in",
+    "syllabus_source_url": "https://cbseacademic.nic.in/curriculum_2027.html",
+    "syllabus_cycle": "2026-27",
+    "verified": false,
+    "verification_note": "Draft from the CBSE 2026-27 curriculum PDFs (Mathematics, Science, Social Science, English, Hindi for Class IX) linked on the curriculum page, read as text; chapter and unit names are the PDFs' own. Class IX has a new curriculum in 2026-27, so compare every chapter list with the PDFs and the new NCERT books; check Science first, where the marks table refers to 13 chapters and only 12 headings were found, and Hindi, whose PDF text could not be read cleanly.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 980,
+    "class": "9",
+    "board": "CBSE"
+  },
+  "subjects": [
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "number-system",
+          "name": "Number System",
+          "sort_order": 10
+        },
+        {
+          "slug": "introduction-to-polynomials",
+          "name": "Introduction to Polynomials",
+          "sort_order": 20
+        },
+        {
+          "slug": "sequences-and-progressions",
+          "name": "Sequences and Progressions",
+          "sort_order": 30
+        },
+        {
+          "slug": "exploring-algebraic-identities",
+          "name": "Exploring Algebraic Identities",
+          "sort_order": 40
+        },
+        {
+          "slug": "linear-equations-in-two-variables",
+          "name": "Linear Equations in Two Variables",
+          "sort_order": 50
+        },
+        {
+          "slug": "coordinate-geometry",
+          "name": "Coordinate Geometry",
+          "sort_order": 60
+        },
+        {
+          "slug": "introduction-to-euclids-geometry-axioms-and-postulates",
+          "name": "Introduction to Euclid's Geometry: Axioms and Postulates",
+          "sort_order": 70
+        },
+        {
+          "slug": "lines-and-angles",
+          "name": "Lines and Angles",
+          "sort_order": 80
+        },
+        {
+          "slug": "triangles-congruence-theorems",
+          "name": "Triangles - Congruence Theorems",
+          "sort_order": 90
+        },
+        {
+          "slug": "4-gons-quadrilaterals",
+          "name": "4-gons (Quadrilaterals)",
+          "sort_order": 100
+        },
+        {
+          "slug": "circles",
+          "name": "Circles",
+          "sort_order": 110
+        },
+        {
+          "slug": "area-and-perimeter",
+          "name": "Area and Perimeter",
+          "sort_order": 120
+        },
+        {
+          "slug": "surface-area-and-volume",
+          "name": "Surface Area and Volume",
+          "sort_order": 130
+        },
+        {
+          "slug": "statistics",
+          "name": "Statistics",
+          "sort_order": 140
+        },
+        {
+          "slug": "introduction-to-probability",
+          "name": "Introduction to Probability",
+          "sort_order": 150
+        }
+      ]
+    },
+    {
+      "slug": "science",
+      "name": "Science",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "cell",
+          "name": "Cell",
+          "sort_order": 10
+        },
+        {
+          "slug": "tissues",
+          "name": "Tissues",
+          "sort_order": 20
+        },
+        {
+          "slug": "reproduction",
+          "name": "Reproduction",
+          "sort_order": 30
+        },
+        {
+          "slug": "diversity",
+          "name": "Diversity",
+          "sort_order": 40
+        },
+        {
+          "slug": "exploring-mixtures-and-their-separation",
+          "name": "Exploring Mixtures and their Separation",
+          "sort_order": 50
+        },
+        {
+          "slug": "structure-of-an-atom",
+          "name": "Structure of an Atom",
+          "sort_order": 60
+        },
+        {
+          "slug": "atoms-and-molecules",
+          "name": "Atoms and Molecules",
+          "sort_order": 70
+        },
+        {
+          "slug": "earth-as-a-system-energy-matter-and-life",
+          "name": "Earth as a System: Energy, Matter and Life",
+          "sort_order": 80
+        },
+        {
+          "slug": "motion",
+          "name": "Motion",
+          "sort_order": 90
+        },
+        {
+          "slug": "force-and-laws-of-motion",
+          "name": "Force and Laws of Motion",
+          "sort_order": 100
+        },
+        {
+          "slug": "work-energy-and-simple-machines",
+          "name": "Work, Energy and Simple Machines",
+          "sort_order": 110
+        },
+        {
+          "slug": "sound",
+          "name": "Sound",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "social-science",
+      "name": "Social Science",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "understanding-social-science",
+          "name": "Understanding Social Science",
+          "sort_order": 10
+        },
+        {
+          "slug": "shaping-of-the-earths-surface",
+          "name": "Shaping of the Earth's Surface",
+          "sort_order": 20
+        },
+        {
+          "slug": "atmosphere-and-climate",
+          "name": "Atmosphere and Climate",
+          "sort_order": 30
+        },
+        {
+          "slug": "early-humans-and-beginning-of-civilisation",
+          "name": "Early Humans and Beginning of Civilisation",
+          "sort_order": 40
+        },
+        {
+          "slug": "state-and-society-upto-1000-ce",
+          "name": "State and Society (upto 1000 CE)",
+          "sort_order": 50
+        },
+        {
+          "slug": "democracy",
+          "name": "Democracy",
+          "sort_order": 60
+        },
+        {
+          "slug": "elections",
+          "name": "Elections",
+          "sort_order": 70
+        },
+        {
+          "slug": "building-blocks-in-economics",
+          "name": "Building Blocks in Economics",
+          "sort_order": 80
+        },
+        {
+          "slug": "the-price-puzzle-what-drives-the-market",
+          "name": "The Price Puzzle: What Drives the Market",
+          "sort_order": 90
+        },
+        {
+          "slug": "oceans-and-life",
+          "name": "Oceans and Life",
+          "sort_order": 100
+        },
+        {
+          "slug": "life-on-earth",
+          "name": "Life on Earth",
+          "sort_order": 110
+        },
+        {
+          "slug": "resistance-and-resilience-1000-ce-1700-ce",
+          "name": "Resistance and Resilience (1000 CE - 1700 CE)",
+          "sort_order": 120
+        },
+        {
+          "slug": "india-and-the-world-i-1900-bce-1200-ce",
+          "name": "India and the World-I (1900 BCE - 1200 CE)",
+          "sort_order": 130
+        },
+        {
+          "slug": "authority",
+          "name": "Authority",
+          "sort_order": 140
+        },
+        {
+          "slug": "from-ideas-to-startups",
+          "name": "From Ideas to Startups",
+          "sort_order": 150
+        },
+        {
+          "slug": "smart-ways-to-manage-your-finances",
+          "name": "Smart Ways to Manage Your Finances",
+          "sort_order": 160
+        }
+      ]
+    },
+    {
+      "slug": "english",
+      "name": "English",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "reading-comprehension-unseen-passages",
+          "name": "Reading Comprehension: Unseen Passages",
+          "sort_order": 10
+        },
+        {
+          "slug": "grammar-tenses-modals-reported-speech-clauses",
+          "name": "Grammar: Tenses, Modals, Reported Speech, Clauses",
+          "sort_order": 20
+        },
+        {
+          "slug": "grammar-editing-sentence-rearrangement-and-transformation",
+          "name": "Grammar: Editing, Sentence Rearrangement and Transformation",
+          "sort_order": 30
+        },
+        {
+          "slug": "writing-notice-and-informal-invitation",
+          "name": "Writing: Notice and Informal Invitation",
+          "sort_order": 40
+        },
+        {
+          "slug": "writing-letter-to-editor-and-formal-e-mail",
+          "name": "Writing: Letter to Editor and Formal E-mail",
+          "sort_order": 50
+        },
+        {
+          "slug": "writing-factual-description-and-magazine-article",
+          "name": "Writing: Factual Description and Magazine Article",
+          "sort_order": 60
+        },
+        {
+          "slug": "writing-descriptive-and-narrative-essay",
+          "name": "Writing: Descriptive and Narrative Essay",
+          "sort_order": 70
+        },
+        {
+          "slug": "kaveri-prose-and-drama",
+          "name": "Kaveri: Prose and Drama",
+          "sort_order": 80
+        },
+        {
+          "slug": "kaveri-poetry",
+          "name": "Kaveri: Poetry",
+          "sort_order": 90
+        }
+      ]
+    },
+    {
+      "slug": "hindi",
+      "name": "Hindi",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "apathit-bodh",
+          "name": "Apathit Bodh",
+          "sort_order": 10
+        },
+        {
+          "slug": "vyakaran",
+          "name": "Vyakaran",
+          "sort_order": 20
+        },
+        {
+          "slug": "pathyapustak",
+          "name": "Pathyapustak",
+          "sort_order": 30
+        },
+        {
+          "slug": "rachnatmak-lekhan-anuchchhed-patra-samvad-suchna",
+          "name": "Rachnatmak Lekhan (Anuchchhed, Patra, Samvad, Suchna)",
+          "sort_order": 40
+        }
+      ]
+    }
+  ]
+}
