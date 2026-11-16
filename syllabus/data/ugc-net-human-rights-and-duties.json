@@ -1,0 +1,154 @@
+{
+  "exam": {
+    "slug": "ugc-net-human-rights-and-duties",
+    "name": "UGC NET Human Rights and Duties (Paper 1 + Paper 2)",
+    "short_name": "UGC NET Human Rights and Duties",
+    "kind": "exam",
+    "aliases": [
+      "ugc net",
+      "ugc-net",
+      "net",
+      "nta net",
+      "nta ugc net",
+      "net jrf",
+      "jrf",
+      "assistant professor",
+      "lectureship",
+      "net exam",
+      "ugc",
+      "human rights",
+      "human rights and duties",
+      "rights",
+      "duties",
+      "paper 2",
+      "paper ii"
+    ],
+    "category": "teaching",
+    "conducting_body": "National Testing Agency (NTA) for the University Grants Commission (UGC)",
+    "official_url": "https://ugcnet.nta.nic.in",
+    "syllabus_source_url": "https://www.ugcnetonline.in/syllabus-new.php",
+    "syllabus_cycle": "UGC-NET December 2026 (the PDFs themselves are undated; the Paper 1 PDF was created in August 2018)",
+    "verified": false,
+    "verification_note": "Draft from the UGC Paper-I and Human Rights and Duties syllabus PDFs (Paper-I_English.pdf, Human Right and Duties_English.pdf) linked from the UGC syllabus page that the NTA UGC-NET December 2026 Information Bulletin names; topics are the PDFs' ten units each, not chapters. The PDF prints the unit titles in capitals; they are written here in title case. Typos in the PDF ('VARIOUSAGENCIES', 'INTERNATINAL') are corrected and titles that run over two lines are joined. Check first whether UGC has issued newer syllabi.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1410
+  },
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "human-rights-and-duties-paper-2",
+      "name": "Human Rights and Duties (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "human-rights-and-duties-concept-and-nature",
+          "name": "Human Rights and Duties: Concept and Nature",
+          "sort_order": 10
+        },
+        {
+          "slug": "origin-and-evolution-of-human-rights-and-international-stand",
+          "name": "Origin and Evolution of Human Rights and International Standards",
+          "sort_order": 20
+        },
+        {
+          "slug": "society-economy-polity-religion-and-culture-their-inter-rela",
+          "name": "Society, Economy, Polity, Religion and Culture: Their Inter-relationship",
+          "sort_order": 30
+        },
+        {
+          "slug": "state-and-individual-liberty",
+          "name": "State and Individual Liberty",
+          "sort_order": 40
+        },
+        {
+          "slug": "un-and-various-agencies-intergovernmental-igos-and-non-gover",
+          "name": "UN and Various Agencies, Intergovernmental (IGOs) and Non-Governmental Organizations (INGOs)",
+          "sort_order": 50
+        },
+        {
+          "slug": "growth-models-and-human-rights",
+          "name": "Growth Models and Human Rights",
+          "sort_order": 60
+        },
+        {
+          "slug": "development-underdevelopment-and-social-action",
+          "name": "Development, Underdevelopment and Social Action",
+          "sort_order": 70
+        },
+        {
+          "slug": "human-rights-and-indian-constitution",
+          "name": "Human Rights and Indian Constitution",
+          "sort_order": 80
+        },
+        {
+          "slug": "constitutional-governance",
+          "name": "Constitutional Governance",
+          "sort_order": 90
+        },
+        {
+          "slug": "international-enforcement-of-human-rights",
+          "name": "International Enforcement of Human Rights",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}

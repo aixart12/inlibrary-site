@@ -1,0 +1,121 @@
+{
+  "exam": {
+    "slug": "csir-net-earth-sciences-ocean-sciences",
+    "name": "CSIR NET Earth Sciences (Ocean Sciences)",
+    "short_name": "CSIR NET Earth Ocean Sciences",
+    "kind": "exam",
+    "aliases": [
+      "csir net",
+      "csir",
+      "csir ugc net",
+      "csir-net",
+      "net",
+      "jrf",
+      "net jrf",
+      "csir jrf",
+      "lectureship",
+      "assistant professor",
+      "nta csir",
+      "earth sciences",
+      "earth science",
+      "earth atmospheric ocean and planetary sciences",
+      "ocean sciences",
+      "oceanography",
+      "ocean science"
+    ],
+    "category": "teaching",
+    "conducting_body": "Council of Scientific and Industrial Research (CSIR), Human Resource Development Group; conducted by the National Testing Agency (NTA)",
+    "official_url": "https://www.csirhrdg.res.in",
+    "syllabus_source_url": "https://csirhrdg.res.in/Home/Index/1/InPage/36/26",
+    "syllabus_cycle": "Not printed on the PDF (file dated December 2020; scheme headed 'from June 2017 and onward'); linked from the CSIR-HRDG syllabus page on 2026-11-16",
+    "verified": false,
+    "verification_note": "Draft from the syllabus PDF (earth_science_syllabus.pdf) linked on the CSIR-HRDG subject page, read as text. The syllabus is one PDF for the paper 'Earth, Atmospheric, Ocean and Planetary Sciences' with a common Part B and five Part C branches, of which a candidate answers one, so each branch is its own plan; Part A topics are the three areas named in the exam scheme on the subject page; topics are the PDF's numbered branch headings. Check first that the PDF is still the current one.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1660
+  },
+  "subjects": [
+    {
+      "slug": "part-a-general-aptitude",
+      "name": "Part A: General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "general-science",
+          "name": "General Science",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-reasoning-and-analysis",
+          "name": "Quantitative Reasoning and Analysis",
+          "sort_order": 20
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "part-b-common-earth-sciences",
+      "name": "Part B: Common Earth Sciences",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "the-earth-and-the-solar-system",
+          "name": "The Earth and the Solar System",
+          "sort_order": 10
+        },
+        {
+          "slug": "earth-materials-surface-features-and-processes",
+          "name": "Earth Materials, Surface Features and Processes",
+          "sort_order": 20
+        },
+        {
+          "slug": "interior-of-the-earth-deformation-and-tectonics",
+          "name": "Interior of the Earth, Deformation and Tectonics",
+          "sort_order": 30
+        },
+        {
+          "slug": "oceans-and-atmosphere",
+          "name": "Oceans and Atmosphere",
+          "sort_order": 40
+        },
+        {
+          "slug": "environmental-earth-sciences",
+          "name": "Environmental Earth Sciences",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "part-c-ocean-sciences",
+      "name": "Part C: Ocean Sciences",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "physical-oceanography",
+          "name": "Physical Oceanography",
+          "sort_order": 10
+        },
+        {
+          "slug": "chemical-oceanography",
+          "name": "Chemical Oceanography",
+          "sort_order": 20
+        },
+        {
+          "slug": "geological-oceanography",
+          "name": "Geological Oceanography",
+          "sort_order": 30
+        },
+        {
+          "slug": "biological-oceanography",
+          "name": "Biological Oceanography",
+          "sort_order": 40
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "exam": {
+    "slug": "ap-eapcet-bipc",
+    "name": "AP EAPCET (Agriculture and Pharmacy, BiPC)",
+    "short_name": "AP EAPCET BiPC",
+    "kind": "exam",
+    "aliases": [
+      "ap eapcet",
+      "ap eamcet",
+      "eapcet",
+      "eamcet",
+      "andhra pradesh eamcet",
+      "andhra pradesh",
+      "ap",
+      "apsche",
+      "jntuk",
+      "bipc",
+      "bi pc",
+      "biology",
+      "agriculture",
+      "pharmacy",
+      "medical",
+      "botany",
+      "zoology"
+    ],
+    "category": "entrance",
+    "conducting_body": "Andhra Pradesh State Council of Higher Education (APSCHE)",
+    "official_url": "https://cets.apsche.ap.gov.in",
+    "syllabus_source_url": "https://jeecounselling.in/exam/ap-eapcet-syllabus",
+    "syllabus_cycle": "AP EAPCET 2027 (as described by the secondary source; 2027 notification not out)",
+    "verified": false,
+    "verification_note": "General syllabus drafted from JEE Counselling's AP EAPCET syllabus page, a secondary site, not from the exam body's own document; topic names are that page's lists, grouped. Botany and Zoology are only five broad areas each, so check those first against the official syllabus.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1240
+  },
+  "subjects": [
+    {
+      "slug": "botany",
+      "name": "Botany",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "diversity-of-plants",
+          "name": "Diversity of Plants",
+          "sort_order": 10
+        },
+        {
+          "slug": "plant-anatomy-and-physiology",
+          "name": "Plant Anatomy and Physiology",
+          "sort_order": 20
+        },
+        {
+          "slug": "genetics-botany",
+          "name": "Genetics (Botany)",
+          "sort_order": 30
+        },
+        {
+          "slug": "plant-reproduction",
+          "name": "Plant Reproduction",
+          "sort_order": 40
+        },
+        {
+          "slug": "ecology-botany",
+          "name": "Ecology (Botany)",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "zoology",
+      "name": "Zoology",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "animal-diversity",
+          "name": "Animal Diversity",
+          "sort_order": 10
+        },
+        {
+          "slug": "human-physiology",
+          "name": "Human Physiology",
+          "sort_order": 20
+        },
+        {
+          "slug": "genetics-and-evolution",
+          "name": "Genetics and Evolution",
+          "sort_order": 30
+        },
+        {
+          "slug": "biotechnology",
+          "name": "Biotechnology",
+          "sort_order": 40
+        },
+        {
+          "slug": "ecology-and-environment",
+          "name": "Ecology and Environment",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "units-and-measurements",
+          "name": "Units and Measurements",
+          "sort_order": 10
+        },
+        {
+          "slug": "motion-in-a-straight-line-and-plane",
+          "name": "Motion in a Straight Line and Plane",
+          "sort_order": 20
+        },
+        {
+          "slug": "laws-of-motion",
+          "name": "Laws of Motion",
+          "sort_order": 30
+        },
+        {
+          "slug": "work-energy-and-power",
+          "name": "Work, Energy and Power",
+          "sort_order": 40
+        },
+        {
+          "slug": "system-of-particles-and-rotational-motion",
+          "name": "System of Particles and Rotational Motion",
+          "sort_order": 50
+        },
+        {
+          "slug": "gravitation",
+          "name": "Gravitation",
+          "sort_order": 60
+        },
+        {
+          "slug": "oscillations",
+          "name": "Oscillations",
+          "sort_order": 70
+        },
+        {
+          "slug": "mechanical-properties-of-solids-and-fluids",
+          "name": "Mechanical Properties of Solids and Fluids",
+          "sort_order": 80
+        },
+        {
+          "slug": "thermal-properties",
+          "name": "Thermal Properties",
+          "sort_order": 90
+        },
+        {
+          "slug": "thermodynamics",
+          "name": "Thermodynamics",
+          "sort_order": 100
+        },
+        {
+          "slug": "kinetic-theory-of-gases",
+          "name": "Kinetic Theory of Gases",
+          "sort_order": 110
+        },
+        {
+          "slug": "wave-motion",
+          "name": "Wave Motion",
+          "sort_order": 120
+        },
+        {
+          "slug": "ray-optics",
+          "name": "Ray Optics",
+          "sort_order": 130
+        },
+        {
+          "slug": "wave-optics",
+          "name": "Wave Optics",
+          "sort_order": 140
+        },
+        {
+          "slug": "electrostatics",
+          "name": "Electrostatics",
+          "sort_order": 150
+        },
+        {
+          "slug": "current-electricity",
+          "name": "Current Electricity",
+          "sort_order": 160
+        },
+        {
+          "slug": "moving-charges-and-magnetism",
+          "name": "Moving Charges and Magnetism",
+          "sort_order": 170
+        },
+        {
+          "slug": "electromagnetic-induction",
+          "name": "Electromagnetic Induction",
+          "sort_order": 180
+        },
+        {
+          "slug": "alternating-current",
+          "name": "Alternating Current",
+          "sort_order": 190
+        },
+        {
+          "slug": "electromagnetic-waves",
+          "name": "Electromagnetic Waves",
+          "sort_order": 200
+        },
+        {
+          "slug": "dual-nature-of-radiation-and-matter",
+          "name": "Dual Nature of Radiation and Matter",
+          "sort_order": 210
+        },
+        {
+          "slug": "atoms",
+          "name": "Atoms",
+          "sort_order": 220
+        },
+        {
+          "slug": "nuclei",
+          "name": "Nuclei",
+          "sort_order": 230
+        },
+        {
+          "slug": "semiconductor-electronics",
+          "name": "Semiconductor Electronics",
+          "sort_order": 240
+        },
+        {
+          "slug": "communication-systems",
+          "name": "Communication Systems",
+          "sort_order": 250
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "atomic-structure",
+          "name": "Atomic Structure",
+          "sort_order": 10
+        },
+        {
+          "slug": "stoichiometry-and-states-of-matter",
+          "name": "Stoichiometry and States of Matter",
+          "sort_order": 20
+        },
+        {
+          "slug": "chemical-thermodynamics",
+          "name": "Chemical Thermodynamics",
+          "sort_order": 30
+        },
+        {
+          "slug": "chemical-equilibrium",
+          "name": "Chemical Equilibrium",
+          "sort_order": 40
+        },
+        {
+          "slug": "solutions",
+          "name": "Solutions",
+          "sort_order": 50
+        },
+        {
+          "slug": "electrochemistry",
+          "name": "Electrochemistry",
+          "sort_order": 60
+        },
+        {
+          "slug": "chemical-kinetics",
+          "name": "Chemical Kinetics",
+          "sort_order": 70
+        },
+        {
+          "slug": "solid-state",
+          "name": "Solid State",
+          "sort_order": 80
+        },
+        {
+          "slug": "surface-chemistry",
+          "name": "Surface Chemistry",
+          "sort_order": 90
+        },
+        {
+          "slug": "periodic-classification",
+          "name": "Periodic Classification",
+          "sort_order": 100
+        },
+        {
+          "slug": "chemical-bonding",
+          "name": "Chemical Bonding",
+          "sort_order": 110
+        },
+        {
+          "slug": "hydrogen-and-s-block-elements",
+          "name": "Hydrogen and s-block Elements",
+          "sort_order": 120
+        },
+        {
+          "slug": "p-block-elements",
+          "name": "p-block Elements",
+          "sort_order": 130
+        },
+        {
+          "slug": "d-and-f-block-elements",
+          "name": "d and f Block Elements",
+          "sort_order": 140
+        },
+        {
+          "slug": "coordination-compounds",
+          "name": "Coordination Compounds",
+          "sort_order": 150
+        },
+        {
+          "slug": "metallurgy",
+          "name": "Metallurgy",
+          "sort_order": 160
+        },
+        {
+          "slug": "basic-principles-and-hydrocarbons",
+          "name": "Basic Principles and Hydrocarbons",
+          "sort_order": 170
+        },
+        {
+          "slug": "haloalkanes-and-haloarenes",
+          "name": "Haloalkanes and Haloarenes",
+          "sort_order": 180
+        },
+        {
+          "slug": "alcohols-phenols-and-ethers",
+          "name": "Alcohols, Phenols and Ethers",
+          "sort_order": 190
+        },
+        {
+          "slug": "aldehydes-ketones-and-carboxylic-acids",
+          "name": "Aldehydes, Ketones and Carboxylic Acids",
+          "sort_order": 200
+        },
+        {
+          "slug": "amines",
+          "name": "Amines",
+          "sort_order": 210
+        },
+        {
+          "slug": "biomolecules",
+          "name": "Biomolecules",
+          "sort_order": 220
+        },
+        {
+          "slug": "polymers",
+          "name": "Polymers",
+          "sort_order": 230
+        },
+        {
+          "slug": "chemistry-in-everyday-life",
+          "name": "Chemistry in Everyday Life",
+          "sort_order": 240
+        }
+      ]
+    }
+  ]
+}

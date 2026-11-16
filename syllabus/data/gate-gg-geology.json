@@ -1,0 +1,192 @@
+{
+  "exam": {
+    "slug": "gate-gg-geology",
+    "name": "GATE Geology and Geophysics (GG, Geology, Part B1)",
+    "short_name": "GATE GG Geology",
+    "kind": "exam",
+    "aliases": [
+      "gate",
+      "gate exam",
+      "gate 2027",
+      "graduate aptitude test in engineering",
+      "mtech",
+      "m.tech",
+      "psu",
+      "iit",
+      "gg",
+      "gate gg",
+      "geology",
+      "geology and geophysics",
+      "geological"
+    ],
+    "category": "entrance",
+    "conducting_body": "Indian Institute of Technology Madras (organising institute, GATE 2027)",
+    "official_url": "https://gate2027.iitm.ac.in",
+    "syllabus_source_url": "https://gate2027.iitm.ac.in/exam_papers_and_syllabus",
+    "syllabus_cycle": "GATE 2027",
+    "verified": false,
+    "verification_note": "Draft from the GATE 2027 syllabus PDFs (GA_GATE2027_Syllabus.pdf, GG_GATE2027_Syllabus.pdf) linked on the official GATE 2027 page, read as text. The paper has a common Part A and then Part B1 (Geology) or Part B2 (Geophysics), of which a candidate answers one, so each option is its own plan. The PDF prints each topic as a heading followed by a colon and its contents; the topics are those headings. The last Part A heading is printed 'Elements of hydrogeology' although its text describes geophysical prospecting; it is kept as printed, and 'Common Igneous' (printed as 'Common Igneous: Sedimentary, and metamorphic-rocks') is written out as 'Common Igneous, Sedimentary and Metamorphic Rocks'. Check first each title against the PDF.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1600
+  },
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "common-section-part-a",
+      "name": "Common Section (Part A)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "introduction-to-earth-and-planetary-systems",
+          "name": "Introduction to Earth and Planetary Systems",
+          "sort_order": 10
+        },
+        {
+          "slug": "plate-tectonics",
+          "name": "Plate Tectonics",
+          "sort_order": 20
+        },
+        {
+          "slug": "earth-surface-processes",
+          "name": "Earth Surface Processes",
+          "sort_order": 30
+        },
+        {
+          "slug": "basic-structural-geology",
+          "name": "Basic Structural Geology",
+          "sort_order": 40
+        },
+        {
+          "slug": "mineralogy",
+          "name": "Mineralogy",
+          "sort_order": 50
+        },
+        {
+          "slug": "common-igneous-sedimentary-and-metamorphic-rocks",
+          "name": "Common Igneous, Sedimentary and Metamorphic Rocks",
+          "sort_order": 60
+        },
+        {
+          "slug": "stratigraphy-and-geological-time-scale",
+          "name": "Stratigraphy and Geological Time Scale",
+          "sort_order": 70
+        },
+        {
+          "slug": "introduction-to-remote-sensing",
+          "name": "Introduction to Remote Sensing",
+          "sort_order": 80
+        },
+        {
+          "slug": "elements-of-hydrogeology",
+          "name": "Elements of Hydrogeology",
+          "sort_order": 90
+        }
+      ]
+    },
+    {
+      "slug": "geology-part-b1",
+      "name": "Geology (Part B1)",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "geomorphology",
+          "name": "Geomorphology",
+          "sort_order": 10
+        },
+        {
+          "slug": "structural-geology",
+          "name": "Structural Geology",
+          "sort_order": 20
+        },
+        {
+          "slug": "crystallography-and-mineralogy",
+          "name": "Crystallography and Mineralogy",
+          "sort_order": 30
+        },
+        {
+          "slug": "geochemistry",
+          "name": "Geochemistry",
+          "sort_order": 40
+        },
+        {
+          "slug": "igneous-petrology",
+          "name": "Igneous Petrology",
+          "sort_order": 50
+        },
+        {
+          "slug": "thermodynamics",
+          "name": "Thermodynamics",
+          "sort_order": 60
+        },
+        {
+          "slug": "sedimentology",
+          "name": "Sedimentology",
+          "sort_order": 70
+        },
+        {
+          "slug": "metamorphic-petrology",
+          "name": "Metamorphic Petrology",
+          "sort_order": 80
+        },
+        {
+          "slug": "paleontology",
+          "name": "Paleontology",
+          "sort_order": 90
+        },
+        {
+          "slug": "stratigraphy",
+          "name": "Stratigraphy",
+          "sort_order": 100
+        },
+        {
+          "slug": "resource-geology",
+          "name": "Resource Geology",
+          "sort_order": 110
+        },
+        {
+          "slug": "engineering-geology",
+          "name": "Engineering Geology",
+          "sort_order": 120
+        },
+        {
+          "slug": "hydrogeology",
+          "name": "Hydrogeology",
+          "sort_order": 130
+        },
+        {
+          "slug": "remote-sensing",
+          "name": "Remote Sensing",
+          "sort_order": 140
+        }
+      ]
+    }
+  ]
+}
