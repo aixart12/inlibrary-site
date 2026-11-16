@@ -1,0 +1,564 @@
+{
+  "exam": {
+    "slug": "class-12-bihar-board-arts",
+    "name": "Class 12 · Bihar Board · Arts",
+    "short_name": "Class 12",
+    "kind": "school",
+    "class": "12",
+    "board": "Bihar Board",
+    "stream": "Arts",
+    "aliases": [
+      "12",
+      "12th",
+      "twelfth",
+      "class 12",
+      "class xii",
+      "xii",
+      "12 class",
+      "inter",
+      "intermediate",
+      "senior secondary",
+      "boards",
+      "board exam",
+      "bseb",
+      "bihar board",
+      "bihar school examination board",
+      "bihar",
+      "barahvi",
+      "barahvin",
+      "12vi",
+      "12wi",
+      "barvi",
+      "bihar board 12th",
+      "bseb 12th",
+      "bseb inter",
+      "arts",
+      "humanities",
+      "ia",
+      "i.a",
+      "intermediate arts",
+      "history",
+      "political science",
+      "geography",
+      "sociology",
+      "psychology"
+    ],
+    "category": "school",
+    "conducting_body": "Bihar School Examination Board (BSEB)",
+    "official_url": "https://biharboardonline.com",
+    "syllabus_source_url": "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
+    "syllabus_cycle": "2024-26 (latest Class XI-XII syllabus the board publishes; the PDF's own pages are headed 2007-09)",
+    "verified": false,
+    "verification_note": "Draft from the contents pages of NCERT's Class XII textbooks (reprint 2026-27, at https://ncert.nic.in/textbook/pdf/), used because page iii of the Bihar board's Class XI-XII syllabus PDF says that, apart from languages, the textbooks of the elective subjects are NCERT's. Files: political science: leps1ps.pdf, leps2ps.pdf; geography: legy1ps.pdf, legy2ps.pdf; economics: leec1ps.pdf, leec2ps.pdf; sociology: lesy1ps.pdf, lesy2ps.pdf; psychology: lepy1ps.pdf; home science: lehe1ps.pdf, lehe2ps.pdf; history: lehs1ps.pdf, lehs2ps.pdf, lehs3ps.pdf. Topics are the textbooks' chapters (Chemistry's are the books' units). Compulsory languages (Hindi, English) are not included. A person should confirm with the board that it still teaches from this NCERT edition.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 280
+  },
+  "subjects": [
+    {
+      "slug": "history",
+      "name": "History",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "bricks-beads-and-bones",
+          "name": "Bricks, Beads and Bones: The Harappan Civilisation",
+          "sort_order": 10
+        },
+        {
+          "slug": "kings-farmers-and-towns",
+          "name": "Kings, Farmers and Towns: Early States and Economies",
+          "sort_order": 20
+        },
+        {
+          "slug": "kinship-caste-and-class",
+          "name": "Kinship, Caste and Class: Early Societies",
+          "sort_order": 30
+        },
+        {
+          "slug": "thinkers-beliefs-and-buildings",
+          "name": "Thinkers, Beliefs and Buildings: Cultural Developments",
+          "sort_order": 40
+        },
+        {
+          "slug": "through-the-eyes-of-travellers",
+          "name": "Through the Eyes of Travellers: Perceptions of Society",
+          "sort_order": 50
+        },
+        {
+          "slug": "bhakti-sufi-traditions",
+          "name": "Bhakti-Sufi Traditions: Changes in Religious Beliefs and Devotional Texts",
+          "sort_order": 60
+        },
+        {
+          "slug": "an-imperial-capital",
+          "name": "An Imperial Capital: Vijayanagara",
+          "sort_order": 70
+        },
+        {
+          "slug": "peasants-zamindars-and-the-state",
+          "name": "Peasants, Zamindars and the State: Agrarian Society and the Mughal Empire",
+          "sort_order": 80
+        },
+        {
+          "slug": "colonialism-and-the-countryside",
+          "name": "Colonialism and the Countryside: Exploring Official Archives",
+          "sort_order": 90
+        },
+        {
+          "slug": "rebels-and-the-raj",
+          "name": "Rebels and the Raj: The Revolt of 1857 and Its Representations",
+          "sort_order": 100
+        },
+        {
+          "slug": "mahatma-gandhi-and-the-nationalist-movement",
+          "name": "Mahatma Gandhi and the Nationalist Movement: Civil Disobedience and Beyond",
+          "sort_order": 110
+        },
+        {
+          "slug": "framing-the-constitution",
+          "name": "Framing the Constitution: The Beginning of a New Era",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "political-science",
+      "name": "Political Science",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "the-end-of-bipolarity",
+          "name": "The End of Bipolarity",
+          "sort_order": 10
+        },
+        {
+          "slug": "contemporary-centres-of-power",
+          "name": "Contemporary Centres of Power",
+          "sort_order": 20
+        },
+        {
+          "slug": "contemporary-south-asia",
+          "name": "Contemporary South Asia",
+          "sort_order": 30
+        },
+        {
+          "slug": "international-organisations",
+          "name": "International Organisations",
+          "sort_order": 40
+        },
+        {
+          "slug": "security-in-the-contemporary-world",
+          "name": "Security in the Contemporary World",
+          "sort_order": 50
+        },
+        {
+          "slug": "environment-and-natural-resources",
+          "name": "Environment and Natural Resources",
+          "sort_order": 60
+        },
+        {
+          "slug": "globalisation",
+          "name": "Globalisation",
+          "sort_order": 70
+        },
+        {
+          "slug": "challenges-of-nation-building",
+          "name": "Challenges of Nation Building",
+          "sort_order": 80
+        },
+        {
+          "slug": "era-of-one-party-dominance",
+          "name": "Era of One-Party Dominance",
+          "sort_order": 90
+        },
+        {
+          "slug": "politics-of-planned-development",
+          "name": "Politics of Planned Development",
+          "sort_order": 100
+        },
+        {
+          "slug": "indias-external-relations",
+          "name": "India's External Relations",
+          "sort_order": 110
+        },
+        {
+          "slug": "challenges-to-and-restoration-of-the-congress-system",
+          "name": "Challenges to and Restoration of the Congress System",
+          "sort_order": 120
+        },
+        {
+          "slug": "the-crisis-of-democratic-order",
+          "name": "The Crisis of Democratic Order",
+          "sort_order": 130
+        },
+        {
+          "slug": "regional-aspirations",
+          "name": "Regional Aspirations",
+          "sort_order": 140
+        },
+        {
+          "slug": "recent-developments-in-indian-politics",
+          "name": "Recent Developments in Indian Politics",
+          "sort_order": 150
+        }
+      ]
+    },
+    {
+      "slug": "geography",
+      "name": "Geography",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "human-geography-nature-and-scope",
+          "name": "Human Geography: Nature and Scope",
+          "sort_order": 10
+        },
+        {
+          "slug": "the-world-population-distribution-density-and-growth",
+          "name": "The World Population: Distribution, Density and Growth",
+          "sort_order": 20
+        },
+        {
+          "slug": "human-development",
+          "name": "Human Development",
+          "sort_order": 30
+        },
+        {
+          "slug": "primary-activities",
+          "name": "Primary Activities",
+          "sort_order": 40
+        },
+        {
+          "slug": "secondary-activities",
+          "name": "Secondary Activities",
+          "sort_order": 50
+        },
+        {
+          "slug": "tertiary-and-quaternary-activities",
+          "name": "Tertiary and Quaternary Activities",
+          "sort_order": 60
+        },
+        {
+          "slug": "transport-and-communication",
+          "name": "Transport and Communication",
+          "sort_order": 70
+        },
+        {
+          "slug": "international-trade",
+          "name": "International Trade",
+          "sort_order": 80
+        },
+        {
+          "slug": "india-population-distribution-density-growth-and-composition",
+          "name": "India: Population: Distribution, Density, Growth and Composition",
+          "sort_order": 90
+        },
+        {
+          "slug": "india-human-settlements",
+          "name": "India: Human Settlements",
+          "sort_order": 100
+        },
+        {
+          "slug": "india-land-resources-and-agriculture",
+          "name": "India: Land Resources and Agriculture",
+          "sort_order": 110
+        },
+        {
+          "slug": "india-water-resources",
+          "name": "India: Water Resources",
+          "sort_order": 120
+        },
+        {
+          "slug": "india-mineral-and-energy-resources",
+          "name": "India: Mineral and Energy Resources",
+          "sort_order": 130
+        },
+        {
+          "slug": "india-planning-and-sustainable-development-in-indian-context",
+          "name": "India: Planning and Sustainable Development in Indian Context",
+          "sort_order": 140
+        },
+        {
+          "slug": "india-transport-and-communication",
+          "name": "India: Transport and Communication",
+          "sort_order": 150
+        },
+        {
+          "slug": "india-international-trade",
+          "name": "India: International Trade",
+          "sort_order": 160
+        },
+        {
+          "slug": "india-geographical-perspective-on-selected-issues-and-proble",
+          "name": "India: Geographical Perspective on Selected Issues and Problems",
+          "sort_order": 170
+        }
+      ]
+    },
+    {
+      "slug": "economics",
+      "name": "Economics",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "microeconomics-introduction",
+          "name": "Microeconomics: Introduction",
+          "sort_order": 10
+        },
+        {
+          "slug": "microeconomics-theory-of-consumer-behaviour",
+          "name": "Microeconomics: Theory of Consumer Behaviour",
+          "sort_order": 20
+        },
+        {
+          "slug": "microeconomics-production-and-costs",
+          "name": "Microeconomics: Production and Costs",
+          "sort_order": 30
+        },
+        {
+          "slug": "microeconomics-the-theory-of-the-firm-under-perfect-competit",
+          "name": "Microeconomics: The Theory of the Firm under Perfect Competition",
+          "sort_order": 40
+        },
+        {
+          "slug": "microeconomics-market-equilibrium",
+          "name": "Microeconomics: Market Equilibrium",
+          "sort_order": 50
+        },
+        {
+          "slug": "macroeconomics-introduction",
+          "name": "Macroeconomics: Introduction",
+          "sort_order": 60
+        },
+        {
+          "slug": "macroeconomics-national-income-accounting",
+          "name": "Macroeconomics: National Income Accounting",
+          "sort_order": 70
+        },
+        {
+          "slug": "macroeconomics-money-and-banking",
+          "name": "Macroeconomics: Money and Banking",
+          "sort_order": 80
+        },
+        {
+          "slug": "macroeconomics-determination-of-income-and-employment",
+          "name": "Macroeconomics: Determination of Income and Employment",
+          "sort_order": 90
+        },
+        {
+          "slug": "macroeconomics-government-budget-and-the-economy",
+          "name": "Macroeconomics: Government Budget and the Economy",
+          "sort_order": 100
+        },
+        {
+          "slug": "macroeconomics-open-economy-macroeconomics",
+          "name": "Macroeconomics: Open Economy Macroeconomics",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "sociology",
+      "name": "Sociology",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "introducing-indian-society",
+          "name": "Introducing Indian Society",
+          "sort_order": 10
+        },
+        {
+          "slug": "the-demographic-structure-of-the-indian-society",
+          "name": "The Demographic Structure of the Indian Society",
+          "sort_order": 20
+        },
+        {
+          "slug": "social-institutions-continuity-and-change",
+          "name": "Social Institutions: Continuity and Change",
+          "sort_order": 30
+        },
+        {
+          "slug": "the-market-as-a-social-institution",
+          "name": "The Market as a Social Institution",
+          "sort_order": 40
+        },
+        {
+          "slug": "patterns-of-social-inequality-and-exclusion",
+          "name": "Patterns of Social Inequality and Exclusion",
+          "sort_order": 50
+        },
+        {
+          "slug": "the-challenges-of-cultural-diversity",
+          "name": "The Challenges of Cultural Diversity",
+          "sort_order": 60
+        },
+        {
+          "slug": "suggestions-for-project-work",
+          "name": "Suggestions for Project Work",
+          "sort_order": 70
+        },
+        {
+          "slug": "structural-change",
+          "name": "Structural Change",
+          "sort_order": 80
+        },
+        {
+          "slug": "cultural-change",
+          "name": "Cultural Change",
+          "sort_order": 90
+        },
+        {
+          "slug": "the-constitution-and-social-change",
+          "name": "The Constitution and Social Change",
+          "sort_order": 100
+        },
+        {
+          "slug": "change-and-development-in-rural-society",
+          "name": "Change and Development in Rural Society",
+          "sort_order": 110
+        },
+        {
+          "slug": "change-and-development-in-industrial-society",
+          "name": "Change and Development in Industrial Society",
+          "sort_order": 120
+        },
+        {
+          "slug": "globalisation-and-social-change",
+          "name": "Globalisation and Social Change",
+          "sort_order": 130
+        },
+        {
+          "slug": "mass-media-and-communications",
+          "name": "Mass Media and Communications",
+          "sort_order": 140
+        },
+        {
+          "slug": "social-movements",
+          "name": "Social Movements",
+          "sort_order": 150
+        }
+      ]
+    },
+    {
+      "slug": "psychology",
+      "name": "Psychology",
+      "sort_order": 60,
+      "topics": [
+        {
+          "slug": "variations-in-psychological-attributes",
+          "name": "Variations in Psychological Attributes",
+          "sort_order": 10
+        },
+        {
+          "slug": "self-and-personality",
+          "name": "Self and Personality",
+          "sort_order": 20
+        },
+        {
+          "slug": "meeting-life-challenges",
+          "name": "Meeting Life Challenges",
+          "sort_order": 30
+        },
+        {
+          "slug": "psychological-disorders",
+          "name": "Psychological Disorders",
+          "sort_order": 40
+        },
+        {
+          "slug": "therapeutic-approaches",
+          "name": "Therapeutic Approaches",
+          "sort_order": 50
+        },
+        {
+          "slug": "attitude-and-social-cognition",
+          "name": "Attitude and Social Cognition",
+          "sort_order": 60
+        },
+        {
+          "slug": "social-influence-and-group-processes",
+          "name": "Social Influence and Group Processes",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "home-science",
+      "name": "Home Science",
+      "sort_order": 70,
+      "topics": [
+        {
+          "slug": "work-livelihood-and-career",
+          "name": "Work, Livelihood and Career",
+          "sort_order": 10
+        },
+        {
+          "slug": "clinical-nutrition-and-dietetics",
+          "name": "Clinical Nutrition and Dietetics",
+          "sort_order": 20
+        },
+        {
+          "slug": "public-nutrition-and-health",
+          "name": "Public Nutrition and Health",
+          "sort_order": 30
+        },
+        {
+          "slug": "food-processing-and-technology",
+          "name": "Food Processing and Technology",
+          "sort_order": 40
+        },
+        {
+          "slug": "food-quality-and-food-safety",
+          "name": "Food Quality and Food Safety",
+          "sort_order": 50
+        },
+        {
+          "slug": "early-childhood-care-and-education",
+          "name": "Early Childhood Care and Education",
+          "sort_order": 60
+        },
+        {
+          "slug": "management-of-support-services-institutions-and-programmes-f",
+          "name": "Management of Support Services, Institutions and Programmes for Children, Youth and Elderly",
+          "sort_order": 70
+        },
+        {
+          "slug": "design-for-fabric-and-apparel",
+          "name": "Design for Fabric and Apparel",
+          "sort_order": 80
+        },
+        {
+          "slug": "fashion-design-and-merchandising",
+          "name": "Fashion Design and Merchandising",
+          "sort_order": 90
+        },
+        {
+          "slug": "care-and-maintenance-of-fabrics-in-institutions",
+          "name": "Care and Maintenance of Fabrics in Institutions",
+          "sort_order": 100
+        },
+        {
+          "slug": "hospitality-management",
+          "name": "Hospitality Management",
+          "sort_order": 110
+        },
+        {
+          "slug": "consumer-education-and-protection",
+          "name": "Consumer Education and Protection",
+          "sort_order": 120
+        },
+        {
+          "slug": "development-communication-and-journalism",
+          "name": "Development Communication and Journalism",
+          "sort_order": 130
+        },
+        {
+          "slug": "corporate-communication-and-public-relations",
+          "name": "Corporate Communication and Public Relations",
+          "sort_order": 140
+        }
+      ]
+    }
+  ]
+}

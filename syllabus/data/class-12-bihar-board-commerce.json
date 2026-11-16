@@ -1,0 +1,301 @@
+{
+  "exam": {
+    "slug": "class-12-bihar-board-commerce",
+    "name": "Class 12 · Bihar Board · Commerce",
+    "short_name": "Class 12",
+    "kind": "school",
+    "class": "12",
+    "board": "Bihar Board",
+    "stream": "Commerce",
+    "aliases": [
+      "12",
+      "12th",
+      "twelfth",
+      "class 12",
+      "class xii",
+      "xii",
+      "12 class",
+      "inter",
+      "intermediate",
+      "senior secondary",
+      "boards",
+      "board exam",
+      "bseb",
+      "bihar board",
+      "bihar school examination board",
+      "bihar",
+      "barahvi",
+      "barahvin",
+      "12vi",
+      "12wi",
+      "barvi",
+      "bihar board 12th",
+      "bseb 12th",
+      "bseb inter",
+      "commerce",
+      "i.com",
+      "icom",
+      "intermediate commerce",
+      "accountancy",
+      "accounts",
+      "business studies",
+      "economics"
+    ],
+    "category": "school",
+    "conducting_body": "Bihar School Examination Board (BSEB)",
+    "official_url": "https://biharboardonline.com",
+    "syllabus_source_url": "https://biharboardonline.com/files/Class_XI%20-XII_Syllabus_2023-25_and_2024-26.pdf",
+    "syllabus_cycle": "2024-26 (latest Class XI-XII syllabus the board publishes; the PDF's own pages are headed 2007-09)",
+    "verified": false,
+    "verification_note": "Draft from the contents pages of NCERT's Class XII textbooks (reprint 2026-27, at https://ncert.nic.in/textbook/pdf/), used because page iii of the Bihar board's Class XI-XII syllabus PDF says that, apart from languages, the textbooks of the elective subjects are NCERT's. Files: accountancy: leac1ps.pdf, leac2ps.pdf; economics: leec1ps.pdf, leec2ps.pdf; business studies: lebs1ps.pdf, lebs2ps.pdf. Entrepreneurship has no NCERT textbook and is still the board PDF's 2007-09 unit list. Topics are the textbooks' chapters (Chemistry's are the books' units). Compulsory languages (Hindi, English) are not included. A person should confirm with the board that it still teaches from this NCERT edition.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 290
+  },
+  "subjects": [
+    {
+      "slug": "accountancy",
+      "name": "Accountancy",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "accounting-for-partnership-basic-concepts",
+          "name": "Accounting for Partnership: Basic Concepts",
+          "sort_order": 10
+        },
+        {
+          "slug": "reconstitution-of-a-partnership-firm-admission-of-a-partner",
+          "name": "Reconstitution of a Partnership Firm: Admission of a Partner",
+          "sort_order": 20
+        },
+        {
+          "slug": "reconstitution-of-a-partnership-firm-retirement-death-of-a-p",
+          "name": "Reconstitution of a Partnership Firm: Retirement/Death of a Partner",
+          "sort_order": 30
+        },
+        {
+          "slug": "dissolution-of-partnership-firm",
+          "name": "Dissolution of Partnership Firm",
+          "sort_order": 40
+        },
+        {
+          "slug": "accounting-for-share-capital",
+          "name": "Accounting for Share Capital",
+          "sort_order": 50
+        },
+        {
+          "slug": "issue-and-redemption-of-debentures",
+          "name": "Issue and Redemption of Debentures",
+          "sort_order": 60
+        },
+        {
+          "slug": "financial-statements-of-a-company",
+          "name": "Financial Statements of a Company",
+          "sort_order": 70
+        },
+        {
+          "slug": "analysis-of-financial-statements",
+          "name": "Analysis of Financial Statements",
+          "sort_order": 80
+        },
+        {
+          "slug": "accounting-ratios",
+          "name": "Accounting Ratios",
+          "sort_order": 90
+        },
+        {
+          "slug": "cash-flow-statement",
+          "name": "Cash Flow Statement",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "business-studies",
+      "name": "Business Studies",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "nature-and-significance-of-management",
+          "name": "Nature and Significance of Management",
+          "sort_order": 10
+        },
+        {
+          "slug": "principles-of-management",
+          "name": "Principles of Management",
+          "sort_order": 20
+        },
+        {
+          "slug": "business-environment",
+          "name": "Business Environment",
+          "sort_order": 30
+        },
+        {
+          "slug": "planning",
+          "name": "Planning",
+          "sort_order": 40
+        },
+        {
+          "slug": "organising",
+          "name": "Organising",
+          "sort_order": 50
+        },
+        {
+          "slug": "staffing",
+          "name": "Staffing",
+          "sort_order": 60
+        },
+        {
+          "slug": "directing",
+          "name": "Directing",
+          "sort_order": 70
+        },
+        {
+          "slug": "controlling",
+          "name": "Controlling",
+          "sort_order": 80
+        },
+        {
+          "slug": "financial-management",
+          "name": "Financial Management",
+          "sort_order": 90
+        },
+        {
+          "slug": "marketing",
+          "name": "Marketing",
+          "sort_order": 100
+        },
+        {
+          "slug": "consumer-protection-business-studies",
+          "name": "Consumer Protection",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "economics",
+      "name": "Economics",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "microeconomics-introduction",
+          "name": "Microeconomics: Introduction",
+          "sort_order": 10
+        },
+        {
+          "slug": "microeconomics-theory-of-consumer-behaviour",
+          "name": "Microeconomics: Theory of Consumer Behaviour",
+          "sort_order": 20
+        },
+        {
+          "slug": "microeconomics-production-and-costs",
+          "name": "Microeconomics: Production and Costs",
+          "sort_order": 30
+        },
+        {
+          "slug": "microeconomics-the-theory-of-the-firm-under-perfect-competit",
+          "name": "Microeconomics: The Theory of the Firm under Perfect Competition",
+          "sort_order": 40
+        },
+        {
+          "slug": "microeconomics-market-equilibrium",
+          "name": "Microeconomics: Market Equilibrium",
+          "sort_order": 50
+        },
+        {
+          "slug": "macroeconomics-introduction",
+          "name": "Macroeconomics: Introduction",
+          "sort_order": 60
+        },
+        {
+          "slug": "macroeconomics-national-income-accounting",
+          "name": "Macroeconomics: National Income Accounting",
+          "sort_order": 70
+        },
+        {
+          "slug": "macroeconomics-money-and-banking",
+          "name": "Macroeconomics: Money and Banking",
+          "sort_order": 80
+        },
+        {
+          "slug": "macroeconomics-determination-of-income-and-employment",
+          "name": "Macroeconomics: Determination of Income and Employment",
+          "sort_order": 90
+        },
+        {
+          "slug": "macroeconomics-government-budget-and-the-economy",
+          "name": "Macroeconomics: Government Budget and the Economy",
+          "sort_order": 100
+        },
+        {
+          "slug": "macroeconomics-open-economy-macroeconomics",
+          "name": "Macroeconomics: Open Economy Macroeconomics",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "entrepreneurship",
+      "name": "Entrepreneurship",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "marketing-and-advertising",
+          "name": "Marketing and Advertising",
+          "sort_order": 10
+        },
+        {
+          "slug": "patents-trademarks-and-copyright",
+          "name": "Patents, Trademarks and Copyright",
+          "sort_order": 20
+        },
+        {
+          "slug": "consumer-protection",
+          "name": "Consumer Protection",
+          "sort_order": 30
+        },
+        {
+          "slug": "creation-of-a-business-unit",
+          "name": "Creation of a Business Unit",
+          "sort_order": 40
+        },
+        {
+          "slug": "entrepreneurship-development",
+          "name": "Entrepreneurship Development",
+          "sort_order": 50
+        },
+        {
+          "slug": "enterprise-management",
+          "name": "Enterprise Management",
+          "sort_order": 60
+        },
+        {
+          "slug": "entrepreneurship-and-human-activities",
+          "name": "Entrepreneurship and Human Activities",
+          "sort_order": 70
+        },
+        {
+          "slug": "acquiring-entrepreneurial-values-and-motivation",
+          "name": "Acquiring Entrepreneurial Values and Motivation",
+          "sort_order": 80
+        },
+        {
+          "slug": "entrepreneurial-opportunities-and-enterprise-creation",
+          "name": "Entrepreneurial Opportunities and Enterprise Creation",
+          "sort_order": 90
+        },
+        {
+          "slug": "enterprise-planning-and-resourcing",
+          "name": "Enterprise Planning and Resourcing",
+          "sort_order": 100
+        },
+        {
+          "slug": "developing-projects-in-entrepreneurship",
+          "name": "Developing Projects in Entrepreneurship",
+          "sort_order": 110
+        }
+      ]
+    }
+  ]
+}

@@ -104,6 +104,22 @@
     "class-12-cbse-commerce": {
       "hash": "7242bf3f174cc36a",
       "version": 1
+    },
+    "class-12-bihar-board-pcm": {
+      "hash": "5c0c83c40a7f4e6f",
+      "version": 1
+    },
+    "class-12-bihar-board-pcb": {
+      "hash": "312273a76b248b7b",
+      "version": 1
+    },
+    "class-12-bihar-board-arts": {
+      "hash": "d8a190cc024d13b6",
+      "version": 1
+    },
+    "class-12-bihar-board-commerce": {
+      "hash": "e1d86cbccf07de5f",
+      "version": 1
     }
   }
 }
