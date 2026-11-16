@@ -1,0 +1,100 @@
+{
+  "schema": 1,
+  "slug": "gate-ra-mechanical",
+  "kind": "exam",
+  "name": "GATE Robotics and Automation (RA, Mechanical Engineering, Part B2)",
+  "short_name": "GATE RA Mechanical",
+  "aliases": [
+    "gate",
+    "gate exam",
+    "gate 2027",
+    "graduate aptitude test in engineering",
+    "mtech",
+    "m.tech",
+    "psu",
+    "iit",
+    "ra",
+    "gate ra",
+    "robotics",
+    "robotics and automation",
+    "automation",
+    "mechanical"
+  ],
+  "category": "entrance",
+  "subject_count": 3,
+  "topic_count": 10,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "common-section-part-a",
+      "name": "Common Section (Part A)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "engineering-mathematics",
+          "name": "Engineering Mathematics",
+          "sort_order": 10
+        },
+        {
+          "slug": "basics-of-mechatronics",
+          "name": "Basics of Mechatronics",
+          "sort_order": 20
+        },
+        {
+          "slug": "principles-of-robotics-and-automation",
+          "name": "Principles of Robotics and Automation",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "mechanical-engineering-part-b2",
+      "name": "Mechanical Engineering (Part B2)",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "mechanics-of-materials",
+          "name": "Mechanics of Materials",
+          "sort_order": 10
+        },
+        {
+          "slug": "kinematics-and-dynamics",
+          "name": "Kinematics and Dynamics",
+          "sort_order": 20
+        },
+        {
+          "slug": "machine-design-and-computer-integrated-manufacturing",
+          "name": "Machine Design and Computer Integrated Manufacturing",
+          "sort_order": 30
+        }
+      ]
+    }
+  ]
+}

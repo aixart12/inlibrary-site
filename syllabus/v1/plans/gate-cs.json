@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "slug": "gate-cs",
+  "kind": "exam",
+  "name": "GATE Computer Science and Information Technology (CS)",
+  "short_name": "GATE CS",
+  "aliases": [
+    "gate",
+    "gate exam",
+    "gate 2027",
+    "graduate aptitude test in engineering",
+    "mtech",
+    "m.tech",
+    "psu",
+    "iit",
+    "engineering",
+    "cs",
+    "cse",
+    "computer science",
+    "it",
+    "information technology",
+    "gate cs",
+    "gate cse"
+  ],
+  "category": "entrance",
+  "subject_count": 2,
+  "topic_count": 14,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "computer-science-and-information-technology",
+      "name": "Computer Science and Information Technology",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "engineering-mathematics",
+          "name": "Engineering Mathematics",
+          "sort_order": 10
+        },
+        {
+          "slug": "digital-logic",
+          "name": "Digital Logic",
+          "sort_order": 20
+        },
+        {
+          "slug": "computer-organization-and-architecture",
+          "name": "Computer Organization and Architecture",
+          "sort_order": 30
+        },
+        {
+          "slug": "programming-and-data-structures",
+          "name": "Programming and Data Structures",
+          "sort_order": 40
+        },
+        {
+          "slug": "algorithms",
+          "name": "Algorithms",
+          "sort_order": 50
+        },
+        {
+          "slug": "theory-of-computation",
+          "name": "Theory of Computation",
+          "sort_order": 60
+        },
+        {
+          "slug": "compiler-design",
+          "name": "Compiler Design",
+          "sort_order": 70
+        },
+        {
+          "slug": "operating-system",
+          "name": "Operating System",
+          "sort_order": 80
+        },
+        {
+          "slug": "databases",
+          "name": "Databases",
+          "sort_order": 90
+        },
+        {
+          "slug": "computer-networks",
+          "name": "Computer Networks",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}

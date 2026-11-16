@@ -1,0 +1,102 @@
+{
+  "schema": 1,
+  "slug": "gate-mt",
+  "kind": "exam",
+  "name": "GATE Metallurgical Engineering (MT)",
+  "short_name": "GATE MT",
+  "aliases": [
+    "gate",
+    "gate exam",
+    "gate 2027",
+    "graduate aptitude test in engineering",
+    "mtech",
+    "m.tech",
+    "psu",
+    "iit",
+    "mt",
+    "gate mt",
+    "metallurgical engineering",
+    "metallurgical",
+    "metallurgy"
+  ],
+  "category": "entrance",
+  "subject_count": 2,
+  "topic_count": 12,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "metallurgical-engineering",
+      "name": "Metallurgical Engineering",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "engineering-mathematics",
+          "name": "Engineering Mathematics",
+          "sort_order": 10
+        },
+        {
+          "slug": "metallurgical-thermodynamics",
+          "name": "Metallurgical Thermodynamics",
+          "sort_order": 20
+        },
+        {
+          "slug": "transport-phenomena-and-rate-processes",
+          "name": "Transport Phenomena and Rate Processes",
+          "sort_order": 30
+        },
+        {
+          "slug": "mineral-processing-and-extractive-metallurgy",
+          "name": "Mineral Processing and Extractive Metallurgy",
+          "sort_order": 40
+        },
+        {
+          "slug": "physical-metallurgy",
+          "name": "Physical Metallurgy",
+          "sort_order": 50
+        },
+        {
+          "slug": "mechanical-behaviour-of-materials",
+          "name": "Mechanical Behaviour of Materials",
+          "sort_order": 60
+        },
+        {
+          "slug": "manufacturing-processes",
+          "name": "Manufacturing Processes",
+          "sort_order": 70
+        },
+        {
+          "slug": "materials-science-and-non-metallic-materials",
+          "name": "Materials Science and Non-Metallic Materials",
+          "sort_order": 80
+        }
+      ]
+    }
+  ]
+}

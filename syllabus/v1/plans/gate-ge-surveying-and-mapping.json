@@ -1,0 +1,105 @@
+{
+  "schema": 1,
+  "slug": "gate-ge-surveying-and-mapping",
+  "kind": "exam",
+  "name": "GATE Geomatics Engineering (GE, Surveying and Mapping, Part B1)",
+  "short_name": "GATE GE Surveying and Mapping",
+  "aliases": [
+    "gate",
+    "gate exam",
+    "gate 2027",
+    "graduate aptitude test in engineering",
+    "mtech",
+    "m.tech",
+    "psu",
+    "iit",
+    "ge",
+    "gate ge",
+    "geomatics",
+    "geomatics engineering",
+    "surveying",
+    "mapping"
+  ],
+  "category": "entrance",
+  "subject_count": 3,
+  "topic_count": 11,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "common-section-part-a",
+      "name": "Common Section (Part A)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "engineering-mathematics",
+          "name": "Engineering Mathematics",
+          "sort_order": 10
+        },
+        {
+          "slug": "remote-sensing",
+          "name": "Remote Sensing",
+          "sort_order": 20
+        },
+        {
+          "slug": "gnss",
+          "name": "GNSS",
+          "sort_order": 30
+        },
+        {
+          "slug": "gis",
+          "name": "GIS",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "surveying-and-mapping-part-b1",
+      "name": "Surveying and Mapping (Part B1)",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "maps",
+          "name": "Maps",
+          "sort_order": 10
+        },
+        {
+          "slug": "land-surveying",
+          "name": "Land Surveying",
+          "sort_order": 20
+        },
+        {
+          "slug": "aerial-photogrammetry",
+          "name": "Aerial Photogrammetry",
+          "sort_order": 30
+        }
+      ]
+    }
+  ]
+}
