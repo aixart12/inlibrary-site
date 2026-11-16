@@ -21,10 +21,10 @@
     "syllabus_source_url": "https://www.pw.live/state-psc/exams/mppsc-syllabus",
     "syllabus_cycle": "2026 (as described by the secondary source; official notification not opened)",
     "verified": false,
-    "verification_note": "General syllabus drafted from Physics Wallah's MPPSC syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. The page gives only the ten unit titles of Paper I and the Paper II heads; check first against the MPPSC syllabus, which lists sub-topics under each unit. The mains is not included.",
+    "verification_note": "General syllabus drafted from Physics Wallah's MPPSC syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. The page gives only the ten unit titles of Paper I and the Paper II heads; check first against the MPPSC syllabus, which lists sub-topics under each unit. The mains is not included. Published on 2026-11-16 at the owner's request while still unverified: the topic lists come from the source named in syllabus_source_url, not from an official syllabus, and have not been compared with one.",
     "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "version": 2,
+    "is_published": true,
     "sort_order": 790
   },
   "subjects": [

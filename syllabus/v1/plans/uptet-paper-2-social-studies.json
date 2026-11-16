@@ -1,0 +1,337 @@
+{
+  "schema": 1,
+  "slug": "uptet-paper-2-social-studies",
+  "kind": "exam",
+  "name": "UPTET Paper 2 (Classes 6-8, Social Studies)",
+  "short_name": "UPTET P2 Social",
+  "aliases": [
+    "uptet",
+    "up tet",
+    "tet",
+    "uttar pradesh teacher eligibility test",
+    "teacher eligibility",
+    "teacher",
+    "teaching",
+    "paper 2",
+    "paper ii",
+    "upper primary",
+    "up",
+    "uttar pradesh",
+    "social studies",
+    "social science",
+    "history",
+    "geography",
+    "civics"
+  ],
+  "category": "teaching",
+  "subject_count": 7,
+  "topic_count": 51,
+  "version": 2,
+  "unverified": true,
+  "subjects": [
+    {
+      "slug": "child-development-and-pedagogy",
+      "name": "Child Development and Pedagogy",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "meaning-need-and-scope-of-child-development",
+          "name": "Meaning, Need and Scope of Child Development",
+          "sort_order": 10
+        },
+        {
+          "slug": "stages-of-development-physical-mental-emotional-language",
+          "name": "Stages of Development: Physical, Mental, Emotional, Language",
+          "sort_order": 20
+        },
+        {
+          "slug": "heredity-and-environment",
+          "name": "Heredity and Environment",
+          "sort_order": 30
+        },
+        {
+          "slug": "meaning-of-learning-factors-and-effective-methods",
+          "name": "Meaning of Learning, Factors and Effective Methods",
+          "sort_order": 40
+        },
+        {
+          "slug": "laws-and-theories-of-learning-thorndike-pavlov-skinner-kohle",
+          "name": "Laws and Theories of Learning: Thorndike, Pavlov, Skinner, Kohler, Piaget, Vygotsky",
+          "sort_order": 50
+        },
+        {
+          "slug": "learning-curves-and-learning-plateaus",
+          "name": "Learning Curves and Learning Plateaus",
+          "sort_order": 60
+        },
+        {
+          "slug": "teaching-aims-maxims-methods-micro-teaching-and-teaching-ski",
+          "name": "Teaching: Aims, Maxims, Methods, Micro-teaching and Teaching Skills",
+          "sort_order": 70
+        },
+        {
+          "slug": "inclusive-education",
+          "name": "Inclusive Education",
+          "sort_order": 80
+        },
+        {
+          "slug": "guidance-and-counselling",
+          "name": "Guidance and Counselling",
+          "sort_order": 90
+        },
+        {
+          "slug": "how-children-think-and-learn-motivation-and-factors-affectin",
+          "name": "How Children Think and Learn, Motivation and Factors Affecting Learning",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "language-i-hindi",
+      "name": "Language I: Hindi",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "unseen-passages-hindi",
+          "name": "Unseen Passages (Hindi)",
+          "sort_order": 10
+        },
+        {
+          "slug": "alphabet-vowels-consonants-and-matra",
+          "name": "Alphabet, Vowels, Consonants and Matra",
+          "sort_order": 20
+        },
+        {
+          "slug": "sentence-formation-and-punctuation-marks",
+          "name": "Sentence Formation and Punctuation Marks",
+          "sort_order": 30
+        },
+        {
+          "slug": "antonyms-synonyms-and-rhyming-words",
+          "name": "Antonyms, Synonyms and Rhyming Words",
+          "sort_order": 40
+        },
+        {
+          "slug": "parts-of-speech-gender-number-and-tense-hindi",
+          "name": "Parts of Speech, Gender, Number and Tense (Hindi)",
+          "sort_order": 50
+        },
+        {
+          "slug": "prefixes-suffixes-tatsam-tadbhav-and-deshaj-words",
+          "name": "Prefixes, Suffixes, Tatsam, Tadbhav and Deshaj Words",
+          "sort_order": 60
+        },
+        {
+          "slug": "idioms-and-proverbs",
+          "name": "Idioms and Proverbs",
+          "sort_order": 70
+        },
+        {
+          "slug": "sandhi-samas-voice-and-figures-of-speech",
+          "name": "Sandhi, Samas, Voice and Figures of Speech",
+          "sort_order": 80
+        },
+        {
+          "slug": "works-of-major-poets-and-writers",
+          "name": "Works of Major Poets and Writers",
+          "sort_order": 90
+        },
+        {
+          "slug": "pedagogy-of-language-teaching",
+          "name": "Pedagogy of Language Teaching",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "language-ii-english",
+      "name": "Language II: English",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "unseen-passages-english",
+          "name": "Unseen Passages (English)",
+          "sort_order": 10
+        },
+        {
+          "slug": "subject-and-predicate-kinds-of-sentences",
+          "name": "Subject and Predicate, Kinds of Sentences",
+          "sort_order": 20
+        },
+        {
+          "slug": "parts-of-speech-and-their-kinds",
+          "name": "Parts of Speech and their Kinds",
+          "sort_order": 30
+        },
+        {
+          "slug": "tenses",
+          "name": "Tenses",
+          "sort_order": 40
+        },
+        {
+          "slug": "articles-and-punctuation",
+          "name": "Articles and Punctuation",
+          "sort_order": 50
+        },
+        {
+          "slug": "word-formation",
+          "name": "Word Formation",
+          "sort_order": 60
+        },
+        {
+          "slug": "active-and-passive-voice",
+          "name": "Active and Passive Voice",
+          "sort_order": 70
+        },
+        {
+          "slug": "singular-and-plural-gender",
+          "name": "Singular and Plural, Gender",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "history",
+      "name": "History",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "sources-of-history-stone-age-chalcolithic-and-vedic-cultures",
+          "name": "Sources of History, Stone Age, Chalcolithic and Vedic Cultures",
+          "sort_order": 10
+        },
+        {
+          "slug": "6th-century-bce-india-and-early-kingdoms",
+          "name": "6th Century BCE India and Early Kingdoms",
+          "sort_order": 20
+        },
+        {
+          "slug": "mauryan-gupta-rajput-and-south-indian-kingdoms",
+          "name": "Mauryan, Gupta, Rajput and South Indian Kingdoms",
+          "sort_order": 30
+        },
+        {
+          "slug": "arrival-of-islam-delhi-sultanate-and-mughal-empire",
+          "name": "Arrival of Islam, Delhi Sultanate and Mughal Empire",
+          "sort_order": 40
+        },
+        {
+          "slug": "european-arrival-british-rule-and-the-company",
+          "name": "European Arrival, British Rule and the Company",
+          "sort_order": 50
+        },
+        {
+          "slug": "renaissance-nationalism-and-the-freedom-movement",
+          "name": "Renaissance, Nationalism and the Freedom Movement",
+          "sort_order": 60
+        },
+        {
+          "slug": "independence-partition-and-challenges-of-independent-india",
+          "name": "Independence, Partition and Challenges of Independent India",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "civics",
+      "name": "Civics",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "individual-and-society-rural-and-urban-life",
+          "name": "Individual and Society, Rural and Urban Life",
+          "sort_order": 10
+        },
+        {
+          "slug": "local-self-government-and-district-administration",
+          "name": "Local Self-government and District Administration",
+          "sort_order": 20
+        },
+        {
+          "slug": "constitution-central-and-state-government",
+          "name": "Constitution, Central and State Government",
+          "sort_order": 30
+        },
+        {
+          "slug": "democracy-in-india",
+          "name": "Democracy in India",
+          "sort_order": 40
+        },
+        {
+          "slug": "national-security-and-foreign-policy",
+          "name": "National Security and Foreign Policy",
+          "sort_order": 50
+        },
+        {
+          "slug": "global-community-citizen-safety-and-disability",
+          "name": "Global Community, Citizen Safety and Disability",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "geography",
+      "name": "Geography",
+      "sort_order": 60,
+      "topics": [
+        {
+          "slug": "earth-in-the-solar-system-globe-latitude-and-longitude-maps",
+          "name": "Earth in the Solar System, Globe, Latitude and Longitude, Maps",
+          "sort_order": 10
+        },
+        {
+          "slug": "earths-motions-and-spheres-landforms",
+          "name": "Earth's Motions and Spheres, Landforms",
+          "sort_order": 20
+        },
+        {
+          "slug": "indias-physical-features-soil-vegetation-wildlife-and-climat",
+          "name": "India's Physical Features, Soil, Vegetation, Wildlife and Climate",
+          "sort_order": 30
+        },
+        {
+          "slug": "economic-resources-transport-trade-and-communication",
+          "name": "Economic Resources, Transport, Trade and Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "uttar-pradesh-geography",
+          "name": "Uttar Pradesh Geography",
+          "sort_order": 50
+        },
+        {
+          "slug": "natural-regions-of-the-world-minerals-and-industries",
+          "name": "Natural Regions of the World, Minerals and Industries",
+          "sort_order": 60
+        },
+        {
+          "slug": "disasters-and-disaster-management",
+          "name": "Disasters and Disaster Management",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "teaching-of-social-studies",
+      "name": "Teaching of Social Studies",
+      "sort_order": 70,
+      "topics": [
+        {
+          "slug": "concept-and-methods-of-social-studies",
+          "name": "Concept and Methods of Social Studies",
+          "sort_order": 10
+        },
+        {
+          "slug": "inquiry-and-evidence-based-learning",
+          "name": "Inquiry and Evidence-based Learning",
+          "sort_order": 20
+        },
+        {
+          "slug": "projects-activities-and-assessment",
+          "name": "Projects, Activities and Assessment",
+          "sort_order": 30
+        }
+      ]
+    }
+  ]
+}

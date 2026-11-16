@@ -1,0 +1,286 @@
+{
+  "schema": 1,
+  "slug": "mat",
+  "kind": "exam",
+  "name": "MAT (Management Aptitude Test)",
+  "short_name": "MAT",
+  "aliases": [
+    "mat",
+    "mat exam",
+    "management aptitude test",
+    "aima",
+    "aima mat",
+    "mba",
+    "mba entrance",
+    "management",
+    "pgdm",
+    "b school"
+  ],
+  "category": "entrance",
+  "subject_count": 5,
+  "topic_count": 45,
+  "version": 2,
+  "unverified": true,
+  "subjects": [
+    {
+      "slug": "language-comprehension",
+      "name": "Language Comprehension",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 10
+        },
+        {
+          "slug": "vocabulary",
+          "name": "Vocabulary",
+          "sort_order": 20
+        },
+        {
+          "slug": "sentence-correction-and-grammar",
+          "name": "Sentence Correction and Grammar",
+          "sort_order": 30
+        },
+        {
+          "slug": "finding-errors",
+          "name": "Finding Errors",
+          "sort_order": 40
+        },
+        {
+          "slug": "fill-in-the-blanks-and-sentence-completion",
+          "name": "Fill in the Blanks and Sentence Completion",
+          "sort_order": 50
+        },
+        {
+          "slug": "sentence-rearrangement-and-para-jumbles",
+          "name": "Sentence Rearrangement and Para Jumbles",
+          "sort_order": 60
+        },
+        {
+          "slug": "verbal-analogies",
+          "name": "Verbal Analogies",
+          "sort_order": 70
+        },
+        {
+          "slug": "critical-reasoning",
+          "name": "Critical Reasoning",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "intelligence-and-critical-reasoning",
+      "name": "Intelligence and Critical Reasoning",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "series",
+          "name": "Series",
+          "sort_order": 10
+        },
+        {
+          "slug": "analogies",
+          "name": "Analogies",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-reasoning",
+          "name": "Analytical Reasoning",
+          "sort_order": 30
+        },
+        {
+          "slug": "calendar",
+          "name": "Calendar",
+          "sort_order": 40
+        },
+        {
+          "slug": "verbal-reasoning",
+          "name": "Verbal Reasoning",
+          "sort_order": 50
+        },
+        {
+          "slug": "blood-relation",
+          "name": "Blood Relation",
+          "sort_order": 60
+        },
+        {
+          "slug": "direction-sense",
+          "name": "Direction Sense",
+          "sort_order": 70
+        },
+        {
+          "slug": "coding-decoding",
+          "name": "Coding-Decoding",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "mathematical-skills",
+      "name": "Mathematical Skills",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "number-system-hcf-and-lcm",
+          "name": "Number System, HCF and LCM",
+          "sort_order": 10
+        },
+        {
+          "slug": "percentage-and-average",
+          "name": "Percentage and Average",
+          "sort_order": 20
+        },
+        {
+          "slug": "ratio-and-proportion-partnerships",
+          "name": "Ratio and Proportion, Partnerships",
+          "sort_order": 30
+        },
+        {
+          "slug": "profit-and-loss",
+          "name": "Profit and Loss",
+          "sort_order": 40
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 50
+        },
+        {
+          "slug": "time-and-work",
+          "name": "Time and Work",
+          "sort_order": 60
+        },
+        {
+          "slug": "time-speed-and-distance",
+          "name": "Time, Speed and Distance",
+          "sort_order": 70
+        },
+        {
+          "slug": "allegation-and-mixture",
+          "name": "Allegation and Mixture",
+          "sort_order": 80
+        },
+        {
+          "slug": "geometry",
+          "name": "Geometry",
+          "sort_order": 90
+        },
+        {
+          "slug": "trigonometry-height-and-distance",
+          "name": "Trigonometry, Height and Distance",
+          "sort_order": 100
+        },
+        {
+          "slug": "permutation-combination-and-probability",
+          "name": "Permutation, Combination and Probability",
+          "sort_order": 110
+        },
+        {
+          "slug": "clocks-and-calendars",
+          "name": "Clocks and Calendars",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "data-analysis-and-sufficiency",
+      "name": "Data Analysis and Sufficiency",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "data-sufficiency",
+          "name": "Data Sufficiency",
+          "sort_order": 10
+        },
+        {
+          "slug": "data-caselet",
+          "name": "Data Caselet",
+          "sort_order": 20
+        },
+        {
+          "slug": "data-table",
+          "name": "Data Table",
+          "sort_order": 30
+        },
+        {
+          "slug": "line-graph",
+          "name": "Line Graph",
+          "sort_order": 40
+        },
+        {
+          "slug": "bar-charts",
+          "name": "Bar Charts",
+          "sort_order": 50
+        },
+        {
+          "slug": "pie-chart",
+          "name": "Pie Chart",
+          "sort_order": 60
+        },
+        {
+          "slug": "multiple-graph",
+          "name": "Multiple Graph",
+          "sort_order": 70
+        },
+        {
+          "slug": "data-comparison",
+          "name": "Data Comparison",
+          "sort_order": 80
+        },
+        {
+          "slug": "puzzles",
+          "name": "Puzzles",
+          "sort_order": 90
+        }
+      ]
+    },
+    {
+      "slug": "economic-and-business-environment",
+      "name": "Economic and Business Environment",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "current-affairs-national-and-international",
+          "name": "Current Affairs: National and International",
+          "sort_order": 10
+        },
+        {
+          "slug": "indian-economy",
+          "name": "Indian Economy",
+          "sort_order": 20
+        },
+        {
+          "slug": "business-and-corporate-news",
+          "name": "Business and Corporate News",
+          "sort_order": 30
+        },
+        {
+          "slug": "science-and-technology",
+          "name": "Science and Technology",
+          "sort_order": 40
+        },
+        {
+          "slug": "polity",
+          "name": "Polity",
+          "sort_order": 50
+        },
+        {
+          "slug": "geography",
+          "name": "Geography",
+          "sort_order": 60
+        },
+        {
+          "slug": "sports",
+          "name": "Sports",
+          "sort_order": 70
+        },
+        {
+          "slug": "awards-and-honours-books-and-authors",
+          "name": "Awards and Honours, Books and Authors",
+          "sort_order": 80
+        }
+      ]
+    }
+  ]
+}

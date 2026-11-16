@@ -1,0 +1,476 @@
+{
+  "schema": 1,
+  "slug": "upsssc-pet",
+  "kind": "exam",
+  "name": "UPSSSC PET (Preliminary Eligibility Test)",
+  "short_name": "UPSSSC PET",
+  "aliases": [
+    "upsssc pet",
+    "up pet",
+    "pet",
+    "upsssc",
+    "preliminary eligibility test",
+    "lekhpal",
+    "vdo",
+    "junior assistant",
+    "up group c",
+    "up",
+    "uttar pradesh"
+  ],
+  "category": "state-other",
+  "subject_count": 12,
+  "topic_count": 73,
+  "version": 2,
+  "unverified": true,
+  "subjects": [
+    {
+      "slug": "indian-history",
+      "name": "Indian History",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "indus-valley-civilization",
+          "name": "Indus Valley Civilization",
+          "sort_order": 10
+        },
+        {
+          "slug": "vedic-civilization",
+          "name": "Vedic Civilization",
+          "sort_order": 20
+        },
+        {
+          "slug": "buddhism-and-jainism",
+          "name": "Buddhism and Jainism",
+          "sort_order": 30
+        },
+        {
+          "slug": "mauryan-empire",
+          "name": "Mauryan Empire",
+          "sort_order": 40
+        },
+        {
+          "slug": "gupta-empire",
+          "name": "Gupta Empire",
+          "sort_order": 50
+        },
+        {
+          "slug": "harshvardhan",
+          "name": "Harshvardhan",
+          "sort_order": 60
+        },
+        {
+          "slug": "rajput-era",
+          "name": "Rajput Era",
+          "sort_order": 70
+        },
+        {
+          "slug": "sultanate-era",
+          "name": "Sultanate Era",
+          "sort_order": 80
+        },
+        {
+          "slug": "mughal-empire",
+          "name": "Mughal Empire",
+          "sort_order": 90
+        },
+        {
+          "slug": "maratha-empire",
+          "name": "Maratha Empire",
+          "sort_order": 100
+        },
+        {
+          "slug": "socio-economic-impact-of-british-rule",
+          "name": "Socio-Economic Impact of British Rule",
+          "sort_order": 110
+        },
+        {
+          "slug": "1857-revolution",
+          "name": "1857 Revolution",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "indian-national-movement",
+      "name": "Indian National Movement",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "initial-stage-of-the-freedom-movement",
+          "name": "Initial Stage of the Freedom Movement",
+          "sort_order": 10
+        },
+        {
+          "slug": "swadeshi-and-civil-disobedience-movement-mahatma-gandhi-and",
+          "name": "Swadeshi and Civil Disobedience Movement, Mahatma Gandhi and Other Leaders",
+          "sort_order": 20
+        },
+        {
+          "slug": "revolutionary-movement-and-rise-of-militant-nationalism",
+          "name": "Revolutionary Movement and Rise of Militant Nationalism",
+          "sort_order": 30
+        },
+        {
+          "slug": "british-india-act-1935",
+          "name": "British India Act 1935",
+          "sort_order": 40
+        },
+        {
+          "slug": "quit-india-movement-azad-hind-fauj-and-netaji-subhash-chandr",
+          "name": "Quit India Movement, Azad Hind Fauj and Netaji Subhash Chandra Bose",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "geography",
+      "name": "Geography",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "india-and-world-geography",
+          "name": "India and World Geography",
+          "sort_order": 10
+        },
+        {
+          "slug": "rivers-and-water-resources",
+          "name": "Rivers and Water Resources",
+          "sort_order": 20
+        },
+        {
+          "slug": "mountains-and-glaciers",
+          "name": "Mountains and Glaciers",
+          "sort_order": 30
+        },
+        {
+          "slug": "forest-desert-and-dry-areas",
+          "name": "Forest, Desert and Dry Areas",
+          "sort_order": 40
+        },
+        {
+          "slug": "political-geography-of-india-and-world",
+          "name": "Political Geography of India and World",
+          "sort_order": 50
+        },
+        {
+          "slug": "mineral-resources",
+          "name": "Mineral Resources",
+          "sort_order": 60
+        },
+        {
+          "slug": "time-zone",
+          "name": "Time Zone",
+          "sort_order": 70
+        },
+        {
+          "slug": "climate",
+          "name": "Climate",
+          "sort_order": 80
+        },
+        {
+          "slug": "demographics-and-migrations",
+          "name": "Demographics and Migrations",
+          "sort_order": 90
+        }
+      ]
+    },
+    {
+      "slug": "indian-economy",
+      "name": "Indian Economy",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "indian-economy-1947-to-1991",
+          "name": "Indian Economy (1947 to 1991)",
+          "sort_order": 10
+        },
+        {
+          "slug": "development-of-mixed-economy-private-and-public",
+          "name": "Development of Mixed Economy: Private and Public",
+          "sort_order": 20
+        },
+        {
+          "slug": "green-revolution-white-revolution-and-operation-flood",
+          "name": "Green Revolution, White Revolution and Operation Flood",
+          "sort_order": 30
+        },
+        {
+          "slug": "banking-nationalisation",
+          "name": "Banking Nationalisation",
+          "sort_order": 40
+        },
+        {
+          "slug": "lpg-reforms-of-1991",
+          "name": "LPG Reforms of 1991",
+          "sort_order": 50
+        },
+        {
+          "slug": "economic-reforms-post-2014-farm-structural-and-labour-reform",
+          "name": "Economic Reforms post 2014: Farm, Structural and Labour Reforms, GST",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "indian-constitution-and-public-administration",
+      "name": "Indian Constitution and Public Administration",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "salient-features-of-the-indian-constitution",
+          "name": "Salient Features of the Indian Constitution",
+          "sort_order": 10
+        },
+        {
+          "slug": "fundamental-rights-and-duties-directive-principles",
+          "name": "Fundamental Rights and Duties, Directive Principles",
+          "sort_order": 20
+        },
+        {
+          "slug": "parliamentary-system-and-judicial-framework",
+          "name": "Parliamentary System and Judicial Framework",
+          "sort_order": 30
+        },
+        {
+          "slug": "federal-system-union-state-and-ut-relations",
+          "name": "Federal System: Union, State and UT Relations",
+          "sort_order": 40
+        },
+        {
+          "slug": "district-administration",
+          "name": "District Administration",
+          "sort_order": 50
+        },
+        {
+          "slug": "local-bodies-and-panchayati-raj",
+          "name": "Local Bodies and Panchayati Raj",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "general-science",
+      "name": "General Science",
+      "sort_order": 60,
+      "topics": [
+        {
+          "slug": "basic-physics",
+          "name": "Basic Physics",
+          "sort_order": 10
+        },
+        {
+          "slug": "basic-chemistry",
+          "name": "Basic Chemistry",
+          "sort_order": 20
+        },
+        {
+          "slug": "basic-biology",
+          "name": "Basic Biology",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "elementary-arithmetic",
+      "name": "Elementary Arithmetic",
+      "sort_order": 70,
+      "topics": [
+        {
+          "slug": "whole-numbers-fractions-and-decimals",
+          "name": "Whole Numbers, Fractions and Decimals",
+          "sort_order": 10
+        },
+        {
+          "slug": "percentage",
+          "name": "Percentage",
+          "sort_order": 20
+        },
+        {
+          "slug": "simple-arithmetic-equations",
+          "name": "Simple Arithmetic Equations",
+          "sort_order": 30
+        },
+        {
+          "slug": "square-and-square-roots",
+          "name": "Square and Square Roots",
+          "sort_order": 40
+        },
+        {
+          "slug": "exponents-and-powers",
+          "name": "Exponents and Powers",
+          "sort_order": 50
+        },
+        {
+          "slug": "average",
+          "name": "Average",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "general-hindi",
+      "name": "General Hindi",
+      "sort_order": 80,
+      "topics": [
+        {
+          "slug": "hindi-grammar",
+          "name": "Hindi Grammar",
+          "sort_order": 10
+        },
+        {
+          "slug": "antonyms-hindi",
+          "name": "Antonyms (Hindi)",
+          "sort_order": 20
+        },
+        {
+          "slug": "sandhi-vichhed",
+          "name": "Sandhi Vichhed",
+          "sort_order": 30
+        },
+        {
+          "slug": "unseen-hindi-passages",
+          "name": "Unseen Hindi Passages",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "general-english",
+      "name": "General English",
+      "sort_order": 90,
+      "topics": [
+        {
+          "slug": "english-grammar",
+          "name": "English Grammar",
+          "sort_order": 10
+        },
+        {
+          "slug": "questions-on-passages",
+          "name": "Questions on Passages",
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "slug": "logic-and-reasoning",
+      "name": "Logic and Reasoning",
+      "sort_order": 100,
+      "topics": [
+        {
+          "slug": "blood-relations",
+          "name": "Blood Relations",
+          "sort_order": 10
+        },
+        {
+          "slug": "order-and-ranking",
+          "name": "Order and Ranking",
+          "sort_order": 20
+        },
+        {
+          "slug": "calendar-and-watch",
+          "name": "Calendar and Watch",
+          "sort_order": 30
+        },
+        {
+          "slug": "coding-and-decoding",
+          "name": "Coding and Decoding",
+          "sort_order": 40
+        },
+        {
+          "slug": "cause-and-effect",
+          "name": "Cause and Effect",
+          "sort_order": 50
+        },
+        {
+          "slug": "conclusive-reasoning",
+          "name": "Conclusive Reasoning",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "current-affairs-and-general-awareness",
+      "name": "Current Affairs and General Awareness",
+      "sort_order": 110,
+      "topics": [
+        {
+          "slug": "national-current-affairs",
+          "name": "National Current Affairs",
+          "sort_order": 10
+        },
+        {
+          "slug": "international-current-affairs",
+          "name": "International Current Affairs",
+          "sort_order": 20
+        },
+        {
+          "slug": "countries-capitals-and-currencies",
+          "name": "Countries, Capitals and Currencies",
+          "sort_order": 30
+        },
+        {
+          "slug": "indian-states-and-uts-indian-parliament",
+          "name": "Indian States and UTs, Indian Parliament",
+          "sort_order": 40
+        },
+        {
+          "slug": "indias-neighbours",
+          "name": "India's Neighbours",
+          "sort_order": 50
+        },
+        {
+          "slug": "days-of-national-and-international-importance",
+          "name": "Days of National and International Importance",
+          "sort_order": 60
+        },
+        {
+          "slug": "world-organizations-and-headquarters",
+          "name": "World Organizations and Headquarters",
+          "sort_order": 70
+        },
+        {
+          "slug": "indian-tourism-destinations-art-and-culture",
+          "name": "Indian Tourism Destinations, Art and Culture",
+          "sort_order": 80
+        },
+        {
+          "slug": "indian-and-international-sports",
+          "name": "Indian and International Sports",
+          "sort_order": 90
+        },
+        {
+          "slug": "indian-research-institutes",
+          "name": "Indian Research Institutes",
+          "sort_order": 100
+        },
+        {
+          "slug": "books-and-authors-awards-and-honours",
+          "name": "Books and Authors, Awards and Honours",
+          "sort_order": 110
+        },
+        {
+          "slug": "climate-change-and-environment",
+          "name": "Climate Change and Environment",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "graph-and-table-interpretation",
+      "name": "Graph and Table Interpretation",
+      "sort_order": 120,
+      "topics": [
+        {
+          "slug": "graph-interpretation",
+          "name": "Graph Interpretation",
+          "sort_order": 10
+        },
+        {
+          "slug": "table-interpretation-and-analysis",
+          "name": "Table Interpretation and Analysis",
+          "sort_order": 20
+        }
+      ]
+    }
+  ]
+}

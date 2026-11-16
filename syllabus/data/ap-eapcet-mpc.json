@@ -24,10 +24,10 @@
     "syllabus_source_url": "https://jeecounselling.in/exam/ap-eapcet-syllabus",
     "syllabus_cycle": "AP EAPCET 2027 (as described by the secondary source; 2027 notification not out)",
     "verified": false,
-    "verification_note": "General syllabus drafted from JEE Counselling's AP EAPCET syllabus page, a secondary site, not from the exam body's own document; topic names are that page's lists, grouped. Check first against the official syllabus; the page does not split the chapters by intermediate year.",
+    "verification_note": "General syllabus drafted from JEE Counselling's AP EAPCET syllabus page, a secondary site, not from the exam body's own document; topic names are that page's lists, grouped. Check first against the official syllabus; the page does not split the chapters by intermediate year. Published on 2026-11-16 at the owner's request while still unverified: the topic lists come from the source named in syllabus_source_url, not from an official syllabus, and have not been compared with one.",
     "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "version": 2,
+    "is_published": true,
     "sort_order": 1230
   },
   "subjects": [

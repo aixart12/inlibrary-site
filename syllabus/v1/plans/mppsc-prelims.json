@@ -1,0 +1,129 @@
+{
+  "schema": 1,
+  "slug": "mppsc-prelims",
+  "kind": "exam",
+  "name": "MPPSC State Service Prelims",
+  "short_name": "MPPSC",
+  "aliases": [
+    "mppsc",
+    "mp psc",
+    "mppsc sse",
+    "mp pcs",
+    "state service exam",
+    "madhya pradesh public service commission",
+    "mp",
+    "madhya pradesh",
+    "prelims"
+  ],
+  "category": "state-other",
+  "subject_count": 2,
+  "topic_count": 18,
+  "version": 2,
+  "unverified": true,
+  "subjects": [
+    {
+      "slug": "paper-i-general-studies",
+      "name": "Paper I: General Studies",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "history-of-india",
+          "name": "History of India",
+          "sort_order": 10
+        },
+        {
+          "slug": "history-culture-and-literature-of-madhya-pradesh",
+          "name": "History, Culture and Literature of Madhya Pradesh",
+          "sort_order": 20
+        },
+        {
+          "slug": "geography-of-india",
+          "name": "Geography of India",
+          "sort_order": 30
+        },
+        {
+          "slug": "geography-of-madhya-pradesh",
+          "name": "Geography of Madhya Pradesh",
+          "sort_order": 40
+        },
+        {
+          "slug": "constitutional-system-of-india-and-madhya-pradesh",
+          "name": "Constitutional System of India and Madhya Pradesh",
+          "sort_order": 50
+        },
+        {
+          "slug": "economy-of-india-and-madhya-pradesh",
+          "name": "Economy of India and Madhya Pradesh",
+          "sort_order": 60
+        },
+        {
+          "slug": "science-environment-and-health",
+          "name": "Science, Environment and Health",
+          "sort_order": 70
+        },
+        {
+          "slug": "international-national-and-madhya-pradesh-current-affairs",
+          "name": "International, National and Madhya Pradesh Current Affairs",
+          "sort_order": 80
+        },
+        {
+          "slug": "information-and-communication-technology",
+          "name": "Information and Communication Technology",
+          "sort_order": 90
+        },
+        {
+          "slug": "tribes-of-madhya-pradesh",
+          "name": "Tribes of Madhya Pradesh",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "paper-ii-general-aptitude-test",
+      "name": "Paper II: General Aptitude Test",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 10
+        },
+        {
+          "slug": "communication-skills",
+          "name": "Communication Skills",
+          "sort_order": 20
+        },
+        {
+          "slug": "logical-reasoning-and-analytical-ability",
+          "name": "Logical Reasoning and Analytical Ability",
+          "sort_order": 30
+        },
+        {
+          "slug": "decision-making-and-problem-solving",
+          "name": "Decision Making and Problem Solving",
+          "sort_order": 40
+        },
+        {
+          "slug": "general-mental-ability",
+          "name": "General Mental Ability",
+          "sort_order": 50
+        },
+        {
+          "slug": "basic-numeracy-class-x-level",
+          "name": "Basic Numeracy (Class X Level)",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "hindi-language-comprehension-class-x-level",
+          "name": "Hindi Language Comprehension (Class X Level)",
+          "sort_order": 80
+        }
+      ]
+    }
+  ]
+}

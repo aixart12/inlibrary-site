@@ -22,10 +22,10 @@
     "syllabus_source_url": "https://www.pw.live/exams/mba/cat-syllabus/",
     "syllabus_cycle": "CAT 2026 (as described by the secondary source)",
     "verified": false,
-    "verification_note": "General syllabus drafted from Physics Wallah's CAT syllabus page, a secondary site; the exam body publishes no topic list, so topic names are that page's lists, grouped. The page itself says the list is indicative; check first the three section names against the latest CAT information on iimcat.ac.in.",
+    "verification_note": "General syllabus drafted from Physics Wallah's CAT syllabus page, a secondary site; the exam body publishes no topic list, so topic names are that page's lists, grouped. The page itself says the list is indicative; check first the three section names against the latest CAT information on iimcat.ac.in. Published on 2026-11-16 at the owner's request while still unverified: the topic lists come from the source named in syllabus_source_url, not from an official syllabus, and have not been compared with one.",
     "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "version": 2,
+    "is_published": true,
     "sort_order": 710
   },
   "subjects": [

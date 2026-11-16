@@ -1,0 +1,555 @@
+{
+  "schema": 1,
+  "slug": "class-12-bihar-board-pcm",
+  "kind": "school",
+  "name": "Class 12 · Bihar Board · Science (PCM)",
+  "short_name": "Class 12",
+  "class": "12",
+  "board": "Bihar Board",
+  "stream": "Science (PCM)",
+  "aliases": [
+    "12",
+    "12th",
+    "twelfth",
+    "class 12",
+    "class xii",
+    "xii",
+    "12 class",
+    "inter",
+    "intermediate",
+    "senior secondary",
+    "boards",
+    "board exam",
+    "bseb",
+    "bihar board",
+    "bihar school examination board",
+    "bihar",
+    "barahvi",
+    "barahvin",
+    "12vi",
+    "12wi",
+    "barvi",
+    "bihar board 12th",
+    "bseb 12th",
+    "bseb inter",
+    "science",
+    "pcm",
+    "maths",
+    "mathematics",
+    "non medical",
+    "non-medical",
+    "engineering",
+    "physics",
+    "chemistry",
+    "i.sc",
+    "isc",
+    "intermediate science"
+  ],
+  "category": "school",
+  "subject_count": 5,
+  "topic_count": 93,
+  "version": 2,
+  "unverified": true,
+  "subjects": [
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "electric-charges-and-fields",
+          "name": "Electric Charges and Fields",
+          "sort_order": 10
+        },
+        {
+          "slug": "electrostatic-potential-and-capacitance",
+          "name": "Electrostatic Potential and Capacitance",
+          "sort_order": 20
+        },
+        {
+          "slug": "current-electricity",
+          "name": "Current Electricity",
+          "sort_order": 30
+        },
+        {
+          "slug": "moving-charges-and-magnetism",
+          "name": "Moving Charges and Magnetism",
+          "sort_order": 40
+        },
+        {
+          "slug": "magnetism-and-matter",
+          "name": "Magnetism and Matter",
+          "sort_order": 50
+        },
+        {
+          "slug": "electromagnetic-induction",
+          "name": "Electromagnetic Induction",
+          "sort_order": 60
+        },
+        {
+          "slug": "alternating-current",
+          "name": "Alternating Current",
+          "sort_order": 70
+        },
+        {
+          "slug": "electromagnetic-waves",
+          "name": "Electromagnetic Waves",
+          "sort_order": 80
+        },
+        {
+          "slug": "ray-optics-and-optical-instruments",
+          "name": "Ray Optics and Optical Instruments",
+          "sort_order": 90
+        },
+        {
+          "slug": "wave-optics",
+          "name": "Wave Optics",
+          "sort_order": 100
+        },
+        {
+          "slug": "dual-nature-of-radiation-and-matter",
+          "name": "Dual Nature of Radiation and Matter",
+          "sort_order": 110
+        },
+        {
+          "slug": "atoms",
+          "name": "Atoms",
+          "sort_order": 120
+        },
+        {
+          "slug": "nuclei",
+          "name": "Nuclei",
+          "sort_order": 130
+        },
+        {
+          "slug": "semiconductor-electronics-materials-devices-and-simple-circu",
+          "name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+          "sort_order": 140
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "solutions",
+          "name": "Solutions",
+          "sort_order": 10
+        },
+        {
+          "slug": "electrochemistry",
+          "name": "Electrochemistry",
+          "sort_order": 20
+        },
+        {
+          "slug": "chemical-kinetics",
+          "name": "Chemical Kinetics",
+          "sort_order": 30
+        },
+        {
+          "slug": "the-d-and-f-block-elements",
+          "name": "The d- and f-Block Elements",
+          "sort_order": 40
+        },
+        {
+          "slug": "coordination-compounds",
+          "name": "Coordination Compounds",
+          "sort_order": 50
+        },
+        {
+          "slug": "haloalkanes-and-haloarenes",
+          "name": "Haloalkanes and Haloarenes",
+          "sort_order": 60
+        },
+        {
+          "slug": "alcohols-phenols-and-ethers",
+          "name": "Alcohols, Phenols and Ethers",
+          "sort_order": 70
+        },
+        {
+          "slug": "aldehydes-ketones-and-carboxylic-acids",
+          "name": "Aldehydes, Ketones and Carboxylic Acids",
+          "sort_order": 80
+        },
+        {
+          "slug": "amines",
+          "name": "Amines",
+          "sort_order": 90
+        },
+        {
+          "slug": "biomolecules",
+          "name": "Biomolecules",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "relations-and-functions",
+          "name": "Relations and Functions",
+          "sort_order": 10
+        },
+        {
+          "slug": "inverse-trigonometric-functions",
+          "name": "Inverse Trigonometric Functions",
+          "sort_order": 20
+        },
+        {
+          "slug": "matrices",
+          "name": "Matrices",
+          "sort_order": 30
+        },
+        {
+          "slug": "determinants",
+          "name": "Determinants",
+          "sort_order": 40
+        },
+        {
+          "slug": "continuity-and-differentiability",
+          "name": "Continuity and Differentiability",
+          "sort_order": 50
+        },
+        {
+          "slug": "application-of-derivatives",
+          "name": "Application of Derivatives",
+          "sort_order": 60
+        },
+        {
+          "slug": "integrals",
+          "name": "Integrals",
+          "sort_order": 70
+        },
+        {
+          "slug": "application-of-integrals",
+          "name": "Application of Integrals",
+          "sort_order": 80
+        },
+        {
+          "slug": "differential-equations",
+          "name": "Differential Equations",
+          "sort_order": 90
+        },
+        {
+          "slug": "vector-algebra",
+          "name": "Vector Algebra",
+          "sort_order": 100
+        },
+        {
+          "slug": "three-dimensional-geometry",
+          "name": "Three Dimensional Geometry",
+          "sort_order": 110
+        },
+        {
+          "slug": "linear-programming",
+          "name": "Linear Programming",
+          "sort_order": 120
+        },
+        {
+          "slug": "probability",
+          "name": "Probability",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "hindi",
+      "name": "Hindi",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "hindi-prose-batchit",
+          "name": "Prose: Batchit (बातचीत)",
+          "sort_order": 10
+        },
+        {
+          "slug": "hindi-prose-usne-kaha-tha",
+          "name": "Prose: Usne Kaha Tha (उसने कहा था)",
+          "sort_order": 20
+        },
+        {
+          "slug": "hindi-prose-sampurna-kranti",
+          "name": "Prose: Sampurna Kranti (संपूर्ण क्रांति)",
+          "sort_order": 30
+        },
+        {
+          "slug": "hindi-prose-ardhnarishwar",
+          "name": "Prose: Ardhnarishwar (अर्द्धनारीश्वर)",
+          "sort_order": 40
+        },
+        {
+          "slug": "hindi-prose-roj",
+          "name": "Prose: Roj (रोज)",
+          "sort_order": 50
+        },
+        {
+          "slug": "hindi-prose-ek-lekh-aur-ek-patra",
+          "name": "Prose: Ek Lekh Aur Ek Patra (एक लेख और एक पत्र)",
+          "sort_order": 60
+        },
+        {
+          "slug": "hindi-prose-o-sadaneera",
+          "name": "Prose: O Sadaneera (ओ सदानीरा)",
+          "sort_order": 70
+        },
+        {
+          "slug": "hindi-prose-sipahi-ki-maa",
+          "name": "Prose: Sipahi Ki Maa (सिपाही की माँ)",
+          "sort_order": 80
+        },
+        {
+          "slug": "hindi-prose-prageet-aur-samaj",
+          "name": "Prose: Prageet Aur Samaj (प्रगीत और समाज)",
+          "sort_order": 90
+        },
+        {
+          "slug": "hindi-prose-joothan",
+          "name": "Prose: Joothan (जूठन)",
+          "sort_order": 100
+        },
+        {
+          "slug": "hindi-prose-hanste-hue-mera-akelapan",
+          "name": "Prose: Hanste Hue Mera Akelapan (हँसते हुए मेरा अकेलापन)",
+          "sort_order": 110
+        },
+        {
+          "slug": "hindi-prose-tirichh",
+          "name": "Prose: Tirichh (तिरिछ)",
+          "sort_order": 120
+        },
+        {
+          "slug": "hindi-prose-shiksha",
+          "name": "Prose: Shiksha (शिक्षा)",
+          "sort_order": 130
+        },
+        {
+          "slug": "hindi-poetry-kadbak",
+          "name": "Poetry: Kadbak (कड़बक)",
+          "sort_order": 140
+        },
+        {
+          "slug": "hindi-poetry-surdas-ke-pad",
+          "name": "Poetry: Surdas Ke Pad (सूरदास के पद)",
+          "sort_order": 150
+        },
+        {
+          "slug": "hindi-poetry-tulsidas-ke-pad",
+          "name": "Poetry: Tulsidas Ke Pad (तुलसीदास के पद)",
+          "sort_order": 160
+        },
+        {
+          "slug": "hindi-poetry-chhappay",
+          "name": "Poetry: Chhappay (छप्पय)",
+          "sort_order": 170
+        },
+        {
+          "slug": "hindi-poetry-kavitt",
+          "name": "Poetry: Kavitt (कवित्त)",
+          "sort_order": 180
+        },
+        {
+          "slug": "hindi-poetry-tumul-kolahal-kalah-mein",
+          "name": "Poetry: Tumul Kolahal Kalah Mein (तुमुल कोलाहल कलह में)",
+          "sort_order": 190
+        },
+        {
+          "slug": "hindi-poetry-putra-viyog",
+          "name": "Poetry: Putra Viyog (पुत्र वियोग)",
+          "sort_order": 200
+        },
+        {
+          "slug": "hindi-poetry-usha",
+          "name": "Poetry: Usha (उषा)",
+          "sort_order": 210
+        },
+        {
+          "slug": "hindi-poetry-jan-jan-ka-chehra-ek",
+          "name": "Poetry: Jan-Jan Ka Chehra Ek (जन-जन का चेहरा एक)",
+          "sort_order": 220
+        },
+        {
+          "slug": "hindi-poetry-adhinayak",
+          "name": "Poetry: Adhinayak (अधिनायक)",
+          "sort_order": 230
+        },
+        {
+          "slug": "hindi-poetry-pyare-nanhe-bete-ko",
+          "name": "Poetry: Pyare Nanhe Bete Ko (प्यारे नन्हें बेटे को)",
+          "sort_order": 240
+        },
+        {
+          "slug": "hindi-poetry-haar-jeet",
+          "name": "Poetry: Haar-Jeet (हार-जीत)",
+          "sort_order": 250
+        },
+        {
+          "slug": "hindi-poetry-gaon-ka-ghar",
+          "name": "Poetry: Gaon Ka Ghar (गाँव का घर)",
+          "sort_order": 260
+        },
+        {
+          "slug": "hindi-pratipurti-rassi-ka-tukda",
+          "name": "Pratipurti: Rassi Ka Tukda (रस्सी का टुकड़ा)",
+          "sort_order": 270
+        },
+        {
+          "slug": "hindi-pratipurti-clerk-ki-maut",
+          "name": "Pratipurti: Clerk Ki Maut (क्लर्क की मौत)",
+          "sort_order": 280
+        },
+        {
+          "slug": "hindi-pratipurti-peshgi",
+          "name": "Pratipurti: Peshgi (पेशगी)",
+          "sort_order": 290
+        }
+      ]
+    },
+    {
+      "slug": "english",
+      "name": "English",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "english-prose-indian-civilization-and-culture",
+          "name": "Prose: Indian Civilization and Culture",
+          "sort_order": 10
+        },
+        {
+          "slug": "english-prose-bharat-is-my-home",
+          "name": "Prose: Bharat is My Home",
+          "sort_order": 20
+        },
+        {
+          "slug": "english-prose-a-pinch-of-snuff",
+          "name": "Prose: A Pinch of Snuff",
+          "sort_order": 30
+        },
+        {
+          "slug": "english-prose-i-have-a-dream",
+          "name": "Prose: I Have a Dream",
+          "sort_order": 40
+        },
+        {
+          "slug": "english-prose-ideas-that-have-helped-mankind",
+          "name": "Prose: Ideas that Have Helped Mankind",
+          "sort_order": 50
+        },
+        {
+          "slug": "english-prose-the-artist",
+          "name": "Prose: The Artist",
+          "sort_order": 60
+        },
+        {
+          "slug": "english-prose-a-child-born",
+          "name": "Prose: A Child Born",
+          "sort_order": 70
+        },
+        {
+          "slug": "english-prose-how-free-is-the-press",
+          "name": "Prose: How Free is the Press",
+          "sort_order": 80
+        },
+        {
+          "slug": "english-prose-the-earth",
+          "name": "Prose: The Earth",
+          "sort_order": 90
+        },
+        {
+          "slug": "english-prose-india-through-a-travellers-eyes",
+          "name": "Prose: India Through a Traveller's Eyes",
+          "sort_order": 100
+        },
+        {
+          "slug": "english-prose-a-marriage-proposal",
+          "name": "Prose: A Marriage Proposal",
+          "sort_order": 110
+        },
+        {
+          "slug": "english-poetry-sweetest-love-i-do-not-goe",
+          "name": "Poetry: Sweetest Love I Do Not Goe",
+          "sort_order": 120
+        },
+        {
+          "slug": "english-poetry-song-of-myself",
+          "name": "Poetry: Song of Myself",
+          "sort_order": 130
+        },
+        {
+          "slug": "english-poetry-now-the-leaves-are-falling-fast",
+          "name": "Poetry: Now the Leaves are Falling Fast",
+          "sort_order": 140
+        },
+        {
+          "slug": "english-poetry-ode-to-autumn",
+          "name": "Poetry: Ode to Autumn",
+          "sort_order": 150
+        },
+        {
+          "slug": "english-poetry-an-epitaph",
+          "name": "Poetry: An Epitaph",
+          "sort_order": 160
+        },
+        {
+          "slug": "english-poetry-the-soldier",
+          "name": "Poetry: The Soldier",
+          "sort_order": 170
+        },
+        {
+          "slug": "english-poetry-macavity-the-mystery-cat",
+          "name": "Poetry: Macavity: The Mystery Cat",
+          "sort_order": 180
+        },
+        {
+          "slug": "english-poetry-fire-hymn",
+          "name": "Poetry: Fire-Hymn",
+          "sort_order": 190
+        },
+        {
+          "slug": "english-poetry-snake",
+          "name": "Poetry: Snake",
+          "sort_order": 200
+        },
+        {
+          "slug": "english-poetry-my-grandmothers-house",
+          "name": "Poetry: My Grandmother's House",
+          "sort_order": 210
+        },
+        {
+          "slug": "english-story-of-english-old-english",
+          "name": "Story of English: Old English",
+          "sort_order": 220
+        },
+        {
+          "slug": "english-story-of-english-middle-english",
+          "name": "Story of English: Middle English",
+          "sort_order": 230
+        },
+        {
+          "slug": "english-story-of-english-modern-english",
+          "name": "Story of English: Modern English",
+          "sort_order": 240
+        },
+        {
+          "slug": "english-story-of-english-english-as-a-world-language",
+          "name": "Story of English: English as a World Language",
+          "sort_order": 250
+        },
+        {
+          "slug": "english-story-of-english-story-of-english-drama",
+          "name": "Story of English: Story of English Drama",
+          "sort_order": 260
+        },
+        {
+          "slug": "english-story-of-english-story-of-the-novel-in-english",
+          "name": "Story of English: Story of the Novel in English",
+          "sort_order": 270
+        }
+      ]
+    }
+  ]
+}

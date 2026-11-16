@@ -1,0 +1,228 @@
+{
+  "schema": 1,
+  "slug": "xat",
+  "kind": "exam",
+  "name": "XAT (Xavier Aptitude Test)",
+  "short_name": "XAT",
+  "aliases": [
+    "xat",
+    "xat exam",
+    "xavier aptitude test",
+    "xlri",
+    "mba",
+    "mba entrance",
+    "management",
+    "pgdm",
+    "b school"
+  ],
+  "category": "entrance",
+  "subject_count": 4,
+  "topic_count": 35,
+  "version": 2,
+  "unverified": true,
+  "subjects": [
+    {
+      "slug": "verbal-ability-and-logical-reasoning",
+      "name": "Verbal Ability and Logical Reasoning",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 10
+        },
+        {
+          "slug": "vocabulary-and-word-usage",
+          "name": "Vocabulary and Word Usage",
+          "sort_order": 20
+        },
+        {
+          "slug": "grammar-and-sentence-correction",
+          "name": "Grammar and Sentence Correction",
+          "sort_order": 30
+        },
+        {
+          "slug": "fill-in-the-blanks",
+          "name": "Fill in the Blanks",
+          "sort_order": 40
+        },
+        {
+          "slug": "para-jumbles-and-para-completion",
+          "name": "Para Jumbles and Para Completion",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-completion-of-an-idea",
+          "name": "Logical Completion of an Idea",
+          "sort_order": 60
+        },
+        {
+          "slug": "critical-reasoning-and-arguments",
+          "name": "Critical Reasoning and Arguments",
+          "sort_order": 70
+        },
+        {
+          "slug": "inference-based-questions",
+          "name": "Inference-based Questions",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "decision-making",
+      "name": "Decision Making",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "caselets-and-business-situations",
+          "name": "Caselets and Business Situations",
+          "sort_order": 10
+        },
+        {
+          "slug": "ethical-dilemmas",
+          "name": "Ethical Dilemmas",
+          "sort_order": 20
+        },
+        {
+          "slug": "people-management-and-managerial-issues",
+          "name": "People Management and Managerial Issues",
+          "sort_order": 30
+        },
+        {
+          "slug": "organisational-policy-issues",
+          "name": "Organisational Policy Issues",
+          "sort_order": 40
+        },
+        {
+          "slug": "resource-allocation-and-financial-issues",
+          "name": "Resource Allocation and Financial Issues",
+          "sort_order": 50
+        },
+        {
+          "slug": "data-driven-scenarios-and-data-arrangements",
+          "name": "Data-driven Scenarios and Data Arrangements",
+          "sort_order": 60
+        },
+        {
+          "slug": "analytical-reasoning-and-logic-based-questions",
+          "name": "Analytical Reasoning and Logic-based Questions",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "quantitative-ability-and-data-interpretation",
+      "name": "Quantitative Ability and Data Interpretation",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "arithmetic-percentages-profit-and-loss-ratio-and-proportion",
+          "name": "Arithmetic: Percentages, Profit and Loss, Ratio and Proportion, Averages",
+          "sort_order": 10
+        },
+        {
+          "slug": "arithmetic-time-and-work-time-speed-and-distance",
+          "name": "Arithmetic: Time and Work, Time, Speed and Distance",
+          "sort_order": 20
+        },
+        {
+          "slug": "algebra-equations-inequalities-modulus",
+          "name": "Algebra: Equations, Inequalities, Modulus",
+          "sort_order": 30
+        },
+        {
+          "slug": "algebra-functions-and-graphs-logarithms-sequences-and-series",
+          "name": "Algebra: Functions and Graphs, Logarithms, Sequences and Series",
+          "sort_order": 40
+        },
+        {
+          "slug": "geometry-and-mensuration",
+          "name": "Geometry and Mensuration",
+          "sort_order": 50
+        },
+        {
+          "slug": "number-systems",
+          "name": "Number Systems",
+          "sort_order": 60
+        },
+        {
+          "slug": "modern-math-permutations-and-combinations-probability",
+          "name": "Modern Math: Permutations and Combinations, Probability",
+          "sort_order": 70
+        },
+        {
+          "slug": "data-interpretation-tables-bar-graphs-line-charts-pie-charts",
+          "name": "Data Interpretation: Tables, Bar Graphs, Line Charts, Pie Charts",
+          "sort_order": 80
+        },
+        {
+          "slug": "data-sufficiency",
+          "name": "Data Sufficiency",
+          "sort_order": 90
+        },
+        {
+          "slug": "trigonometric-functions-heights-and-distances",
+          "name": "Trigonometric Functions, Heights and Distances",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "general-knowledge",
+      "name": "General Knowledge",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "economy-and-business",
+          "name": "Economy and Business",
+          "sort_order": 10
+        },
+        {
+          "slug": "business-and-corporate-gk",
+          "name": "Business and Corporate GK",
+          "sort_order": 20
+        },
+        {
+          "slug": "indian-polity-and-constitution",
+          "name": "Indian Polity and Constitution",
+          "sort_order": 30
+        },
+        {
+          "slug": "national-and-international-current-affairs",
+          "name": "National and International Current Affairs",
+          "sort_order": 40
+        },
+        {
+          "slug": "awards-and-honours-books-and-authors",
+          "name": "Awards and Honours, Books and Authors",
+          "sort_order": 50
+        },
+        {
+          "slug": "sports",
+          "name": "Sports",
+          "sort_order": 60
+        },
+        {
+          "slug": "geography",
+          "name": "Geography",
+          "sort_order": 70
+        },
+        {
+          "slug": "history",
+          "name": "History",
+          "sort_order": 80
+        },
+        {
+          "slug": "science-and-technology",
+          "name": "Science and Technology",
+          "sort_order": 90
+        },
+        {
+          "slug": "important-organisations",
+          "name": "Important Organisations",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}

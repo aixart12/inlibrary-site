@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "slug": "keam-engineering",
+  "kind": "exam",
+  "name": "KEAM (Engineering)",
+  "short_name": "KEAM",
+  "aliases": [
+    "keam",
+    "keam engineering",
+    "kerala engineering",
+    "kerala engineering architecture medical",
+    "cee kerala",
+    "kerala entrance",
+    "kerala",
+    "engineering",
+    "btech"
+  ],
+  "category": "entrance",
+  "subject_count": 3,
+  "topic_count": 13,
+  "version": 2,
+  "unverified": true,
+  "subjects": [
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "mechanics",
+          "name": "Mechanics",
+          "sort_order": 10
+        },
+        {
+          "slug": "thermal-physics-and-matter",
+          "name": "Thermal Physics and Matter",
+          "sort_order": 20
+        },
+        {
+          "slug": "oscillations-and-waves",
+          "name": "Oscillations and Waves",
+          "sort_order": 30
+        },
+        {
+          "slug": "electricity-and-magnetism",
+          "name": "Electricity and Magnetism",
+          "sort_order": 40
+        },
+        {
+          "slug": "optics-and-modern-physics",
+          "name": "Optics and Modern Physics",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "physical-chemistry",
+          "name": "Physical Chemistry",
+          "sort_order": 10
+        },
+        {
+          "slug": "inorganic-chemistry",
+          "name": "Inorganic Chemistry",
+          "sort_order": 20
+        },
+        {
+          "slug": "organic-chemistry",
+          "name": "Organic Chemistry",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "algebra",
+          "name": "Algebra",
+          "sort_order": 10
+        },
+        {
+          "slug": "trigonometry",
+          "name": "Trigonometry",
+          "sort_order": 20
+        },
+        {
+          "slug": "geometry",
+          "name": "Geometry",
+          "sort_order": 30
+        },
+        {
+          "slug": "statistics-and-probability",
+          "name": "Statistics and Probability",
+          "sort_order": 40
+        },
+        {
+          "slug": "calculus",
+          "name": "Calculus",
+          "sort_order": 50
+        }
+      ]
+    }
+  ]
+}

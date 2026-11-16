@@ -1,0 +1,179 @@
+{
+  "schema": 1,
+  "slug": "cds",
+  "kind": "exam",
+  "name": "UPSC CDS (Combined Defence Services)",
+  "short_name": "CDS",
+  "aliases": [
+    "cds",
+    "upsc cds",
+    "combined defence services",
+    "ima",
+    "ina",
+    "afa",
+    "ota",
+    "defence",
+    "army",
+    "navy",
+    "air force",
+    "officer"
+  ],
+  "category": "defence",
+  "subject_count": 3,
+  "topic_count": 26,
+  "version": 2,
+  "unverified": true,
+  "subjects": [
+    {
+      "slug": "english",
+      "name": "English",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "comprehension-of-english",
+          "name": "Comprehension of English",
+          "sort_order": 10
+        },
+        {
+          "slug": "workman-like-use-of-words",
+          "name": "Workman-like Use of Words",
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "slug": "general-knowledge",
+      "name": "General Knowledge",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "current-events",
+          "name": "Current Events",
+          "sort_order": 10
+        },
+        {
+          "slug": "everyday-observation-and-experience-in-their-scientific-aspe",
+          "name": "Everyday Observation and Experience in their Scientific Aspects",
+          "sort_order": 20
+        },
+        {
+          "slug": "history-of-india",
+          "name": "History of India",
+          "sort_order": 30
+        },
+        {
+          "slug": "geography",
+          "name": "Geography",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "elementary-mathematics",
+      "name": "Elementary Mathematics",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "arithmetic-number-system-fundamental-operations-square-roots",
+          "name": "Arithmetic: Number System, Fundamental Operations, Square Roots, Decimal Fractions",
+          "sort_order": 10
+        },
+        {
+          "slug": "arithmetic-unitary-method-time-and-distance-time-and-work",
+          "name": "Arithmetic: Unitary Method, Time and Distance, Time and Work",
+          "sort_order": 20
+        },
+        {
+          "slug": "arithmetic-percentages-simple-and-compound-interest-profit-a",
+          "name": "Arithmetic: Percentages, Simple and Compound Interest, Profit and Loss",
+          "sort_order": 30
+        },
+        {
+          "slug": "arithmetic-ratio-and-proportion-variation",
+          "name": "Arithmetic: Ratio and Proportion, Variation",
+          "sort_order": 40
+        },
+        {
+          "slug": "elementary-number-theory-primes-divisibility-factorisation-h",
+          "name": "Elementary Number Theory: Primes, Divisibility, Factorisation, HCF and LCM",
+          "sort_order": 50
+        },
+        {
+          "slug": "logarithms-to-base-10",
+          "name": "Logarithms to Base 10",
+          "sort_order": 60
+        },
+        {
+          "slug": "algebra-basic-operations-simple-factors-remainder-theorem-po",
+          "name": "Algebra: Basic Operations, Simple Factors, Remainder Theorem, Polynomials",
+          "sort_order": 70
+        },
+        {
+          "slug": "algebra-quadratic-equations-relation-between-roots-and-coeff",
+          "name": "Algebra: Quadratic Equations, Relation between Roots and Coefficients",
+          "sort_order": 80
+        },
+        {
+          "slug": "algebra-simultaneous-linear-equations-and-linear-inequalitie",
+          "name": "Algebra: Simultaneous Linear Equations and Linear Inequalities in Two Variables",
+          "sort_order": 90
+        },
+        {
+          "slug": "algebra-set-language-and-notation-rational-expressions-laws",
+          "name": "Algebra: Set Language and Notation, Rational Expressions, Laws of Indices",
+          "sort_order": 100
+        },
+        {
+          "slug": "trigonometry-sine-cosine-and-tangent-values-at-standard-angl",
+          "name": "Trigonometry: Sine, Cosine and Tangent, Values at Standard Angles, Identities",
+          "sort_order": 110
+        },
+        {
+          "slug": "trigonometry-trigonometric-tables-heights-and-distances",
+          "name": "Trigonometry: Trigonometric Tables, Heights and Distances",
+          "sort_order": 120
+        },
+        {
+          "slug": "geometry-lines-angles-and-plane-figures",
+          "name": "Geometry: Lines, Angles and Plane Figures",
+          "sort_order": 130
+        },
+        {
+          "slug": "geometry-congruence-and-similarity-of-triangles-medians-and",
+          "name": "Geometry: Congruence and Similarity of Triangles, Medians and Altitudes",
+          "sort_order": 140
+        },
+        {
+          "slug": "geometry-parallelograms-rectangles-and-squares",
+          "name": "Geometry: Parallelograms, Rectangles and Squares",
+          "sort_order": 150
+        },
+        {
+          "slug": "geometry-circles-tangents-and-normals-loci",
+          "name": "Geometry: Circles, Tangents and Normals, Loci",
+          "sort_order": 160
+        },
+        {
+          "slug": "mensuration-areas-of-plane-figures",
+          "name": "Mensuration: Areas of Plane Figures",
+          "sort_order": 170
+        },
+        {
+          "slug": "mensuration-surface-area-and-volume-of-cuboids-cones-cylinde",
+          "name": "Mensuration: Surface Area and Volume of Cuboids, Cones, Cylinders and Spheres",
+          "sort_order": 180
+        },
+        {
+          "slug": "statistics-collection-and-tabulation-of-data-graphical-repre",
+          "name": "Statistics: Collection and Tabulation of Data, Graphical Representation",
+          "sort_order": 190
+        },
+        {
+          "slug": "statistics-measures-of-central-tendency",
+          "name": "Statistics: Measures of Central Tendency",
+          "sort_order": 200
+        }
+      ]
+    }
+  ]
+}

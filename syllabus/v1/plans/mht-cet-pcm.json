@@ -1,0 +1,439 @@
+{
+  "schema": 1,
+  "slug": "mht-cet-pcm",
+  "kind": "exam",
+  "name": "MHT CET (PCM)",
+  "short_name": "MHT CET",
+  "aliases": [
+    "mht cet",
+    "mht-cet",
+    "mhtcet",
+    "cet",
+    "maharashtra cet",
+    "maharashtra",
+    "cet cell",
+    "state cet",
+    "pcm",
+    "engineering",
+    "maths",
+    "btech"
+  ],
+  "category": "entrance",
+  "subject_count": 3,
+  "topic_count": 78,
+  "version": 2,
+  "unverified": true,
+  "subjects": [
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "class-11-vectors",
+          "name": "Class 11: Vectors",
+          "sort_order": 10
+        },
+        {
+          "slug": "class-11-error-analysis",
+          "name": "Class 11: Error Analysis",
+          "sort_order": 20
+        },
+        {
+          "slug": "class-11-motion-in-a-plane",
+          "name": "Class 11: Motion in a Plane",
+          "sort_order": 30
+        },
+        {
+          "slug": "class-11-laws-of-motion",
+          "name": "Class 11: Laws of Motion",
+          "sort_order": 40
+        },
+        {
+          "slug": "class-11-gravitation",
+          "name": "Class 11: Gravitation",
+          "sort_order": 50
+        },
+        {
+          "slug": "class-11-thermal-properties-of-matter",
+          "name": "Class 11: Thermal Properties of Matter",
+          "sort_order": 60
+        },
+        {
+          "slug": "class-11-sound",
+          "name": "Class 11: Sound",
+          "sort_order": 70
+        },
+        {
+          "slug": "class-11-optics",
+          "name": "Class 11: Optics",
+          "sort_order": 80
+        },
+        {
+          "slug": "class-11-electrostatics",
+          "name": "Class 11: Electrostatics",
+          "sort_order": 90
+        },
+        {
+          "slug": "class-11-semiconductors",
+          "name": "Class 11: Semiconductors",
+          "sort_order": 100
+        },
+        {
+          "slug": "class-12-circular-motion",
+          "name": "Class 12: Circular Motion",
+          "sort_order": 110
+        },
+        {
+          "slug": "class-12-gravitation",
+          "name": "Class 12: Gravitation",
+          "sort_order": 120
+        },
+        {
+          "slug": "class-12-rotational-motion",
+          "name": "Class 12: Rotational Motion",
+          "sort_order": 130
+        },
+        {
+          "slug": "class-12-oscillations",
+          "name": "Class 12: Oscillations",
+          "sort_order": 140
+        },
+        {
+          "slug": "class-12-elasticity",
+          "name": "Class 12: Elasticity",
+          "sort_order": 150
+        },
+        {
+          "slug": "class-12-surface-tension",
+          "name": "Class 12: Surface Tension",
+          "sort_order": 160
+        },
+        {
+          "slug": "class-12-wave-motion",
+          "name": "Class 12: Wave Motion",
+          "sort_order": 170
+        },
+        {
+          "slug": "class-12-stationary-waves",
+          "name": "Class 12: Stationary Waves",
+          "sort_order": 180
+        },
+        {
+          "slug": "class-12-wave-theory-of-light",
+          "name": "Class 12: Wave Theory of Light",
+          "sort_order": 190
+        },
+        {
+          "slug": "class-12-interference-and-diffraction",
+          "name": "Class 12: Interference and Diffraction",
+          "sort_order": 200
+        },
+        {
+          "slug": "class-12-electrostatics",
+          "name": "Class 12: Electrostatics",
+          "sort_order": 210
+        },
+        {
+          "slug": "class-12-current-electricity",
+          "name": "Class 12: Current Electricity",
+          "sort_order": 220
+        },
+        {
+          "slug": "class-12-magnetism",
+          "name": "Class 12: Magnetism",
+          "sort_order": 230
+        },
+        {
+          "slug": "class-12-electromagnetic-inductions",
+          "name": "Class 12: Electromagnetic Inductions",
+          "sort_order": 240
+        },
+        {
+          "slug": "class-12-electrons-and-photons",
+          "name": "Class 12: Electrons and Photons",
+          "sort_order": 250
+        },
+        {
+          "slug": "class-12-atoms-molecules-and-nuclei",
+          "name": "Class 12: Atoms, Molecules and Nuclei",
+          "sort_order": 260
+        },
+        {
+          "slug": "class-12-semiconductors",
+          "name": "Class 12: Semiconductors",
+          "sort_order": 270
+        },
+        {
+          "slug": "class-12-communication-systems",
+          "name": "Class 12: Communication Systems",
+          "sort_order": 280
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "class-11-some-basic-concepts-of-chemistry",
+          "name": "Class 11: Some Basic Concepts of Chemistry",
+          "sort_order": 10
+        },
+        {
+          "slug": "class-11-structure-of-atom",
+          "name": "Class 11: Structure of Atom",
+          "sort_order": 20
+        },
+        {
+          "slug": "class-11-chemical-bonding",
+          "name": "Class 11: Chemical Bonding",
+          "sort_order": 30
+        },
+        {
+          "slug": "class-11-states-of-matter-gases-and-liquids",
+          "name": "Class 11: States of Matter: Gases and Liquids",
+          "sort_order": 40
+        },
+        {
+          "slug": "class-11-redox-reactions",
+          "name": "Class 11: Redox Reactions",
+          "sort_order": 50
+        },
+        {
+          "slug": "class-11-elements-of-groups-1-and-2",
+          "name": "Class 11: Elements of Groups 1 and 2",
+          "sort_order": 60
+        },
+        {
+          "slug": "class-11-adsorption-and-colloids-surface-chemistry",
+          "name": "Class 11: Adsorption and Colloids (Surface Chemistry)",
+          "sort_order": 70
+        },
+        {
+          "slug": "class-11-hydrocarbons",
+          "name": "Class 11: Hydrocarbons",
+          "sort_order": 80
+        },
+        {
+          "slug": "class-11-basic-principles-of-organic-chemistry",
+          "name": "Class 11: Basic Principles of Organic Chemistry",
+          "sort_order": 90
+        },
+        {
+          "slug": "class-11-chemistry-in-everyday-life",
+          "name": "Class 11: Chemistry in Everyday Life",
+          "sort_order": 100
+        },
+        {
+          "slug": "class-12-solid-state",
+          "name": "Class 12: Solid State",
+          "sort_order": 110
+        },
+        {
+          "slug": "class-12-solutions-and-colligative-properties",
+          "name": "Class 12: Solutions and Colligative Properties",
+          "sort_order": 120
+        },
+        {
+          "slug": "class-12-chemical-thermodynamics-and-electrochemistry",
+          "name": "Class 12: Chemical Thermodynamics and Electrochemistry",
+          "sort_order": 130
+        },
+        {
+          "slug": "class-12-chemical-kinetics",
+          "name": "Class 12: Chemical Kinetics",
+          "sort_order": 140
+        },
+        {
+          "slug": "class-12-p-block-elements",
+          "name": "Class 12: p-Block Elements",
+          "sort_order": 150
+        },
+        {
+          "slug": "class-12-d-and-f-block-elements",
+          "name": "Class 12: d and f Block Elements",
+          "sort_order": 160
+        },
+        {
+          "slug": "class-12-coordination-compounds",
+          "name": "Class 12: Coordination Compounds",
+          "sort_order": 170
+        },
+        {
+          "slug": "class-12-halogen-derivatives-of-alkanes-alcohols-phenols-and",
+          "name": "Class 12: Halogen Derivatives of Alkanes, Alcohols, Phenols and Ethers",
+          "sort_order": 180
+        },
+        {
+          "slug": "class-12-aldehydes-ketones-organic-compounds-and-biomolecule",
+          "name": "Class 12: Aldehydes, Ketones, Organic Compounds and Biomolecules",
+          "sort_order": 190
+        },
+        {
+          "slug": "class-12-polymers",
+          "name": "Class 12: Polymers",
+          "sort_order": 200
+        },
+        {
+          "slug": "class-12-chemistry-in-everyday-life",
+          "name": "Class 12: Chemistry in Everyday Life",
+          "sort_order": 210
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "class-11-trigonometry-ii",
+          "name": "Class 11: Trigonometry II",
+          "sort_order": 10
+        },
+        {
+          "slug": "class-11-straight-lines",
+          "name": "Class 11: Straight Lines",
+          "sort_order": 20
+        },
+        {
+          "slug": "class-11-circles",
+          "name": "Class 11: Circles",
+          "sort_order": 30
+        },
+        {
+          "slug": "class-11-probability",
+          "name": "Class 11: Probability",
+          "sort_order": 40
+        },
+        {
+          "slug": "class-11-complex-numbers",
+          "name": "Class 11: Complex Numbers",
+          "sort_order": 50
+        },
+        {
+          "slug": "class-11-permutations-and-combinations",
+          "name": "Class 11: Permutations and Combinations",
+          "sort_order": 60
+        },
+        {
+          "slug": "class-11-functions",
+          "name": "Class 11: Functions",
+          "sort_order": 70
+        },
+        {
+          "slug": "class-11-limits",
+          "name": "Class 11: Limits",
+          "sort_order": 80
+        },
+        {
+          "slug": "class-11-continuity",
+          "name": "Class 11: Continuity",
+          "sort_order": 90
+        },
+        {
+          "slug": "class-11-conic-sections",
+          "name": "Class 11: Conic Sections",
+          "sort_order": 100
+        },
+        {
+          "slug": "class-12-mathematical-logic",
+          "name": "Class 12: Mathematical Logic",
+          "sort_order": 110
+        },
+        {
+          "slug": "class-12-matrices",
+          "name": "Class 12: Matrices",
+          "sort_order": 120
+        },
+        {
+          "slug": "class-12-trigonometric-functions",
+          "name": "Class 12: Trigonometric Functions",
+          "sort_order": 130
+        },
+        {
+          "slug": "class-12-pair-of-straight-lines",
+          "name": "Class 12: Pair of Straight Lines",
+          "sort_order": 140
+        },
+        {
+          "slug": "class-12-circle",
+          "name": "Class 12: Circle",
+          "sort_order": 150
+        },
+        {
+          "slug": "class-12-conic-sections",
+          "name": "Class 12: Conic Sections",
+          "sort_order": 160
+        },
+        {
+          "slug": "class-12-vectors",
+          "name": "Class 12: Vectors",
+          "sort_order": 170
+        },
+        {
+          "slug": "class-12-three-dimensional-geometry",
+          "name": "Class 12: Three-dimensional Geometry",
+          "sort_order": 180
+        },
+        {
+          "slug": "class-12-line",
+          "name": "Class 12: Line",
+          "sort_order": 190
+        },
+        {
+          "slug": "class-12-plane",
+          "name": "Class 12: Plane",
+          "sort_order": 200
+        },
+        {
+          "slug": "class-12-linear-programming-problems",
+          "name": "Class 12: Linear Programming Problems",
+          "sort_order": 210
+        },
+        {
+          "slug": "class-12-continuity",
+          "name": "Class 12: Continuity",
+          "sort_order": 220
+        },
+        {
+          "slug": "class-12-differentiation",
+          "name": "Class 12: Differentiation",
+          "sort_order": 230
+        },
+        {
+          "slug": "class-12-applications-of-derivative",
+          "name": "Class 12: Applications of Derivative",
+          "sort_order": 240
+        },
+        {
+          "slug": "class-12-integration",
+          "name": "Class 12: Integration",
+          "sort_order": 250
+        },
+        {
+          "slug": "class-12-applications-of-the-definite-integral",
+          "name": "Class 12: Applications of the Definite Integral",
+          "sort_order": 260
+        },
+        {
+          "slug": "class-12-statistics",
+          "name": "Class 12: Statistics",
+          "sort_order": 270
+        },
+        {
+          "slug": "class-12-probability-distribution",
+          "name": "Class 12: Probability Distribution",
+          "sort_order": 280
+        },
+        {
+          "slug": "class-12-bernoulli-trials-and-binomial-distribution",
+          "name": "Class 12: Bernoulli Trials and Binomial Distribution",
+          "sort_order": 290
+        }
+      ]
+    }
+  ]
+}

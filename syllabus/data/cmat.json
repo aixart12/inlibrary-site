@@ -22,10 +22,10 @@
     "syllabus_source_url": "https://mba.hitbullseye.com/CMAT/Syllabus.php",
     "syllabus_cycle": "CMAT 2027 (as described by the secondary source)",
     "verified": false,
-    "verification_note": "General syllabus drafted from Hitbullseye's CMAT syllabus page, a secondary site; the exam body publishes no topic list, so topic names are that page's lists, grouped. Check first the five section names against the NTA CMAT information bulletin.",
+    "verification_note": "General syllabus drafted from Hitbullseye's CMAT syllabus page, a secondary site; the exam body publishes no topic list, so topic names are that page's lists, grouped. Check first the five section names against the NTA CMAT information bulletin. Published on 2026-11-16 at the owner's request while still unverified: the topic lists come from the source named in syllabus_source_url, not from an official syllabus, and have not been compared with one.",
     "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "version": 2,
+    "is_published": true,
     "sort_order": 730
   },
   "subjects": [

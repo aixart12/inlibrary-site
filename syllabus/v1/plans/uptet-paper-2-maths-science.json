@@ -1,0 +1,320 @@
+{
+  "schema": 1,
+  "slug": "uptet-paper-2-maths-science",
+  "kind": "exam",
+  "name": "UPTET Paper 2 (Classes 6-8, Mathematics and Science)",
+  "short_name": "UPTET P2 Maths-Sci",
+  "aliases": [
+    "uptet",
+    "up tet",
+    "tet",
+    "uttar pradesh teacher eligibility test",
+    "teacher eligibility",
+    "teacher",
+    "teaching",
+    "paper 2",
+    "paper ii",
+    "upper primary",
+    "up",
+    "uttar pradesh",
+    "maths",
+    "science"
+  ],
+  "category": "teaching",
+  "subject_count": 5,
+  "topic_count": 51,
+  "version": 2,
+  "unverified": true,
+  "subjects": [
+    {
+      "slug": "child-development-and-pedagogy",
+      "name": "Child Development and Pedagogy",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "meaning-need-and-scope-of-child-development",
+          "name": "Meaning, Need and Scope of Child Development",
+          "sort_order": 10
+        },
+        {
+          "slug": "stages-of-development-physical-mental-emotional-language",
+          "name": "Stages of Development: Physical, Mental, Emotional, Language",
+          "sort_order": 20
+        },
+        {
+          "slug": "heredity-and-environment",
+          "name": "Heredity and Environment",
+          "sort_order": 30
+        },
+        {
+          "slug": "meaning-of-learning-factors-and-effective-methods",
+          "name": "Meaning of Learning, Factors and Effective Methods",
+          "sort_order": 40
+        },
+        {
+          "slug": "laws-and-theories-of-learning-thorndike-pavlov-skinner-kohle",
+          "name": "Laws and Theories of Learning: Thorndike, Pavlov, Skinner, Kohler, Piaget, Vygotsky",
+          "sort_order": 50
+        },
+        {
+          "slug": "learning-curves-and-learning-plateaus",
+          "name": "Learning Curves and Learning Plateaus",
+          "sort_order": 60
+        },
+        {
+          "slug": "teaching-aims-maxims-methods-micro-teaching-and-teaching-ski",
+          "name": "Teaching: Aims, Maxims, Methods, Micro-teaching and Teaching Skills",
+          "sort_order": 70
+        },
+        {
+          "slug": "inclusive-education",
+          "name": "Inclusive Education",
+          "sort_order": 80
+        },
+        {
+          "slug": "guidance-and-counselling",
+          "name": "Guidance and Counselling",
+          "sort_order": 90
+        },
+        {
+          "slug": "how-children-think-and-learn-motivation-and-factors-affectin",
+          "name": "How Children Think and Learn, Motivation and Factors Affecting Learning",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "language-i-hindi",
+      "name": "Language I: Hindi",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "unseen-passages-hindi",
+          "name": "Unseen Passages (Hindi)",
+          "sort_order": 10
+        },
+        {
+          "slug": "alphabet-vowels-consonants-and-matra",
+          "name": "Alphabet, Vowels, Consonants and Matra",
+          "sort_order": 20
+        },
+        {
+          "slug": "sentence-formation-and-punctuation-marks",
+          "name": "Sentence Formation and Punctuation Marks",
+          "sort_order": 30
+        },
+        {
+          "slug": "antonyms-synonyms-and-rhyming-words",
+          "name": "Antonyms, Synonyms and Rhyming Words",
+          "sort_order": 40
+        },
+        {
+          "slug": "parts-of-speech-gender-number-and-tense-hindi",
+          "name": "Parts of Speech, Gender, Number and Tense (Hindi)",
+          "sort_order": 50
+        },
+        {
+          "slug": "prefixes-suffixes-tatsam-tadbhav-and-deshaj-words",
+          "name": "Prefixes, Suffixes, Tatsam, Tadbhav and Deshaj Words",
+          "sort_order": 60
+        },
+        {
+          "slug": "idioms-and-proverbs",
+          "name": "Idioms and Proverbs",
+          "sort_order": 70
+        },
+        {
+          "slug": "sandhi-samas-voice-and-figures-of-speech",
+          "name": "Sandhi, Samas, Voice and Figures of Speech",
+          "sort_order": 80
+        },
+        {
+          "slug": "works-of-major-poets-and-writers",
+          "name": "Works of Major Poets and Writers",
+          "sort_order": 90
+        },
+        {
+          "slug": "pedagogy-of-language-teaching",
+          "name": "Pedagogy of Language Teaching",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "language-ii-english",
+      "name": "Language II: English",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "unseen-passages-english",
+          "name": "Unseen Passages (English)",
+          "sort_order": 10
+        },
+        {
+          "slug": "subject-and-predicate-kinds-of-sentences",
+          "name": "Subject and Predicate, Kinds of Sentences",
+          "sort_order": 20
+        },
+        {
+          "slug": "parts-of-speech-and-their-kinds",
+          "name": "Parts of Speech and their Kinds",
+          "sort_order": 30
+        },
+        {
+          "slug": "tenses",
+          "name": "Tenses",
+          "sort_order": 40
+        },
+        {
+          "slug": "articles-and-punctuation",
+          "name": "Articles and Punctuation",
+          "sort_order": 50
+        },
+        {
+          "slug": "word-formation",
+          "name": "Word Formation",
+          "sort_order": 60
+        },
+        {
+          "slug": "active-and-passive-voice",
+          "name": "Active and Passive Voice",
+          "sort_order": 70
+        },
+        {
+          "slug": "singular-and-plural-gender",
+          "name": "Singular and Plural, Gender",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "natural-whole-and-rational-numbers-integers",
+          "name": "Natural, Whole and Rational Numbers, Integers",
+          "sort_order": 10
+        },
+        {
+          "slug": "lcm-hcf-square-roots-and-cube-roots",
+          "name": "LCM, HCF, Square Roots and Cube Roots",
+          "sort_order": 20
+        },
+        {
+          "slug": "algebraic-identities-and-expressions",
+          "name": "Algebraic Identities and Expressions",
+          "sort_order": 30
+        },
+        {
+          "slug": "linear-quadratic-and-simultaneous-equations",
+          "name": "Linear, Quadratic and Simultaneous Equations",
+          "sort_order": 40
+        },
+        {
+          "slug": "lines-quadrilaterals-triangles-circles-and-tangents",
+          "name": "Lines, Quadrilaterals, Triangles, Circles and Tangents",
+          "sort_order": 50
+        },
+        {
+          "slug": "ratio-proportion-percentage-profit-and-loss-interest-tax",
+          "name": "Ratio, Proportion, Percentage, Profit and Loss, Interest, Tax",
+          "sort_order": 60
+        },
+        {
+          "slug": "banking-currency-bills-and-cash-memos",
+          "name": "Banking: Currency, Bills and Cash Memos",
+          "sort_order": 70
+        },
+        {
+          "slug": "statistics-classification-graphs-mean-median-and-mode",
+          "name": "Statistics: Classification, Graphs, Mean, Median and Mode",
+          "sort_order": 80
+        },
+        {
+          "slug": "probability-cartesian-plane-mensuration-and-exponents",
+          "name": "Probability, Cartesian Plane, Mensuration and Exponents",
+          "sort_order": 90
+        }
+      ]
+    },
+    {
+      "slug": "science",
+      "name": "Science",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "science-in-daily-life-discoveries-and-technology",
+          "name": "Science in Daily Life, Discoveries and Technology",
+          "sort_order": 10
+        },
+        {
+          "slug": "fibres-and-textiles",
+          "name": "Fibres and Textiles",
+          "sort_order": 20
+        },
+        {
+          "slug": "living-and-non-living-things-classification-and-adaptation",
+          "name": "Living and Non-living Things, Classification and Adaptation",
+          "sort_order": 30
+        },
+        {
+          "slug": "microorganisms-cell-to-organ-systems-adolescence",
+          "name": "Microorganisms, Cell to Organ Systems, Adolescence",
+          "sort_order": 40
+        },
+        {
+          "slug": "food-health-hygiene-and-diseases-crop-production",
+          "name": "Food, Health, Hygiene and Diseases, Crop Production",
+          "sort_order": 50
+        },
+        {
+          "slug": "nutrition-reproduction-respiration-and-excretion",
+          "name": "Nutrition, Reproduction, Respiration and Excretion",
+          "sort_order": 60
+        },
+        {
+          "slug": "measurement-electricity-magnetism-motion-force-and-machines",
+          "name": "Measurement, Electricity, Magnetism, Motion, Force and Machines",
+          "sort_order": 70
+        },
+        {
+          "slug": "energy-and-computers",
+          "name": "Energy and Computers",
+          "sort_order": 80
+        },
+        {
+          "slug": "sound-static-electricity-and-light",
+          "name": "Sound, Static Electricity and Light",
+          "sort_order": 90
+        },
+        {
+          "slug": "air-water-their-properties-and-conservation",
+          "name": "Air, Water, their Properties and Conservation",
+          "sort_order": 100
+        },
+        {
+          "slug": "matter-physical-and-chemical-changes-acids-bases-and-salts",
+          "name": "Matter, Physical and Chemical Changes, Acids, Bases and Salts",
+          "sort_order": 110
+        },
+        {
+          "slug": "heat-temperature-materials-minerals-metals-and-carbon-compou",
+          "name": "Heat, Temperature, Materials, Minerals, Metals and Carbon Compounds",
+          "sort_order": 120
+        },
+        {
+          "slug": "alternative-energy-sources",
+          "name": "Alternative Energy Sources",
+          "sort_order": 130
+        },
+        {
+          "slug": "teaching-of-science-nature-methods-activities-and-assessment",
+          "name": "Teaching of Science: Nature, Methods, Activities and Assessment",
+          "sort_order": 140
+        }
+      ]
+    }
+  ]
+}

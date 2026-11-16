@@ -23,10 +23,10 @@
     "syllabus_source_url": "https://competition.careers360.com/articles/upsssc-pet-syllabus",
     "syllabus_cycle": "2024 per the secondary source (its linked PDF is labelled 2023); official notification not opened",
     "verified": false,
-    "verification_note": "General syllabus drafted from Careers360's UPSSSC PET syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. The page covers the 2024 syllabus, and other sites describe a different mark split for later years; check first whether UPSSSC has changed the subjects.",
+    "verification_note": "General syllabus drafted from Careers360's UPSSSC PET syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. The page covers the 2024 syllabus, and other sites describe a different mark split for later years; check first whether UPSSSC has changed the subjects. Published on 2026-11-16 at the owner's request while still unverified: the topic lists come from the source named in syllabus_source_url, not from an official syllabus, and have not been compared with one.",
     "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "version": 2,
+    "is_published": true,
     "sort_order": 780
   },
   "subjects": [

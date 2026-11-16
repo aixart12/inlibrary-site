@@ -1,0 +1,391 @@
+{
+  "schema": 1,
+  "slug": "kvs-prt",
+  "kind": "exam",
+  "name": "KVS PRT (Primary Teacher, Tier 1)",
+  "short_name": "KVS PRT",
+  "aliases": [
+    "kvs",
+    "kvs prt",
+    "kendriya vidyalaya",
+    "kendriya vidyalaya sangathan",
+    "kv",
+    "prt",
+    "primary teacher",
+    "cbse",
+    "teacher",
+    "teaching"
+  ],
+  "category": "teaching",
+  "subject_count": 5,
+  "topic_count": 66,
+  "version": 2,
+  "unverified": true,
+  "subjects": [
+    {
+      "slug": "general-english",
+      "name": "General English",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "articles",
+          "name": "Articles",
+          "sort_order": 10
+        },
+        {
+          "slug": "narration",
+          "name": "Narration",
+          "sort_order": 20
+        },
+        {
+          "slug": "prepositions",
+          "name": "Prepositions",
+          "sort_order": 30
+        },
+        {
+          "slug": "punctuation",
+          "name": "Punctuation",
+          "sort_order": 40
+        },
+        {
+          "slug": "comprehension-and-unseen-passages",
+          "name": "Comprehension and Unseen Passages",
+          "sort_order": 50
+        },
+        {
+          "slug": "fill-in-the-blanks",
+          "name": "Fill in the Blanks",
+          "sort_order": 60
+        },
+        {
+          "slug": "adverb",
+          "name": "Adverb",
+          "sort_order": 70
+        },
+        {
+          "slug": "error-correction",
+          "name": "Error Correction",
+          "sort_order": 80
+        },
+        {
+          "slug": "sentence-rearrangement",
+          "name": "Sentence Rearrangement",
+          "sort_order": 90
+        },
+        {
+          "slug": "vocabulary-antonyms-synonyms-idioms",
+          "name": "Vocabulary: Antonyms, Synonyms, Idioms",
+          "sort_order": 100
+        },
+        {
+          "slug": "verb-and-tenses",
+          "name": "Verb and Tenses",
+          "sort_order": 110
+        },
+        {
+          "slug": "adjective",
+          "name": "Adjective",
+          "sort_order": 120
+        },
+        {
+          "slug": "modals",
+          "name": "Modals",
+          "sort_order": 130
+        },
+        {
+          "slug": "voice",
+          "name": "Voice",
+          "sort_order": 140
+        },
+        {
+          "slug": "subject-verb-agreement",
+          "name": "Subject-Verb Agreement",
+          "sort_order": 150
+        }
+      ]
+    },
+    {
+      "slug": "general-hindi",
+      "name": "General Hindi",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "language",
+          "name": "Language",
+          "sort_order": 10
+        },
+        {
+          "slug": "noun-and-pronoun",
+          "name": "Noun and Pronoun",
+          "sort_order": 20
+        },
+        {
+          "slug": "adjective-and-verb",
+          "name": "Adjective and Verb",
+          "sort_order": 30
+        },
+        {
+          "slug": "indeclinables",
+          "name": "Indeclinables",
+          "sort_order": 40
+        },
+        {
+          "slug": "number-and-gender",
+          "name": "Number and Gender",
+          "sort_order": 50
+        },
+        {
+          "slug": "prefix-and-suffix",
+          "name": "Prefix and Suffix",
+          "sort_order": 60
+        },
+        {
+          "slug": "sentence-formation",
+          "name": "Sentence Formation",
+          "sort_order": 70
+        },
+        {
+          "slug": "synonyms-and-opposites",
+          "name": "Synonyms and Opposites",
+          "sort_order": 80
+        },
+        {
+          "slug": "words-with-multiple-meanings",
+          "name": "Words with Multiple Meanings",
+          "sort_order": 90
+        },
+        {
+          "slug": "punctuation-general-hindi",
+          "name": "Punctuation",
+          "sort_order": 100
+        },
+        {
+          "slug": "idioms-and-proverbs",
+          "name": "Idioms and Proverbs",
+          "sort_order": 110
+        },
+        {
+          "slug": "figures-of-speech",
+          "name": "Figures of Speech",
+          "sort_order": 120
+        },
+        {
+          "slug": "sandhi-and-samas",
+          "name": "Sandhi and Samas",
+          "sort_order": 130
+        },
+        {
+          "slug": "tatsam-tadbhav-deshaj-and-foreign-words",
+          "name": "Tatsam, Tadbhav, Deshaj and Foreign Words",
+          "sort_order": 140
+        }
+      ]
+    },
+    {
+      "slug": "general-knowledge-and-current-affairs",
+      "name": "General Knowledge and Current Affairs",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "important-days",
+          "name": "Important Days",
+          "sort_order": 10
+        },
+        {
+          "slug": "indian-history-and-national-movement",
+          "name": "Indian History and National Movement",
+          "sort_order": 20
+        },
+        {
+          "slug": "important-books-and-authors",
+          "name": "Important Books and Authors",
+          "sort_order": 30
+        },
+        {
+          "slug": "general-polity",
+          "name": "General Polity",
+          "sort_order": 40
+        },
+        {
+          "slug": "international-and-national-organizations",
+          "name": "International and National Organizations",
+          "sort_order": 50
+        },
+        {
+          "slug": "science-inventions-and-discoveries",
+          "name": "Science: Inventions and Discoveries",
+          "sort_order": 60
+        },
+        {
+          "slug": "budget-and-five-year-plans",
+          "name": "Budget and Five Year Plans",
+          "sort_order": 70
+        },
+        {
+          "slug": "current-affairs-national-and-international",
+          "name": "Current Affairs: National and International",
+          "sort_order": 80
+        },
+        {
+          "slug": "indian-economy-capitals-of-india",
+          "name": "Indian Economy, Capitals of India",
+          "sort_order": 90
+        },
+        {
+          "slug": "sports-and-important-events",
+          "name": "Sports and Important Events",
+          "sort_order": 100
+        },
+        {
+          "slug": "abbreviations",
+          "name": "Abbreviations",
+          "sort_order": 110
+        },
+        {
+          "slug": "countries-and-capitals",
+          "name": "Countries and Capitals",
+          "sort_order": 120
+        },
+        {
+          "slug": "science-and-technology",
+          "name": "Science and Technology",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "reasoning-ability",
+      "name": "Reasoning Ability",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "arithmetic-number-series",
+          "name": "Arithmetic Number Series",
+          "sort_order": 10
+        },
+        {
+          "slug": "spatial-orientation-and-spatial-visualization",
+          "name": "Spatial Orientation and Spatial Visualization",
+          "sort_order": 20
+        },
+        {
+          "slug": "relationship-concepts",
+          "name": "Relationship Concepts",
+          "sort_order": 30
+        },
+        {
+          "slug": "arithmetical-reasoning",
+          "name": "Arithmetical Reasoning",
+          "sort_order": 40
+        },
+        {
+          "slug": "non-verbal-series",
+          "name": "Non-verbal Series",
+          "sort_order": 50
+        },
+        {
+          "slug": "observation-and-visual-memory",
+          "name": "Observation and Visual Memory",
+          "sort_order": 60
+        },
+        {
+          "slug": "figure-and-verbal-classification",
+          "name": "Figure and Verbal Classification",
+          "sort_order": 70
+        },
+        {
+          "slug": "analogies-and-discrimination",
+          "name": "Analogies and Discrimination",
+          "sort_order": 80
+        },
+        {
+          "slug": "letter-and-symbol-series",
+          "name": "Letter and Symbol Series",
+          "sort_order": 90
+        },
+        {
+          "slug": "similarities-and-differences",
+          "name": "Similarities and Differences",
+          "sort_order": 100
+        },
+        {
+          "slug": "coding-and-decoding",
+          "name": "Coding and Decoding",
+          "sort_order": 110
+        },
+        {
+          "slug": "verbal-reasoning-and-logical-problems",
+          "name": "Verbal Reasoning and Logical Problems",
+          "sort_order": 120
+        },
+        {
+          "slug": "statement-and-conclusion",
+          "name": "Statement and Conclusion",
+          "sort_order": 130
+        },
+        {
+          "slug": "statement-and-argument",
+          "name": "Statement and Argument",
+          "sort_order": 140
+        },
+        {
+          "slug": "theme-detection-cause-and-effect-logical-deduction",
+          "name": "Theme Detection, Cause and Effect, Logical Deduction",
+          "sort_order": 150
+        },
+        {
+          "slug": "artificial-language",
+          "name": "Artificial Language",
+          "sort_order": 160
+        }
+      ]
+    },
+    {
+      "slug": "computer-literacy",
+      "name": "Computer Literacy",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "important-terms-and-computer-basics",
+          "name": "Important Terms and Computer Basics",
+          "sort_order": 10
+        },
+        {
+          "slug": "paint-brush-use",
+          "name": "Paint Brush Use",
+          "sort_order": 20
+        },
+        {
+          "slug": "desktop-and-computer-peripherals",
+          "name": "Desktop and Computer Peripherals",
+          "sort_order": 30
+        },
+        {
+          "slug": "word-processor-and-formatting-a-document",
+          "name": "Word Processor and Formatting a Document",
+          "sort_order": 40
+        },
+        {
+          "slug": "internet",
+          "name": "Internet",
+          "sort_order": 50
+        },
+        {
+          "slug": "computer-history",
+          "name": "Computer History",
+          "sort_order": 60
+        },
+        {
+          "slug": "exploring-windows",
+          "name": "Exploring Windows",
+          "sort_order": 70
+        },
+        {
+          "slug": "powerpoint-presentation",
+          "name": "PowerPoint Presentation",
+          "sort_order": 80
+        }
+      ]
+    }
+  ]
+}
