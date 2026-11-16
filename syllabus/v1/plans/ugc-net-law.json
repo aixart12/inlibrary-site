@@ -1,0 +1,145 @@
+{
+  "schema": 1,
+  "slug": "ugc-net-law",
+  "kind": "exam",
+  "name": "UGC NET Law (Paper 1 + Paper 2)",
+  "short_name": "UGC NET Law",
+  "aliases": [
+    "ugc net",
+    "ugc-net",
+    "net",
+    "nta net",
+    "nta ugc net",
+    "net jrf",
+    "jrf",
+    "assistant professor",
+    "lectureship",
+    "net exam",
+    "ugc",
+    "law",
+    "llm",
+    "legal",
+    "paper 2",
+    "paper ii"
+  ],
+  "category": "teaching",
+  "subject_count": 2,
+  "topic_count": 20,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "law-paper-2",
+      "name": "Law (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "jurisprudence",
+          "name": "Jurisprudence",
+          "sort_order": 10
+        },
+        {
+          "slug": "constitutional-and-administrative-law",
+          "name": "Constitutional and Administrative Law",
+          "sort_order": 20
+        },
+        {
+          "slug": "public-international-law-and-ihl",
+          "name": "Public International Law and IHL",
+          "sort_order": 30
+        },
+        {
+          "slug": "law-of-crimes",
+          "name": "Law of Crimes",
+          "sort_order": 40
+        },
+        {
+          "slug": "law-of-torts-and-consumer-protection",
+          "name": "Law of Torts and Consumer Protection",
+          "sort_order": 50
+        },
+        {
+          "slug": "commercial-law",
+          "name": "Commercial Law",
+          "sort_order": 60
+        },
+        {
+          "slug": "family-law",
+          "name": "Family Law",
+          "sort_order": 70
+        },
+        {
+          "slug": "environment-and-human-rights-law",
+          "name": "Environment and Human Rights Law",
+          "sort_order": 80
+        },
+        {
+          "slug": "intellectual-property-rights-and-information-technology-law",
+          "name": "Intellectual Property Rights and Information Technology Law",
+          "sort_order": 90
+        },
+        {
+          "slug": "comparative-public-law-and-systems-of-governance",
+          "name": "Comparative Public Law and Systems of Governance",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}
