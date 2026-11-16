@@ -2752,6 +2752,34 @@
       "version": 2
     },
     {
+      "slug": "csir-net-earth-sciences-physical-geography",
+      "kind": "exam",
+      "name": "CSIR NET Earth Sciences (Physical Geography)",
+      "short_name": "CSIR NET Earth Physical Geography",
+      "aliases": [
+        "csir net",
+        "csir",
+        "csir ugc net",
+        "csir-net",
+        "net",
+        "jrf",
+        "net jrf",
+        "csir jrf",
+        "lectureship",
+        "assistant professor",
+        "nta csir",
+        "earth sciences",
+        "earth science",
+        "earth atmospheric ocean and planetary sciences",
+        "geography",
+        "physical geography"
+      ],
+      "category": "teaching",
+      "subject_count": 3,
+      "topic_count": 13,
+      "version": 2
+    },
+    {
       "slug": "csir-net-earth-sciences-geophysics",
       "kind": "exam",
       "name": "CSIR NET Earth Sciences (Geophysics)",
@@ -2805,6 +2833,35 @@
       "category": "teaching",
       "subject_count": 3,
       "topic_count": 18,
+      "version": 2
+    },
+    {
+      "slug": "csir-net-earth-sciences-ocean-sciences",
+      "kind": "exam",
+      "name": "CSIR NET Earth Sciences (Ocean Sciences)",
+      "short_name": "CSIR NET Earth Ocean Sciences",
+      "aliases": [
+        "csir net",
+        "csir",
+        "csir ugc net",
+        "csir-net",
+        "net",
+        "jrf",
+        "net jrf",
+        "csir jrf",
+        "lectureship",
+        "assistant professor",
+        "nta csir",
+        "earth sciences",
+        "earth science",
+        "earth atmospheric ocean and planetary sciences",
+        "ocean sciences",
+        "oceanography",
+        "ocean science"
+      ],
+      "category": "teaching",
+      "subject_count": 3,
+      "topic_count": 12,
       "version": 2
     }
   ]
