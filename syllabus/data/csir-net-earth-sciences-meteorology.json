@@ -1,0 +1,151 @@
+{
+  "exam": {
+    "slug": "csir-net-earth-sciences-meteorology",
+    "name": "CSIR NET Earth Sciences (Meteorology)",
+    "short_name": "CSIR NET Earth Meteorology",
+    "kind": "exam",
+    "aliases": [
+      "csir net",
+      "csir",
+      "csir ugc net",
+      "csir-net",
+      "net",
+      "jrf",
+      "net jrf",
+      "csir jrf",
+      "lectureship",
+      "assistant professor",
+      "nta csir",
+      "earth sciences",
+      "earth science",
+      "earth atmospheric ocean and planetary sciences",
+      "meteorology",
+      "atmospheric sciences",
+      "atmospheric science"
+    ],
+    "category": "teaching",
+    "conducting_body": "Council of Scientific and Industrial Research (CSIR), Human Resource Development Group; conducted by the National Testing Agency (NTA)",
+    "official_url": "https://www.csirhrdg.res.in",
+    "syllabus_source_url": "https://csirhrdg.res.in/Home/Index/1/InPage/36/26",
+    "syllabus_cycle": "Not printed on the PDF (file dated December 2020; scheme headed 'from June 2017 and onward'); linked from the CSIR-HRDG syllabus page on 2026-11-16",
+    "verified": false,
+    "verification_note": "Draft from the syllabus PDF (earth_science_syllabus.pdf) linked on the CSIR-HRDG subject page, read as text. The syllabus is one PDF for the paper 'Earth, Atmospheric, Ocean and Planetary Sciences' with a common Part B and five Part C branches, of which a candidate answers one, so each branch is its own plan; Part A topics are the three areas named in the exam scheme on the subject page; topics are the PDF's numbered branch headings. Check first that the PDF is still the current one.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1650
+  },
+  "subjects": [
+    {
+      "slug": "part-a-general-aptitude",
+      "name": "Part A: General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "general-science",
+          "name": "General Science",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-reasoning-and-analysis",
+          "name": "Quantitative Reasoning and Analysis",
+          "sort_order": 20
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "part-b-common-earth-sciences",
+      "name": "Part B: Common Earth Sciences",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "the-earth-and-the-solar-system",
+          "name": "The Earth and the Solar System",
+          "sort_order": 10
+        },
+        {
+          "slug": "earth-materials-surface-features-and-processes",
+          "name": "Earth Materials, Surface Features and Processes",
+          "sort_order": 20
+        },
+        {
+          "slug": "interior-of-the-earth-deformation-and-tectonics",
+          "name": "Interior of the Earth, Deformation and Tectonics",
+          "sort_order": 30
+        },
+        {
+          "slug": "oceans-and-atmosphere",
+          "name": "Oceans and Atmosphere",
+          "sort_order": 40
+        },
+        {
+          "slug": "environmental-earth-sciences",
+          "name": "Environmental Earth Sciences",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "part-c-meteorology",
+      "name": "Part C: Meteorology",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "climatology-meteorology",
+          "name": "Climatology (Meteorology)",
+          "sort_order": 10
+        },
+        {
+          "slug": "physical-meteorology",
+          "name": "Physical Meteorology",
+          "sort_order": 20
+        },
+        {
+          "slug": "atmospheric-electricity",
+          "name": "Atmospheric Electricity",
+          "sort_order": 30
+        },
+        {
+          "slug": "cloud-physics",
+          "name": "Cloud Physics",
+          "sort_order": 40
+        },
+        {
+          "slug": "dynamic-meteorology",
+          "name": "Dynamic Meteorology",
+          "sort_order": 50
+        },
+        {
+          "slug": "numerical-weather-prediction",
+          "name": "Numerical Weather Prediction",
+          "sort_order": 60
+        },
+        {
+          "slug": "general-circulation-and-climate-modelling",
+          "name": "General Circulation and Climate Modelling",
+          "sort_order": 70
+        },
+        {
+          "slug": "synoptic-meteorology",
+          "name": "Synoptic Meteorology",
+          "sort_order": 80
+        },
+        {
+          "slug": "aviation-meteorology",
+          "name": "Aviation Meteorology",
+          "sort_order": 90
+        },
+        {
+          "slug": "satellite-meteorology",
+          "name": "Satellite Meteorology",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}
