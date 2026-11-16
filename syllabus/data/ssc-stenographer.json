@@ -1,0 +1,228 @@
+{
+  "exam": {
+    "slug": "ssc-stenographer",
+    "name": "SSC Stenographer (Grade C and D)",
+    "short_name": "SSC Stenographer",
+    "kind": "exam",
+    "aliases": [
+      "ssc stenographer",
+      "ssc steno",
+      "steno",
+      "stenographer",
+      "ssc",
+      "grade c",
+      "grade d",
+      "shorthand",
+      "staff selection commission"
+    ],
+    "category": "central-govt",
+    "conducting_body": "Staff Selection Commission (SSC)",
+    "official_url": "https://ssc.gov.in",
+    "syllabus_source_url": "https://www.mahendras.org/blogs/ssc-stenographer-syllabus",
+    "syllabus_cycle": "2026 (as described by the secondary source; official notification not opened)",
+    "verified": false,
+    "verification_note": "General syllabus drafted from Mahendras' SSC Stenographer syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. Check first the three section lists against the indicative syllabus in the SSC notice; the shorthand skill test is not included.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 700
+  },
+  "subjects": [
+    {
+      "slug": "general-intelligence-and-reasoning",
+      "name": "General Intelligence and Reasoning",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "analogy",
+          "name": "Analogy",
+          "sort_order": 10
+        },
+        {
+          "slug": "classification",
+          "name": "Classification",
+          "sort_order": 20
+        },
+        {
+          "slug": "coding-decoding",
+          "name": "Coding-Decoding",
+          "sort_order": 30
+        },
+        {
+          "slug": "number-series-and-alphabet-series",
+          "name": "Number Series and Alphabet Series",
+          "sort_order": 40
+        },
+        {
+          "slug": "blood-relations",
+          "name": "Blood Relations",
+          "sort_order": 50
+        },
+        {
+          "slug": "direction",
+          "name": "Direction",
+          "sort_order": 60
+        },
+        {
+          "slug": "ranking",
+          "name": "Ranking",
+          "sort_order": 70
+        },
+        {
+          "slug": "venn-diagram",
+          "name": "Venn Diagram",
+          "sort_order": 80
+        },
+        {
+          "slug": "syllogism",
+          "name": "Syllogism",
+          "sort_order": 90
+        },
+        {
+          "slug": "puzzle",
+          "name": "Puzzle",
+          "sort_order": 100
+        },
+        {
+          "slug": "non-verbal-reasoning",
+          "name": "Non-Verbal Reasoning",
+          "sort_order": 110
+        },
+        {
+          "slug": "mathematical-operations",
+          "name": "Mathematical Operations",
+          "sort_order": 120
+        },
+        {
+          "slug": "arithmetical-reasoning",
+          "name": "Arithmetical Reasoning",
+          "sort_order": 130
+        },
+        {
+          "slug": "decision-making",
+          "name": "Decision Making",
+          "sort_order": 140
+        },
+        {
+          "slug": "statement-conclusion",
+          "name": "Statement Conclusion",
+          "sort_order": 150
+        },
+        {
+          "slug": "visual-memory",
+          "name": "Visual Memory",
+          "sort_order": 160
+        }
+      ]
+    },
+    {
+      "slug": "general-awareness",
+      "name": "General Awareness",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "history",
+          "name": "History",
+          "sort_order": 10
+        },
+        {
+          "slug": "geography",
+          "name": "Geography",
+          "sort_order": 20
+        },
+        {
+          "slug": "polity",
+          "name": "Polity",
+          "sort_order": 30
+        },
+        {
+          "slug": "economy",
+          "name": "Economy",
+          "sort_order": 40
+        },
+        {
+          "slug": "science-physics-chemistry-and-biology",
+          "name": "Science: Physics, Chemistry and Biology",
+          "sort_order": 50
+        },
+        {
+          "slug": "scientific-research",
+          "name": "Scientific Research",
+          "sort_order": 60
+        },
+        {
+          "slug": "current-affairs-national-and-international",
+          "name": "Current Affairs: National and International",
+          "sort_order": 70
+        },
+        {
+          "slug": "awards-books-and-sports",
+          "name": "Awards, Books and Sports",
+          "sort_order": 80
+        },
+        {
+          "slug": "government-schemes",
+          "name": "Government Schemes",
+          "sort_order": 90
+        },
+        {
+          "slug": "static-gk",
+          "name": "Static GK",
+          "sort_order": 100
+        },
+        {
+          "slug": "important-days",
+          "name": "Important Days",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "english-language-and-comprehension",
+      "name": "English Language and Comprehension",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "vocabulary",
+          "name": "Vocabulary",
+          "sort_order": 10
+        },
+        {
+          "slug": "grammar",
+          "name": "Grammar",
+          "sort_order": 20
+        },
+        {
+          "slug": "error-detection",
+          "name": "Error Detection",
+          "sort_order": 30
+        },
+        {
+          "slug": "sentence-improvement-and-sentence-correction",
+          "name": "Sentence Improvement and Sentence Correction",
+          "sort_order": 40
+        },
+        {
+          "slug": "fill-in-the-blanks",
+          "name": "Fill in the Blanks",
+          "sort_order": 50
+        },
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 60
+        },
+        {
+          "slug": "para-jumbles",
+          "name": "Para Jumbles",
+          "sort_order": 70
+        },
+        {
+          "slug": "spelling",
+          "name": "Spelling",
+          "sort_order": 80
+        }
+      ]
+    }
+  ]
+}

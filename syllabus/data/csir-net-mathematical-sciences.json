@@ -1,0 +1,205 @@
+{
+  "exam": {
+    "slug": "csir-net-mathematical-sciences",
+    "name": "CSIR NET Mathematical Sciences",
+    "short_name": "CSIR NET Mathematical Sciences",
+    "kind": "exam",
+    "aliases": [
+      "csir net",
+      "csir",
+      "csir ugc net",
+      "csir-net",
+      "net",
+      "jrf",
+      "net jrf",
+      "csir jrf",
+      "lectureship",
+      "assistant professor",
+      "nta csir",
+      "mathematical sciences",
+      "mathematical science",
+      "mathematics",
+      "maths",
+      "math",
+      "statistics"
+    ],
+    "category": "teaching",
+    "conducting_body": "Council of Scientific and Industrial Research (CSIR), Human Resource Development Group; conducted by the National Testing Agency (NTA)",
+    "official_url": "https://www.csirhrdg.res.in",
+    "syllabus_source_url": "https://csirhrdg.res.in/Home/Index/1/InPage/38/26",
+    "syllabus_cycle": "Not printed on the PDF (file dated December 2020; exam scheme headed 'from June 2017 and onward'); linked from the CSIR-HRDG syllabus page on 2026-11-15",
+    "verified": false,
+    "verification_note": "Draft from the syllabus PDF (mathmeticascience_syllbus.pdf) linked on the CSIR-HRDG subject page, read as text; the Part A topics are the three areas named in the exam scheme on that page. Units 1 to 3 use the PDF's own headings; Unit 4 is printed as untitled paragraphs, so its topic names are labels written for this draft and should be checked first.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 840
+  },
+  "subjects": [
+    {
+      "slug": "part-a-general-aptitude",
+      "name": "Part A: General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "general-science",
+          "name": "General Science",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-reasoning-and-analysis",
+          "name": "Quantitative Reasoning and Analysis",
+          "sort_order": 20
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "unit-1",
+      "name": "Unit 1",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "analysis",
+          "name": "Analysis",
+          "sort_order": 10
+        },
+        {
+          "slug": "linear-algebra",
+          "name": "Linear Algebra",
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "slug": "unit-2",
+      "name": "Unit 2",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "complex-analysis",
+          "name": "Complex Analysis",
+          "sort_order": 10
+        },
+        {
+          "slug": "algebra",
+          "name": "Algebra",
+          "sort_order": 20
+        },
+        {
+          "slug": "topology",
+          "name": "Topology",
+          "sort_order": 30
+        }
+      ]
+    },
+    {
+      "slug": "unit-3",
+      "name": "Unit 3",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "ordinary-differential-equations-odes",
+          "name": "Ordinary Differential Equations (ODEs)",
+          "sort_order": 10
+        },
+        {
+          "slug": "partial-differential-equations-pdes",
+          "name": "Partial Differential Equations (PDEs)",
+          "sort_order": 20
+        },
+        {
+          "slug": "numerical-analysis",
+          "name": "Numerical Analysis",
+          "sort_order": 30
+        },
+        {
+          "slug": "calculus-of-variations",
+          "name": "Calculus of Variations",
+          "sort_order": 40
+        },
+        {
+          "slug": "linear-integral-equations",
+          "name": "Linear Integral Equations",
+          "sort_order": 50
+        },
+        {
+          "slug": "classical-mechanics",
+          "name": "Classical Mechanics",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "unit-4-statistics",
+      "name": "Unit 4 (Statistics)",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "descriptive-statistics-and-exploratory-data-analysis",
+          "name": "Descriptive Statistics and Exploratory Data Analysis",
+          "sort_order": 10
+        },
+        {
+          "slug": "probability-random-variables-and-limit-theorems",
+          "name": "Probability, Random Variables and Limit Theorems",
+          "sort_order": 20
+        },
+        {
+          "slug": "markov-chains-poisson-and-birth-and-death-processes",
+          "name": "Markov Chains, Poisson and Birth-and-Death Processes",
+          "sort_order": 30
+        },
+        {
+          "slug": "standard-distributions-and-sampling-distributions",
+          "name": "Standard Distributions and Sampling Distributions",
+          "sort_order": 40
+        },
+        {
+          "slug": "estimation-and-tests-of-hypotheses",
+          "name": "Estimation and Tests of Hypotheses",
+          "sort_order": 50
+        },
+        {
+          "slug": "nonparametric-tests-and-elementary-bayesian-inference",
+          "name": "Nonparametric Tests and Elementary Bayesian Inference",
+          "sort_order": 60
+        },
+        {
+          "slug": "gauss-markov-models-analysis-of-variance-and-regression",
+          "name": "Gauss-Markov Models, Analysis of Variance and Regression",
+          "sort_order": 70
+        },
+        {
+          "slug": "multivariate-analysis-and-data-reduction-techniques",
+          "name": "Multivariate Analysis and Data Reduction Techniques",
+          "sort_order": 80
+        },
+        {
+          "slug": "sampling-methods",
+          "name": "Sampling Methods",
+          "sort_order": 90
+        },
+        {
+          "slug": "design-of-experiments",
+          "name": "Design of Experiments",
+          "sort_order": 100
+        },
+        {
+          "slug": "hazard-function-life-testing-and-reliability",
+          "name": "Hazard Function, Life Testing and Reliability",
+          "sort_order": 110
+        },
+        {
+          "slug": "linear-programming-queuing-and-inventory-models",
+          "name": "Linear Programming, Queuing and Inventory Models",
+          "sort_order": 120
+        }
+      ]
+    }
+  ]
+}

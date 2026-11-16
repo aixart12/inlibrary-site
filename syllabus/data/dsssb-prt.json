@@ -1,0 +1,269 @@
+{
+  "exam": {
+    "slug": "dsssb-prt",
+    "name": "DSSSB PRT (Primary Teacher, Delhi)",
+    "short_name": "DSSSB PRT",
+    "kind": "exam",
+    "aliases": [
+      "dsssb",
+      "dsssb prt",
+      "delhi subordinate services selection board",
+      "delhi",
+      "delhi prt",
+      "prt",
+      "primary teacher",
+      "teacher",
+      "teaching"
+    ],
+    "category": "teaching",
+    "conducting_body": "Delhi Subordinate Services Selection Board (DSSSB)",
+    "official_url": "https://dsssb.delhi.gov.in",
+    "syllabus_source_url": "https://www.drishtiteachingexams.com/blog/dsssb-prt-exam-complete-pattern-syllabus-preparation-guide-for-primary-teachers",
+    "syllabus_cycle": "2026 (a blog post dated 30 April 2026; official notification not opened)",
+    "verified": false,
+    "verification_note": "General syllabus drafted from Drishti Teaching Exams' DSSSB PRT page, a secondary site, not from the official notification; topic names are that page's lists, grouped. The page gives Section B (pedagogy) as seven headings and no Hindi, English, Maths or EVS topics for it; check first whether Section B has subject lists in the notification. Hindi topics are given by their English names.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1360
+  },
+  "subjects": [
+    {
+      "slug": "general-awareness",
+      "name": "General Awareness",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "history-geography-and-polity",
+          "name": "History, Geography and Polity",
+          "sort_order": 10
+        },
+        {
+          "slug": "economy-and-static-gk",
+          "name": "Economy and Static GK",
+          "sort_order": 20
+        },
+        {
+          "slug": "culture-and-sports",
+          "name": "Culture and Sports",
+          "sort_order": 30
+        },
+        {
+          "slug": "current-affairs-last-6-to-12-months",
+          "name": "Current Affairs (last 6 to 12 months)",
+          "sort_order": 40
+        },
+        {
+          "slug": "science-and-environment",
+          "name": "Science and Environment",
+          "sort_order": 50
+        },
+        {
+          "slug": "organisations",
+          "name": "Organisations",
+          "sort_order": 60
+        },
+        {
+          "slug": "delhi-specific-gk",
+          "name": "Delhi-specific GK",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "reasoning-ability",
+      "name": "Reasoning Ability",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "analogies-and-coding-decoding",
+          "name": "Analogies and Coding-Decoding",
+          "sort_order": 10
+        },
+        {
+          "slug": "series-and-pattern-recognition",
+          "name": "Series and Pattern Recognition",
+          "sort_order": 20
+        },
+        {
+          "slug": "blood-relations-and-direction-test",
+          "name": "Blood Relations and Direction Test",
+          "sort_order": 30
+        },
+        {
+          "slug": "non-verbal-reasoning",
+          "name": "Non-verbal Reasoning",
+          "sort_order": 40
+        },
+        {
+          "slug": "problem-solving-and-decision-making",
+          "name": "Problem Solving and Decision Making",
+          "sort_order": 50
+        }
+      ]
+    },
+    {
+      "slug": "arithmetical-and-numerical-ability",
+      "name": "Arithmetical and Numerical Ability",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "simplification-and-number-system",
+          "name": "Simplification and Number System",
+          "sort_order": 10
+        },
+        {
+          "slug": "percentage-ratio-and-proportion",
+          "name": "Percentage, Ratio and Proportion",
+          "sort_order": 20
+        },
+        {
+          "slug": "profit-and-loss-time-and-work",
+          "name": "Profit and Loss, Time and Work",
+          "sort_order": 30
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 40
+        },
+        {
+          "slug": "time-speed-and-distance",
+          "name": "Time, Speed and Distance",
+          "sort_order": 50
+        },
+        {
+          "slug": "average-and-data-interpretation",
+          "name": "Average and Data Interpretation",
+          "sort_order": 60
+        },
+        {
+          "slug": "tables-and-graphs",
+          "name": "Tables and Graphs",
+          "sort_order": 70
+        },
+        {
+          "slug": "mensuration-and-fractions",
+          "name": "Mensuration and Fractions",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "hindi-language-and-comprehension",
+      "name": "Hindi Language and Comprehension",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "grammar-sandhi-samas-karak",
+          "name": "Grammar: Sandhi, Samas, Karak",
+          "sort_order": 10
+        },
+        {
+          "slug": "synonyms-and-antonyms",
+          "name": "Synonyms and Antonyms",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension-hindi",
+          "name": "Comprehension (Hindi)",
+          "sort_order": 30
+        },
+        {
+          "slug": "sentence-correction",
+          "name": "Sentence Correction",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "english-language-and-comprehension",
+      "name": "English Language and Comprehension",
+      "sort_order": 50,
+      "topics": [
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 10
+        },
+        {
+          "slug": "one-word-substitution",
+          "name": "One Word Substitution",
+          "sort_order": 20
+        },
+        {
+          "slug": "vocabulary-synonyms-and-antonyms",
+          "name": "Vocabulary: Synonyms and Antonyms",
+          "sort_order": 30
+        },
+        {
+          "slug": "error-detection",
+          "name": "Error Detection",
+          "sort_order": 40
+        },
+        {
+          "slug": "sentence-improvement",
+          "name": "Sentence Improvement",
+          "sort_order": 50
+        },
+        {
+          "slug": "fill-in-the-blanks",
+          "name": "Fill in the Blanks",
+          "sort_order": 60
+        },
+        {
+          "slug": "idioms-and-phrases",
+          "name": "Idioms and Phrases",
+          "sort_order": 70
+        },
+        {
+          "slug": "spellings",
+          "name": "Spellings",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "section-b-teaching-methodology-and-pedagogy",
+      "name": "Section B: Teaching Methodology and Pedagogy",
+      "sort_order": 60,
+      "topics": [
+        {
+          "slug": "child-development-and-pedagogy",
+          "name": "Child Development and Pedagogy",
+          "sort_order": 10
+        },
+        {
+          "slug": "learning-theories-piaget-vygotsky-and-others",
+          "name": "Learning Theories: Piaget, Vygotsky and Others",
+          "sort_order": 20
+        },
+        {
+          "slug": "teaching-methods-and-strategies",
+          "name": "Teaching Methods and Strategies",
+          "sort_order": 30
+        },
+        {
+          "slug": "classroom-management",
+          "name": "Classroom Management",
+          "sort_order": 40
+        },
+        {
+          "slug": "evaluation-and-assessment",
+          "name": "Evaluation and Assessment",
+          "sort_order": 50
+        },
+        {
+          "slug": "inclusive-education",
+          "name": "Inclusive Education",
+          "sort_order": 60
+        },
+        {
+          "slug": "nep-and-ncf-basics",
+          "name": "NEP and NCF Basics",
+          "sort_order": 70
+        }
+      ]
+    }
+  ]
+}

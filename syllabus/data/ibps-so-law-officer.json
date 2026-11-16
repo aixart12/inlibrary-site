@@ -1,0 +1,278 @@
+{
+  "exam": {
+    "slug": "ibps-so-law-officer",
+    "name": "IBPS SO (Law Officer)",
+    "short_name": "IBPS SO Law Officer",
+    "kind": "exam",
+    "aliases": [
+      "ibps so",
+      "ibps specialist officer",
+      "specialist officer",
+      "so",
+      "ibps",
+      "bank so",
+      "bank exam",
+      "banking",
+      "bank officer",
+      "law officer",
+      "legal officer",
+      "law"
+    ],
+    "category": "banking",
+    "conducting_body": "Institute of Banking Personnel Selection (IBPS)",
+    "official_url": "https://www.ibps.in",
+    "syllabus_source_url": "https://www.adda247.com/jobs/ibps-so-syllabus/",
+    "syllabus_cycle": "2026 (as described by the secondary source; official notification not opened)",
+    "verified": false,
+    "verification_note": "General syllabus drafted from Adda247's IBPS SO syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. The notification names test sections only, so check first the professional knowledge list against it; the Mains English section has no topic list on the page and is not included.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1700
+  },
+  "subjects": [
+    {
+      "slug": "english-language-prelims",
+      "name": "English Language (Prelims)",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "cloze-test",
+          "name": "Cloze Test",
+          "sort_order": 10
+        },
+        {
+          "slug": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "sort_order": 20
+        },
+        {
+          "slug": "spotting-errors",
+          "name": "Spotting Errors",
+          "sort_order": 30
+        },
+        {
+          "slug": "sentence-improvement-and-sentence-correction",
+          "name": "Sentence Improvement and Sentence Correction",
+          "sort_order": 40
+        },
+        {
+          "slug": "para-jumbles",
+          "name": "Para Jumbles",
+          "sort_order": 50
+        },
+        {
+          "slug": "fill-in-the-blanks",
+          "name": "Fill in the Blanks",
+          "sort_order": 60
+        },
+        {
+          "slug": "para-and-sentence-completion",
+          "name": "Para and Sentence Completion",
+          "sort_order": 70
+        }
+      ]
+    },
+    {
+      "slug": "reasoning-ability-prelims",
+      "name": "Reasoning Ability (Prelims)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "seating-arrangements",
+          "name": "Seating Arrangements",
+          "sort_order": 10
+        },
+        {
+          "slug": "puzzles",
+          "name": "Puzzles",
+          "sort_order": 20
+        },
+        {
+          "slug": "inequalities",
+          "name": "Inequalities",
+          "sort_order": 30
+        },
+        {
+          "slug": "syllogism",
+          "name": "Syllogism",
+          "sort_order": 40
+        },
+        {
+          "slug": "input-output",
+          "name": "Input-Output",
+          "sort_order": 50
+        },
+        {
+          "slug": "data-sufficiency",
+          "name": "Data Sufficiency",
+          "sort_order": 60
+        },
+        {
+          "slug": "blood-relations",
+          "name": "Blood Relations",
+          "sort_order": 70
+        },
+        {
+          "slug": "order-and-ranking",
+          "name": "Order and Ranking",
+          "sort_order": 80
+        },
+        {
+          "slug": "alphanumeric-series",
+          "name": "Alphanumeric Series",
+          "sort_order": 90
+        },
+        {
+          "slug": "distance-and-direction",
+          "name": "Distance and Direction",
+          "sort_order": 100
+        },
+        {
+          "slug": "verbal-reasoning",
+          "name": "Verbal Reasoning",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "quantitative-aptitude-prelims",
+      "name": "Quantitative Aptitude (Prelims)",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "number-series",
+          "name": "Number Series",
+          "sort_order": 10
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 20
+        },
+        {
+          "slug": "simplification-and-approximation",
+          "name": "Simplification and Approximation",
+          "sort_order": 30
+        },
+        {
+          "slug": "quadratic-equation",
+          "name": "Quadratic Equation",
+          "sort_order": 40
+        },
+        {
+          "slug": "data-sufficiency-quant",
+          "name": "Data Sufficiency (Quant)",
+          "sort_order": 50
+        },
+        {
+          "slug": "mensuration",
+          "name": "Mensuration",
+          "sort_order": 60
+        },
+        {
+          "slug": "average",
+          "name": "Average",
+          "sort_order": 70
+        },
+        {
+          "slug": "profit-and-loss",
+          "name": "Profit and Loss",
+          "sort_order": 80
+        },
+        {
+          "slug": "ratio-and-proportion",
+          "name": "Ratio and Proportion",
+          "sort_order": 90
+        },
+        {
+          "slug": "work-time-and-energy",
+          "name": "Work, Time and Energy",
+          "sort_order": 100
+        },
+        {
+          "slug": "time-and-distance",
+          "name": "Time and Distance",
+          "sort_order": 110
+        },
+        {
+          "slug": "probability",
+          "name": "Probability",
+          "sort_order": 120
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 130
+        },
+        {
+          "slug": "permutation-and-combination",
+          "name": "Permutation and Combination",
+          "sort_order": 140
+        }
+      ]
+    },
+    {
+      "slug": "professional-knowledge-law-officer",
+      "name": "Professional Knowledge (Law Officer)",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "banking-regulations",
+          "name": "Banking Regulations",
+          "sort_order": 10
+        },
+        {
+          "slug": "compliance-and-legal-aspects",
+          "name": "Compliance and Legal Aspects",
+          "sort_order": 20
+        },
+        {
+          "slug": "laws-on-negotiable-instruments-securities-and-foreign-exchan",
+          "name": "Laws on Negotiable Instruments, Securities and Foreign Exchange",
+          "sort_order": 30
+        },
+        {
+          "slug": "prevention-of-money-laundering",
+          "name": "Prevention of Money-Laundering",
+          "sort_order": 40
+        },
+        {
+          "slug": "limitation-act",
+          "name": "Limitation Act",
+          "sort_order": 50
+        },
+        {
+          "slug": "consumer-protection-act",
+          "name": "Consumer Protection Act",
+          "sort_order": 60
+        },
+        {
+          "slug": "sarfaesi-act",
+          "name": "SARFAESI Act",
+          "sort_order": 70
+        },
+        {
+          "slug": "banking-ombudsman-scheme",
+          "name": "Banking Ombudsman Scheme",
+          "sort_order": 80
+        },
+        {
+          "slug": "laws-and-actions-directly-linked-to-the-banking-sector",
+          "name": "Laws and Actions Directly Linked to the Banking Sector",
+          "sort_order": 90
+        },
+        {
+          "slug": "bankers-books-evidence-act",
+          "name": "Bankers' Books Evidence Act",
+          "sort_order": 100
+        },
+        {
+          "slug": "drt-act",
+          "name": "DRT Act",
+          "sort_order": 110
+        }
+      ]
+    }
+  ]
+}
