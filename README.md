@@ -15,7 +15,7 @@ opens "On this page" automatically on wide screens.
 
 | File | What it is |
 |---|---|
-| `index.html` | Landing page: hero, features, screenshots, privacy summary, about us (team), policies, contact |
+| `index.html` | Landing page (links to the syllabus library): hero, features, screenshots, privacy summary, about us (team), policies, contact |
 | `privacy.html` | Privacy Policy (includes the India DPDP Act section and grievance officer) |
 | `terms.html` | Terms and Conditions (Indian law, users 13+) |
 | `delete-account.html` | How to delete an account and data, in the app or by email |
