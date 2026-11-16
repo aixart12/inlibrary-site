@@ -1,0 +1,315 @@
+{
+  "exam": {
+    "slug": "afcat",
+    "name": "AFCAT (Air Force Common Admission Test)",
+    "short_name": "AFCAT",
+    "kind": "exam",
+    "aliases": [
+      "afcat",
+      "air force common admission test",
+      "air force",
+      "indian air force",
+      "iaf",
+      "flying branch",
+      "ground duty",
+      "defence",
+      "officer"
+    ],
+    "category": "defence",
+    "conducting_body": "Indian Air Force (IAF)",
+    "official_url": "https://afcat.cdac.in",
+    "syllabus_source_url": "https://www.pw.live/exams/defence/afcat-syllabus",
+    "syllabus_cycle": "AFCAT 2026 (as described by the secondary source; official notification not opened)",
+    "verified": false,
+    "verification_note": "General syllabus drafted from Physics Wallah's AFCAT syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. Check first the four section lists against the latest AFCAT notification; the Engineering Knowledge Test for technical branches is not included.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 660
+  },
+  "subjects": [
+    {
+      "slug": "general-awareness",
+      "name": "General Awareness",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "history",
+          "name": "History",
+          "sort_order": 10
+        },
+        {
+          "slug": "geography",
+          "name": "Geography",
+          "sort_order": 20
+        },
+        {
+          "slug": "sports",
+          "name": "Sports",
+          "sort_order": 30
+        },
+        {
+          "slug": "national-and-international-organisations",
+          "name": "National and International Organisations",
+          "sort_order": 40
+        },
+        {
+          "slug": "art-and-culture",
+          "name": "Art and Culture",
+          "sort_order": 50
+        },
+        {
+          "slug": "personalities",
+          "name": "Personalities",
+          "sort_order": 60
+        },
+        {
+          "slug": "environment-and-ecology",
+          "name": "Environment and Ecology",
+          "sort_order": 70
+        },
+        {
+          "slug": "indian-polity",
+          "name": "Indian Polity",
+          "sort_order": 80
+        },
+        {
+          "slug": "economy",
+          "name": "Economy",
+          "sort_order": 90
+        },
+        {
+          "slug": "basic-science-based-knowledge",
+          "name": "Basic Science Based Knowledge",
+          "sort_order": 100
+        },
+        {
+          "slug": "science-and-technology",
+          "name": "Science and Technology",
+          "sort_order": 110
+        },
+        {
+          "slug": "current-affairs-national-and-international",
+          "name": "Current Affairs (National and International)",
+          "sort_order": 120
+        },
+        {
+          "slug": "defence",
+          "name": "Defence",
+          "sort_order": 130
+        }
+      ]
+    },
+    {
+      "slug": "verbal-ability-in-english",
+      "name": "Verbal Ability in English",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 10
+        },
+        {
+          "slug": "detecting-errors-in-sentences",
+          "name": "Detecting Errors in Sentences",
+          "sort_order": 20
+        },
+        {
+          "slug": "sentence-completion-and-filling-in-of-correct-word",
+          "name": "Sentence Completion and Filling in of Correct Word",
+          "sort_order": 30
+        },
+        {
+          "slug": "synonym-and-antonym",
+          "name": "Synonym and Antonym",
+          "sort_order": 40
+        },
+        {
+          "slug": "cloze-test",
+          "name": "Cloze Test",
+          "sort_order": 50
+        },
+        {
+          "slug": "idioms-and-phrases",
+          "name": "Idioms and Phrases",
+          "sort_order": 60
+        },
+        {
+          "slug": "analogy",
+          "name": "Analogy",
+          "sort_order": 70
+        },
+        {
+          "slug": "sentence-rearranging",
+          "name": "Sentence Rearranging",
+          "sort_order": 80
+        },
+        {
+          "slug": "one-word-substitution",
+          "name": "One Word Substitution",
+          "sort_order": 90
+        },
+        {
+          "slug": "homophones-and-homonyms",
+          "name": "Homophones and Homonyms",
+          "sort_order": 100
+        },
+        {
+          "slug": "adjective-degree-of-comparison",
+          "name": "Adjective Degree of Comparison",
+          "sort_order": 110
+        },
+        {
+          "slug": "active-and-passive-voice",
+          "name": "Active and Passive Voice",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "numerical-ability",
+      "name": "Numerical Ability",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "decimal-fraction",
+          "name": "Decimal Fraction",
+          "sort_order": 10
+        },
+        {
+          "slug": "time-and-work",
+          "name": "Time and Work",
+          "sort_order": 20
+        },
+        {
+          "slug": "average-and-percentage",
+          "name": "Average and Percentage",
+          "sort_order": 30
+        },
+        {
+          "slug": "profit-and-loss",
+          "name": "Profit and Loss",
+          "sort_order": 40
+        },
+        {
+          "slug": "ratio-and-proportion",
+          "name": "Ratio and Proportion",
+          "sort_order": 50
+        },
+        {
+          "slug": "simple-and-compound-interest",
+          "name": "Simple and Compound Interest",
+          "sort_order": 60
+        },
+        {
+          "slug": "time-and-distance-races-trains-boats-and-streams",
+          "name": "Time and Distance, Races, Trains, Boats and Streams",
+          "sort_order": 70
+        },
+        {
+          "slug": "area-and-perimeter",
+          "name": "Area and Perimeter",
+          "sort_order": 80
+        },
+        {
+          "slug": "probability",
+          "name": "Probability",
+          "sort_order": 90
+        },
+        {
+          "slug": "number-system-and-number-series",
+          "name": "Number System and Number Series",
+          "sort_order": 100
+        },
+        {
+          "slug": "mixture-and-allegation",
+          "name": "Mixture and Allegation",
+          "sort_order": 110
+        },
+        {
+          "slug": "clocks",
+          "name": "Clocks",
+          "sort_order": 120
+        }
+      ]
+    },
+    {
+      "slug": "reasoning-and-military-aptitude-test",
+      "name": "Reasoning and Military Aptitude Test",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "verbal-and-non-verbal-reasoning",
+          "name": "Verbal and Non-Verbal Reasoning",
+          "sort_order": 10
+        },
+        {
+          "slug": "series",
+          "name": "Series",
+          "sort_order": 20
+        },
+        {
+          "slug": "syllogism",
+          "name": "Syllogism",
+          "sort_order": 30
+        },
+        {
+          "slug": "venn-diagram",
+          "name": "Venn Diagram",
+          "sort_order": 40
+        },
+        {
+          "slug": "blood-relationship",
+          "name": "Blood Relationship",
+          "sort_order": 50
+        },
+        {
+          "slug": "data-interpretation-and-data-sufficiency",
+          "name": "Data Interpretation and Data Sufficiency",
+          "sort_order": 60
+        },
+        {
+          "slug": "arrangement-based-sets-and-seating-arrangements",
+          "name": "Arrangement-based Sets and Seating Arrangements",
+          "sort_order": 70
+        },
+        {
+          "slug": "embedded-figures-and-hidden-figures",
+          "name": "Embedded Figures and Hidden Figures",
+          "sort_order": 80
+        },
+        {
+          "slug": "missing-character",
+          "name": "Missing Character",
+          "sort_order": 90
+        },
+        {
+          "slug": "rotated-blocks",
+          "name": "Rotated Blocks",
+          "sort_order": 100
+        },
+        {
+          "slug": "analogy-reasoning-and-military-aptitude-test",
+          "name": "Analogy",
+          "sort_order": 110
+        },
+        {
+          "slug": "conclusions-and-statements",
+          "name": "Conclusions and Statements",
+          "sort_order": 120
+        },
+        {
+          "slug": "order-and-rank",
+          "name": "Order and Rank",
+          "sort_order": 130
+        },
+        {
+          "slug": "military-aptitude",
+          "name": "Military Aptitude",
+          "sort_order": 140
+        }
+      ]
+    }
+  ]
+}

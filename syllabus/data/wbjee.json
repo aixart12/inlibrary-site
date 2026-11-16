@@ -1,0 +1,409 @@
+{
+  "exam": {
+    "slug": "wbjee",
+    "name": "WBJEE (Engineering)",
+    "short_name": "WBJEE",
+    "kind": "exam",
+    "aliases": [
+      "wbjee",
+      "wbjee engineering",
+      "wb jee",
+      "west bengal jee",
+      "west bengal joint entrance",
+      "wbjeeb",
+      "jee west bengal",
+      "bengal engineering entrance",
+      "btech west bengal",
+      "engineering"
+    ],
+    "category": "entrance",
+    "conducting_body": "West Bengal Joint Entrance Examinations Board (WBJEEB)",
+    "official_url": "https://wbjeeb.nic.in",
+    "syllabus_source_url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2026/03/202603101506582412.pdf",
+    "syllabus_cycle": "2026 (WBJEE-2026 Information Bulletin, Appendix 9; 2027 bulletin not yet published as of 2026-11)",
+    "verified": false,
+    "verification_note": "Draft from Appendix 9 of the WBJEE-2026 Information Bulletin on wbjeeb.nic.in (text PDF); chapter titles are the bulletin's own numbered items. Check first that the Chemistry chapters (the bulletin numbers sub-parts separately) were merged correctly and whether a 2027 bulletin has appeared.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 300
+  },
+  "subjects": [
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "algebra-a-p-g-p-h-p",
+          "name": "Algebra: A.P., G.P., H.P.",
+          "sort_order": 10
+        },
+        {
+          "slug": "logarithms",
+          "name": "Logarithms",
+          "sort_order": 20
+        },
+        {
+          "slug": "complex-numbers",
+          "name": "Complex Numbers",
+          "sort_order": 30
+        },
+        {
+          "slug": "polynomial-equation",
+          "name": "Polynomial Equation",
+          "sort_order": 40
+        },
+        {
+          "slug": "permutation-and-combination",
+          "name": "Permutation and Combination",
+          "sort_order": 50
+        },
+        {
+          "slug": "principle-of-mathematical-induction",
+          "name": "Principle of Mathematical Induction",
+          "sort_order": 60
+        },
+        {
+          "slug": "binomial-theorem-positive-integral-index",
+          "name": "Binomial Theorem (positive integral index)",
+          "sort_order": 70
+        },
+        {
+          "slug": "matrices",
+          "name": "Matrices",
+          "sort_order": 80
+        },
+        {
+          "slug": "sets-relations-and-mappings",
+          "name": "Sets, Relations and Mappings",
+          "sort_order": 90
+        },
+        {
+          "slug": "relation-and-its-properties",
+          "name": "Relation and its Properties",
+          "sort_order": 100
+        },
+        {
+          "slug": "statistics-and-probability",
+          "name": "Statistics and Probability",
+          "sort_order": 110
+        },
+        {
+          "slug": "trigonometry",
+          "name": "Trigonometry",
+          "sort_order": 120
+        },
+        {
+          "slug": "coordinate-geometry-of-two-dimensions",
+          "name": "Coordinate Geometry of Two Dimensions",
+          "sort_order": 130
+        },
+        {
+          "slug": "straight-lines",
+          "name": "Straight Lines",
+          "sort_order": 140
+        },
+        {
+          "slug": "circle-and-conic-sections",
+          "name": "Circle & Conic Sections",
+          "sort_order": 150
+        },
+        {
+          "slug": "co-ordinate-geometry-of-three-dimensions",
+          "name": "Co-ordinate Geometry of Three Dimensions",
+          "sort_order": 160
+        },
+        {
+          "slug": "calculus",
+          "name": "Calculus",
+          "sort_order": 170
+        },
+        {
+          "slug": "rolle-s-theorem-and-lagrange-s-mean-value-theorem",
+          "name": "Rolle's Theorem and Lagrange's Mean Value Theorem",
+          "sort_order": 180
+        },
+        {
+          "slug": "integral-calculus",
+          "name": "Integral Calculus",
+          "sort_order": 190
+        },
+        {
+          "slug": "differential-equations",
+          "name": "Differential Equations",
+          "sort_order": 200
+        },
+        {
+          "slug": "application-of-calculus",
+          "name": "Application of Calculus",
+          "sort_order": 210
+        },
+        {
+          "slug": "vectors",
+          "name": "Vectors",
+          "sort_order": 220
+        }
+      ]
+    },
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "physical-world-measurements-units-and-dimensions",
+          "name": "Physical World, Measurements, Units & dimensions",
+          "sort_order": 10
+        },
+        {
+          "slug": "motion-in-one-dimension-and-two-dimensions",
+          "name": "Motion in one dimension and two dimensions",
+          "sort_order": 20
+        },
+        {
+          "slug": "motion-in-a-plane",
+          "name": "Motion in a Plane",
+          "sort_order": 30
+        },
+        {
+          "slug": "laws-of-motion",
+          "name": "Laws of Motion",
+          "sort_order": 40
+        },
+        {
+          "slug": "work-power-energy",
+          "name": "Work, power, energy",
+          "sort_order": 50
+        },
+        {
+          "slug": "motion-of-system-of-particles-and-rigid-body",
+          "name": "Motion of system of particles and rigid body",
+          "sort_order": 60
+        },
+        {
+          "slug": "gravitation",
+          "name": "Gravitation",
+          "sort_order": 70
+        },
+        {
+          "slug": "bulk-properties-of-matter",
+          "name": "Bulk properties of matter",
+          "sort_order": 80
+        },
+        {
+          "slug": "viscosity",
+          "name": "Viscosity",
+          "sort_order": 90
+        },
+        {
+          "slug": "heat-and-thermal-physics",
+          "name": "Heat & Thermal Physics",
+          "sort_order": 100
+        },
+        {
+          "slug": "thermodynamics",
+          "name": "Thermodynamics",
+          "sort_order": 110
+        },
+        {
+          "slug": "kinetic-theory-of-gases",
+          "name": "Kinetic theory of gases",
+          "sort_order": 120
+        },
+        {
+          "slug": "oscillations-and-waves",
+          "name": "Oscillations & Waves",
+          "sort_order": 130
+        },
+        {
+          "slug": "electrostatics",
+          "name": "Electrostatics",
+          "sort_order": 140
+        },
+        {
+          "slug": "current-electricity",
+          "name": "Current Electricity",
+          "sort_order": 150
+        },
+        {
+          "slug": "magnetic-effect-of-current-and-magnetism",
+          "name": "Magnetic effect of current and Magnetism",
+          "sort_order": 160
+        },
+        {
+          "slug": "electromagnetic-induction-and-alternating-current",
+          "name": "Electromagnetic induction & alternating current",
+          "sort_order": 170
+        },
+        {
+          "slug": "electromagnetic-waves",
+          "name": "Electromagnetic waves",
+          "sort_order": 180
+        },
+        {
+          "slug": "optics-i-ray-optics",
+          "name": "Optics I (Ray optics)",
+          "sort_order": 190
+        },
+        {
+          "slug": "optics-ii-wave-optics",
+          "name": "Optics II (Wave Optics)",
+          "sort_order": 200
+        },
+        {
+          "slug": "atomic-physics",
+          "name": "Atomic Physics",
+          "sort_order": 210
+        },
+        {
+          "slug": "nuclear-physics",
+          "name": "Nuclear Physics",
+          "sort_order": 220
+        },
+        {
+          "slug": "solid-state-electronics",
+          "name": "Solid state Electronics",
+          "sort_order": 230
+        },
+        {
+          "slug": "semiconductor-diode",
+          "name": "Semiconductor diode",
+          "sort_order": 240
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "some-basic-concepts-of-chemistry",
+          "name": "Some Basic Concepts of Chemistry",
+          "sort_order": 10
+        },
+        {
+          "slug": "structure-of-an-atom",
+          "name": "Structure of an Atom",
+          "sort_order": 20
+        },
+        {
+          "slug": "classification-of-elements-and-periodicity-in-properties",
+          "name": "Classification of Elements and Periodicity in Properties",
+          "sort_order": 30
+        },
+        {
+          "slug": "chemical-bonding-and-molecular-structure",
+          "name": "Chemical Bonding and Molecular Structure",
+          "sort_order": 40
+        },
+        {
+          "slug": "states-of-matter-solids-and-gases",
+          "name": "States of Matter - Solids and Gases",
+          "sort_order": 50
+        },
+        {
+          "slug": "chemical-thermodynamics",
+          "name": "Chemical Thermodynamics",
+          "sort_order": 60
+        },
+        {
+          "slug": "equilibrium",
+          "name": "Equilibrium",
+          "sort_order": 70
+        },
+        {
+          "slug": "solutions",
+          "name": "Solutions",
+          "sort_order": 80
+        },
+        {
+          "slug": "chemical-kinetics",
+          "name": "Chemical Kinetics",
+          "sort_order": 90
+        },
+        {
+          "slug": "redox-reactions",
+          "name": "Redox Reactions",
+          "sort_order": 100
+        },
+        {
+          "slug": "electrochemistry",
+          "name": "Electrochemistry",
+          "sort_order": 110
+        },
+        {
+          "slug": "organic-chemistry-some-basic-principles",
+          "name": "Organic Chemistry: Some Basic Principles",
+          "sort_order": 120
+        },
+        {
+          "slug": "hydrocarbons",
+          "name": "Hydrocarbons",
+          "sort_order": 130
+        },
+        {
+          "slug": "haloalkanes-and-haloarenes",
+          "name": "Haloalkanes and Haloarenes",
+          "sort_order": 140
+        },
+        {
+          "slug": "alcohols-phenols-and-ethers",
+          "name": "Alcohols, Phenols and Ethers",
+          "sort_order": 150
+        },
+        {
+          "slug": "aldehydes-ketones-and-carboxylic-acids",
+          "name": "Aldehydes, Ketones and Carboxylic Acids",
+          "sort_order": 160
+        },
+        {
+          "slug": "organic-compounds-containing-nitrogen",
+          "name": "Organic compounds containing Nitrogen",
+          "sort_order": 170
+        },
+        {
+          "slug": "biomolecules",
+          "name": "Biomolecules",
+          "sort_order": 180
+        },
+        {
+          "slug": "polymers",
+          "name": "Polymers",
+          "sort_order": 190
+        },
+        {
+          "slug": "s-block-elements-group-1-and-group-2-elements",
+          "name": "s-Block Elements (Group 1 and Group 2 elements)",
+          "sort_order": 200
+        },
+        {
+          "slug": "p-block-elements",
+          "name": "p-Block Elements",
+          "sort_order": 210
+        },
+        {
+          "slug": "d-and-f-block-elements",
+          "name": "d and f Block Elements",
+          "sort_order": 220
+        },
+        {
+          "slug": "coordination-compounds",
+          "name": "Coordination Compounds",
+          "sort_order": 230
+        },
+        {
+          "slug": "environmental-chemistry",
+          "name": "Environmental Chemistry",
+          "sort_order": 240
+        },
+        {
+          "slug": "qualitative-and-quantitative-analysis",
+          "name": "Qualitative and Quantitative Analysis",
+          "sort_order": 250
+        }
+      ]
+    }
+  ]
+}

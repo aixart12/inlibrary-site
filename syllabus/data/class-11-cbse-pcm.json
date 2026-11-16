@@ -1,0 +1,299 @@
+{
+  "exam": {
+    "slug": "class-11-cbse-pcm",
+    "name": "Class 11 · CBSE · Science (PCM)",
+    "short_name": "Class 11",
+    "kind": "school",
+    "aliases": [
+      "11",
+      "11th",
+      "eleventh",
+      "class 11",
+      "class xi",
+      "xi",
+      "11 class",
+      "gyarahvi",
+      "gyarahvin",
+      "plus one",
+      "senior secondary",
+      "cbse",
+      "cbse 11",
+      "ncert",
+      "science",
+      "pcm",
+      "maths",
+      "non medical",
+      "physics",
+      "chemistry"
+    ],
+    "category": "school",
+    "conducting_body": "Central Board of Secondary Education (CBSE)",
+    "official_url": "https://www.cbse.gov.in",
+    "syllabus_source_url": "https://cbseacademic.nic.in/curriculum_2027.html",
+    "syllabus_cycle": "2026-27",
+    "verified": false,
+    "verification_note": "Draft from the CBSE 2026-27 curriculum PDFs (English Core, Physics, Chemistry, Mathematics) linked on the curriculum page, read as text; chapter and unit names are the PDFs' own. Check first the English Core topics, which are section heads and book names because the PDF lists no lessons.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 950,
+    "class": "11",
+    "board": "CBSE",
+    "stream": "Science (PCM)"
+  },
+  "subjects": [
+    {
+      "slug": "english-core",
+      "name": "English Core",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "reading-skills-unseen-passages",
+          "name": "Reading Skills: Unseen Passages",
+          "sort_order": 10
+        },
+        {
+          "slug": "reading-skills-note-making-and-summarization",
+          "name": "Reading Skills: Note Making and Summarization",
+          "sort_order": 20
+        },
+        {
+          "slug": "grammar-gap-filling-re-ordering-and-transformation-of-senten",
+          "name": "Grammar: Gap Filling, Re-ordering and Transformation of Sentences",
+          "sort_order": 30
+        },
+        {
+          "slug": "creative-writing-classified-advertisements-and-poster",
+          "name": "Creative Writing: Classified Advertisements and Poster",
+          "sort_order": 40
+        },
+        {
+          "slug": "creative-writing-speech-and-debate",
+          "name": "Creative Writing: Speech and Debate",
+          "sort_order": 50
+        },
+        {
+          "slug": "hornbill-prose",
+          "name": "Hornbill: Prose",
+          "sort_order": 60
+        },
+        {
+          "slug": "hornbill-poetry",
+          "name": "Hornbill: Poetry",
+          "sort_order": 70
+        },
+        {
+          "slug": "snapshots",
+          "name": "Snapshots",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "units-and-measurements",
+          "name": "Units and Measurements",
+          "sort_order": 10
+        },
+        {
+          "slug": "motion-in-a-straight-line",
+          "name": "Motion in a Straight Line",
+          "sort_order": 20
+        },
+        {
+          "slug": "motion-in-a-plane",
+          "name": "Motion in a Plane",
+          "sort_order": 30
+        },
+        {
+          "slug": "laws-of-motion",
+          "name": "Laws of Motion",
+          "sort_order": 40
+        },
+        {
+          "slug": "work-energy-and-power",
+          "name": "Work, Energy and Power",
+          "sort_order": 50
+        },
+        {
+          "slug": "system-of-particles-and-rotational-motion",
+          "name": "System of Particles and Rotational Motion",
+          "sort_order": 60
+        },
+        {
+          "slug": "gravitation",
+          "name": "Gravitation",
+          "sort_order": 70
+        },
+        {
+          "slug": "mechanical-properties-of-solids",
+          "name": "Mechanical Properties of Solids",
+          "sort_order": 80
+        },
+        {
+          "slug": "mechanical-properties-of-fluids",
+          "name": "Mechanical Properties of Fluids",
+          "sort_order": 90
+        },
+        {
+          "slug": "thermal-properties-of-matter",
+          "name": "Thermal Properties of Matter",
+          "sort_order": 100
+        },
+        {
+          "slug": "thermodynamics",
+          "name": "Thermodynamics",
+          "sort_order": 110
+        },
+        {
+          "slug": "kinetic-theory",
+          "name": "Kinetic Theory",
+          "sort_order": 120
+        },
+        {
+          "slug": "oscillations",
+          "name": "Oscillations",
+          "sort_order": 130
+        },
+        {
+          "slug": "waves",
+          "name": "Waves",
+          "sort_order": 140
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "some-basic-concepts-of-chemistry",
+          "name": "Some Basic Concepts of Chemistry",
+          "sort_order": 10
+        },
+        {
+          "slug": "structure-of-atom",
+          "name": "Structure of Atom",
+          "sort_order": 20
+        },
+        {
+          "slug": "classification-of-elements-and-periodicity-in-properties",
+          "name": "Classification of Elements and Periodicity in Properties",
+          "sort_order": 30
+        },
+        {
+          "slug": "chemical-bonding-and-molecular-structure",
+          "name": "Chemical Bonding and Molecular Structure",
+          "sort_order": 40
+        },
+        {
+          "slug": "thermodynamics-chemistry",
+          "name": "Thermodynamics",
+          "sort_order": 50
+        },
+        {
+          "slug": "equilibrium",
+          "name": "Equilibrium",
+          "sort_order": 60
+        },
+        {
+          "slug": "redox-reactions",
+          "name": "Redox Reactions",
+          "sort_order": 70
+        },
+        {
+          "slug": "organic-chemistry-some-basic-principles-and-techniques",
+          "name": "Organic Chemistry - Some Basic Principles and Techniques",
+          "sort_order": 80
+        },
+        {
+          "slug": "hydrocarbons",
+          "name": "Hydrocarbons",
+          "sort_order": 90
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "sets",
+          "name": "Sets",
+          "sort_order": 10
+        },
+        {
+          "slug": "relations-and-functions",
+          "name": "Relations and Functions",
+          "sort_order": 20
+        },
+        {
+          "slug": "trigonometric-functions",
+          "name": "Trigonometric Functions",
+          "sort_order": 30
+        },
+        {
+          "slug": "complex-numbers-and-quadratic-equations",
+          "name": "Complex Numbers and Quadratic Equations",
+          "sort_order": 40
+        },
+        {
+          "slug": "linear-inequalities",
+          "name": "Linear Inequalities",
+          "sort_order": 50
+        },
+        {
+          "slug": "permutations-and-combinations",
+          "name": "Permutations and Combinations",
+          "sort_order": 60
+        },
+        {
+          "slug": "binomial-theorem",
+          "name": "Binomial Theorem",
+          "sort_order": 70
+        },
+        {
+          "slug": "sequence-and-series",
+          "name": "Sequence and Series",
+          "sort_order": 80
+        },
+        {
+          "slug": "straight-lines",
+          "name": "Straight Lines",
+          "sort_order": 90
+        },
+        {
+          "slug": "conic-sections",
+          "name": "Conic Sections",
+          "sort_order": 100
+        },
+        {
+          "slug": "introduction-to-three-dimensional-geometry",
+          "name": "Introduction to Three-dimensional Geometry",
+          "sort_order": 110
+        },
+        {
+          "slug": "limits-and-derivatives",
+          "name": "Limits and Derivatives",
+          "sort_order": 120
+        },
+        {
+          "slug": "statistics",
+          "name": "Statistics",
+          "sort_order": 130
+        },
+        {
+          "slug": "probability",
+          "name": "Probability",
+          "sort_order": 140
+        }
+      ]
+    }
+  ]
+}
