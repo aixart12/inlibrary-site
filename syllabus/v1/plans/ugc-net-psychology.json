@@ -1,0 +1,144 @@
+{
+  "schema": 1,
+  "slug": "ugc-net-psychology",
+  "kind": "exam",
+  "name": "UGC NET Psychology (Paper 1 + Paper 2)",
+  "short_name": "UGC NET Psychology",
+  "aliases": [
+    "ugc net",
+    "ugc-net",
+    "net",
+    "nta net",
+    "nta ugc net",
+    "net jrf",
+    "jrf",
+    "assistant professor",
+    "lectureship",
+    "net exam",
+    "ugc",
+    "psychology",
+    "psych",
+    "paper 2",
+    "paper ii"
+  ],
+  "category": "teaching",
+  "subject_count": 2,
+  "topic_count": 20,
+  "version": 2,
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "psychology-paper-2",
+      "name": "Psychology (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "emergence-of-psychology",
+          "name": "Emergence of Psychology",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-methodology-and-statistics",
+          "name": "Research Methodology and Statistics",
+          "sort_order": 20
+        },
+        {
+          "slug": "psychological-testing",
+          "name": "Psychological testing",
+          "sort_order": 30
+        },
+        {
+          "slug": "biological-basis-of-behavior",
+          "name": "Biological basis of behavior",
+          "sort_order": 40
+        },
+        {
+          "slug": "attention-perception-learning-memory-and-forgetting",
+          "name": "Attention, Perception, Learning, Memory and Forgetting",
+          "sort_order": 50
+        },
+        {
+          "slug": "thinking-intelligence-and-creativity",
+          "name": "Thinking, Intelligence and Creativity",
+          "sort_order": 60
+        },
+        {
+          "slug": "personality-motivation-emotion-stress-and-coping",
+          "name": "Personality, Motivation, emotion, stress and coping",
+          "sort_order": 70
+        },
+        {
+          "slug": "social-psychology",
+          "name": "Social Psychology",
+          "sort_order": 80
+        },
+        {
+          "slug": "human-development-and-interventions",
+          "name": "Human Development and Interventions",
+          "sort_order": 90
+        },
+        {
+          "slug": "emerging-areas",
+          "name": "Emerging Areas",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}

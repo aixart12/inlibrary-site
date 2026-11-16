@@ -28,11 +28,11 @@
     "official_url": "https://ugcnet.nta.nic.in",
     "syllabus_source_url": "https://www.ugcnetonline.in/syllabus-new.php",
     "syllabus_cycle": "UGC-NET December 2026 (the PDFs themselves are undated; the Paper 1 PDF was created in August 2018)",
-    "verified": false,
-    "verification_note": "Draft from the UGC Paper-I and Tribal and Regional Languages syllabus PDFs (Paper-I_English.pdf, Tribal ans Regional Languages_English.pdf) linked from the UGC syllabus page that the NTA UGC-NET December 2026 Information Bulletin names; topics are the PDFs' ten units each, not chapters. Units I to V are printed with short titles; units VI to X are printed as long phrases, which are shortened here by me. Check first whether UGC has issued newer syllabi.",
-    "last_verified": null,
-    "version": 1,
-    "is_published": false,
+    "verified": true,
+    "verification_note": "Verified 2026-11-16 against the Tribal and Regional Languages syllabus PDF on the UGC NET portal (ugcnetonline.in, which carries the University Grants Commission's name and a ugc.gov.in contact): the PDF has ten units and the ten unit titles match the plan's topics in order. Several PDF headings run on into a description after a dash; the plan keeps only the title part, and writes '&' as 'and' and corrects 'Heros'. Paper 1 units were checked separately against Paper-I_English.pdf. Unit titles were compared; the sub-points under each were not. The PDFs are undated (created 2018 or later), and a newer UGC syllabus has not been ruled out.",
+    "last_verified": "2026-11-16",
+    "version": 2,
+    "is_published": true,
     "sort_order": 1480
   },
   "subjects": [
