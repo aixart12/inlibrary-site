@@ -1,0 +1,220 @@
+{
+  "exam": {
+    "slug": "reet-level-1",
+    "name": "REET Level 1 (Classes 1-5)",
+    "short_name": "REET L1",
+    "kind": "exam",
+    "aliases": [
+      "reet",
+      "rajasthan eligibility examination for teachers",
+      "rajasthan tet",
+      "rajasthan",
+      "rbse",
+      "tet",
+      "teacher eligibility",
+      "teacher",
+      "teaching",
+      "level 1",
+      "level i",
+      "primary teacher",
+      "reet 1",
+      "paper 1"
+    ],
+    "category": "teaching",
+    "conducting_body": "Rajasthan Board of Secondary Education (RBSE)",
+    "official_url": "https://rajeduboard.rajasthan.gov.in",
+    "syllabus_source_url": "https://www.pw.live/teaching/exams/reet-syllabus",
+    "syllabus_cycle": "REET 2023 per the page (a later 2025 pattern is on another site); official notification not opened",
+    "verified": false,
+    "verification_note": "General syllabus drafted from Physics Wallah's REET syllabus page, a secondary site, not from the official notification; topic names are that page's lists, grouped. Language I is not included because the page lists topics only for English; Mathematics is the six areas on Jrfadda's REET page (which gives no chapters), so check Mathematics and the languages first.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1300
+  },
+  "subjects": [
+    {
+      "slug": "child-development-and-pedagogy",
+      "name": "Child Development and Pedagogy",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "growth-and-development-and-factors-affecting-it",
+          "name": "Growth and Development, and Factors Affecting It",
+          "sort_order": 10
+        },
+        {
+          "slug": "heredity-and-environment",
+          "name": "Heredity and Environment",
+          "sort_order": 20
+        },
+        {
+          "slug": "learning-theories-and-their-classroom-use",
+          "name": "Learning Theories and their Classroom Use",
+          "sort_order": 30
+        },
+        {
+          "slug": "learning-processes-experiential-learning-concept-mapping-pro",
+          "name": "Learning Processes: Experiential Learning, Concept Mapping, Problem Solving",
+          "sort_order": 40
+        },
+        {
+          "slug": "motivation-and-its-role-in-learning",
+          "name": "Motivation and its Role in Learning",
+          "sort_order": 50
+        },
+        {
+          "slug": "individual-differences",
+          "name": "Individual Differences",
+          "sort_order": 60
+        },
+        {
+          "slug": "personality-shaping-factors-and-measurement",
+          "name": "Personality: Shaping Factors and Measurement",
+          "sort_order": 70
+        },
+        {
+          "slug": "intelligence-concepts-theories-and-measurement",
+          "name": "Intelligence: Concepts, Theories and Measurement",
+          "sort_order": 80
+        },
+        {
+          "slug": "diverse-learners",
+          "name": "Diverse Learners",
+          "sort_order": 90
+        },
+        {
+          "slug": "learning-difficulties-and-adjustment",
+          "name": "Learning Difficulties and Adjustment",
+          "sort_order": 100
+        },
+        {
+          "slug": "assessment-measurement-and-continuous-evaluation",
+          "name": "Assessment, Measurement and Continuous Evaluation",
+          "sort_order": 110
+        }
+      ]
+    },
+    {
+      "slug": "english",
+      "name": "English",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "comprehension-passages",
+          "name": "Comprehension Passages",
+          "sort_order": 10
+        },
+        {
+          "slug": "vocabulary-meanings-opposites-spellings-word-formation-one-w",
+          "name": "Vocabulary: Meanings, Opposites, Spellings, Word Formation, One-word Substitution",
+          "sort_order": 20
+        },
+        {
+          "slug": "grammar-parts-of-speech-tenses-determiners-degrees-of-compar",
+          "name": "Grammar: Parts of Speech, Tenses, Determiners, Degrees of Comparison",
+          "sort_order": 30
+        },
+        {
+          "slug": "active-and-passive-voice",
+          "name": "Active and Passive Voice",
+          "sort_order": 40
+        },
+        {
+          "slug": "english-phonetics",
+          "name": "English Phonetics",
+          "sort_order": 50
+        },
+        {
+          "slug": "principles-methods-and-approaches-to-teaching-english",
+          "name": "Principles, Methods and Approaches to Teaching English",
+          "sort_order": 60
+        },
+        {
+          "slug": "language-skill-development-and-learning-materials",
+          "name": "Language Skill Development and Learning Materials",
+          "sort_order": 70
+        },
+        {
+          "slug": "evaluation-in-english",
+          "name": "Evaluation in English",
+          "sort_order": 80
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "number-system",
+          "name": "Number System",
+          "sort_order": 10
+        },
+        {
+          "slug": "geometry",
+          "name": "Geometry",
+          "sort_order": 20
+        },
+        {
+          "slug": "arithmetic",
+          "name": "Arithmetic",
+          "sort_order": 30
+        },
+        {
+          "slug": "measurement",
+          "name": "Measurement",
+          "sort_order": 40
+        },
+        {
+          "slug": "data-handling",
+          "name": "Data Handling",
+          "sort_order": 50
+        },
+        {
+          "slug": "pedagogical-issues-of-mathematics",
+          "name": "Pedagogical Issues of Mathematics",
+          "sort_order": 60
+        }
+      ]
+    },
+    {
+      "slug": "environmental-studies",
+      "name": "Environmental Studies",
+      "sort_order": 40,
+      "topics": [
+        {
+          "slug": "personal-relationships-families-and-social-evils",
+          "name": "Personal Relationships, Families and Social Evils",
+          "sort_order": 10
+        },
+        {
+          "slug": "small-and-cottage-industries-industries-of-rajasthan",
+          "name": "Small and Cottage Industries, Industries of Rajasthan",
+          "sort_order": 20
+        },
+        {
+          "slug": "public-institutions-panchayat-state-assembly-and-parliament",
+          "name": "Public Institutions, Panchayat, State Assembly and Parliament",
+          "sort_order": 30
+        },
+        {
+          "slug": "culture-and-civilisation-of-india-and-rajasthan",
+          "name": "Culture and Civilisation of India and Rajasthan",
+          "sort_order": 40
+        },
+        {
+          "slug": "transport-and-communication",
+          "name": "Transport and Communication",
+          "sort_order": 50
+        },
+        {
+          "slug": "personal-hygiene",
+          "name": "Personal Hygiene",
+          "sort_order": 60
+        }
+      ]
+    }
+  ]
+}

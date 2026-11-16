@@ -1,0 +1,154 @@
+{
+  "exam": {
+    "slug": "ugc-net-arab-culture-and-islamic-studies",
+    "name": "UGC NET Arab Culture and Islamic Studies (Paper 1 + Paper 2)",
+    "short_name": "UGC NET Arab Culture and Islamic Studies",
+    "kind": "exam",
+    "aliases": [
+      "ugc net",
+      "ugc-net",
+      "net",
+      "nta net",
+      "nta ugc net",
+      "net jrf",
+      "jrf",
+      "assistant professor",
+      "lectureship",
+      "net exam",
+      "ugc",
+      "arab culture",
+      "islamic studies",
+      "arabic",
+      "islam",
+      "paper 2",
+      "paper ii"
+    ],
+    "category": "teaching",
+    "conducting_body": "National Testing Agency (NTA) for the University Grants Commission (UGC)",
+    "official_url": "https://ugcnet.nta.nic.in",
+    "syllabus_source_url": "https://www.ugcnetonline.in/syllabus-new.php",
+    "syllabus_cycle": "UGC-NET December 2026 (the PDFs themselves are undated; the Paper 1 PDF was created in August 2018)",
+    "verified": false,
+    "verification_note": "Draft from the UGC Paper-I and Arab Culture and Islamic Studies syllabus PDFs (Paper-I_English.pdf, Arab Culture and Islamic Studies_English.pdf) linked from the UGC syllabus page that the NTA UGC-NET December 2026 Information Bulletin names; topics are the PDFs' ten units each, not chapters. Titles are printed on the unit heading line; the unit I heading is written without its brackets. Check first whether UGC has issued newer syllabi.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1380
+  },
+  "subjects": [
+    {
+      "slug": "paper-1-teaching-and-research-aptitude",
+      "name": "Paper 1: Teaching and Research Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "teaching-aptitude",
+          "name": "Teaching Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "research-aptitude",
+          "name": "Research Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "comprehension",
+          "name": "Comprehension",
+          "sort_order": 30
+        },
+        {
+          "slug": "communication",
+          "name": "Communication",
+          "sort_order": 40
+        },
+        {
+          "slug": "mathematical-reasoning-and-aptitude",
+          "name": "Mathematical Reasoning and Aptitude",
+          "sort_order": 50
+        },
+        {
+          "slug": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "sort_order": 60
+        },
+        {
+          "slug": "data-interpretation",
+          "name": "Data Interpretation",
+          "sort_order": 70
+        },
+        {
+          "slug": "information-and-communication-technology-ict",
+          "name": "Information and Communication Technology (ICT)",
+          "sort_order": 80
+        },
+        {
+          "slug": "people-development-and-environment",
+          "name": "People, Development and Environment",
+          "sort_order": 90
+        },
+        {
+          "slug": "higher-education-system",
+          "name": "Higher Education System",
+          "sort_order": 100
+        }
+      ]
+    },
+    {
+      "slug": "arab-culture-and-islamic-studies-paper-2",
+      "name": "Arab Culture and Islamic Studies (Paper 2)",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "emergence-of-islam-and-khilafat-e-rashidah",
+          "name": "Emergence of Islam and Khilafat-e-Rashidah",
+          "sort_order": 10
+        },
+        {
+          "slug": "the-umayyads",
+          "name": "The Umayyads",
+          "sort_order": 20
+        },
+        {
+          "slug": "the-abbasids",
+          "name": "The Abbasids",
+          "sort_order": 30
+        },
+        {
+          "slug": "the-arabs-in-spain-and-sicily",
+          "name": "The Arabs in Spain and Sicily",
+          "sort_order": 40
+        },
+        {
+          "slug": "dynasties-of-east-and-west",
+          "name": "Dynasties of East and West",
+          "sort_order": 50
+        },
+        {
+          "slug": "the-ottoman-and-safavid-empire",
+          "name": "The Ottoman and Safavid Empire",
+          "sort_order": 60
+        },
+        {
+          "slug": "islam-in-india",
+          "name": "Islam in India",
+          "sort_order": 70
+        },
+        {
+          "slug": "islamic-sciences-tafsir-hadith-and-fiqh",
+          "name": "Islamic Sciences: Tafsir, Hadith and Fiqh",
+          "sort_order": 80
+        },
+        {
+          "slug": "muslim-philosophy-sufism-and-muslim-contribution-to-knowledg",
+          "name": "Muslim Philosophy, Sufism and Muslim Contribution to Knowledge",
+          "sort_order": 90
+        },
+        {
+          "slug": "modern-trends-movements-in-islam",
+          "name": "Modern Trends, Movements in Islam",
+          "sort_order": 100
+        }
+      ]
+    }
+  ]
+}

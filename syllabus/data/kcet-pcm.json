@@ -1,0 +1,313 @@
+{
+  "exam": {
+    "slug": "kcet-pcm",
+    "name": "KCET (Engineering, PCM)",
+    "short_name": "KCET",
+    "kind": "exam",
+    "aliases": [
+      "kcet",
+      "k-cet",
+      "kcet exam",
+      "karnataka cet",
+      "karnataka common entrance test",
+      "kea",
+      "uget",
+      "cet",
+      "karnataka",
+      "puc",
+      "engineering",
+      "pcm",
+      "maths",
+      "btech"
+    ],
+    "category": "entrance",
+    "conducting_body": "Karnataka Examinations Authority (KEA)",
+    "official_url": "https://cetonline.karnataka.gov.in/kea",
+    "syllabus_source_url": "https://engineering.careers360.com/articles/kcet-syllabus",
+    "syllabus_cycle": "KCET 2027 (as described by the secondary source; official syllabus not opened)",
+    "verified": false,
+    "verification_note": "General syllabus drafted from Careers360's KCET syllabus page, a secondary site, not from the Karnataka Examinations Authority; topic names are that page's unit lists with a First PUC or Second PUC prefix added. Mathematics is given only as broad units (Algebra, Calculus), so check that subject first against the KEA syllabus.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1000
+  },
+  "subjects": [
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "first-puc-units-and-measurements",
+          "name": "First PUC: Units and Measurements",
+          "sort_order": 10
+        },
+        {
+          "slug": "first-puc-kinematics",
+          "name": "First PUC: Kinematics",
+          "sort_order": 20
+        },
+        {
+          "slug": "first-puc-laws-of-motion",
+          "name": "First PUC: Laws of Motion",
+          "sort_order": 30
+        },
+        {
+          "slug": "first-puc-work-energy-and-power",
+          "name": "First PUC: Work, Energy and Power",
+          "sort_order": 40
+        },
+        {
+          "slug": "first-puc-systems-of-particles-and-rotational-motion",
+          "name": "First PUC: Systems of Particles and Rotational Motion",
+          "sort_order": 50
+        },
+        {
+          "slug": "first-puc-gravitation",
+          "name": "First PUC: Gravitation",
+          "sort_order": 60
+        },
+        {
+          "slug": "first-puc-properties-of-solids-and-fluids",
+          "name": "First PUC: Properties of Solids and Fluids",
+          "sort_order": 70
+        },
+        {
+          "slug": "first-puc-thermodynamics",
+          "name": "First PUC: Thermodynamics",
+          "sort_order": 80
+        },
+        {
+          "slug": "first-puc-kinetic-theory",
+          "name": "First PUC: Kinetic Theory",
+          "sort_order": 90
+        },
+        {
+          "slug": "first-puc-oscillations-and-waves",
+          "name": "First PUC: Oscillations and Waves",
+          "sort_order": 100
+        },
+        {
+          "slug": "second-puc-electrostatics",
+          "name": "Second PUC: Electrostatics",
+          "sort_order": 110
+        },
+        {
+          "slug": "second-puc-current-electricity",
+          "name": "Second PUC: Current Electricity",
+          "sort_order": 120
+        },
+        {
+          "slug": "second-puc-magnetic-effects-of-current-and-magnetism",
+          "name": "Second PUC: Magnetic Effects of Current and Magnetism",
+          "sort_order": 130
+        },
+        {
+          "slug": "second-puc-electromagnetic-induction-and-alternating-current",
+          "name": "Second PUC: Electromagnetic Induction and Alternating Current",
+          "sort_order": 140
+        },
+        {
+          "slug": "second-puc-electromagnetic-waves",
+          "name": "Second PUC: Electromagnetic Waves",
+          "sort_order": 150
+        },
+        {
+          "slug": "second-puc-optics",
+          "name": "Second PUC: Optics",
+          "sort_order": 160
+        },
+        {
+          "slug": "second-puc-dual-nature-of-radiation-and-matter",
+          "name": "Second PUC: Dual Nature of Radiation and Matter",
+          "sort_order": 170
+        },
+        {
+          "slug": "second-puc-atoms-and-nuclei",
+          "name": "Second PUC: Atoms and Nuclei",
+          "sort_order": 180
+        },
+        {
+          "slug": "second-puc-electronic-devices",
+          "name": "Second PUC: Electronic Devices",
+          "sort_order": 190
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "first-puc-some-basic-concepts-of-chemistry",
+          "name": "First PUC: Some Basic Concepts of Chemistry",
+          "sort_order": 10
+        },
+        {
+          "slug": "first-puc-structure-of-atom",
+          "name": "First PUC: Structure of Atom",
+          "sort_order": 20
+        },
+        {
+          "slug": "first-puc-classification-of-elements-and-periodicity-in-prop",
+          "name": "First PUC: Classification of Elements and Periodicity in Properties",
+          "sort_order": 30
+        },
+        {
+          "slug": "first-puc-chemical-bonding-and-molecular-structure",
+          "name": "First PUC: Chemical Bonding and Molecular Structure",
+          "sort_order": 40
+        },
+        {
+          "slug": "first-puc-thermodynamics-chemistry",
+          "name": "First PUC: Thermodynamics (Chemistry)",
+          "sort_order": 50
+        },
+        {
+          "slug": "first-puc-equilibrium",
+          "name": "First PUC: Equilibrium",
+          "sort_order": 60
+        },
+        {
+          "slug": "first-puc-redox-reactions",
+          "name": "First PUC: Redox Reactions",
+          "sort_order": 70
+        },
+        {
+          "slug": "first-puc-organic-chemistry-some-basic-principles-and-techni",
+          "name": "First PUC: Organic Chemistry - Some Basic Principles and Techniques",
+          "sort_order": 80
+        },
+        {
+          "slug": "first-puc-hydrocarbons",
+          "name": "First PUC: Hydrocarbons",
+          "sort_order": 90
+        },
+        {
+          "slug": "first-puc-principles-related-to-practical-chemistry-i",
+          "name": "First PUC: Principles Related to Practical Chemistry-I",
+          "sort_order": 100
+        },
+        {
+          "slug": "second-puc-solutions",
+          "name": "Second PUC: Solutions",
+          "sort_order": 110
+        },
+        {
+          "slug": "second-puc-electrochemistry",
+          "name": "Second PUC: Electrochemistry",
+          "sort_order": 120
+        },
+        {
+          "slug": "second-puc-chemical-kinetics",
+          "name": "Second PUC: Chemical Kinetics",
+          "sort_order": 130
+        },
+        {
+          "slug": "second-puc-d-and-f-block-elements",
+          "name": "Second PUC: d and f Block Elements",
+          "sort_order": 140
+        },
+        {
+          "slug": "second-puc-coordination-compounds",
+          "name": "Second PUC: Coordination Compounds",
+          "sort_order": 150
+        },
+        {
+          "slug": "second-puc-haloalkanes-and-haloarenes",
+          "name": "Second PUC: Haloalkanes and Haloarenes",
+          "sort_order": 160
+        },
+        {
+          "slug": "second-puc-alcohols-phenols-and-ethers",
+          "name": "Second PUC: Alcohols, Phenols and Ethers",
+          "sort_order": 170
+        },
+        {
+          "slug": "second-puc-aldehydes-ketones-and-carboxylic-acids",
+          "name": "Second PUC: Aldehydes, Ketones and Carboxylic Acids",
+          "sort_order": 180
+        },
+        {
+          "slug": "second-puc-amines",
+          "name": "Second PUC: Amines",
+          "sort_order": 190
+        },
+        {
+          "slug": "second-puc-biomolecules",
+          "name": "Second PUC: Biomolecules",
+          "sort_order": 200
+        },
+        {
+          "slug": "second-puc-principles-related-to-practical-chemistry-ii",
+          "name": "Second PUC: Principles Related to Practical Chemistry-II",
+          "sort_order": 210
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "sort_order": 30,
+      "topics": [
+        {
+          "slug": "first-puc-sets-and-functions",
+          "name": "First PUC: Sets and Functions",
+          "sort_order": 10
+        },
+        {
+          "slug": "first-puc-algebra",
+          "name": "First PUC: Algebra",
+          "sort_order": 20
+        },
+        {
+          "slug": "first-puc-coordinate-geometry",
+          "name": "First PUC: Coordinate Geometry",
+          "sort_order": 30
+        },
+        {
+          "slug": "first-puc-calculus",
+          "name": "First PUC: Calculus",
+          "sort_order": 40
+        },
+        {
+          "slug": "first-puc-statistics-and-probability",
+          "name": "First PUC: Statistics and Probability",
+          "sort_order": 50
+        },
+        {
+          "slug": "second-puc-relations-and-functions",
+          "name": "Second PUC: Relations and Functions",
+          "sort_order": 60
+        },
+        {
+          "slug": "second-puc-algebra",
+          "name": "Second PUC: Algebra",
+          "sort_order": 70
+        },
+        {
+          "slug": "second-puc-calculus",
+          "name": "Second PUC: Calculus",
+          "sort_order": 80
+        },
+        {
+          "slug": "second-puc-vectors-and-three-dimensional-geometry",
+          "name": "Second PUC: Vectors and Three-dimensional Geometry",
+          "sort_order": 90
+        },
+        {
+          "slug": "second-puc-linear-programming",
+          "name": "Second PUC: Linear Programming",
+          "sort_order": 100
+        },
+        {
+          "slug": "second-puc-probability",
+          "name": "Second PUC: Probability",
+          "sort_order": 110
+        }
+      ]
+    }
+  ]
+}
