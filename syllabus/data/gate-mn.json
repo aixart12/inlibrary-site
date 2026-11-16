@@ -1,0 +1,99 @@
+{
+  "exam": {
+    "slug": "gate-mn",
+    "name": "GATE Mining Engineering (MN)",
+    "short_name": "GATE MN",
+    "kind": "exam",
+    "aliases": [
+      "gate",
+      "gate exam",
+      "gate 2027",
+      "graduate aptitude test in engineering",
+      "mtech",
+      "m.tech",
+      "psu",
+      "iit",
+      "mn",
+      "gate mn",
+      "mining engineering",
+      "mining"
+    ],
+    "category": "entrance",
+    "conducting_body": "Indian Institute of Technology Madras (organising institute, GATE 2027)",
+    "official_url": "https://gate2027.iitm.ac.in",
+    "syllabus_source_url": "https://gate2027.iitm.ac.in/exam_papers_and_syllabus",
+    "syllabus_cycle": "GATE 2027",
+    "verified": false,
+    "verification_note": "Draft from the GATE 2027 syllabus PDFs (GA_GATE2027_Syllabus.pdf, MN_GATE2027_Syllabus.pdf) linked on the official GATE 2027 page, read as text. Topics are the PDFs' section titles, not chapters; check first each title against the PDF.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1100
+  },
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "mining-engineering",
+      "name": "Mining Engineering",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "engineering-mathematics",
+          "name": "Engineering Mathematics",
+          "sort_order": 10
+        },
+        {
+          "slug": "mining-geology-mine-development-and-surveying",
+          "name": "Mining Geology, Mine Development and Surveying",
+          "sort_order": 20
+        },
+        {
+          "slug": "geomechanics-and-ground-control",
+          "name": "Geomechanics and Ground Control",
+          "sort_order": 30
+        },
+        {
+          "slug": "mining-methods-and-machinery",
+          "name": "Mining Methods and Machinery",
+          "sort_order": 40
+        },
+        {
+          "slug": "surface-environment-mine-ventilation-and-underground-hazards",
+          "name": "Surface Environment, Mine Ventilation and Underground Hazards",
+          "sort_order": 50
+        },
+        {
+          "slug": "mineral-economics-mine-planning-systems-engineering",
+          "name": "Mineral Economics, Mine Planning, Systems Engineering",
+          "sort_order": 60
+        }
+      ]
+    }
+  ]
+}

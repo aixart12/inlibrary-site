@@ -1,0 +1,124 @@
+{
+  "exam": {
+    "slug": "gate-pe",
+    "name": "GATE Petroleum Engineering (PE)",
+    "short_name": "GATE PE",
+    "kind": "exam",
+    "aliases": [
+      "gate",
+      "gate exam",
+      "gate 2027",
+      "graduate aptitude test in engineering",
+      "mtech",
+      "m.tech",
+      "psu",
+      "iit",
+      "pe",
+      "gate pe",
+      "petroleum engineering",
+      "petroleum"
+    ],
+    "category": "entrance",
+    "conducting_body": "Indian Institute of Technology Madras (organising institute, GATE 2027)",
+    "official_url": "https://gate2027.iitm.ac.in",
+    "syllabus_source_url": "https://gate2027.iitm.ac.in/exam_papers_and_syllabus",
+    "syllabus_cycle": "GATE 2027",
+    "verified": false,
+    "verification_note": "Draft from the GATE 2027 syllabus PDFs (GA_GATE2027_Syllabus.pdf, PE_GATE2027_Syllabus.pdf) linked on the official GATE 2027 page, read as text. Topics are the PDFs' section titles, not chapters; check first each title against the PDF.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1130
+  },
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "petroleum-engineering",
+      "name": "Petroleum Engineering",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "engineering-mathematics",
+          "name": "Engineering Mathematics",
+          "sort_order": 10
+        },
+        {
+          "slug": "petroleum-exploration",
+          "name": "Petroleum Exploration",
+          "sort_order": 20
+        },
+        {
+          "slug": "oil-and-gas-well-drilling-technology",
+          "name": "Oil and Gas Well Drilling Technology",
+          "sort_order": 30
+        },
+        {
+          "slug": "reservoir-engineering",
+          "name": "Reservoir Engineering",
+          "sort_order": 40
+        },
+        {
+          "slug": "petroleum-production-operations",
+          "name": "Petroleum Production Operations",
+          "sort_order": 50
+        },
+        {
+          "slug": "offshore-drilling-and-production-practices",
+          "name": "Offshore Drilling and Production Practices",
+          "sort_order": 60
+        },
+        {
+          "slug": "petroleum-formation-evaluation",
+          "name": "Petroleum Formation Evaluation",
+          "sort_order": 70
+        },
+        {
+          "slug": "oil-and-gas-well-testing",
+          "name": "Oil and Gas Well Testing",
+          "sort_order": 80
+        },
+        {
+          "slug": "health-safety-and-environment-in-petroleum-industry",
+          "name": "Health Safety and Environment in Petroleum Industry",
+          "sort_order": 90
+        },
+        {
+          "slug": "enhanced-oil-recovery-techniques",
+          "name": "Enhanced Oil Recovery Techniques",
+          "sort_order": 100
+        },
+        {
+          "slug": "latest-trends-in-petroleum-engineering",
+          "name": "Latest Trends in Petroleum Engineering",
+          "sort_order": 110
+        }
+      ]
+    }
+  ]
+}

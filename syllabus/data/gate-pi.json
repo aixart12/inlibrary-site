@@ -1,0 +1,105 @@
+{
+  "exam": {
+    "slug": "gate-pi",
+    "name": "GATE Production and Industrial Engineering (PI)",
+    "short_name": "GATE PI",
+    "kind": "exam",
+    "aliases": [
+      "gate",
+      "gate exam",
+      "gate 2027",
+      "graduate aptitude test in engineering",
+      "mtech",
+      "m.tech",
+      "psu",
+      "iit",
+      "pi",
+      "gate pi",
+      "production and industrial engineering",
+      "production",
+      "industrial"
+    ],
+    "category": "entrance",
+    "conducting_body": "Indian Institute of Technology Madras (organising institute, GATE 2027)",
+    "official_url": "https://gate2027.iitm.ac.in",
+    "syllabus_source_url": "https://gate2027.iitm.ac.in/exam_papers_and_syllabus",
+    "syllabus_cycle": "GATE 2027",
+    "verified": false,
+    "verification_note": "Draft from the GATE 2027 syllabus PDFs (GA_GATE2027_Syllabus.pdf, PI_GATE2027_Syllabus.pdf) linked on the official GATE 2027 page, read as text. Topics are the PDFs' section titles, not chapters; check first each title against the PDF.",
+    "last_verified": null,
+    "version": 1,
+    "is_published": false,
+    "sort_order": 1150
+  },
+  "subjects": [
+    {
+      "slug": "general-aptitude",
+      "name": "General Aptitude",
+      "sort_order": 10,
+      "topics": [
+        {
+          "slug": "verbal-aptitude",
+          "name": "Verbal Aptitude",
+          "sort_order": 10
+        },
+        {
+          "slug": "quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "sort_order": 20
+        },
+        {
+          "slug": "analytical-aptitude",
+          "name": "Analytical Aptitude",
+          "sort_order": 30
+        },
+        {
+          "slug": "spatial-aptitude",
+          "name": "Spatial Aptitude",
+          "sort_order": 40
+        }
+      ]
+    },
+    {
+      "slug": "production-and-industrial-engineering",
+      "name": "Production and Industrial Engineering",
+      "sort_order": 20,
+      "topics": [
+        {
+          "slug": "engineering-mathematics",
+          "name": "Engineering Mathematics",
+          "sort_order": 10
+        },
+        {
+          "slug": "general-engineering",
+          "name": "General Engineering",
+          "sort_order": 20
+        },
+        {
+          "slug": "manufacturing-processes-i",
+          "name": "Manufacturing Processes I",
+          "sort_order": 30
+        },
+        {
+          "slug": "manufacturing-processes-ii",
+          "name": "Manufacturing Processes II",
+          "sort_order": 40
+        },
+        {
+          "slug": "quality-and-reliability",
+          "name": "Quality and Reliability",
+          "sort_order": 50
+        },
+        {
+          "slug": "industrial-engineering",
+          "name": "Industrial Engineering",
+          "sort_order": 60
+        },
+        {
+          "slug": "operations-research-and-operations-management",
+          "name": "Operations research and Operations management",
+          "sort_order": 70
+        }
+      ]
+    }
+  ]
+}
